@@ -1,0 +1,25 @@
+VER 3 0100000000000007 "CS" "INV_Misc_QuestionMark"
+#showtooltip
+/stopcast
+/cast [mod:alt, target=focus] Counterspell; Counterspell
+END
+VER 3 010000000000000B "Frostbolt" "INV_Misc_QuestionMark"
+#showtooltip Frostbolt
+/cast Frostbolt
+/petattack
+END
+VER 3 0100000000000005 "Iceblock" "INV_Misc_QuestionMark"
+#showtooltip
+/stopcast
+/cast Ice Block
+/cancelaura Ice block
+END
+VER 3 010000000000000A "Iceveins/SP" "INV_Misc_QuestionMark"
+#showtooltip
+/cast Icy Veins
+END
+VER 3 0100000000000001 "Poly" "INV_Misc_QuestionMark"
+#showtooltip
+/focus
+/cast Polymorph
+END

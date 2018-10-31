@@ -1,0 +1,32 @@
+VER 3 0100000000000011 "Avatar" "INV_MISC_QUESTIONMARK"
+#showtooltip Avatar
+/cast Avatar
+/cast Blood Fury
+END
+VER 3 0100000000000001 "bandage" "Spell_Holy_Renew"
+/tar Timberhoo
+/use Frostweave Bandage
+END
+VER 3 0100000000000010 "Raging Blow" "INV_Misc_QuestionMark"
+#showtooltip
+/startattack
+/cast Raging Blow
+END
+VER 3 010000000000000D "Recklessness" "WARRIOR_TALENT_ICON_INNERRAGE"
+#showtooltip Recklessness
+/cast Recklessness
+/cast Avatar
+/cast Blood Fury
+END
+VER 3 010000000000000B "SSlam" "INV_Misc_QuestionMark"
+#showtooltip Shield Slam
+/cast [combat] Blood Fury
+/use [combat] 13
+/cast Shield Slam
+/startattack
+END
+VER 3 010000000000000F "WW" "INV_Misc_QuestionMark"
+#showtooltip
+/startattack
+/cast Whirlwind
+END

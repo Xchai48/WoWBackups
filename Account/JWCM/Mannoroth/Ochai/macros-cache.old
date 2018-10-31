@@ -1,0 +1,13 @@
+VER 3 0100000000000001 "DPS CD" "SPELL_NATURE_PROTECTIONFORMNATURE"
+#showtooltip Aspect of the Wild
+/cast Aspect of the Wild
+/cast Blood Fury
+END
+VER 3 0100000000000002 "MD" "INV_MISC_QUESTIONMARK"
+/cast [target=Galadina] Misdirection
+END
+VER 3 0100000000000003 "Turtle" "INV_MISC_QUESTIONMARK"
+#showtooltip Aspect of the Turtle
+/cast Aspect of the Turtle
+/cancelaura Aspect of the Turtle
+END

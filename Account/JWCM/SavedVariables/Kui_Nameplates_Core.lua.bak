@@ -1,0 +1,12 @@
+
+KuiNameplatesCoreSaved = {
+	["216_HEALTH_TRANSITION"] = true,
+	["2162_PERSONAL_FRAME_SIZE_TRANSITION"] = true,
+	["profiles"] = {
+		["default"] = {
+			["classpowers_size"] = 20,
+			["font_size_normal"] = 13,
+			["level_text"] = true,
+		},
+	},
+}

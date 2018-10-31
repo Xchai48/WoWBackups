@@ -1,0 +1,60 @@
+
+dbGACperChar = {
+	["profileKeys"] = {
+		["Chaisauce - Mannoroth"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["history"] = {
+				[1428] = {
+					[1532156436] = {
+						["result"] = 100,
+						["success"] = true,
+					},
+				},
+				[1433] = {
+					[1531890239] = {
+						["result"] = 100,
+						["success"] = true,
+					},
+				},
+				[1432] = {
+					[1532048306] = {
+						["result"] = 100,
+						["success"] = true,
+					},
+				},
+				[1434] = {
+					[1531964905] = {
+						["result"] = 100,
+						["success"] = true,
+					},
+				},
+				[1410] = {
+					[1531890231] = {
+						["result"] = 100,
+						["success"] = true,
+					},
+				},
+				[1414] = {
+					[1531168713] = {
+						["result"] = 100,
+						["success"] = true,
+					},
+				},
+				[1404] = {
+					[1531168713] = {
+						["result"] = 100,
+						["success"] = true,
+					},
+				},
+				[1421] = {
+					[1531168714] = {
+						["result"] = 100,
+						["success"] = false,
+					},
+				},
+			},
+		},
+	},
+}

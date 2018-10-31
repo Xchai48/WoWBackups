@@ -1,0 +1,115 @@
+
+WoWProCharDB = {
+	["Enabled"] = true,
+	["ShowBOP"] = true,
+	["ProfessionalfOffset"] = 100,
+	["AutoHideInsideInstances"] = true,
+	["GuideVersion"] = {
+		["LudoWowAnniversary"] = "7.3.5C",
+		["LudoFishing"] = "7.3.5C",
+	},
+	["IgnoreProf"] = false,
+	["QID2Guide"] = {
+		[11665] = "LudoFishing",
+		[26414] = "LudoFishing",
+		[11666] = "LudoFishing",
+		[11667] = "LudoFishing",
+		[47221] = "Ludo_LucidNightmare ",
+		[11668] = "LudoFishing",
+		[26420] = "LudoFishing",
+		[11669] = "LudoFishing",
+		[43323] = "LudoWowAnniversary",
+		[29321] = "LudoFishing",
+		[26488] = "LudoFishing",
+		[29324] = "LudoFishing",
+		[29325] = "LudoFishing",
+		[43461] = "LudoWowAnniversary",
+		[47253] = "LudoWowAnniversary",
+		[28708] = "JamHel6062",
+		[26442] = "LudoFishing",
+		[29342] = "LudoFishing",
+		[29343] = "LudoFishing",
+		[29344] = "LudoFishing",
+		[29347] = "LudoFishing",
+		[29350] = "LudoFishing",
+		[13830] = "LudoFishing",
+		[29359] = "LudoFishing",
+		[13832] = "LudoFishing",
+		[13833] = "LudoFishing",
+		[13834] = "LudoFishing",
+		[13836] = "LudoFishing",
+		[29323] = "LudoFishing",
+		[10119] = "JamHel6062",
+		[6607] = "LudoFishing",
+		[47835] = "Ludo_LucidNightmare ",
+		[26536] = "LudoFishing",
+	},
+	["Trades"] = {
+	},
+	["GuideStack"] = {
+		"KurNShire0105", -- [1]
+	},
+	["Taxi"] = {
+		["Eastvale Logging Camp"] = true,
+		["Stormwind"] = true,
+		["Kharanos"] = true,
+		["Ironforge"] = true,
+		["Goldshire"] = true,
+		["Gol'Bolar Quarry"] = true,
+	},
+	["Guide"] = {
+		["LudoWowAnniversary"] = {
+			["skipped"] = {
+			},
+			["completion"] = {
+			},
+			["Version"] = "7.3.5C",
+			["done"] = false,
+		},
+		["LudoFishing"] = {
+			["skipped"] = {
+			},
+			["completion"] = {
+			},
+			["Version"] = "7.3.5C",
+			["done"] = false,
+		},
+		["KurNShire0105"] = {
+			["total"] = 29,
+			["Version"] = "7.3.5C",
+			["skipped"] = {
+			},
+			["done"] = false,
+			["progress"] = 2,
+			["completion"] = {
+				"Completed by WoWPro:LoadGuideSteps() as processed already.", -- [1]
+				[31] = "Completed by WoWPro:LoadGuideSteps() as processed already.",
+			},
+		},
+	},
+	["EnableGrail"] = true,
+	["completedQIDs"] = {
+		[26390] = false,
+		[28762] = false,
+		[26391] = false,
+		[31693] = true,
+		[28785] = false,
+		[28770] = false,
+		[28817] = false,
+		[28818] = false,
+		[28820] = false,
+		[28819] = false,
+		[29083] = false,
+		[31145] = false,
+		[28793] = false,
+		[28821] = false,
+		[54] = false,
+		[28822] = false,
+		[26389] = false,
+		[28823] = false,
+		[28809] = false,
+	},
+	["skippedQIDs"] = {
+	},
+	["DebugLevel"] = 0,
+}

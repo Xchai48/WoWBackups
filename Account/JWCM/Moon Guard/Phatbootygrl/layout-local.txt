@@ -1,0 +1,15 @@
+Version: 1
+Frame: TomTomCrazyArrow
+FrameLevel: 1
+Anchor: TOP
+X: -53
+Y: -23
+W: 56
+H: 42
+Frame: MonkeySpeedFrame
+FrameLevel: 1
+Anchor: TOPRIGHT
+X: -1
+Y: -197
+W: 110
+H: 30

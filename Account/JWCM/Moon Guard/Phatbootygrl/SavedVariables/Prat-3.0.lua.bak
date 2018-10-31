@@ -1,0 +1,184 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["time"] = 1538201620,
+	["scrollback"] = {
+		["ChatFrame1"] = {
+			{
+				"|cff979797[02:12:48]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Grinjrlock:3097:CHANNEL:2|h|cff8787edGrinjrlock|r|h|cffd8d8d8]|r: I main druid and Blizz ruined my class in BFA tho", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+				false, -- [6]
+				1, -- [7]
+				2, -- [8]
+			}, -- [1]
+			{
+				"|cff979797[02:12:52]|r|c00000000|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Roknar:3098:CHANNEL:4|h|cffaad372Roknar|r|h|cffd8d8d8]|r: I just wish that blizz would somehow incorporate the first four allied races into this expansions content so we don't have to go back.  Maybe the follower missions or new expedition maps.  ", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				70, -- [5]
+				false, -- [6]
+				4, -- [7]
+				5, -- [8]
+			}, -- [2]
+			{
+				"|cff979797[02:12:54]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:En:3099:CHANNEL:2|h|cffc41e3aEn|r|h|cffd8d8d8]|r: people have been saying this game sucks since vanilla, and those same people are still playing ", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+				false, -- [6]
+				1, -- [7]
+				7, -- [8]
+			}, -- [3]
+			{
+				"|cff979797[02:12:57]|r|c00000000|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Anomylech:3100:CHANNEL:4|h|cff3fc6eaAnomylech|r|h|cffd8d8d8]|r: it is shit it should be like 300 each quest but it does still mount up though", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				70, -- [5]
+				false, -- [6]
+				4, -- [7]
+				9, -- [8]
+			}, -- [4]
+			{
+				"|cff979797[02:13:01]|r|c00000000|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Saethyr:3101:CHANNEL:4|h|cff00ff96Saethyr|r|h|cffd8d8d8]|r: Yeah, but you can only buy so much partial rep then it goes away", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				70, -- [5]
+				false, -- [6]
+				4, -- [7]
+				11, -- [8]
+			}, -- [5]
+			{
+				"|cff979797[02:13:13]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Khalgrim:3103:CHANNEL:2|h|cfffff468Khalgrim|r|h|cffd8d8d8]|r: NO FUN ALLOWED", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+				false, -- [6]
+				1, -- [7]
+				15, -- [8]
+			}, -- [6]
+			{
+				"|cff979797[02:13:13]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Boofgang:3104:CHANNEL:2|h|cfff48cbaBoofgang|r|h|cffd8d8d8]|r: they didn't even change anything. if anything stutff got added lol", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+				false, -- [6]
+				1, -- [7]
+				17, -- [8]
+			}, -- [7]
+			{
+				"|cff979797[02:13:13]|r|c00000000|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Saethyr-MoonGuard:3105:CHANNEL:4|h|cff00ff96Saethyr|r|h|cffd8d8d8]|r: have to wait on timewalking", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				70, -- [5]
+				false, -- [6]
+				4, -- [7]
+				11, -- [8]
+			}, -- [8]
+			{
+				"|cff979797[02:13:16]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Cecuk:3106:CHANNEL:2|h|cff0070ddCecuk|r|h|cffd8d8d8]|r: \"bfa sucks but my real life is pathetic so here i am\"", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+				false, -- [6]
+				1, -- [7]
+				19, -- [8]
+			}, -- [9]
+			{
+				"|cff979797[02:13:30]|r|c00000000|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Saethyr-MoonGuard:3107:CHANNEL:4|h|cff00ff96Saethyr|r|h|cffd8d8d8]|r: And that never gives the right repo", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				70, -- [5]
+				false, -- [6]
+				4, -- [7]
+				11, -- [8]
+			}, -- [10]
+			{
+				"|cff979797[02:13:32]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Gumbow-MoonGuard:3108:CHANNEL:2|h|cffaad372Gumbow|r|h|cffd8d8d8]|r: < the guy who was top 8% panda back", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+				false, -- [6]
+				1, -- [7]
+				21, -- [8]
+			}, -- [11]
+			{
+				"|cff979797[02:13:32]|r|c00000000|r 0 |4player:players; total", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+				false, -- [6]
+				23, -- [7]
+				24, -- [8]
+			}, -- [12]
+			{
+				"|cff979797[02:13:34]|r|c00000000|r |Hchannel:channel:4|h[4] |h|cffd8d8d8[|r|Hplayer:Saethyr-MoonGuard:3110:CHANNEL:4|h|cff00ff96Saethyr|r|h|cffd8d8d8]|r: rep", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				70, -- [5]
+				false, -- [6]
+				4, -- [7]
+				11, -- [8]
+			}, -- [13]
+			{
+				"|cff979797[02:13:34]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Baesama:3111:CHANNEL:2|h|cff00ff96Baesama|r|h|cffd8d8d8]|r: FFXI was better anyway but people want easy so you get this", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+				false, -- [6]
+				1, -- [7]
+				25, -- [8]
+			}, -- [14]
+			{
+				"|cff979797[02:13:40]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Rendvik:3112:CHANNEL:2|h|cffc69b6dRendvik|r|h|cffd8d8d8]|r: You're living in the past", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+				false, -- [6]
+				1, -- [7]
+				27, -- [8]
+			}, -- [15]
+		},
+	},
+}

@@ -1,0 +1,35 @@
+VER 3 0100000000000003 "Catstealth" "INV_Misc_QuestionMark"
+#showtooltip Prowl
+/cast Cat Form
+/cast Prowl
+END
+VER 3 0100000000000009 "Fer Bite resto" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Ferocious Bite; [mod:alt] Efflorescence
+END
+VER 3 0100000000000004 "Incar Ring" "SPELL_DRUID_INCARNATION"
+#showtooltip Incarnation: Chosen of Elune
+/cast Incarnation: Chosen of Elune
+/use 11
+END
+VER 3 0100000000000005 "Rake resto" "INV_MISC_QUESTIONMARK"
+#showtoolti
+/cast [mod:alt] Moonfire; [nomod] Rake
+END
+VER 3 0100000000000008 "Rip resto" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Rip; [mod:alt] Regrowth
+END
+VER 3 0100000000000002 "Root" "INV_Misc_QuestionMark"
+#showtooltip
+/cast Entangling Roots
+/focus
+END
+VER 3 0100000000000007 "Shred resto" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Shred; [mod:alt] Lifebloom
+END
+VER 3 0100000000000006 "Swipe resto" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Swipe; [mod:alt] Rejuvenation
+END

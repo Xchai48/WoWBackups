@@ -1,0 +1,32 @@
+VER 3 0000000000000011 "123123" "INV_Misc_QuestionMark"
+outlaw rogue w/ aoe legendary, leet cc/interrupts, & lust drums
+END
+VER 3 0000000000000018 "bark carry" "INV_MISC_QUESTIONMARK"
+/2 WTS M+10 carries for ingame gold. Come get your weekly 385 azerite/380 gear and any tradeable 370+ dungeon loot!
+END
+VER 3 0000000000000016 "Buy Vendor item" "INV_MISC_QUESTIONMARK"
+/run BuyMerchantItem(11)
+END
+VER 3 0000000000000015 "BuyPop1" "INV_Misc_QuestionMark"
+/click StaticPopup1Button1
+END
+VER 3 0000000000000004 "Camera" "INV_Misc_QuestionMark"
+/script SetCVar("cameraDistanceMax",18)
+END
+VER 3 0000000000000002 "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] Remove Corruption;  [@mouseover,exists,mod:ctrl] Remove Corruption; [@mouseover,exists,mod:shift] Remove Corruption
+END
+VER 3 0000000000000014 "kneel" "INV_Misc_QuestionMark"
+/kneel
+END
+VER 3 0000000000000001 "Random" "INV_Misc_QuestionMark"
+END
+VER 3 0000000000000019 "remindm+" "INV_MISC_QUESTIONMARK"
+/s Delete your unwanted keys.
+/s Please check Talents, Gearsets, Durability, Buffs, and Loot Spec.
+END
+VER 3 0000000000000017 "sit" "INV_MISC_QUESTIONMARK"
+/startattack
+/cast Rejuvenation
+END

@@ -1,0 +1,31 @@
+VER 3 0100000000000002 "Banish" "INV_Misc_QuestionMark"
+#showtooltip
+/focus
+/cast banish
+END
+VER 3 0100000000000006 "Demonsoul" "INV_Misc_QuestionMark"
+#showtooltip
+/cast Demon Soul
+/use Vicious Gladiator's Badge of Dominance
+END
+VER 3 0100000000000003 "Fear" "INV_Misc_QuestionMark"
+#showtooltip
+/focus
+/cast Fear
+END
+VER 3 0100000000000007 "Hand of Gul'dan" "INV_Misc_QuestionMark"
+#showtooltip
+/cast Hand of Gul'dan
+/petattack
+END
+VER 3 0100000000000005 "immo+buff" "INV_Misc_QuestionMark"
+#showtooltip Immolate
+/use Mindfletcher Talisman
+/cast Immolate
+END
+VER 3 0100000000000004 "Meta+Immo AUra" "INV_Misc_QuestionMark"
+#showtooltip
+/cast Metamorphosis
+/cast Immolation Aura
+/cast [mod:alt] Immolation Aura
+END

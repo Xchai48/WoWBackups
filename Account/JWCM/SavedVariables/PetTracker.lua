@@ -1,0 +1,23 @@
+
+PetTracker_Sets = {
+	["HideTracker"] = true,
+	["JournalTutorial"] = 7,
+	["MapFilter"] = "",
+	["HideSpecies"] = true,
+	["HideStables"] = true,
+	["MainTutorial"] = 6,
+	["TamerHistory"] = {
+	},
+	["RivalSearch"] = "",
+	["RivalHistory"] = {
+		[67370] = {
+			"16ca0073263264000010039DFE63092f21880000080ADC7361f70ad54a000004C20717", -- [1]
+			"16c9e1f70ad54a000004C207170073263264000010039DFE33092f21880000080ADC73", -- [2]
+		},
+		[85519] = {
+			"16ca0073263264000010039DFE03092f21880000080ADC7343ea1883d90000103C0F78", -- [1]
+			"26ca0073263264000010039DFE03092f21880000080ADC7303ea1883d90000103C0F78", -- [2]
+			"16c903ea1883d90000103C0F7893092f21880000080ADC730073263264000010039DFE", -- [3]
+		},
+	},
+}

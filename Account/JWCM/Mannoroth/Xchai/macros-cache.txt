@@ -1,0 +1,84 @@
+VER 3 010000000000000E "1Trix" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [target=Chi] Tricks of the Trade
+END
+VER 3 010000000000001E "Adren" "INV_MISC_QUESTIONMARK"
+#showtooltip[nomod][mod:shift][mod:alt] Adrenaline Rush
+/use [mod:alt] 13
+/use [nomod] 13
+/cast [nomod] Adrenaline Rush
+END
+VER 3 0100000000000007 "Backstab" "INV_Misc_QuestionMark"
+#showtooltip Backstab
+/use [combat] 10
+/cast Backstab
+/startattack
+END
+VER 3 0100000000000020 "Belt eng" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 6
+END
+VER 3 010000000000000A "blind" "INV_Misc_QuestionMark"
+#showtooltip
+/focus
+/cast Blind
+END
+VER 3 010000000000001D "BokkTrix" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=Bokk] Tricks of the Trade
+END
+VER 3 0100000000000021 "Dispatch" "INV_MISC_QUESTIONMARK"
+#showtooltip [mod:alt] 13; Dispatch
+/use [combat] 13
+/use [mod:alt] 13
+/cast Dispatch
+END
+VER 3 010000000000000F "Focuskick" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [nomodifier] Kick; [modifier:alt,target=focus] kick
+/s Lolkicked
+END
+VER 3 010000000000001F "Glider back" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 15
+END
+VER 3 0100000000000014 "Hemo" "INV_Misc_QuestionMark"
+#showtooltip Hemorrhage
+/use [combat] 10
+/cast Hemorrhage
+/startattack
+END
+VER 3 0100000000000022 "Marked for Death" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt,@mouseover] Marked for Death; [] Marked for Death
+END
+VER 3 0100000000000003 "Mutilate" "INV_Misc_QuestionMark"
+#showtooltip Mutilate
+/use [combat] 10
+/cast Mutilate
+/startattack
+END
+VER 3 0100000000000006 "Sap" "INV_Misc_QuestionMark"
+#showtooltip Sap
+/targetenemy [noharm][dead]
+/cast [harm] Sap
+/focus
+END
+VER 3 0100000000000019 "Sinister Strike" "INV_MISC_QUESTIONMARK"
+#showtooltip Sinister Strike
+/startattack
+/cast Sinister Strike
+END
+VER 3 0100000000000023 "Vendetta" "INV_MISC_QUESTIONMARK"
+#showtooltip Vendetta
+/use 13
+/cast Vendetta
+END
+VER 3 0100000000000002 "VinTrix" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [target=Vinson] Tricks of the Trade
+END
+VER 3 010000000000001A "WhiteTrix" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=Whitewolf] Tricks of the Trade
+END

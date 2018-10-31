@@ -1,0 +1,39 @@
+VER 3 010000000000000A "Buff" "INV_Misc_QuestionMark"
+#showtooltip Lifeblood
+/use Fiery Quintessence
+/cast Lifeblood
+/cast [target=Shenaynay] Power Infusion
+END
+VER 3 010000000000000C "Dispersion" "INV_Misc_QuestionMark"
+#showtooltip
+/cast Dispersion
+/cancelaura Dispersion
+END
+VER 3 010000000000000D "Greater heak" "INV_Misc_QuestionMark"
+#showtooltip Greater Heal
+/use Fiery Quintessence
+/cast Greater Heal
+END
+VER 3 010000000000000F "Heal" "INV_Misc_QuestionMark"
+#showtooltip Heal
+/stopcasting
+/cast Heal
+END
+VER 3 010000000000000B "Lightwell" "INV_Misc_QuestionMark"
+#showtooltip
+/s Lightwell down! Clickable from 20 yds while stunned,casting, etc. USE IT when you need heals!
+/cast lightwell
+END
+VER 3 0100000000000010 "PurClens" "INV_MISC_QUESTIONMARK"
+#showtooltip [mod:alt] Purify; Dispel Magic
+/cast [@target,harm] Dispel Magic; [@target,help][@player] Purify
+END
+VER 3 0100000000000002 "Shackle" "Spell_Nature_Slow"
+#showtooltip
+/cast Shackle Undead
+/focus
+END
+VER 3 0100000000000009 "SWD/MS" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [mod:alt] Mind Spike; Shadow Word: Death
+END
