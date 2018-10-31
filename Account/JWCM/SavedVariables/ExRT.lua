@@ -32,27 +32,123 @@ VExRT = {
 			[72] = 10,
 			[104] = 10,
 			[73] = 10,
-			[581] = 10,
-			[105] = 10,
-			[577] = 10,
-			[256] = 10,
-			[254] = 10,
 			[252] = 10,
+			[105] = 10,
+			[254] = 10,
+			[256] = 10,
+			[577] = 10,
+			[581] = 10,
 		},
 		["Strata"] = "HIGH",
 		["timeToKillAnalyze"] = 15,
 	},
 	["ProfileKeys"] = {
+		["Shenaynay-Mannoroth"] = "default",
 		["Timberho-Mannoroth"] = "default",
-		["Chaichai-Mannoroth"] = "default",
 		["Xchai-Mannoroth"] = "default",
 		["Ochai-Mannoroth"] = "default",
-		["Phatbootygrl-MoonGuard"] = "default",
-		["Chaisauce-Mannoroth"] = "default",
 		["Timberhoo-Mannoroth"] = "default",
-		["Shenaynay-Mannoroth"] = "default",
+		["Chaisauce-Mannoroth"] = "default",
+		["Phatbootygrl-MoonGuard"] = "default",
+		["Chaichai-Mannoroth"] = "default",
 	},
 	["Encounter"] = {
+		["names"] = {
+			[2141] = "MOTHER",
+			[1412] = "Ook-Ook",
+			[1047] = "Ozumat",
+			[2142] = "Mchimba the Embalmer",
+			[2111] = "Elder Leaxa",
+			[2143] = "King Dazar",
+			[1413] = "Hoptallus",
+			[1048] = "Drahga Shadowburner",
+			[2112] = "Sporecaller Zancha",
+			[2144] = "Taloc",
+			[2113] = "Heartsbane Triad",
+			[2145] = "Zul",
+			[1414] = "Yan-Zhu the Uncasked",
+			[1049] = "Erudax",
+			[2114] = "Soulbound Goliath",
+			[2115] = "Raal the Gluttonous",
+			[1050] = "Forgemaster Throngus",
+			[2116] = "Lord and Lady Waycrest",
+			[2085] = "Vol'kaal",
+			[2117] = "Gorak Tul",
+			[1416] = "Liu Flameheart",
+			[1051] = "General Umbriss",
+			[2118] = "Cragmaw the Infested",
+			[1464] = "Wing Leader Ner'onok",
+			[2087] = "Yazma",
+			[1417] = "Lorewalker Stonestep",
+			[1052] = "General Husam",
+			[1465] = "Vizier Jin'bak",
+			[1418] = "Wise Mari",
+			[1053] = "High Prophet Barim",
+			[2122] = "G'huun",
+			[2123] = "Unbound Abomination",
+			[1419] = "Raigonn",
+			[1054] = "Lockmaw",
+			[2124] = "Adderis and Aspix",
+			[2093] = "Skycap'n Kragg",
+			[2125] = "Merektha",
+			[1055] = "Siamat",
+			[2126] = "Galvazzt",
+			[2095] = "Ring of Booty",
+			[2127] = "Avatar of Sethraliss",
+			[1405] = "Striker Ga'dok",
+			[2096] = "Lord Harlan Sweete",
+			[2128] = "Fetid Devourer",
+			[1882] = "Echo of Sylvanas",
+			[2129] = "Gekkan",
+			[1406] = "Commander Ri'mok",
+			[1041] = "Altairus",
+			[1057] = "High Priestess Azil",
+			[2130] = "Aqu'sirr",
+			[1306] = "Taran Zhu",
+			[2099] = "Hadal Darkfathom",
+			[1502] = "Commander Vo'jak",
+			[2131] = "Tidesage Council",
+			[1304] = "Master Snowdrift",
+			[1042] = "Asaad",
+			[2100] = "Viq'Goth",
+			[2132] = "Lord Stormsong",
+			[1303] = "Gu Cloudstrike",
+			[1056] = "Corborus",
+			[2101] = "The Sand Queen",
+			[2133] = "Vol'zith the Whisperer",
+			[1883] = "Echo of Jaina",
+			[1043] = "Grand Vizier Ertan",
+			[2102] = "Jes Howlis",
+			[2134] = "Vectis",
+			[1439] = "Sha of Doubt",
+			[2097] = "Sergeant Bainbridge",
+			[2103] = "Knight Captain Valyri",
+			[2135] = "Mythrax",
+			[2104] = "Overseer Korgus",
+			[1044] = "Commander Ulthok",
+			[1441] = "Xin the Weaponmaster",
+			[2136] = "Zek'voz",
+			[1271] = "Murozond",
+			[2086] = "Rezan",
+			[2105] = "Coin-Operated Crowd Pummeler",
+			[1884] = "Echo of Tyrande",
+			[1442] = "Trial of the King",
+			[1045] = "Lady Naz'jar",
+			[2106] = "Azerokk",
+			[2084] = "Priestess Alun'za",
+			[2094] = "Council o' Captains",
+			[1059] = "Slabhide",
+			[2107] = "Rixxa Fluxfume",
+			[2139] = "The Golden Serpent",
+			[1881] = "Echo of Baine",
+			[1397] = "Saboteur Kip'tilak",
+			[2108] = "Mogul Razdunk",
+			[2140] = "The Council of Tribes",
+			[1305] = "Sha of Violence",
+			[1058] = "Ozruk",
+			[2109] = "Dread Captain Lockwood",
+			[1447] = "General Pa'valak",
+		},
 		["list"] = {
 			["Xchai"] = {
 				"^2139^23^1536097025^72^1^5^342.00^", -- [1]
@@ -1906,7 +2002,180 @@ VExRT = {
 			},
 			["Ochai"] = {
 			},
-			["Phatbootygrl"] = {
+			["Shenaynay"] = {
+				"^2144^14^1536455684^358^1^13^341.07^", -- [1]
+				"^2141^14^1536456480^377^1^13^341.69^Gloryhollow-Nazjatar", -- [2]
+				"^2128^14^1536457299^6^0^13^341.77^", -- [3]
+				"^2128^14^1536457517^62^0^13^341.77^Carthias-Nazjatar", -- [4]
+				"^2128^14^1536457701^184^1^13^341.77^", -- [5]
+				"^2134^14^1536458576^326^0^13^341.96^Tienee-Nazjatar", -- [6]
+				"^2134^14^1536459072^426^0^13^342.04^Ahhsoul-Nazjatar", -- [7]
+				"^2134^14^1536459760^273^0^12^342.33^Twindaggers-Nazjatar", -- [8]
+				"^2134^14^1536460280^425^1^14^342.92^", -- [9]
+				"^2136^14^1536461311^327^0^15^342.98^Twindaggers-Nazjatar", -- [10]
+				"^2136^14^1536461945^530^1^16^342.70^Strawberry-Nazjatar", -- [11]
+				"^2145^14^1536463319^11^0^15^342.96^Tapz-BloodFurnace", -- [12]
+				"^2145^14^1536463556^283^0^15^343.07^Twindaggers-Nazjatar", -- [13]
+				"^2145^14^1536463949^166^0^15^343.07^Milenia-Nazjatar", -- [14]
+				"^2145^14^1536464334^435^0^14^343.08^Milenia-Nazjatar", -- [15]
+				"^2107^2^1536527679^80^1^5^322.60^", -- [16]
+				"^2108^2^1536528058^149^1^5^322.60^", -- [17]
+				"^2101^2^1536867126^81^1^5^325.70^", -- [18]
+				"^2102^2^1536867742^66^1^5^326.01^", -- [19]
+				"^2103^2^1536868297^83^1^5^325.15^", -- [20]
+				"^2104^2^1536868528^99^1^5^325.40^", -- [21]
+				"^2144^15^1537070602^289^0^10^351.01^Zigy-Nazjatar", -- [22]
+				"^2144^15^1537070982^483^0^10^351.01^Kastigore-Nazjatar", -- [23]
+				"^2144^15^1537071591^516^1^10^351.01^Gloryhollow-Nazjatar", -- [24]
+				"^2111^2^1537124928^48^1^5^324.15^", -- [25]
+				"^2118^2^1537125338^78^1^5^324.46^", -- [26]
+				"^2112^2^1537125647^69^1^5^324.46^", -- [27]
+				"^2123^2^1537125978^82^1^5^324.84^", -- [28]
+				"^2113^8^1537128794^133^1^5^346.28^", -- [29]
+				"^2114^8^1537129196^106^1^5^346.28^", -- [30]
+				"^2115^8^1537129520^134^1^5^346.28^", -- [31]
+				"^2116^8^1537129876^100^1^5^346.28^", -- [32]
+				"^2117^8^1537130064^91^1^5^346.28^", -- [33]
+				"^2115^8^1537131139^150^1^5^346.51^", -- [34]
+				"^2114^8^1537131476^139^1^5^346.51^", -- [35]
+				"^2113^8^1537131973^138^1^5^346.51^", -- [36]
+				"^2116^8^1537132284^118^1^5^346.51^", -- [37]
+				"^2117^8^1537132512^177^1^5^346.51^", -- [38]
+				"^2111^8^1537133375^73^1^5^346.66^", -- [39]
+				"^2118^8^1537133768^112^1^5^346.66^", -- [40]
+				"^2112^8^1537134016^102^1^5^346.66^", -- [41]
+				"^2123^8^1537134328^141^1^5^346.66^Lenore-Nazjatar", -- [42]
+				"^2105^8^1537135816^112^1^5^344.68^", -- [43]
+				"^2106^8^1537136634^227^0^5^349.94^Lenore-Nazjatar", -- [44]
+				"^2106^8^1537136979^308^1^5^346.61^Lenore-Nazjatar", -- [45]
+				"^2107^8^1537137776^121^0^5^346.61^Shenaynay", -- [46]
+				"^2107^8^1537137970^167^1^5^346.61^", -- [47]
+				"^2108^8^1537138515^134^0^5^344.99^Slammyhole-Nazjatar", -- [48]
+				"^2108^8^1537138707^222^1^5^344.99^", -- [49]
+				"^2086^2^1537816516^113^1^5^340.26^", -- [50]
+				"^2084^2^1537816998^76^1^5^340.26^", -- [51]
+				"^2085^2^1537817487^90^1^5^340.26^", -- [52]
+				"^2087^2^1537817630^70^1^5^340.26^", -- [53]
+				"^2093^2^1537820333^41^1^5^349.32^", -- [54]
+				"^2094^2^1537820799^94^1^5^328.77^", -- [55]
+				"^2095^2^1537821288^73^1^5^328.77^", -- [56]
+				"^2096^2^1537821580^63^0^5^328.77^Rexkwondo-Spinebreaker", -- [57]
+				"^2096^2^1537821702^68^1^5^328.77^", -- [58]
+				"^2105^2^1537833840^61^1^5^339.90^", -- [59]
+				"^2106^2^1537834310^83^1^5^340.21^", -- [60]
+				"^2107^2^1537834574^60^1^5^340.21^", -- [61]
+				"^2108^2^1537834811^115^1^5^340.21^", -- [62]
+				"^1045^2^1538158494^121^1^5^269.79^Hundo", -- [63]
+				"^1044^2^1538158658^73^1^5^269.79^", -- [64]
+				"^1047^2^1538158882^194^1^5^269.79^", -- [65]
+				"^1043^2^1538159554^87^1^5^244.02^", -- [66]
+				"^1041^2^1538159919^105^1^5^244.02^", -- [67]
+				"^1042^2^1538160343^97^1^5^244.91^Hundo", -- [68]
+				"^1051^2^1538162594^59^1^5^296.89^", -- [69]
+				"^1050^2^1538162759^104^1^5^296.89^", -- [70]
+				"^1048^2^1538162994^126^1^5^296.89^Daeliell-TheScryers", -- [71]
+				"^1049^2^1538163343^131^1^5^296.89^", -- [72]
+				"^1052^2^1538163719^60^1^5^286.56^", -- [73]
+				"^1054^2^1538163937^50^1^5^286.56^", -- [74]
+				"^1053^2^1538164240^111^1^5^286.56^", -- [75]
+				"^1055^2^1538164380^113^1^5^286.56^", -- [76]
+				"^1881^2^1538164918^55^1^5^283.18^", -- [77]
+				"^1884^2^1538165184^77^1^5^283.18^", -- [78]
+				"^1271^2^1538165429^102^1^5^283.18^", -- [79]
+				"^2105^8^1538368763^121^1^5^352.44^", -- [80]
+				"^2106^8^1538369202^132^1^5^352.44^", -- [81]
+				"^2107^8^1538369566^109^1^5^352.44^", -- [82]
+				"^2108^8^1538369921^209^1^5^352.44^", -- [83]
+				"^2130^2^1538593682^49^1^5^357.07^", -- [84]
+				"^2131^2^1538593944^61^1^5^357.07^", -- [85]
+				"^2132^2^1538594243^47^1^5^357.07^", -- [86]
+				"^2133^2^1538594387^66^1^5^357.07^", -- [87]
+				"^2093^8^1538966173^70^1^5^366.11^", -- [88]
+				"^2094^8^1538966796^96^1^5^366.11^", -- [89]
+				"^2095^8^1538967146^108^1^5^366.11^", -- [90]
+				"^2096^8^1538967450^116^1^5^366.11^", -- [91]
+				"^2097^8^1538968579^88^1^5^366.11^", -- [92]
+				"^2109^8^1538969151^0^0^5^366.11^", -- [93]
+				"^2099^8^1538970169^108^1^5^366.18^", -- [94]
+				"^2100^8^1538970328^260^1^5^366.18^Mindbreaker", -- [95]
+				"^2124^8^1539562352^186^1^5^364.72^Apõc-EmeraldDream", -- [96]
+				"^2125^8^1539562992^151^1^5^364.72^Baltzer-EmeraldDream", -- [97]
+				"^2126^8^1539563435^138^0^5^364.72^Baltzer-EmeraldDream", -- [98]
+				"^2126^8^1539563638^105^0^5^364.72^Baltzer-EmeraldDream", -- [99]
+				"^2126^8^1539563922^132^1^5^365.95^", -- [100]
+				"^2127^8^1539564467^31^0^5^365.95^Chuumm-EmeraldDream", -- [101]
+				"^2127^8^1539564560^399^1^5^365.95^Apõc-EmeraldDream", -- [102]
+				"^2139^8^1539565690^193^0^5^363.25^Broopie-Ner'zhul", -- [103]
+				"^2139^8^1539565949^178^0^5^363.25^Broopie-Ner'zhul", -- [104]
+				"^2139^8^1539566190^172^1^5^363.25^Broopie-Ner'zhul", -- [105]
+				"^2142^8^1539567134^168^1^5^363.25^Broopie-Ner'zhul", -- [106]
+				"^2140^8^1539567953^269^0^5^363.25^Celys-Vashj", -- [107]
+				"^2140^8^1539568348^287^0^5^363.25^Broopie-Ner'zhul", -- [108]
+				"^2140^8^1539568769^83^0^5^363.25^Venyce-Vashj", -- [109]
+				"^2097^8^1539569271^86^0^5^359.10^Cracksmears-Mal'Ganis", -- [110]
+				"^2097^8^1539569436^164^1^5^359.10^", -- [111]
+				"^2109^8^1539569818^188^1^5^359.10^Wastingtimee-Dalaran", -- [112]
+				"^2099^8^1539570510^5^0^5^359.10^Wastingtimee-Dalaran", -- [113]
+				"^2099^8^1539570572^4^0^5^359.10^", -- [114]
+				"^2099^8^1539570611^134^1^5^359.10^Pastorn-Zul'jin", -- [115]
+				"^2100^8^1539570795^282^1^5^359.10^", -- [116]
+				"^2105^8^1539571867^136^1^5^368.02^", -- [117]
+				"^2106^8^1539572319^184^1^5^368.02^", -- [118]
+				"^2107^8^1539572968^136^1^5^368.02^", -- [119]
+				"^2108^8^1539573399^239^1^5^368.02^", -- [120]
+				"^2111^8^1539646263^80^1^5^367.02^", -- [121]
+				"^2118^8^1539646743^188^0^5^367.02^Carthias-Nazjatar", -- [122]
+				"^1397^2^1539982365^74^1^5^263.61^", -- [123]
+				"^1405^2^1539982601^133^1^5^263.61^", -- [124]
+				"^1406^2^1539982813^76^1^5^312.36^", -- [125]
+				"^1419^2^1539982933^63^1^5^263.61^", -- [126]
+				"^1442^2^1539983332^148^1^5^252.94^", -- [127]
+				"^2129^2^1539983646^6^0^5^252.94^Donquixxote-Kel'Thuzad", -- [128]
+				"^2129^2^1539983684^0^0^5^252.94^", -- [129]
+				"^1441^2^1539984059^61^1^5^252.94^", -- [130]
+				"^1303^2^1539984357^67^1^5^265.61^", -- [131]
+				"^1304^2^1539984662^56^1^5^265.61^", -- [132]
+				"^1305^2^1539984872^41^1^5^265.61^", -- [133]
+				"^1306^2^1539985086^57^1^5^265.61^", -- [134]
+				"^1397^2^1539985357^77^1^5^268.16^", -- [135]
+				"^1405^2^1539985557^89^1^5^268.16^", -- [136]
+				"^1406^2^1539985707^75^1^5^268.16^Bladebreaker-Hyjal", -- [137]
+				"^1419^2^1539985829^51^1^5^268.16^", -- [138]
+				"^1412^2^1539986045^52^1^5^270.30^", -- [139]
+				"^1413^2^1539986158^54^1^5^270.30^", -- [140]
+				"^1414^2^1539986430^49^1^5^270.30^", -- [141]
+				"^2113^2^1540076653^87^1^5^335.00^", -- [142]
+				"^2114^2^1540076885^66^1^5^341.57^", -- [143]
+				"^2115^2^1540077063^50^1^5^341.57^", -- [144]
+				"^2116^2^1540077261^63^1^5^341.70^", -- [145]
+				"^2117^2^1540077389^45^1^5^341.70^", -- [146]
+				"^2111^8^1540177438^63^1^5^367.73^", -- [147]
+				"^2118^8^1540178106^127^1^5^367.73^Shenaynay", -- [148]
+				"^2112^8^1540178522^119^1^5^367.73^", -- [149]
+				"^2123^8^1540178979^161^1^5^367.73^Nethera-Nazjatar", -- [150]
+				"^2105^2^1540583206^48^1^5^343.48^", -- [151]
+				"^2106^2^1540583496^60^1^5^343.48^", -- [152]
+				"^2107^2^1540583740^54^1^5^343.66^", -- [153]
+				"^2108^2^1540583962^98^1^5^343.66^", -- [154]
+				"^2093^8^1540721627^101^1^5^373.50^", -- [155]
+				"^2094^8^1540722159^125^1^5^373.50^", -- [156]
+				"^2095^8^1540722775^128^1^5^373.50^", -- [157]
+				"^2096^8^1540723066^116^0^5^373.50^Chodehunter-Illidan", -- [158]
+				"^2096^8^1540723369^137^1^5^373.50^", -- [159]
+				"^2105^8^1540858571^140^1^5^368.55^", -- [160]
+				"^2106^8^1540859123^54^0^5^368.55^Nethera-Nazjatar", -- [161]
+				"^2106^8^1540859212^201^1^5^368.55^Dettlaff", -- [162]
+				"^2107^8^1540859721^148^1^5^368.55^", -- [163]
+				"^2108^8^1540860178^282^1^5^368.55^Shenaynay", -- [164]
+				"^2097^8^1540861580^178^1^5^371.16^", -- [165]
+				"^2109^8^1540862443^81^0^5^371.16^Tirazul-Nazjatar", -- [166]
+				"^2109^8^1540862633^333^1^5^371.16^Shenaynay", -- [167]
+				"^2099^8^1540863635^6^0^5^371.16^Whitewolf-Nazjatar", -- [168]
+				"^2099^8^1540863851^175^1^5^371.16^", -- [169]
+				"^2100^8^1540864098^326^0^5^371.16^Shenaynay", -- [170]
+				"^2100^8^1540864575^397^1^5^371.16^", -- [171]
+			},
+			["Chaichai"] = {
 			},
 			["Chaisauce"] = {
 				"^2126^1^1537150989^52^1^5^259.70^", -- [1]
@@ -2186,277 +2455,8 @@ VExRT = {
 				"^2095^8^1540776690^205^1^5^370.86^Bearcode-Nazjatar", -- [275]
 				"^2096^8^1540777556^207^1^5^370.86^", -- [276]
 			},
-			["Chaichai"] = {
+			["Phatbootygrl"] = {
 			},
-			["Shenaynay"] = {
-				"^2144^14^1536455684^358^1^13^341.07^", -- [1]
-				"^2141^14^1536456480^377^1^13^341.69^Gloryhollow-Nazjatar", -- [2]
-				"^2128^14^1536457299^6^0^13^341.77^", -- [3]
-				"^2128^14^1536457517^62^0^13^341.77^Carthias-Nazjatar", -- [4]
-				"^2128^14^1536457701^184^1^13^341.77^", -- [5]
-				"^2134^14^1536458576^326^0^13^341.96^Tienee-Nazjatar", -- [6]
-				"^2134^14^1536459072^426^0^13^342.04^Ahhsoul-Nazjatar", -- [7]
-				"^2134^14^1536459760^273^0^12^342.33^Twindaggers-Nazjatar", -- [8]
-				"^2134^14^1536460280^425^1^14^342.92^", -- [9]
-				"^2136^14^1536461311^327^0^15^342.98^Twindaggers-Nazjatar", -- [10]
-				"^2136^14^1536461945^530^1^16^342.70^Strawberry-Nazjatar", -- [11]
-				"^2145^14^1536463319^11^0^15^342.96^Tapz-BloodFurnace", -- [12]
-				"^2145^14^1536463556^283^0^15^343.07^Twindaggers-Nazjatar", -- [13]
-				"^2145^14^1536463949^166^0^15^343.07^Milenia-Nazjatar", -- [14]
-				"^2145^14^1536464334^435^0^14^343.08^Milenia-Nazjatar", -- [15]
-				"^2107^2^1536527679^80^1^5^322.60^", -- [16]
-				"^2108^2^1536528058^149^1^5^322.60^", -- [17]
-				"^2101^2^1536867126^81^1^5^325.70^", -- [18]
-				"^2102^2^1536867742^66^1^5^326.01^", -- [19]
-				"^2103^2^1536868297^83^1^5^325.15^", -- [20]
-				"^2104^2^1536868528^99^1^5^325.40^", -- [21]
-				"^2144^15^1537070602^289^0^10^351.01^Zigy-Nazjatar", -- [22]
-				"^2144^15^1537070982^483^0^10^351.01^Kastigore-Nazjatar", -- [23]
-				"^2144^15^1537071591^516^1^10^351.01^Gloryhollow-Nazjatar", -- [24]
-				"^2111^2^1537124928^48^1^5^324.15^", -- [25]
-				"^2118^2^1537125338^78^1^5^324.46^", -- [26]
-				"^2112^2^1537125647^69^1^5^324.46^", -- [27]
-				"^2123^2^1537125978^82^1^5^324.84^", -- [28]
-				"^2113^8^1537128794^133^1^5^346.28^", -- [29]
-				"^2114^8^1537129196^106^1^5^346.28^", -- [30]
-				"^2115^8^1537129520^134^1^5^346.28^", -- [31]
-				"^2116^8^1537129876^100^1^5^346.28^", -- [32]
-				"^2117^8^1537130064^91^1^5^346.28^", -- [33]
-				"^2115^8^1537131139^150^1^5^346.51^", -- [34]
-				"^2114^8^1537131476^139^1^5^346.51^", -- [35]
-				"^2113^8^1537131973^138^1^5^346.51^", -- [36]
-				"^2116^8^1537132284^118^1^5^346.51^", -- [37]
-				"^2117^8^1537132512^177^1^5^346.51^", -- [38]
-				"^2111^8^1537133375^73^1^5^346.66^", -- [39]
-				"^2118^8^1537133768^112^1^5^346.66^", -- [40]
-				"^2112^8^1537134016^102^1^5^346.66^", -- [41]
-				"^2123^8^1537134328^141^1^5^346.66^Lenore-Nazjatar", -- [42]
-				"^2105^8^1537135816^112^1^5^344.68^", -- [43]
-				"^2106^8^1537136634^227^0^5^349.94^Lenore-Nazjatar", -- [44]
-				"^2106^8^1537136979^308^1^5^346.61^Lenore-Nazjatar", -- [45]
-				"^2107^8^1537137776^121^0^5^346.61^Shenaynay", -- [46]
-				"^2107^8^1537137970^167^1^5^346.61^", -- [47]
-				"^2108^8^1537138515^134^0^5^344.99^Slammyhole-Nazjatar", -- [48]
-				"^2108^8^1537138707^222^1^5^344.99^", -- [49]
-				"^2086^2^1537816516^113^1^5^340.26^", -- [50]
-				"^2084^2^1537816998^76^1^5^340.26^", -- [51]
-				"^2085^2^1537817487^90^1^5^340.26^", -- [52]
-				"^2087^2^1537817630^70^1^5^340.26^", -- [53]
-				"^2093^2^1537820333^41^1^5^349.32^", -- [54]
-				"^2094^2^1537820799^94^1^5^328.77^", -- [55]
-				"^2095^2^1537821288^73^1^5^328.77^", -- [56]
-				"^2096^2^1537821580^63^0^5^328.77^Rexkwondo-Spinebreaker", -- [57]
-				"^2096^2^1537821702^68^1^5^328.77^", -- [58]
-				"^2105^2^1537833840^61^1^5^339.90^", -- [59]
-				"^2106^2^1537834310^83^1^5^340.21^", -- [60]
-				"^2107^2^1537834574^60^1^5^340.21^", -- [61]
-				"^2108^2^1537834811^115^1^5^340.21^", -- [62]
-				"^1045^2^1538158494^121^1^5^269.79^Hundo", -- [63]
-				"^1044^2^1538158658^73^1^5^269.79^", -- [64]
-				"^1047^2^1538158882^194^1^5^269.79^", -- [65]
-				"^1043^2^1538159554^87^1^5^244.02^", -- [66]
-				"^1041^2^1538159919^105^1^5^244.02^", -- [67]
-				"^1042^2^1538160343^97^1^5^244.91^Hundo", -- [68]
-				"^1051^2^1538162594^59^1^5^296.89^", -- [69]
-				"^1050^2^1538162759^104^1^5^296.89^", -- [70]
-				"^1048^2^1538162994^126^1^5^296.89^Daeliell-TheScryers", -- [71]
-				"^1049^2^1538163343^131^1^5^296.89^", -- [72]
-				"^1052^2^1538163719^60^1^5^286.56^", -- [73]
-				"^1054^2^1538163937^50^1^5^286.56^", -- [74]
-				"^1053^2^1538164240^111^1^5^286.56^", -- [75]
-				"^1055^2^1538164380^113^1^5^286.56^", -- [76]
-				"^1881^2^1538164918^55^1^5^283.18^", -- [77]
-				"^1884^2^1538165184^77^1^5^283.18^", -- [78]
-				"^1271^2^1538165429^102^1^5^283.18^", -- [79]
-				"^2105^8^1538368763^121^1^5^352.44^", -- [80]
-				"^2106^8^1538369202^132^1^5^352.44^", -- [81]
-				"^2107^8^1538369566^109^1^5^352.44^", -- [82]
-				"^2108^8^1538369921^209^1^5^352.44^", -- [83]
-				"^2130^2^1538593682^49^1^5^357.07^", -- [84]
-				"^2131^2^1538593944^61^1^5^357.07^", -- [85]
-				"^2132^2^1538594243^47^1^5^357.07^", -- [86]
-				"^2133^2^1538594387^66^1^5^357.07^", -- [87]
-				"^2093^8^1538966173^70^1^5^366.11^", -- [88]
-				"^2094^8^1538966796^96^1^5^366.11^", -- [89]
-				"^2095^8^1538967146^108^1^5^366.11^", -- [90]
-				"^2096^8^1538967450^116^1^5^366.11^", -- [91]
-				"^2097^8^1538968579^88^1^5^366.11^", -- [92]
-				"^2109^8^1538969151^0^0^5^366.11^", -- [93]
-				"^2099^8^1538970169^108^1^5^366.18^", -- [94]
-				"^2100^8^1538970328^260^1^5^366.18^Mindbreaker", -- [95]
-				"^2124^8^1539562352^186^1^5^364.72^Apõc-EmeraldDream", -- [96]
-				"^2125^8^1539562992^151^1^5^364.72^Baltzer-EmeraldDream", -- [97]
-				"^2126^8^1539563435^138^0^5^364.72^Baltzer-EmeraldDream", -- [98]
-				"^2126^8^1539563638^105^0^5^364.72^Baltzer-EmeraldDream", -- [99]
-				"^2126^8^1539563922^132^1^5^365.95^", -- [100]
-				"^2127^8^1539564467^31^0^5^365.95^Chuumm-EmeraldDream", -- [101]
-				"^2127^8^1539564560^399^1^5^365.95^Apõc-EmeraldDream", -- [102]
-				"^2139^8^1539565690^193^0^5^363.25^Broopie-Ner'zhul", -- [103]
-				"^2139^8^1539565949^178^0^5^363.25^Broopie-Ner'zhul", -- [104]
-				"^2139^8^1539566190^172^1^5^363.25^Broopie-Ner'zhul", -- [105]
-				"^2142^8^1539567134^168^1^5^363.25^Broopie-Ner'zhul", -- [106]
-				"^2140^8^1539567953^269^0^5^363.25^Celys-Vashj", -- [107]
-				"^2140^8^1539568348^287^0^5^363.25^Broopie-Ner'zhul", -- [108]
-				"^2140^8^1539568769^83^0^5^363.25^Venyce-Vashj", -- [109]
-				"^2097^8^1539569271^86^0^5^359.10^Cracksmears-Mal'Ganis", -- [110]
-				"^2097^8^1539569436^164^1^5^359.10^", -- [111]
-				"^2109^8^1539569818^188^1^5^359.10^Wastingtimee-Dalaran", -- [112]
-				"^2099^8^1539570510^5^0^5^359.10^Wastingtimee-Dalaran", -- [113]
-				"^2099^8^1539570572^4^0^5^359.10^", -- [114]
-				"^2099^8^1539570611^134^1^5^359.10^Pastorn-Zul'jin", -- [115]
-				"^2100^8^1539570795^282^1^5^359.10^", -- [116]
-				"^2105^8^1539571867^136^1^5^368.02^", -- [117]
-				"^2106^8^1539572319^184^1^5^368.02^", -- [118]
-				"^2107^8^1539572968^136^1^5^368.02^", -- [119]
-				"^2108^8^1539573399^239^1^5^368.02^", -- [120]
-				"^2111^8^1539646263^80^1^5^367.02^", -- [121]
-				"^2118^8^1539646743^188^0^5^367.02^Carthias-Nazjatar", -- [122]
-				"^1397^2^1539982365^74^1^5^263.61^", -- [123]
-				"^1405^2^1539982601^133^1^5^263.61^", -- [124]
-				"^1406^2^1539982813^76^1^5^312.36^", -- [125]
-				"^1419^2^1539982933^63^1^5^263.61^", -- [126]
-				"^1442^2^1539983332^148^1^5^252.94^", -- [127]
-				"^2129^2^1539983646^6^0^5^252.94^Donquixxote-Kel'Thuzad", -- [128]
-				"^2129^2^1539983684^0^0^5^252.94^", -- [129]
-				"^1441^2^1539984059^61^1^5^252.94^", -- [130]
-				"^1303^2^1539984357^67^1^5^265.61^", -- [131]
-				"^1304^2^1539984662^56^1^5^265.61^", -- [132]
-				"^1305^2^1539984872^41^1^5^265.61^", -- [133]
-				"^1306^2^1539985086^57^1^5^265.61^", -- [134]
-				"^1397^2^1539985357^77^1^5^268.16^", -- [135]
-				"^1405^2^1539985557^89^1^5^268.16^", -- [136]
-				"^1406^2^1539985707^75^1^5^268.16^Bladebreaker-Hyjal", -- [137]
-				"^1419^2^1539985829^51^1^5^268.16^", -- [138]
-				"^1412^2^1539986045^52^1^5^270.30^", -- [139]
-				"^1413^2^1539986158^54^1^5^270.30^", -- [140]
-				"^1414^2^1539986430^49^1^5^270.30^", -- [141]
-				"^2113^2^1540076653^87^1^5^335.00^", -- [142]
-				"^2114^2^1540076885^66^1^5^341.57^", -- [143]
-				"^2115^2^1540077063^50^1^5^341.57^", -- [144]
-				"^2116^2^1540077261^63^1^5^341.70^", -- [145]
-				"^2117^2^1540077389^45^1^5^341.70^", -- [146]
-				"^2111^8^1540177438^63^1^5^367.73^", -- [147]
-				"^2118^8^1540178106^127^1^5^367.73^Shenaynay", -- [148]
-				"^2112^8^1540178522^119^1^5^367.73^", -- [149]
-				"^2123^8^1540178979^161^1^5^367.73^Nethera-Nazjatar", -- [150]
-				"^2105^2^1540583206^48^1^5^343.48^", -- [151]
-				"^2106^2^1540583496^60^1^5^343.48^", -- [152]
-				"^2107^2^1540583740^54^1^5^343.66^", -- [153]
-				"^2108^2^1540583962^98^1^5^343.66^", -- [154]
-				"^2093^8^1540721627^101^1^5^373.50^", -- [155]
-				"^2094^8^1540722159^125^1^5^373.50^", -- [156]
-				"^2095^8^1540722775^128^1^5^373.50^", -- [157]
-				"^2096^8^1540723066^116^0^5^373.50^Chodehunter-Illidan", -- [158]
-				"^2096^8^1540723369^137^1^5^373.50^", -- [159]
-				"^2105^8^1540858571^140^1^5^368.55^", -- [160]
-				"^2106^8^1540859123^54^0^5^368.55^Nethera-Nazjatar", -- [161]
-				"^2106^8^1540859212^201^1^5^368.55^Dettlaff", -- [162]
-				"^2107^8^1540859721^148^1^5^368.55^", -- [163]
-				"^2108^8^1540860178^282^1^5^368.55^Shenaynay", -- [164]
-				"^2097^8^1540861580^178^1^5^371.16^", -- [165]
-				"^2109^8^1540862443^81^0^5^371.16^Tirazul-Nazjatar", -- [166]
-				"^2109^8^1540862633^333^1^5^371.16^Shenaynay", -- [167]
-				"^2099^8^1540863635^6^0^5^371.16^Whitewolf-Nazjatar", -- [168]
-				"^2099^8^1540863851^175^1^5^371.16^", -- [169]
-				"^2100^8^1540864098^326^0^5^371.16^Shenaynay", -- [170]
-				"^2100^8^1540864575^397^1^5^371.16^", -- [171]
-			},
-		},
-		["names"] = {
-			[2141] = "MOTHER",
-			[1412] = "Ook-Ook",
-			[1047] = "Ozumat",
-			[2142] = "Mchimba the Embalmer",
-			[2111] = "Elder Leaxa",
-			[2143] = "King Dazar",
-			[1413] = "Hoptallus",
-			[1048] = "Drahga Shadowburner",
-			[2112] = "Sporecaller Zancha",
-			[2144] = "Taloc",
-			[2113] = "Heartsbane Triad",
-			[2145] = "Zul",
-			[1414] = "Yan-Zhu the Uncasked",
-			[1049] = "Erudax",
-			[2114] = "Soulbound Goliath",
-			[2115] = "Raal the Gluttonous",
-			[1050] = "Forgemaster Throngus",
-			[2116] = "Lord and Lady Waycrest",
-			[2085] = "Vol'kaal",
-			[2117] = "Gorak Tul",
-			[1416] = "Liu Flameheart",
-			[1051] = "General Umbriss",
-			[2118] = "Cragmaw the Infested",
-			[1464] = "Wing Leader Ner'onok",
-			[2087] = "Yazma",
-			[1417] = "Lorewalker Stonestep",
-			[1052] = "General Husam",
-			[1465] = "Vizier Jin'bak",
-			[1418] = "Wise Mari",
-			[1053] = "High Prophet Barim",
-			[2122] = "G'huun",
-			[2123] = "Unbound Abomination",
-			[1419] = "Raigonn",
-			[1054] = "Lockmaw",
-			[2124] = "Adderis and Aspix",
-			[2093] = "Skycap'n Kragg",
-			[2125] = "Merektha",
-			[1055] = "Siamat",
-			[2126] = "Galvazzt",
-			[2095] = "Ring of Booty",
-			[2127] = "Avatar of Sethraliss",
-			[1405] = "Striker Ga'dok",
-			[2096] = "Lord Harlan Sweete",
-			[2128] = "Fetid Devourer",
-			[1882] = "Echo of Sylvanas",
-			[2129] = "Gekkan",
-			[1406] = "Commander Ri'mok",
-			[1041] = "Altairus",
-			[1057] = "High Priestess Azil",
-			[2130] = "Aqu'sirr",
-			[1447] = "General Pa'valak",
-			[1502] = "Commander Vo'jak",
-			[2099] = "Hadal Darkfathom",
-			[2131] = "Tidesage Council",
-			[2100] = "Viq'Goth",
-			[1042] = "Asaad",
-			[1058] = "Ozruk",
-			[2132] = "Lord Stormsong",
-			[1305] = "Sha of Violence",
-			[1056] = "Corborus",
-			[2101] = "The Sand Queen",
-			[2133] = "Vol'zith the Whisperer",
-			[1883] = "Echo of Jaina",
-			[1043] = "Grand Vizier Ertan",
-			[2102] = "Jes Howlis",
-			[2134] = "Vectis",
-			[1397] = "Saboteur Kip'tilak",
-			[1881] = "Echo of Baine",
-			[2103] = "Knight Captain Valyri",
-			[2135] = "Mythrax",
-			[1441] = "Xin the Weaponmaster",
-			[1044] = "Commander Ulthok",
-			[2104] = "Overseer Korgus",
-			[2136] = "Zek'voz",
-			[1271] = "Murozond",
-			[1059] = "Slabhide",
-			[2105] = "Coin-Operated Crowd Pummeler",
-			[2094] = "Council o' Captains",
-			[2084] = "Priestess Alun'za",
-			[1045] = "Lady Naz'jar",
-			[2106] = "Azerokk",
-			[1442] = "Trial of the King",
-			[1884] = "Echo of Tyrande",
-			[2086] = "Rezan",
-			[2107] = "Rixxa Fluxfume",
-			[2139] = "The Golden Serpent",
-			[2097] = "Sergeant Bainbridge",
-			[1439] = "Sha of Doubt",
-			[2108] = "Mogul Razdunk",
-			[2140] = "The Council of Tribes",
-			[1303] = "Gu Cloudstrike",
-			[1304] = "Master Snowdrift",
-			[2109] = "Dread Captain Lockwood",
-			[1306] = "Taran Zhu",
 		},
 	},
 	["Marks"] = {
@@ -2788,73 +2788,73 @@ VExRT = {
 			["Mkhunter-Anub'arak"] = 577,
 			["Lortheron-Quel'Thalas"] = 253,
 			["Raggnak-Quel'Thalas"] = 72,
-			["Regnos-Crushridge"] = 71,
-			["Manbearpudd-Stormreaver"] = 102,
+			["Synerge-Dalaran"] = 64,
+			["Adversary-Nazjatar"] = 72,
 			["Vinson-Nazjatar"] = 268,
 			["Reddit-Suramar"] = 64,
 			["Warster-Uldaman"] = 72,
 			["Lianele-Gallywix"] = 267,
 			["Totenpriest-Area52"] = 257,
 			["Messyious-BleedingHollow"] = 70,
-			["Sedaith"] = 64,
+			["Accrox-Aegwynn"] = 253,
 			["Philodemus-Area52"] = 62,
 			["Tirazul-Nazjatar"] = 102,
 			["Bholg-Nemesis"] = 72,
-			["Aínz-Azralon"] = 258,
+			["Kasakiman-Azralon"] = 254,
 			["Braedrek-Zul'jin"] = 253,
 			["Dettlaff"] = 259,
-			["Reckdd-Dalaran"] = 253,
-			["Blindtacticz-Garrosh"] = 577,
+			["Tapz-BloodFurnace"] = 269,
+			["Sooneca-Azralon"] = 262,
 			["Bkats-Hyjal"] = 105,
-			["Pumpkinspicë-AeriePeak"] = 262,
-			["Vagaboondo-WyrmrestAccord"] = 266,
+			["Ahshi-Nazjatar"] = 270,
+			["Raiu-Kil'jaeden"] = 263,
 			["Still-Winterhoof"] = 264,
-			["Droni-LaughingSkull"] = 267,
 			["Rägé"] = 250,
+			["Ahhsoul-Nazjatar"] = 267,
 			["Sickìggy-TheScryers"] = 63,
 			["Karadine-Tichondrius"] = 268,
-			["Moxn-Mal'Ganis"] = 262,
+			["Droni-LaughingSkull"] = 267,
 			["Ciddy-Area52"] = 256,
 			["Icantseeman-Kil'jaeden"] = 577,
-			["Hippzter-Lightning'sBlade"] = 270,
-			["Marklooff-Illidan"] = 104,
-			["Highimhi-Blackrock"] = 64,
-			["Mefadin"] = 256,
-			["Vengeance-Bloodhoof"] = 577,
-			["Partypanda-Nazjatar"] = 264,
-			["Malhalla-Zul'jin"] = 72,
-			["Shenaynay"] = 258,
-			["Kaeliria-AzjolNerub"] = 581,
-			["Chewyhoe-Suramar"] = 66,
-			["Lazynate-Stormscale"] = 102,
-			["Nethera-Nazjatar"] = 577,
-			["Nezette-EmeraldDream"] = 263,
-			["Zeds-Arthas"] = 251,
-			["Chaisauce"] = 102,
-			["Brhino"] = 267,
-			["Cazador-Malorne"] = 253,
-			["Svën-Kil'jaeden"] = 71,
-			["Zaahra-Lightninghoof"] = 73,
 			["Krünkz-Illidan"] = 102,
-			["Ahhsoul-Nazjatar"] = 267,
+			["Marklooff-Illidan"] = 104,
+			["Svën-Kil'jaeden"] = 71,
+			["Cazador-Malorne"] = 253,
+			["Brhino"] = 267,
+			["Partypanda-Nazjatar"] = 264,
+			["Chaisauce"] = 102,
+			["Kaeliria-AzjolNerub"] = 581,
+			["Nezette-EmeraldDream"] = 263,
+			["Nethera-Nazjatar"] = 577,
+			["Shenaynay"] = 258,
+			["Lazynate-Stormscale"] = 102,
+			["Chewyhoe-Suramar"] = 66,
+			["Zeds-Arthas"] = 251,
+			["Malhalla-Zul'jin"] = 72,
+			["Vengeance-Bloodhoof"] = 577,
+			["Mefadin"] = 256,
+			["Highimhi-Blackrock"] = 64,
+			["Zaahra-Lightninghoof"] = 73,
+			["Hippzter-Lightning'sBlade"] = 270,
+			["Moxn-Mal'Ganis"] = 262,
 			["Imaginist-Illidan"] = 270,
-			["Raiu-Kil'jaeden"] = 263,
-			["Ahshi-Nazjatar"] = 270,
-			["Sooneca-Azralon"] = 262,
-			["Tapz-BloodFurnace"] = 269,
-			["Kasakiman-Azralon"] = 254,
+			["Vagaboondo-WyrmrestAccord"] = 266,
+			["Pumpkinspicë-AeriePeak"] = 262,
+			["Blindtacticz-Garrosh"] = 577,
+			["Reckdd-Dalaran"] = 253,
+			["Aínz-Azralon"] = 258,
 			["Merkedlol-Nazjatar"] = 260,
-			["Accrox-Aegwynn"] = 253,
+			["Sedaith"] = 64,
 			["Honybearz-Baelgun"] = 66,
-			["Adversary-Nazjatar"] = 72,
-			["Synerge-Dalaran"] = 64,
+			["Manbearpudd-Stormreaver"] = 102,
+			["Regnos-Crushridge"] = 71,
 		},
 		["NoRaid"] = true,
 		["CDECol"] = {
 		},
 		["default_userCD"] = {
 		},
-		["userDB"] = {
+		["Save"] = {
 		},
 		["colSet"] = {
 			{
@@ -2864,13 +2864,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [1]
 			{
 				["enabled"] = true,
@@ -2879,13 +2879,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [2]
 			{
 				["enabled"] = true,
@@ -2894,13 +2894,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [3]
 			{
 				["frameGeneral"] = true,
@@ -2908,13 +2908,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [4]
 			{
 				["frameGeneral"] = true,
@@ -2922,13 +2922,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [5]
 			{
 				["frameGeneral"] = true,
@@ -2936,13 +2936,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [6]
 			{
 				["frameGeneral"] = true,
@@ -2950,13 +2950,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [7]
 			{
 				["frameGeneral"] = true,
@@ -2964,13 +2964,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [8]
 			{
 				["frameGeneral"] = true,
@@ -2978,13 +2978,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [9]
 			{
 				["frameGeneral"] = true,
@@ -2992,13 +2992,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [10]
 			{
 				["frameGeneral"] = true,
@@ -3006,20 +3006,20 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [11]
 		},
 		["Priority"] = {
 		},
 		["CDE"] = {
 		},
-		["Save"] = {
+		["userDB"] = {
 		},
 	},
 	["Attendance"] = {
@@ -3057,13 +3057,13 @@ VExRT = {
 				"ERagër-Nazjatar", -- [28]
 				"BChi", -- [29]
 				"GPartypanda-Nazjatar", -- [30]
-				["c"] = "Xchai-Mannoroth",
-				["k"] = true,
-				["d"] = 14,
-				["eI"] = 2144,
-				["t"] = 1536110050,
-				["g"] = 30,
 				["eN"] = "Taloc",
+				["c"] = "Xchai-Mannoroth",
+				["t"] = 1536110050,
+				["eI"] = 2144,
+				["d"] = 14,
+				["g"] = 30,
+				["k"] = true,
 			}, -- [1]
 			{
 				"BWhitewolf-Nazjatar", -- [1]
@@ -3096,13 +3096,13 @@ VExRT = {
 				"JAhshi-Nazjatar", -- [28]
 				"GPartypanda-Nazjatar", -- [29]
 				"ERagër-Nazjatar", -- [30]
-				["eI"] = 2122,
-				["k"] = true,
-				["t"] = 1536202880,
-				["eN"] = "G'huun",
-				["d"] = 14,
-				["g"] = 30,
 				["c"] = "Xchai-Mannoroth",
+				["k"] = true,
+				["d"] = 14,
+				["eI"] = 2122,
+				["t"] = 1536202880,
+				["g"] = 30,
+				["eN"] = "G'huun",
 			}, -- [2]
 			{
 				"KBokk-Nazjatar", -- [1]
@@ -3127,13 +3127,13 @@ VExRT = {
 				"IKotaku-Nazjatar", -- [20]
 				"DTwindaggers-Nazjatar", -- [21]
 				"AZigy-Nazjatar", -- [22]
-				["c"] = "Timberhoo-Mannoroth",
-				["k"] = true,
-				["d"] = 14,
-				["eN"] = "Taloc",
-				["t"] = 1536283104,
-				["g"] = 22,
 				["eI"] = 2144,
+				["c"] = "Timberhoo-Mannoroth",
+				["t"] = 1536283104,
+				["eN"] = "Taloc",
+				["d"] = 14,
+				["g"] = 22,
+				["k"] = true,
 			}, -- [3]
 			{
 				"KBokk-Nazjatar", -- [1]
@@ -3159,13 +3159,13 @@ VExRT = {
 				"BWhitewolf-Nazjatar", -- [21]
 				"ITamppon-Nazjatar", -- [22]
 				"ACarthias-Nazjatar", -- [23]
-				["c"] = "Timberhoo-Mannoroth",
-				["k"] = true,
-				["d"] = 14,
-				["eI"] = 2141,
-				["t"] = 1536283833,
-				["g"] = 23,
 				["eN"] = "MOTHER",
+				["c"] = "Timberhoo-Mannoroth",
+				["t"] = 1536283833,
+				["eI"] = 2141,
+				["d"] = 14,
+				["g"] = 23,
+				["k"] = true,
 			}, -- [4]
 			{
 				"ACarthias-Nazjatar", -- [1]
@@ -3181,13 +3181,13 @@ VExRT = {
 				"IAhhsoul-Nazjatar", -- [11]
 				"DTwindaggers-Nazjatar", -- [12]
 				"BExcel-Nazjatar", -- [13]
-				["eI"] = 2144,
-				["c"] = "Shenaynay-Mannoroth",
-				["t"] = 1536456042,
-				["eN"] = "Taloc",
-				["d"] = 14,
-				["g"] = 13,
 				["k"] = true,
+				["c"] = "Shenaynay-Mannoroth",
+				["d"] = 14,
+				["eI"] = 2144,
+				["t"] = 1536456042,
+				["g"] = 13,
+				["eN"] = "Taloc",
 			}, -- [5]
 			{
 				"JTienee-Nazjatar", -- [1]
@@ -3201,13 +3201,13 @@ VExRT = {
 				"EMefadin", -- [9]
 				"BExcel-Nazjatar", -- [10]
 				"ERagër-Nazjatar", -- [11]
-				["k"] = true,
-				["c"] = "Xchai-Mannoroth",
-				["d"] = 14,
-				["eI"] = 2145,
-				["t"] = 1536466445,
-				["g"] = 11,
 				["eN"] = "Zul",
+				["k"] = true,
+				["t"] = 1536466445,
+				["eI"] = 2145,
+				["d"] = 14,
+				["g"] = 11,
+				["c"] = "Xchai-Mannoroth",
 			}, -- [6]
 			{
 				"BWhitewolf-Nazjatar", -- [1]
@@ -3231,13 +3231,13 @@ VExRT = {
 				"KTrash-BloodFurnace", -- [19]
 				"KTirazul-Nazjatar", -- [20]
 				"EMefadin", -- [21]
-				["c"] = "Xchai-Mannoroth",
-				["k"] = true,
-				["d"] = 15,
-				["eI"] = 2141,
-				["t"] = 1536629382,
-				["g"] = 21,
 				["eN"] = "MOTHER",
+				["c"] = "Xchai-Mannoroth",
+				["t"] = 1536629382,
+				["eI"] = 2141,
+				["d"] = 15,
+				["g"] = 21,
+				["k"] = true,
 			}, -- [7]
 			{
 				"BWhitewolf-Nazjatar", -- [1]
@@ -3270,13 +3270,13 @@ VExRT = {
 				"ERagër-Nazjatar", -- [28]
 				"JAhshi-Nazjatar", -- [29]
 				"ETyksu-Nazjatar", -- [30]
-				["k"] = true,
-				["c"] = "Xchai-Mannoroth",
-				["d"] = 15,
-				["eN"] = "Taloc",
-				["t"] = 1536714833,
-				["g"] = 30,
 				["eI"] = 2144,
+				["k"] = true,
+				["t"] = 1536714833,
+				["eN"] = "Taloc",
+				["d"] = 15,
+				["g"] = 30,
+				["c"] = "Xchai-Mannoroth",
 			}, -- [8]
 			{
 				"BWhitewolf-Nazjatar", -- [1]
@@ -3304,13 +3304,13 @@ VExRT = {
 				"ERagër-Nazjatar", -- [23]
 				"KTirazul-Nazjatar", -- [24]
 				"GPartypanda-Nazjatar", -- [25]
-				["eN"] = "Zek'voz",
-				["k"] = true,
-				["t"] = 1536811340,
-				["eI"] = 2136,
-				["d"] = 15,
-				["g"] = 25,
 				["c"] = "Xchai-Mannoroth",
+				["k"] = true,
+				["d"] = 15,
+				["eN"] = "Zek'voz",
+				["t"] = 1536811340,
+				["g"] = 25,
+				["eI"] = 2136,
 			}, -- [9]
 			{
 				"IAhhsoul-Nazjatar", -- [1]
@@ -3337,13 +3337,13 @@ VExRT = {
 				"HSedaith", -- [22]
 				"ERexxy-Nazjatar", -- [23]
 				"IKotaku-Nazjatar", -- [24]
-				["k"] = true,
-				["c"] = "Xchai-Mannoroth",
-				["d"] = 14,
-				["eN"] = "Taloc",
-				["t"] = 1537060097,
-				["g"] = 24,
 				["eI"] = 2144,
+				["k"] = true,
+				["t"] = 1537060097,
+				["eN"] = "Taloc",
+				["d"] = 14,
+				["g"] = 24,
+				["c"] = "Xchai-Mannoroth",
 			}, -- [10]
 			{
 				"KKastigore-Nazjatar", -- [1]
@@ -3356,13 +3356,13 @@ VExRT = {
 				"AZigy-Nazjatar", -- [8]
 				"EShenaynay", -- [9]
 				"IAhhsoul-Nazjatar", -- [10]
-				["c"] = "Shenaynay-Mannoroth",
-				["k"] = true,
-				["d"] = 15,
-				["eN"] = "Taloc",
-				["t"] = 1537072107,
-				["g"] = 10,
 				["eI"] = 2144,
+				["c"] = "Shenaynay-Mannoroth",
+				["t"] = 1537072107,
+				["eN"] = "Taloc",
+				["d"] = 15,
+				["g"] = 10,
+				["k"] = true,
 			}, -- [11]
 			{
 				"BWhitewolf-Nazjatar", -- [1]
@@ -3385,13 +3385,13 @@ VExRT = {
 				"ETyksu-Nazjatar", -- [18]
 				"GPartypanda-Nazjatar", -- [19]
 				"EMefadin", -- [20]
-				["eN"] = "Taloc",
-				["c"] = "Xchai-Mannoroth",
-				["t"] = 1537234415,
-				["eI"] = 2144,
-				["d"] = 16,
-				["g"] = 20,
 				["k"] = true,
+				["c"] = "Xchai-Mannoroth",
+				["d"] = 16,
+				["eN"] = "Taloc",
+				["t"] = 1537234415,
+				["g"] = 20,
+				["eI"] = 2144,
 			}, -- [12]
 			{
 				"BWhitewolf-Nazjatar", -- [1]
@@ -3424,13 +3424,13 @@ VExRT = {
 				"BNonia-Nazjatar", -- [28]
 				"EMefadin", -- [29]
 				"KTirazul-Nazjatar", -- [30]
-				["k"] = true,
-				["c"] = "Xchai-Mannoroth",
-				["d"] = 15,
-				["eN"] = "Taloc",
-				["t"] = 1537321471,
-				["g"] = 30,
 				["eI"] = 2144,
+				["k"] = true,
+				["t"] = 1537321471,
+				["eN"] = "Taloc",
+				["d"] = 15,
+				["g"] = 30,
+				["c"] = "Xchai-Mannoroth",
 			}, -- [13]
 			{
 				"BWhitewolf-Nazjatar", -- [1]
@@ -3452,21 +3452,21 @@ VExRT = {
 				"KBokk-Nazjatar", -- [17]
 				"CMindbreaker", -- [18]
 				"GStormforged-Nazjatar", -- [19]
-				[30] = "EMefadin",
+				["c"] = "Xchai-Mannoroth",
 				[26] = "KTirazul-Nazjatar",
 				[27] = "BNonia-Nazjatar",
 				[28] = "GPartypanda-Nazjatar",
 				[29] = "ERagër-Nazjatar",
-				["g"] = 27,
+				[30] = "EMefadin",
 				["t"] = 1537412105,
 				["eN"] = "Zul",
-				["eI"] = 2145,
+				[21] = "IAhhsoul-Nazjatar",
 				["k"] = true,
 				["d"] = 15,
-				[21] = "IAhhsoul-Nazjatar",
+				["eI"] = 2145,
 				[22] = "IBrhino",
 				[23] = "JAhshi-Nazjatar",
-				["c"] = "Xchai-Mannoroth",
+				["g"] = 27,
 			}, -- [14]
 			{
 				"IAhhsoul-Nazjatar", -- [1]
@@ -3499,13 +3499,13 @@ VExRT = {
 				"HKelantir-Nazjatar", -- [28]
 				"JTienee-Nazjatar", -- [29]
 				"JVinson-Nazjatar", -- [30]
-				["eN"] = "MOTHER",
-				["c"] = "Xchai-Mannoroth",
-				["t"] = 1537665667,
-				["eI"] = 2141,
-				["d"] = 14,
-				["g"] = 30,
 				["k"] = true,
+				["c"] = "Xchai-Mannoroth",
+				["d"] = 14,
+				["eN"] = "MOTHER",
+				["t"] = 1537665667,
+				["g"] = 30,
+				["eI"] = 2141,
 			}, -- [15]
 			{
 				"ASwiftclever", -- [1]
@@ -3523,13 +3523,13 @@ VExRT = {
 				"BMilenia-Nazjatar", -- [13]
 				"KYeett-Nazjatar", -- [14]
 				"BJercode-Nazjatar", -- [15]
-				["k"] = true,
-				["c"] = "Chaisauce-Mannoroth",
-				["d"] = 15,
-				["eI"] = 2144,
-				["t"] = 1537671196,
-				["g"] = 14,
 				["eN"] = "Taloc",
+				["k"] = true,
+				["t"] = 1537671196,
+				["eI"] = 2144,
+				["d"] = 15,
+				["g"] = 14,
+				["c"] = "Chaisauce-Mannoroth",
 			}, -- [16]
 			{
 				"JTapz-BloodFurnace", -- [1]
@@ -3562,13 +3562,13 @@ VExRT = {
 				"JAhshi-Nazjatar", -- [28]
 				"ERagër-Nazjatar", -- [29]
 				"BNonia-Nazjatar", -- [30]
-				["c"] = "Xchai-Mannoroth",
-				["k"] = true,
-				["d"] = 15,
-				["eN"] = "G'huun",
-				["t"] = 1538020487,
-				["g"] = 26,
 				["eI"] = 2122,
+				["c"] = "Xchai-Mannoroth",
+				["t"] = 1538020487,
+				["eN"] = "G'huun",
+				["d"] = 15,
+				["g"] = 26,
+				["k"] = true,
 			}, -- [17]
 			{
 				"IAhhsoul-Nazjatar", -- [1]
@@ -3593,13 +3593,13 @@ VExRT = {
 				"IBrhino", -- [20]
 				"BChi", -- [21]
 				"KBokk-Nazjatar", -- [22]
-				["eI"] = 2141,
-				["k"] = true,
-				["t"] = 1538270388,
-				["eN"] = "MOTHER",
-				["d"] = 14,
-				["g"] = 18,
 				["c"] = "Xchai-Mannoroth",
+				["k"] = true,
+				["d"] = 14,
+				["eI"] = 2141,
+				["t"] = 1538270388,
+				["g"] = 18,
+				["eN"] = "MOTHER",
 			}, -- [18]
 			{
 				"BWhitewolf-Nazjatar", -- [1]
@@ -3622,13 +3622,13 @@ VExRT = {
 				"JTapz-BloodFurnace", -- [18]
 				"BNonia-Nazjatar", -- [19]
 				"ERagër-Nazjatar", -- [20]
-				["eI"] = 2144,
-				["k"] = true,
-				["t"] = 1538528420,
-				["eN"] = "Taloc",
-				["d"] = 16,
-				["g"] = 20,
 				["c"] = "Xchai-Mannoroth",
+				["k"] = true,
+				["d"] = 16,
+				["eI"] = 2144,
+				["t"] = 1538528420,
+				["g"] = 20,
+				["eN"] = "Taloc",
 			}, -- [19]
 			{
 				"BWhitewolf-Nazjatar", -- [1]
@@ -3660,13 +3660,13 @@ VExRT = {
 				"GPartypanda-Nazjatar", -- [27]
 				"IBrhino", -- [28]
 				"IKotaku-Nazjatar", -- [29]
-				["eI"] = 2145,
-				["k"] = true,
-				["t"] = 1538534963,
-				["eN"] = "Zul",
-				["d"] = 15,
-				["g"] = 29,
 				["c"] = "Xchai-Mannoroth",
+				["k"] = true,
+				["d"] = 15,
+				["eI"] = 2145,
+				["t"] = 1538534963,
+				["g"] = 29,
+				["eN"] = "Zul",
 			}, -- [20]
 			{
 				"BWhitewolf-Nazjatar", -- [1]
@@ -3698,13 +3698,13 @@ VExRT = {
 				"JAhshi-Nazjatar", -- [27]
 				"KTirazul-Nazjatar", -- [28]
 				"GPartypanda-Nazjatar", -- [29]
-				["c"] = "Xchai-Mannoroth",
-				["k"] = true,
-				["d"] = 15,
-				["eI"] = 2122,
-				["t"] = 1538617895,
-				["g"] = 28,
 				["eN"] = "G'huun",
+				["c"] = "Xchai-Mannoroth",
+				["t"] = 1538617895,
+				["eI"] = 2122,
+				["d"] = 15,
+				["g"] = 28,
+				["k"] = true,
 			}, -- [21]
 			{
 				"IDapz", -- [1]
@@ -3730,13 +3730,13 @@ VExRT = {
 				"EKnot-Nazjatar", -- [21]
 				"BGloryhollow-Nazjatar", -- [22]
 				"DXchai", -- [23]
-				["c"] = "Xchai-Mannoroth",
-				["k"] = true,
-				["d"] = 14,
-				["eN"] = "MOTHER",
-				["t"] = 1538875308,
-				["g"] = 22,
 				["eI"] = 2141,
+				["c"] = "Xchai-Mannoroth",
+				["t"] = 1538875308,
+				["eN"] = "MOTHER",
+				["d"] = 14,
+				["g"] = 22,
+				["k"] = true,
 			}, -- [22]
 			{
 				"GVixiv-Nazjatar", -- [1]
@@ -3756,13 +3756,13 @@ VExRT = {
 				"JForgingdeath-Nazjatar", -- [15]
 				"BJohnnybegood-Nazjatar", -- [16]
 				"IKoltharr-Rexxar", -- [17]
-				["eI"] = 2144,
-				["c"] = "Chaisauce-Mannoroth",
-				["t"] = 1538880799,
-				["eN"] = "Taloc",
-				["d"] = 15,
-				["g"] = 17,
 				["k"] = true,
+				["c"] = "Chaisauce-Mannoroth",
+				["d"] = 15,
+				["eI"] = 2144,
+				["t"] = 1538880799,
+				["g"] = 17,
+				["eN"] = "Taloc",
 			}, -- [23]
 			{
 				"CKaup-Zul'jin", -- [1]
@@ -3790,13 +3790,13 @@ VExRT = {
 				"HSmallcatx-Area52", -- [23]
 				"AUdderbutterr-Illidan", -- [24]
 				"DXchai", -- [25]
-				["c"] = "Xchai-Mannoroth",
-				["k"] = true,
-				["d"] = 14,
-				["eI"] = 2141,
-				["t"] = 1539118602,
-				["g"] = 25,
 				["eN"] = "MOTHER",
+				["c"] = "Xchai-Mannoroth",
+				["t"] = 1539118602,
+				["eI"] = 2141,
+				["d"] = 14,
+				["g"] = 25,
+				["k"] = true,
 			}, -- [24]
 			{
 				"BWhitewolf-Nazjatar", -- [1]
@@ -3829,13 +3829,13 @@ VExRT = {
 				"GPartypanda-Nazjatar", -- [28]
 				"BNonia-Nazjatar", -- [29]
 				"JAhshi-Nazjatar", -- [30]
-				["eI"] = 2144,
-				["k"] = true,
-				["t"] = 1539133640,
-				["eN"] = "Taloc",
-				["d"] = 15,
-				["g"] = 30,
 				["c"] = "Xchai-Mannoroth",
+				["k"] = true,
+				["d"] = 15,
+				["eI"] = 2144,
+				["t"] = 1539133640,
+				["g"] = 30,
+				["eN"] = "Taloc",
 			}, -- [25]
 			{
 				"BWhitewolf-Nazjatar", -- [1]
@@ -3868,13 +3868,13 @@ VExRT = {
 				"GPartypanda-Nazjatar", -- [28]
 				"KTrash-BloodFurnace", -- [29]
 				"KBokk-Nazjatar", -- [30]
-				["k"] = true,
-				["c"] = "Xchai-Mannoroth",
-				["d"] = 15,
-				["eN"] = "Mythrax",
-				["t"] = 1539139244,
-				["g"] = 30,
 				["eI"] = 2135,
+				["k"] = true,
+				["t"] = 1539139244,
+				["eN"] = "Mythrax",
+				["d"] = 15,
+				["g"] = 30,
+				["c"] = "Xchai-Mannoroth",
 			}, -- [26]
 			{
 				"BWhitewolf-Nazjatar", -- [1]
@@ -3897,13 +3897,13 @@ VExRT = {
 				"CMindbreaker", -- [18]
 				"ERagër-Nazjatar", -- [19]
 				"CMielyr-Nazjatar", -- [20]
-				["c"] = "Xchai-Mannoroth",
-				["k"] = true,
-				["d"] = 16,
-				["eI"] = 2141,
-				["t"] = 1539221600,
-				["g"] = 20,
 				["eN"] = "MOTHER",
+				["c"] = "Xchai-Mannoroth",
+				["t"] = 1539221600,
+				["eI"] = 2141,
+				["d"] = 16,
+				["g"] = 20,
+				["k"] = true,
 			}, -- [27]
 			{
 				"BJohnnybegood-Nazjatar", -- [1]
@@ -3919,13 +3919,13 @@ VExRT = {
 				"CBenika-Nazjatar", -- [11]
 				"GVixiv-Nazjatar", -- [12]
 				"GPartypanda-Nazjatar", -- [13]
-				["c"] = "Chaisauce-Mannoroth",
-				["k"] = true,
-				["d"] = 14,
-				["eN"] = "Taloc",
-				["t"] = 1539479422,
-				["g"] = 13,
 				["eI"] = 2144,
+				["c"] = "Chaisauce-Mannoroth",
+				["t"] = 1539479422,
+				["eN"] = "Taloc",
+				["d"] = 14,
+				["g"] = 13,
+				["k"] = true,
 			}, -- [28]
 			{
 				"BWhitewolf-Nazjatar", -- [1]
@@ -3953,13 +3953,13 @@ VExRT = {
 				"IAhhsoul-Nazjatar", -- [23]
 				"IBrhino", -- [24]
 				"EKaratoba", -- [25]
-				["c"] = "Xchai-Mannoroth",
-				["k"] = true,
-				["d"] = 15,
-				["eI"] = 2144,
-				["t"] = 1539738472,
-				["g"] = 24,
 				["eN"] = "Taloc",
+				["c"] = "Xchai-Mannoroth",
+				["t"] = 1539738472,
+				["eI"] = 2144,
+				["d"] = 15,
+				["g"] = 24,
+				["k"] = true,
 			}, -- [29]
 			{
 				"BWhitewolf-Nazjatar", -- [1]
@@ -3982,13 +3982,13 @@ VExRT = {
 				"BChi", -- [18]
 				"CMindbreaker", -- [19]
 				"CMielyr-Nazjatar", -- [20]
-				["eN"] = "MOTHER",
-				["c"] = "Xchai-Mannoroth",
-				["t"] = 1539826643,
-				["eI"] = 2141,
-				["d"] = 16,
-				["g"] = 20,
 				["k"] = true,
+				["c"] = "Xchai-Mannoroth",
+				["d"] = 16,
+				["eN"] = "MOTHER",
+				["t"] = 1539826643,
+				["g"] = 20,
+				["eI"] = 2141,
 			}, -- [30]
 			{
 				"BJohnnybegood-Nazjatar", -- [1]
@@ -4009,13 +4009,13 @@ VExRT = {
 				"KBokk-Nazjatar", -- [16]
 				"JForgingdeath-Nazjatar", -- [17]
 				"HPichu-Nazjatar", -- [18]
-				["k"] = true,
-				["c"] = "Chaisauce-Mannoroth",
-				["d"] = 14,
-				["eN"] = "Taloc",
-				["t"] = 1540084335,
-				["g"] = 18,
 				["eI"] = 2144,
+				["k"] = true,
+				["t"] = 1540084335,
+				["eN"] = "Taloc",
+				["d"] = 14,
+				["g"] = 18,
+				["c"] = "Chaisauce-Mannoroth",
 			}, -- [31]
 			{
 				"BWhitewolf-Nazjatar", -- [1]
@@ -4041,13 +4041,13 @@ VExRT = {
 				"GPartypanda-Nazjatar", -- [21]
 				"JTapz-BloodFurnace", -- [22]
 				"AAdversary-Nazjatar", -- [23]
-				["eI"] = 2144,
-				["k"] = true,
-				["t"] = 1540343201,
-				["eN"] = "Taloc",
-				["d"] = 15,
-				["g"] = 23,
 				["c"] = "Xchai-Mannoroth",
+				["k"] = true,
+				["d"] = 15,
+				["eI"] = 2144,
+				["t"] = 1540343201,
+				["g"] = 23,
+				["eN"] = "Taloc",
 			}, -- [32]
 			{
 				"KBokk-Nazjatar", -- [1]
@@ -4070,13 +4070,13 @@ VExRT = {
 				"HSedaith", -- [18]
 				"EMefadin", -- [19]
 				"GPartypanda-Nazjatar", -- [20]
-				["eI"] = 2136,
-				["k"] = true,
-				["t"] = 1540435480,
-				["eN"] = "Zek'voz",
-				["d"] = 16,
-				["g"] = 20,
 				["c"] = "Xchai-Mannoroth",
+				["k"] = true,
+				["d"] = 16,
+				["eI"] = 2136,
+				["t"] = 1540435480,
+				["g"] = 20,
+				["eN"] = "Zek'voz",
 			}, -- [33]
 			{
 				"BJohnnybegood-Nazjatar", -- [1]
@@ -4094,13 +4094,13 @@ VExRT = {
 				"EMefadin", -- [13]
 				"IKotaku-Nazjatar", -- [14]
 				"DCky-BloodFurnace", -- [15]
-				["c"] = "Timberhoo-Mannoroth",
-				["k"] = true,
-				["d"] = 14,
-				["eN"] = "Taloc",
-				["t"] = 1540688676,
-				["g"] = 14,
 				["eI"] = 2144,
+				["c"] = "Timberhoo-Mannoroth",
+				["t"] = 1540688676,
+				["eN"] = "Taloc",
+				["d"] = 14,
+				["g"] = 14,
+				["k"] = true,
 			}, -- [34]
 			{
 				"BJercode-Nazjatar", -- [1]
@@ -4124,14 +4124,14 @@ VExRT = {
 				"HPichu-Nazjatar", -- [19]
 				"KBokk-Nazjatar", -- [20]
 				"CLittlenooky-Nazjatar", -- [21]
-				["c"] = "Xchai-Mannoroth",
-				["eN"] = "Zul",
-				["k"] = true,
-				["t"] = 1540694109,
-				["eI"] = 2145,
-				[26] = "HHakku-Nazjatar",
-				["g"] = 21,
 				["d"] = 14,
+				["eI"] = 2145,
+				["c"] = "Xchai-Mannoroth",
+				[26] = "HHakku-Nazjatar",
+				["eN"] = "Zul",
+				["t"] = 1540694109,
+				["g"] = 21,
+				["k"] = true,
 			}, -- [35]
 			{
 				"BJercode-Nazjatar", -- [1]
@@ -4155,13 +4155,13 @@ VExRT = {
 				"HPichu-Nazjatar", -- [19]
 				"KBokk-Nazjatar", -- [20]
 				"CLittlenooky-Nazjatar", -- [21]
-				["k"] = true,
-				["c"] = "Timberhoo-Mannoroth",
-				["d"] = 14,
-				["eI"] = 2135,
-				["t"] = 1540694714,
-				["g"] = 21,
 				["eN"] = "Mythrax",
+				["k"] = true,
+				["t"] = 1540694714,
+				["eI"] = 2135,
+				["d"] = 14,
+				["g"] = 21,
+				["c"] = "Timberhoo-Mannoroth",
 			}, -- [36]
 			{
 				"BJohnnybegood-Nazjatar", -- [1]
@@ -4180,13 +4180,13 @@ VExRT = {
 				"CLittlenooky-Nazjatar", -- [14]
 				"KKastigore-Nazjatar", -- [15]
 				"ATimberhoo", -- [16]
-				["k"] = true,
-				["c"] = "Timberhoo-Mannoroth",
-				["d"] = 15,
-				["eI"] = 2144,
-				["t"] = 1540697228,
-				["g"] = 16,
 				["eN"] = "Taloc",
+				["k"] = true,
+				["t"] = 1540697228,
+				["eI"] = 2144,
+				["d"] = 15,
+				["g"] = 16,
+				["c"] = "Timberhoo-Mannoroth",
 			}, -- [37]
 			{
 				"BWhitewolf-Nazjatar", -- [1]
@@ -4209,13 +4209,13 @@ VExRT = {
 				"ETyksu-Nazjatar", -- [18]
 				"GPartypanda-Nazjatar", -- [19]
 				"KTirazul-Nazjatar", -- [20]
-				["eI"] = 2144,
-				["k"] = true,
-				["t"] = 1540948291,
-				["eN"] = "Taloc",
-				["d"] = 16,
-				["g"] = 20,
 				["c"] = "Xchai-Mannoroth",
+				["k"] = true,
+				["d"] = 16,
+				["eI"] = 2144,
+				["t"] = 1540948291,
+				["g"] = 20,
+				["eN"] = "Taloc",
 			}, -- [38]
 		},
 		["alts"] = {
@@ -4226,24 +4226,29 @@ VExRT = {
 		["BuffsCheck"] = true,
 		["ReadyCheckFrameTimerFade"] = 4,
 	},
-	["WhoPulled"] = {
+	["BattleRes"] = {
+		["enabled"] = true,
+		["Scale"] = 56,
+		["Left"] = 0,
+		["Alpha"] = 52,
+		["Top"] = 1968.25390625,
 	},
 	["InspectViewer"] = {
 		["ColorizeLowIlvl685"] = false,
 		["ColorizeNoEnch"] = true,
 		["ColorizeNoGems"] = true,
-		["ColorizeLowIlvl"] = true,
 		["ColorizeNoTopEnchGems"] = false,
+		["ColorizeLowIlvl"] = true,
 		["ColorizeNoValorUpgrade"] = false,
 	},
 	["Addon"] = {
-		["Timer"] = 0.1,
-		["Version"] = 3990,
-		["IconMiniMapHide"] = true,
-		["PreVersion"] = 3990,
-		["IconMiniMapLeft"] = 75.7492367189619,
-		["Scale"] = 1,
 		["IconMiniMapTop"] = -25.7303932440738,
+		["Version"] = 3990,
+		["Scale"] = 1,
+		["Timer"] = 0.1,
+		["IconMiniMapLeft"] = 75.7492367189619,
+		["PreVersion"] = 3990,
+		["IconMiniMapHide"] = true,
 	},
 	["InviteTool"] = {
 		["Words"] = "inv",
@@ -4257,6 +4262,8 @@ VExRT = {
 		["OnlyGuild"] = true,
 		["Rank"] = 1,
 	},
+	["Profiles"] = {
+	},
 	["BossWatcher"] = {
 		["optionsDamageGraph"] = true,
 		["fightsNum"] = 2,
@@ -4265,10 +4272,19 @@ VExRT = {
 		["trackingDamageSpells"] = {
 		},
 	},
-	["Profiles"] = {
-	},
 	["Profile"] = "default",
 	["LootLink"] = {
+	},
+	["Bossmods"] = {
+		["Mannoroth"] = {
+		},
+		["Ilgynoth"] = {
+		},
+		["Kormrok"] = {
+		},
+		["ModuleViewed3580"] = true,
+		["Kromog"] = {
+		},
 	},
 	["Note"] = {
 		["BlackNames"] = {
@@ -4283,24 +4299,13 @@ VExRT = {
 		["BlackLastUpdateTime"] = {
 		},
 		["Height"] = 100.000022888184,
-		["FontSize"] = 12,
 		["Black"] = {
 			"", -- [1]
 			"", -- [2]
 			"", -- [3]
 		},
+		["FontSize"] = 12,
 		["OptionsFormatting"] = true,
-	},
-	["Bossmods"] = {
-		["Mannoroth"] = {
-		},
-		["Ilgynoth"] = {
-		},
-		["Kormrok"] = {
-		},
-		["ModuleViewed3580"] = true,
-		["Kromog"] = {
-		},
 	},
 	["Logging"] = {
 	},
@@ -4320,11 +4325,6 @@ VExRT = {
 		["sync_data"] = {
 		},
 	},
-	["BattleRes"] = {
-		["enabled"] = true,
-		["Scale"] = 56,
-		["Top"] = 1968.25390625,
-		["Alpha"] = 52,
-		["Left"] = 0,
+	["WhoPulled"] = {
 	},
 }

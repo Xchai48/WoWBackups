@@ -4,21 +4,21 @@ RSADB = {
 		["LibDualSpec-1.0"] = {
 		},
 	},
+	["global"] = {
+		["ID"] = "350942216493",
+		["revision"] = "510",
+		["version"] = 4,
+	},
 	["profileKeys"] = {
 		["Xchai - Mannoroth"] = "Xchai - Mannoroth",
 		["Dawnel - Mannoroth"] = "Dawnel - Mannoroth",
 		["Ochai - Mannoroth"] = "Ochai - Mannoroth",
 		["Phatbootygrl - Moon Guard"] = "PALADIN",
-		["Timberho - Mannoroth"] = "Timberho - Mannoroth",
-		["Chaichai - Mannoroth"] = "Chaichai - Mannoroth",
-		["Timberhoo - Mannoroth"] = "Xchai - Mannoroth",
 		["Chaisauce - Mannoroth"] = "Chaisauce - Mannoroth",
+		["Timberhoo - Mannoroth"] = "Xchai - Mannoroth",
+		["Chaichai - Mannoroth"] = "Chaichai - Mannoroth",
+		["Timberho - Mannoroth"] = "Timberho - Mannoroth",
 		["Shenaynay - Mannoroth"] = "Xchai - Mannoroth",
-	},
-	["global"] = {
-		["ID"] = "350942216493",
-		["revision"] = "510",
-		["version"] = 4,
 	},
 	["profiles"] = {
 		["Xchai - Mannoroth"] = {
@@ -30,7 +30,7 @@ RSADB = {
 					["InLFG_Party"] = true,
 					["AlwaysAllowWhispers"] = false,
 				},
-				["Class"] = "ROGUE",
+				["Class"] = "WARRIOR",
 			},
 			["Rogue"] = {
 				["Spells"] = {
@@ -45,11 +45,11 @@ RSADB = {
 							},
 						},
 					},
-					["Kick"] = {
-						["Say"] = false,
-					},
 					["CloakOfShadows"] = {
 						["SmartGroup"] = true,
+					},
+					["Kick"] = {
+						["Say"] = false,
 					},
 				},
 			},
@@ -57,8 +57,8 @@ RSADB = {
 				["Warrior"] = true,
 				["Priest"] = true,
 				["Utilities"] = true,
-				["Rogue"] = true,
 				["Racials"] = true,
+				["Rogue"] = true,
 			},
 			["Fixed"] = true,
 			["Warrior"] = {
@@ -77,14 +77,6 @@ RSADB = {
 					},
 				},
 			},
-			["Racials"] = {
-				["Spells"] = {
-					["ArcaneTorrent"] = {
-						["SmartGroup"] = true,
-					},
-				},
-			},
-			["sink20OutputSink"] = "Default",
 			["Priest"] = {
 				["Spells"] = {
 					["GuardianSpirit"] = {
@@ -114,6 +106,14 @@ RSADB = {
 					},
 				},
 			},
+			["sink20OutputSink"] = "Default",
+			["Racials"] = {
+				["Spells"] = {
+					["ArcaneTorrent"] = {
+						["SmartGroup"] = true,
+					},
+				},
+			},
 		},
 		["PALADIN"] = {
 			["Modules"] = {
@@ -128,8 +128,8 @@ RSADB = {
 		},
 		["Dawnel - Mannoroth"] = {
 			["General"] = {
-				["Race"] = "Human",
 				["Class"] = "PALADIN",
+				["Race"] = "Human",
 			},
 			["Modules"] = {
 				["Paladin"] = true,
@@ -143,8 +143,8 @@ RSADB = {
 			},
 			["Fixed"] = true,
 			["General"] = {
-				["Race"] = "Orc",
 				["Class"] = "HUNTER",
+				["Race"] = "Orc",
 			},
 		},
 		["Timberhoo - Mannoroth"] = {
@@ -153,32 +153,8 @@ RSADB = {
 			},
 			["Fixed"] = true,
 			["General"] = {
-				["Class"] = "WARRIOR",
 				["Race"] = "Orc",
-			},
-		},
-		["Timberho - Mannoroth"] = {
-			["Modules"] = {
-				["Racials"] = true,
-				["Utilities"] = true,
-				["Warlock"] = true,
-			},
-			["Fixed"] = true,
-			["General"] = {
-				["Race"] = "Scourge",
-				["Class"] = "WARLOCK",
-			},
-		},
-		["Chaichai - Mannoroth"] = {
-			["Modules"] = {
-				["Racials"] = true,
-				["Mage"] = true,
-				["Utilities"] = true,
-			},
-			["Fixed"] = true,
-			["General"] = {
-				["Race"] = "Goblin",
-				["Class"] = "MAGE",
+				["Class"] = "WARRIOR",
 			},
 		},
 		["Chaisauce - Mannoroth"] = {
@@ -189,8 +165,32 @@ RSADB = {
 			},
 			["Fixed"] = true,
 			["General"] = {
-				["Race"] = "Tauren",
 				["Class"] = "DRUID",
+				["Race"] = "Tauren",
+			},
+		},
+		["Chaichai - Mannoroth"] = {
+			["Modules"] = {
+				["Racials"] = true,
+				["Mage"] = true,
+				["Utilities"] = true,
+			},
+			["Fixed"] = true,
+			["General"] = {
+				["Class"] = "MAGE",
+				["Race"] = "Goblin",
+			},
+		},
+		["Timberho - Mannoroth"] = {
+			["Modules"] = {
+				["Racials"] = true,
+				["Utilities"] = true,
+				["Warlock"] = true,
+			},
+			["Fixed"] = true,
+			["General"] = {
+				["Class"] = "WARLOCK",
+				["Race"] = "Scourge",
 			},
 		},
 		["Shenaynay - Mannoroth"] = {
@@ -199,8 +199,8 @@ RSADB = {
 			},
 			["Fixed"] = true,
 			["General"] = {
-				["Race"] = "BloodElf",
 				["Class"] = "PRIEST",
+				["Race"] = "BloodElf",
 			},
 		},
 	},

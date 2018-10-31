@@ -5,10 +5,10 @@ TomTomDB = {
 		["Dawnel - Mannoroth"] = "Default",
 		["Ochai - Mannoroth"] = "Default",
 		["Phatbootygrl - Moon Guard"] = "Default",
-		["Timberho - Mannoroth"] = "Default",
-		["Chaichai - Mannoroth"] = "Default",
-		["Timberhoo - Mannoroth"] = "Default",
 		["Chaisauce - Mannoroth"] = "Default",
+		["Timberhoo - Mannoroth"] = "Default",
+		["Chaichai - Mannoroth"] = "Default",
+		["Timberho - Mannoroth"] = "Default",
 		["Shenaynay - Mannoroth"] = "Default",
 	},
 	["profiles"] = {
@@ -22,10 +22,10 @@ TomTomWaypointsM = {
 		["Xchai - Mannoroth"] = "Xchai - Mannoroth",
 		["Chaichai - Mannoroth"] = "Chaichai - Mannoroth",
 		["Ochai - Mannoroth"] = "Ochai - Mannoroth",
-		["Timberho - Mannoroth"] = "Timberho - Mannoroth",
+		["Chaisauce - Mannoroth"] = "Chaisauce - Mannoroth",
 		["Phatbootygrl - Moon Guard"] = "Phatbootygrl - Moon Guard",
 		["Timberhoo - Mannoroth"] = "Timberhoo - Mannoroth",
-		["Chaisauce - Mannoroth"] = "Chaisauce - Mannoroth",
+		["Timberho - Mannoroth"] = "Timberho - Mannoroth",
 		["Shenaynay - Mannoroth"] = "Shenaynay - Mannoroth",
 	},
 	["profiles"] = {
@@ -38,18 +38,10 @@ TomTomWaypointsM = {
 					["arrivaldistance"] = 15,
 					["callbacks"] = {
 						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
 						},
 					},
 					["persistent"] = true,
@@ -73,9 +65,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["persistent"] = true,
@@ -91,13 +83,13 @@ TomTomWaypointsM = {
 		},
 		["Ochai - Mannoroth"] = {
 		},
-		["Timberho - Mannoroth"] = {
+		["Chaisauce - Mannoroth"] = {
 		},
 		["Phatbootygrl - Moon Guard"] = {
 		},
 		["Timberhoo - Mannoroth"] = {
 		},
-		["Chaisauce - Mannoroth"] = {
+		["Timberho - Mannoroth"] = {
 		},
 		["Shenaynay - Mannoroth"] = {
 		},

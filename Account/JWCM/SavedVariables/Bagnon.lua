@@ -44,9 +44,9 @@ Bagnon_Sets = {
 			["x"] = -81.33544921875,
 			["borderColor"] = {
 			},
-			["itemScale"] = 1,
-			["scale"] = 1,
 			["alpha"] = 1,
+			["scale"] = 1,
+			["itemScale"] = 1,
 		},
 		["vault"] = {
 			["y"] = 408.000030517578,
@@ -82,11 +82,11 @@ Bagnon_Sets = {
 			},
 			["color"] = {
 			},
-			["x"] = 95,
-			["hiddenRules"] = {
-			},
 			["borderColor"] = {
 			},
+			["hiddenRules"] = {
+			},
+			["x"] = 95,
 		},
 		["guild"] = {
 			["rules"] = {
@@ -124,12 +124,12 @@ Bagnon_Sets = {
 			},
 			["hiddenRules"] = {
 				["misc"] = false,
-				["contain"] = false,
+				["use"] = false,
 				["trade"] = false,
 				["equip"] = false,
 				["all"] = false,
 				["quest"] = false,
-				["use"] = false,
+				["contain"] = false,
 			},
 			["y"] = -332.166442871094,
 			["x"] = -640,
@@ -173,16 +173,16 @@ Bagnon_Sets = {
 			},
 			["hiddenRules"] = {
 			},
-			["alpha"] = 1,
+			["y"] = -144.000045776367,
 			["bagBreak"] = true,
 			["x"] = -824.999877929688,
+			["bagFrame"] = true,
 			["showBags"] = true,
+			["itemScale"] = 1,
+			["scale"] = 1,
 			["borderColor"] = {
 			},
-			["scale"] = 1,
-			["itemScale"] = 1,
-			["bagFrame"] = true,
-			["y"] = -144.000045776367,
+			["alpha"] = 1,
 		},
 	},
 	["glowAlpha"] = 0.5,
@@ -196,14 +196,14 @@ Bagnon_Sets = {
 	},
 	["inscribeColor"] = {
 	},
-	["enchantColor"] = {
-	},
-	["normalColor"] = {
-	},
-	["herbColor"] = {
+	["leatherColor"] = {
 	},
 	["tackleColor"] = {
 	},
-	["leatherColor"] = {
+	["herbColor"] = {
+	},
+	["normalColor"] = {
+	},
+	["enchantColor"] = {
 	},
 }

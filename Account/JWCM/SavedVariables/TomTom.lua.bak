@@ -5,10 +5,10 @@ TomTomDB = {
 		["Dawnel - Mannoroth"] = "Default",
 		["Ochai - Mannoroth"] = "Default",
 		["Phatbootygrl - Moon Guard"] = "Default",
-		["Chaisauce - Mannoroth"] = "Default",
-		["Timberhoo - Mannoroth"] = "Default",
-		["Chaichai - Mannoroth"] = "Default",
 		["Timberho - Mannoroth"] = "Default",
+		["Chaichai - Mannoroth"] = "Default",
+		["Timberhoo - Mannoroth"] = "Default",
+		["Chaisauce - Mannoroth"] = "Default",
 		["Shenaynay - Mannoroth"] = "Default",
 	},
 	["profiles"] = {
@@ -22,10 +22,10 @@ TomTomWaypointsM = {
 		["Xchai - Mannoroth"] = "Xchai - Mannoroth",
 		["Chaichai - Mannoroth"] = "Chaichai - Mannoroth",
 		["Ochai - Mannoroth"] = "Ochai - Mannoroth",
-		["Chaisauce - Mannoroth"] = "Chaisauce - Mannoroth",
+		["Timberho - Mannoroth"] = "Timberho - Mannoroth",
 		["Phatbootygrl - Moon Guard"] = "Phatbootygrl - Moon Guard",
 		["Timberhoo - Mannoroth"] = "Timberhoo - Mannoroth",
-		["Timberho - Mannoroth"] = "Timberho - Mannoroth",
+		["Chaisauce - Mannoroth"] = "Chaisauce - Mannoroth",
 		["Shenaynay - Mannoroth"] = "Shenaynay - Mannoroth",
 	},
 	["profiles"] = {
@@ -73,9 +73,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
@@ -91,13 +91,13 @@ TomTomWaypointsM = {
 		},
 		["Ochai - Mannoroth"] = {
 		},
-		["Chaisauce - Mannoroth"] = {
+		["Timberho - Mannoroth"] = {
 		},
 		["Phatbootygrl - Moon Guard"] = {
 		},
 		["Timberhoo - Mannoroth"] = {
 		},
-		["Timberho - Mannoroth"] = {
+		["Chaisauce - Mannoroth"] = {
 		},
 		["Shenaynay - Mannoroth"] = {
 		},

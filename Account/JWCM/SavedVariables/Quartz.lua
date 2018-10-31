@@ -18,8 +18,6 @@ Quartz3DB = {
 				},
 			},
 		},
-		["EnemyCasts"] = {
-		},
 		["Player"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -28,6 +26,8 @@ Quartz3DB = {
 					["x"] = 917.221984863281,
 				},
 			},
+		},
+		["EnemyCasts"] = {
 		},
 		["GCD"] = {
 		},
@@ -49,9 +49,9 @@ Quartz3DB = {
 				},
 			},
 		},
-		["Range"] = {
-		},
 		["Mirror"] = {
+		},
+		["Range"] = {
 		},
 		["Latency"] = {
 		},
@@ -61,10 +61,10 @@ Quartz3DB = {
 		["Dawnel - Mannoroth"] = "Default",
 		["Ochai - Mannoroth"] = "Default",
 		["Phatbootygrl - Moon Guard"] = "Default",
-		["Chaisauce - Mannoroth"] = "Default",
-		["Chaichai - Mannoroth"] = "Default",
-		["Timberhoo - Mannoroth"] = "Default",
 		["Timberho - Mannoroth"] = "Default",
+		["Timberhoo - Mannoroth"] = "Default",
+		["Chaichai - Mannoroth"] = "Default",
+		["Chaisauce - Mannoroth"] = "Default",
 		["Shenaynay - Mannoroth"] = "Default",
 	},
 	["profiles"] = {

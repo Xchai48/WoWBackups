@@ -1,5 +1,7 @@
 
 OmniCC4Config = {
+	["groups"] = {
+	},
 	["version"] = "8.0.9",
 	["groupSettings"] = {
 		["base"] = {
@@ -24,7 +26,7 @@ OmniCC4Config = {
 				},
 			},
 			["effect"] = "pulse",
-			["fontSize"] = 18,
+			["mmSSDuration"] = 0,
 			["spiralOpacity"] = 1.00999997742474,
 			["yOff"] = 0,
 			["xOff"] = 0,
@@ -33,9 +35,7 @@ OmniCC4Config = {
 			["minSize"] = 0.49,
 			["minEffectDuration"] = 30,
 			["minDuration"] = 2.29999995231628,
-			["mmSSDuration"] = 0,
+			["fontSize"] = 18,
 		},
-	},
-	["groups"] = {
 	},
 }

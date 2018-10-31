@@ -20,14 +20,6 @@ dbBFA = {
 			["firstun"] = false,
 		},
 	},
-	["global"] = {
-		["silent"] = true,
-		["warn01_seen"] = 0,
-		["firstrun"] = false,
-		["news"] = {
-		},
-		["warn02_seen"] = 0,
-	},
 	["profileKeys"] = {
 		["Xchai - Mannoroth"] = "Default",
 		["Timberhoo - Mannoroth"] = "Default",
@@ -35,6 +27,14 @@ dbBFA = {
 		["Chaichai - Mannoroth"] = "Default",
 		["Chaisauce - Mannoroth"] = "Default",
 		["Shenaynay - Mannoroth"] = "Default",
+	},
+	["global"] = {
+		["silent"] = true,
+		["warn01_seen"] = 0,
+		["firstrun"] = false,
+		["news"] = {
+		},
+		["warn02_seen"] = 0,
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -58,22 +58,22 @@ dbBFA = {
 				["PREFERHIGH"] = false,
 				["NOTROOPS"] = false,
 				["MAKEITQUICK"] = false,
-				["MAXCHAMP"] = 3,
 				["TROOPALERT"] = true,
+				["MAXCHAMP"] = 3,
 				["IGNOREBUSY"] = true,
 				["BASECHANCE"] = 0,
 			},
+			["showmenu"] = false,
 			["blacklist"] = {
 				[1933] = false,
 				[1937] = false,
-				[2077] = false,
+				[1879] = false,
 				[1959] = false,
 				[1935] = false,
-				[1931] = false,
 				[1949] = false,
-				[1879] = false,
+				[1931] = false,
+				[2077] = false,
 			},
-			["showmenu"] = false,
 		},
 	},
 }

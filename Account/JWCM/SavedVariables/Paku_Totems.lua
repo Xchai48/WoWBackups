@@ -4,10 +4,10 @@ Paku_Totems_DB = {
 		["Xchai - Mannoroth"] = "Default",
 		["Timberhoo - Mannoroth"] = "Default",
 		["Ochai - Mannoroth"] = "Default",
-		["Timberho - Mannoroth"] = "Default",
+		["Chaisauce - Mannoroth"] = "Default",
 		["Phatbootygrl - Moon Guard"] = "Default",
 		["Chaichai - Mannoroth"] = "Default",
-		["Chaisauce - Mannoroth"] = "Default",
+		["Timberho - Mannoroth"] = "Default",
 		["Shenaynay - Mannoroth"] = "Default",
 	},
 }

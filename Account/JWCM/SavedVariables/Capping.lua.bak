@@ -4,9 +4,9 @@ CappingSettings = {
 		["Xchai - Mannoroth"] = "Default",
 		["Timberhoo - Mannoroth"] = "Default",
 		["Ochai - Mannoroth"] = "Default",
-		["Chaisauce - Mannoroth"] = "Default",
-		["Chaichai - Mannoroth"] = "Default",
 		["Timberho - Mannoroth"] = "Default",
+		["Chaichai - Mannoroth"] = "Default",
+		["Chaisauce - Mannoroth"] = "Default",
 		["Shenaynay - Mannoroth"] = "Default",
 	},
 	["profiles"] = {

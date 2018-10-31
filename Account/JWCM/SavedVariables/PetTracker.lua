@@ -5,10 +5,6 @@ PetTracker_Sets = {
 	["MapFilter"] = "",
 	["HideSpecies"] = true,
 	["HideStables"] = true,
-	["MainTutorial"] = 6,
-	["TamerHistory"] = {
-	},
-	["RivalSearch"] = "",
 	["RivalHistory"] = {
 		[67370] = {
 			"16ca0073263264000010039DFE63092f21880000080ADC7361f70ad54a000004C20717", -- [1]
@@ -20,4 +16,8 @@ PetTracker_Sets = {
 			"16c903ea1883d90000103C0F7893092f21880000080ADC730073263264000010039DFE", -- [3]
 		},
 	},
+	["TamerHistory"] = {
+	},
+	["RivalSearch"] = "",
+	["MainTutorial"] = 6,
 }

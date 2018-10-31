@@ -5,18 +5,18 @@ HandyNotesDB = {
 		["Dawnel - Mannoroth"] = "Dawnel - Mannoroth",
 		["Ochai - Mannoroth"] = "Ochai - Mannoroth",
 		["Phatbootygrl - Moon Guard"] = "Phatbootygrl - Moon Guard",
-		["Chaisauce - Mannoroth"] = "Xchai - Mannoroth",
-		["Chaichai - Mannoroth"] = "Xchai - Mannoroth",
-		["Timberhoo - Mannoroth"] = "Timberhoo - Mannoroth",
 		["Timberho - Mannoroth"] = "Timberho - Mannoroth",
+		["Timberhoo - Mannoroth"] = "Timberhoo - Mannoroth",
+		["Chaichai - Mannoroth"] = "Xchai - Mannoroth",
+		["Chaisauce - Mannoroth"] = "Xchai - Mannoroth",
 		["Shenaynay - Mannoroth"] = "Shenaynay - Mannoroth",
 	},
 	["profiles"] = {
 		["Xchai - Mannoroth"] = {
-			["icon_scale"] = 0.9,
-			["icon_alpha_minimap"] = 0.66,
-			["icon_scale_minimap"] = 0.99,
 			["icon_alpha"] = 0.66,
+			["icon_alpha_minimap"] = 0.66,
+			["icon_scale"] = 0.9,
+			["icon_scale_minimap"] = 0.99,
 		},
 		["Dawnel - Mannoroth"] = {
 		},
@@ -24,13 +24,13 @@ HandyNotesDB = {
 		},
 		["Phatbootygrl - Moon Guard"] = {
 		},
-		["Chaisauce - Mannoroth"] = {
-		},
-		["Chaichai - Mannoroth"] = {
+		["Timberho - Mannoroth"] = {
 		},
 		["Timberhoo - Mannoroth"] = {
 		},
-		["Timberho - Mannoroth"] = {
+		["Chaichai - Mannoroth"] = {
+		},
+		["Chaisauce - Mannoroth"] = {
 		},
 		["Shenaynay - Mannoroth"] = {
 		},
@@ -42,10 +42,10 @@ HandyNotes_HandyNotesDB = {
 		["Dawnel - Mannoroth"] = "Dawnel - Mannoroth",
 		["Ochai - Mannoroth"] = "Ochai - Mannoroth",
 		["Phatbootygrl - Moon Guard"] = "Phatbootygrl - Moon Guard",
-		["Chaisauce - Mannoroth"] = "Chaisauce - Mannoroth",
-		["Chaichai - Mannoroth"] = "Chaichai - Mannoroth",
-		["Timberhoo - Mannoroth"] = "Timberhoo - Mannoroth",
 		["Timberho - Mannoroth"] = "Timberho - Mannoroth",
+		["Timberhoo - Mannoroth"] = "Timberhoo - Mannoroth",
+		["Chaichai - Mannoroth"] = "Chaichai - Mannoroth",
+		["Chaisauce - Mannoroth"] = "Chaisauce - Mannoroth",
 		["Shenaynay - Mannoroth"] = "Shenaynay - Mannoroth",
 	},
 	["profiles"] = {
@@ -57,13 +57,13 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Phatbootygrl - Moon Guard"] = {
 		},
-		["Chaisauce - Mannoroth"] = {
-		},
-		["Chaichai - Mannoroth"] = {
+		["Timberho - Mannoroth"] = {
 		},
 		["Timberhoo - Mannoroth"] = {
 		},
-		["Timberho - Mannoroth"] = {
+		["Chaichai - Mannoroth"] = {
+		},
+		["Chaisauce - Mannoroth"] = {
 		},
 		["Shenaynay - Mannoroth"] = {
 		},

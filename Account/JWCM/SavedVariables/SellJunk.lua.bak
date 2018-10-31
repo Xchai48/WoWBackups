@@ -31,10 +31,10 @@ SellJunkDB = {
 		["Dawnel - Mannoroth"] = "Dawnel - Mannoroth",
 		["Ochai - Mannoroth"] = "Ochai - Mannoroth",
 		["Phatbootygrl - Moon Guard"] = "Phatbootygrl - Moon Guard",
-		["Chaisauce - Mannoroth"] = "Chaisauce - Mannoroth",
-		["Timberhoo - Mannoroth"] = "Timberhoo - Mannoroth",
-		["Chaichai - Mannoroth"] = "Chaichai - Mannoroth",
 		["Timberho - Mannoroth"] = "Timberho - Mannoroth",
+		["Chaichai - Mannoroth"] = "Chaichai - Mannoroth",
+		["Timberhoo - Mannoroth"] = "Timberhoo - Mannoroth",
+		["Chaisauce - Mannoroth"] = "Chaisauce - Mannoroth",
 		["Shenaynay - Mannoroth"] = "Shenaynay - Mannoroth",
 	},
 	["global"] = {

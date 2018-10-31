@@ -25,15 +25,44 @@ Prat3DB = {
 		},
 		["Prat_UrlCopy"] = {
 		},
-		["Prat_Bubbles"] = {
+		["Prat_KeyBindings"] = {
 		},
 		["Prat_ChannelNames"] = {
 		},
-		["Prat_KeyBindings"] = {
+		["Prat_Bubbles"] = {
+		},
+		["Prat_Scroll"] = {
 		},
 		["Prat_Sounds"] = {
 		},
-		["Prat_Scroll"] = {
+		["Prat_ChannelSticky"] = {
+		},
+		["Prat_Achievements"] = {
+			["profiles"] = {
+				["Default"] = {
+					["showCompletedDate"] = false,
+				},
+			},
+		},
+		["Prat_ChatLog"] = {
+		},
+		["Prat_Alias"] = {
+		},
+		["Prat_OriginalButtons"] = {
+		},
+		["Prat_Highlight"] = {
+		},
+		["Prat_PopupMessage"] = {
+		},
+		["Prat_History"] = {
+		},
+		["Prat_Invites"] = {
+		},
+		["Prat_Paragraph"] = {
+		},
+		["Prat_CopyChat"] = {
+		},
+		["Prat_Timestamps"] = {
 		},
 		["Prat_Font"] = {
 			["profiles"] = {
@@ -50,35 +79,6 @@ Prat3DB = {
 				},
 			},
 		},
-		["Prat_Achievements"] = {
-			["profiles"] = {
-				["Default"] = {
-					["showCompletedDate"] = false,
-				},
-			},
-		},
-		["Prat_Timestamps"] = {
-		},
-		["Prat_Alias"] = {
-		},
-		["Prat_OriginalButtons"] = {
-		},
-		["Prat_Highlight"] = {
-		},
-		["Prat_PopupMessage"] = {
-		},
-		["Prat_Paragraph"] = {
-		},
-		["Prat_Invites"] = {
-		},
-		["Prat_History"] = {
-		},
-		["Prat_CopyChat"] = {
-		},
-		["Prat_ChatLog"] = {
-		},
-		["Prat_ChannelSticky"] = {
-		},
 		["Prat_Buttons"] = {
 		},
 		["Prat_ServerNames"] = {
@@ -91,23 +91,23 @@ Prat3DB = {
 		["Dawnel - Mannoroth"] = "Default",
 		["Ochai - Mannoroth"] = "Default",
 		["Phatbootygrl - Moon Guard"] = "Default",
-		["Chaisauce - Mannoroth"] = "Default",
-		["Timberhoo - Mannoroth"] = "Default",
-		["Chaichai - Mannoroth"] = "Default",
 		["Timberho - Mannoroth"] = "Default",
+		["Chaichai - Mannoroth"] = "Default",
+		["Timberhoo - Mannoroth"] = "Default",
+		["Chaisauce - Mannoroth"] = "Default",
 		["Shenaynay - Mannoroth"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["modules"] = {
-				["ChatLog"] = 2,
+				["Alias"] = 2,
 				["PopupMessage"] = 2,
 				["AltNames"] = 2,
 				["Sounds"] = 2,
 				["Paragraph"] = 2,
 				["KeyBindings"] = 2,
 				["OriginalButtons"] = 2,
-				["Alias"] = 2,
+				["ChatLog"] = 2,
 			},
 		},
 	},

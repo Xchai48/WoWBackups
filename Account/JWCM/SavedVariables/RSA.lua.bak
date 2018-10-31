@@ -4,21 +4,21 @@ RSADB = {
 		["LibDualSpec-1.0"] = {
 		},
 	},
-	["global"] = {
-		["ID"] = "350942216493",
-		["revision"] = "510",
-		["version"] = 4,
-	},
 	["profileKeys"] = {
 		["Xchai - Mannoroth"] = "Xchai - Mannoroth",
 		["Dawnel - Mannoroth"] = "Dawnel - Mannoroth",
 		["Ochai - Mannoroth"] = "Ochai - Mannoroth",
 		["Phatbootygrl - Moon Guard"] = "PALADIN",
-		["Chaisauce - Mannoroth"] = "Chaisauce - Mannoroth",
-		["Timberhoo - Mannoroth"] = "Xchai - Mannoroth",
-		["Chaichai - Mannoroth"] = "Chaichai - Mannoroth",
 		["Timberho - Mannoroth"] = "Timberho - Mannoroth",
+		["Chaichai - Mannoroth"] = "Chaichai - Mannoroth",
+		["Timberhoo - Mannoroth"] = "Xchai - Mannoroth",
+		["Chaisauce - Mannoroth"] = "Chaisauce - Mannoroth",
 		["Shenaynay - Mannoroth"] = "Xchai - Mannoroth",
+	},
+	["global"] = {
+		["ID"] = "350942216493",
+		["revision"] = "510",
+		["version"] = 4,
 	},
 	["profiles"] = {
 		["Xchai - Mannoroth"] = {
@@ -45,11 +45,11 @@ RSADB = {
 							},
 						},
 					},
-					["CloakOfShadows"] = {
-						["SmartGroup"] = true,
-					},
 					["Kick"] = {
 						["Say"] = false,
+					},
+					["CloakOfShadows"] = {
+						["SmartGroup"] = true,
 					},
 				},
 			},
@@ -57,8 +57,8 @@ RSADB = {
 				["Warrior"] = true,
 				["Priest"] = true,
 				["Utilities"] = true,
-				["Racials"] = true,
 				["Rogue"] = true,
+				["Racials"] = true,
 			},
 			["Fixed"] = true,
 			["Warrior"] = {
@@ -77,6 +77,14 @@ RSADB = {
 					},
 				},
 			},
+			["Racials"] = {
+				["Spells"] = {
+					["ArcaneTorrent"] = {
+						["SmartGroup"] = true,
+					},
+				},
+			},
+			["sink20OutputSink"] = "Default",
 			["Priest"] = {
 				["Spells"] = {
 					["GuardianSpirit"] = {
@@ -106,14 +114,6 @@ RSADB = {
 					},
 				},
 			},
-			["sink20OutputSink"] = "Default",
-			["Racials"] = {
-				["Spells"] = {
-					["ArcaneTorrent"] = {
-						["SmartGroup"] = true,
-					},
-				},
-			},
 		},
 		["PALADIN"] = {
 			["Modules"] = {
@@ -128,8 +128,8 @@ RSADB = {
 		},
 		["Dawnel - Mannoroth"] = {
 			["General"] = {
-				["Class"] = "PALADIN",
 				["Race"] = "Human",
+				["Class"] = "PALADIN",
 			},
 			["Modules"] = {
 				["Paladin"] = true,
@@ -143,8 +143,8 @@ RSADB = {
 			},
 			["Fixed"] = true,
 			["General"] = {
-				["Class"] = "HUNTER",
 				["Race"] = "Orc",
+				["Class"] = "HUNTER",
 			},
 		},
 		["Timberhoo - Mannoroth"] = {
@@ -153,32 +153,8 @@ RSADB = {
 			},
 			["Fixed"] = true,
 			["General"] = {
-				["Race"] = "Orc",
 				["Class"] = "WARRIOR",
-			},
-		},
-		["Chaisauce - Mannoroth"] = {
-			["Modules"] = {
-				["Racials"] = true,
-				["Druid"] = true,
-				["Utilities"] = true,
-			},
-			["Fixed"] = true,
-			["General"] = {
-				["Class"] = "DRUID",
-				["Race"] = "Tauren",
-			},
-		},
-		["Chaichai - Mannoroth"] = {
-			["Modules"] = {
-				["Racials"] = true,
-				["Mage"] = true,
-				["Utilities"] = true,
-			},
-			["Fixed"] = true,
-			["General"] = {
-				["Class"] = "MAGE",
-				["Race"] = "Goblin",
+				["Race"] = "Orc",
 			},
 		},
 		["Timberho - Mannoroth"] = {
@@ -189,8 +165,32 @@ RSADB = {
 			},
 			["Fixed"] = true,
 			["General"] = {
-				["Class"] = "WARLOCK",
 				["Race"] = "Scourge",
+				["Class"] = "WARLOCK",
+			},
+		},
+		["Chaichai - Mannoroth"] = {
+			["Modules"] = {
+				["Racials"] = true,
+				["Mage"] = true,
+				["Utilities"] = true,
+			},
+			["Fixed"] = true,
+			["General"] = {
+				["Race"] = "Goblin",
+				["Class"] = "MAGE",
+			},
+		},
+		["Chaisauce - Mannoroth"] = {
+			["Modules"] = {
+				["Racials"] = true,
+				["Druid"] = true,
+				["Utilities"] = true,
+			},
+			["Fixed"] = true,
+			["General"] = {
+				["Race"] = "Tauren",
+				["Class"] = "DRUID",
 			},
 		},
 		["Shenaynay - Mannoroth"] = {
@@ -199,8 +199,8 @@ RSADB = {
 			},
 			["Fixed"] = true,
 			["General"] = {
-				["Class"] = "PRIEST",
 				["Race"] = "BloodElf",
+				["Class"] = "PRIEST",
 			},
 		},
 	},
