@@ -133,3 +133,5 @@ AtlasLoot_BattleforAzeroth: enabled
 MethodDungeonTools: enabled
 Gladius: disabled
 AllTheThings: disabled
+AltMailer: disabled
+Capping_Options: enabled

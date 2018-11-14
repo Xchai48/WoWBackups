@@ -3,6 +3,7 @@ TomTomDB = {
 	["profileKeys"] = {
 		["Xchai - Mannoroth"] = "Default",
 		["Dawnel - Mannoroth"] = "Default",
+		["Flexchai - Mannoroth"] = "Default",
 		["Ochai - Mannoroth"] = "Default",
 		["Phatbootygrl - Moon Guard"] = "Default",
 		["Chaisauce - Mannoroth"] = "Default",
@@ -20,11 +21,13 @@ TomTomWaypoints = nil
 TomTomWaypointsM = {
 	["profileKeys"] = {
 		["Xchai - Mannoroth"] = "Xchai - Mannoroth",
+		["Phatbootygrl - Moon Guard"] = "Phatbootygrl - Moon Guard",
+		["Flexchai - Mannoroth"] = "Flexchai - Mannoroth",
+		["Timberhoo - Mannoroth"] = "Timberhoo - Mannoroth",
+		["Dawnel - Mannoroth"] = "Dawnel - Mannoroth",
+		["Chaisauce - Mannoroth"] = "Chaisauce - Mannoroth",
 		["Chaichai - Mannoroth"] = "Chaichai - Mannoroth",
 		["Ochai - Mannoroth"] = "Ochai - Mannoroth",
-		["Chaisauce - Mannoroth"] = "Chaisauce - Mannoroth",
-		["Phatbootygrl - Moon Guard"] = "Phatbootygrl - Moon Guard",
-		["Timberhoo - Mannoroth"] = "Timberhoo - Mannoroth",
 		["Timberho - Mannoroth"] = "Timberho - Mannoroth",
 		["Shenaynay - Mannoroth"] = "Shenaynay - Mannoroth",
 	},
@@ -39,9 +42,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
@@ -55,6 +58,16 @@ TomTomWaypointsM = {
 				},
 			},
 		},
+		["Phatbootygrl - Moon Guard"] = {
+		},
+		["Flexchai - Mannoroth"] = {
+		},
+		["Timberhoo - Mannoroth"] = {
+		},
+		["Dawnel - Mannoroth"] = {
+		},
+		["Chaisauce - Mannoroth"] = {
+		},
 		["Chaichai - Mannoroth"] = {
 			[1033] = {
 				["1033:658100000:419100000:Shimmering Ancient Mana Cluster"] = {
@@ -65,9 +78,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
@@ -82,12 +95,6 @@ TomTomWaypointsM = {
 			},
 		},
 		["Ochai - Mannoroth"] = {
-		},
-		["Chaisauce - Mannoroth"] = {
-		},
-		["Phatbootygrl - Moon Guard"] = {
-		},
-		["Timberhoo - Mannoroth"] = {
 		},
 		["Timberho - Mannoroth"] = {
 		},

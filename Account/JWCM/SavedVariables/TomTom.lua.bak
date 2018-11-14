@@ -3,6 +3,7 @@ TomTomDB = {
 	["profileKeys"] = {
 		["Xchai - Mannoroth"] = "Default",
 		["Dawnel - Mannoroth"] = "Default",
+		["Flexchai - Mannoroth"] = "Default",
 		["Ochai - Mannoroth"] = "Default",
 		["Phatbootygrl - Moon Guard"] = "Default",
 		["Timberho - Mannoroth"] = "Default",
@@ -20,11 +21,13 @@ TomTomWaypoints = nil
 TomTomWaypointsM = {
 	["profileKeys"] = {
 		["Xchai - Mannoroth"] = "Xchai - Mannoroth",
-		["Chaichai - Mannoroth"] = "Chaichai - Mannoroth",
-		["Ochai - Mannoroth"] = "Ochai - Mannoroth",
-		["Timberho - Mannoroth"] = "Timberho - Mannoroth",
 		["Phatbootygrl - Moon Guard"] = "Phatbootygrl - Moon Guard",
+		["Flexchai - Mannoroth"] = "Flexchai - Mannoroth",
 		["Timberhoo - Mannoroth"] = "Timberhoo - Mannoroth",
+		["Dawnel - Mannoroth"] = "Dawnel - Mannoroth",
+		["Timberho - Mannoroth"] = "Timberho - Mannoroth",
+		["Ochai - Mannoroth"] = "Ochai - Mannoroth",
+		["Chaichai - Mannoroth"] = "Chaichai - Mannoroth",
 		["Chaisauce - Mannoroth"] = "Chaisauce - Mannoroth",
 		["Shenaynay - Mannoroth"] = "Shenaynay - Mannoroth",
 	},
@@ -38,18 +41,10 @@ TomTomWaypointsM = {
 					["arrivaldistance"] = 15,
 					["callbacks"] = {
 						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
 						},
 					},
 					["persistent"] = true,
@@ -63,6 +58,18 @@ TomTomWaypointsM = {
 				},
 			},
 		},
+		["Phatbootygrl - Moon Guard"] = {
+		},
+		["Flexchai - Mannoroth"] = {
+		},
+		["Timberhoo - Mannoroth"] = {
+		},
+		["Dawnel - Mannoroth"] = {
+		},
+		["Timberho - Mannoroth"] = {
+		},
+		["Ochai - Mannoroth"] = {
+		},
 		["Chaichai - Mannoroth"] = {
 			[1033] = {
 				["1033:658100000:419100000:Shimmering Ancient Mana Cluster"] = {
@@ -73,9 +80,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["persistent"] = true,
@@ -88,14 +95,6 @@ TomTomWaypointsM = {
 					["world"] = true,
 				},
 			},
-		},
-		["Ochai - Mannoroth"] = {
-		},
-		["Timberho - Mannoroth"] = {
-		},
-		["Phatbootygrl - Moon Guard"] = {
-		},
-		["Timberhoo - Mannoroth"] = {
 		},
 		["Chaisauce - Mannoroth"] = {
 		},

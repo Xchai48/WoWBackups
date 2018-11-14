@@ -2,21 +2,24 @@
 CappingSettings = {
 	["profileKeys"] = {
 		["Xchai - Mannoroth"] = "Default",
-		["Timberhoo - Mannoroth"] = "Default",
-		["Ochai - Mannoroth"] = "Default",
-		["Timberho - Mannoroth"] = "Default",
+		["Dawnel - Mannoroth"] = "Default",
+		["Flexchai - Mannoroth"] = "Default",
 		["Chaichai - Mannoroth"] = "Default",
+		["Timberhoo - Mannoroth"] = "Default",
+		["Timberho - Mannoroth"] = "Default",
+		["Ochai - Mannoroth"] = "Default",
 		["Chaisauce - Mannoroth"] = "Default",
 		["Shenaynay - Mannoroth"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["position"] = {
-				"TOP", -- [1]
-				"TOP", -- [2]
-				-356.667358398438, -- [3]
-				-1.38904523849487, -- [4]
+				"TOPLEFT", -- [1]
+				"TOPLEFT", -- [2]
+				2.2215747833252, -- [3]
+				-161.389068603516, -- [4]
 			},
+			["lock"] = true,
 		},
 	},
 }

@@ -59,6 +59,7 @@ Quartz3DB = {
 	["profileKeys"] = {
 		["Xchai - Mannoroth"] = "Default",
 		["Dawnel - Mannoroth"] = "Default",
+		["Flexchai - Mannoroth"] = "Default",
 		["Ochai - Mannoroth"] = "Default",
 		["Phatbootygrl - Moon Guard"] = "Default",
 		["Timberho - Mannoroth"] = "Default",

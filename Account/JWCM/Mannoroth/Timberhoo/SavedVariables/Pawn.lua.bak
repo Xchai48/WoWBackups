@@ -4,7 +4,6 @@ PawnOptions = {
 	["LastPlayerFullName"] = "Timberhoo-Mannoroth",
 	["AutoSelectScales"] = false,
 	["UpgradeTracking"] = false,
-	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128289] = {
 			["Relics"] = {
@@ -24,6 +23,7 @@ PawnOptions = {
 			["Name"] = "Scale of the Earth-Warder",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "WARRIOR",

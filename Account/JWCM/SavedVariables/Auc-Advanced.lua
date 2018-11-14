@@ -25,7 +25,7 @@ AucAdvancedConfig = {
 				["priceperitem"] = true,
 			},
 			["ahwindowcontrol"] = {
-				["ahframeanchors"] = "TOPLEFT:TOPLEFT:48.2:-110.5",
+				["ahframeanchors"] = "TOPLEFT:TOPLEFT:16.0:-116.0",
 			},
 		},
 		["stat"] = {
@@ -71,7 +71,7 @@ AucAdvancedServers = {
 	},
 	["Timestamp"] = 1530751529,
 	["KnownServerKeys"] = {
-		["#Mannoroth"] = 1541003084,
+		["#Mannoroth"] = 1542220855,
 		["MoonGuard"] = 1538201661,
 	},
 	["ExpandedNames"] = {

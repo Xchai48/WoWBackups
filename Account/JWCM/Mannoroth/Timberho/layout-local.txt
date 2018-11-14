@@ -1,4 +1,11 @@
 Version: 1
+Frame: MonkeySpeedFrame
+FrameLevel: 1
+Anchor: TOPRIGHT
+X: -8
+Y: -193
+W: 110
+H: 30
 Frame: PlayerFrame
 FrameLevel: 1
 Anchor: LEFT
@@ -13,6 +20,13 @@ X: -17
 Y: -26
 W: 56
 H: 42
+Frame: AuctionFrame
+FrameLevel: 1
+Anchor: TOPLEFT
+X: 16
+Y: -116
+W: 832
+H: 447
 Frame: TargetFrame
 FrameLevel: 1
 Anchor: RIGHT

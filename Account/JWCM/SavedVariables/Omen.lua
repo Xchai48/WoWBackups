@@ -3,6 +3,7 @@ Omen3DB = {
 	["profileKeys"] = {
 		["Xchai - Mannoroth"] = "Xchai - Mannoroth",
 		["Dawnel - Mannoroth"] = "Dawnel - Mannoroth",
+		["Flexchai - Mannoroth"] = "Flexchai - Mannoroth",
 		["Ochai - Mannoroth"] = "Xchai - Mannoroth",
 		["Phatbootygrl - Moon Guard"] = "Phatbootygrl - Moon Guard",
 		["Timberho - Mannoroth"] = "Xchai - Mannoroth",
@@ -13,18 +14,18 @@ Omen3DB = {
 	},
 	["profiles"] = {
 		["Xchai - Mannoroth"] = {
-			["PositionW"] = 199.999877929688,
-			["Shown"] = false,
-			["PositionH"] = 81.9999923706055,
 			["PositionY"] = 390.000518798828,
+			["PositionW"] = 199.999877929688,
+			["PositionX"] = 1856.0556640625,
+			["Shown"] = false,
+			["ShowWith"] = {
+				["HideWhenOOC"] = true,
+			},
 			["MinimapIcon"] = {
 				["minimapPos"] = 6.58198665034498,
 				["hide"] = true,
 			},
-			["ShowWith"] = {
-				["HideWhenOOC"] = true,
-			},
-			["PositionX"] = 1856.0556640625,
+			["PositionH"] = 81.9999923706055,
 		},
 		["Dawnel - Mannoroth"] = {
 			["PositionY"] = 801.999938964844,
@@ -32,6 +33,11 @@ Omen3DB = {
 			["Shown"] = false,
 			["PositionX"] = 1655.50061035156,
 			["PositionH"] = 82.0000152587891,
+		},
+		["Flexchai - Mannoroth"] = {
+			["Shown"] = false,
+			["PositionY"] = 675.000061035156,
+			["PositionX"] = 954.166687011719,
 		},
 		["Ochai - Mannoroth"] = {
 			["PositionY"] = 852.777526855469,

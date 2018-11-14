@@ -2,26 +2,32 @@
 HandyNotes_BattleForAzerothTreasuresDB = {
 	["profileKeys"] = {
 		["Xchai - Mannoroth"] = "Xchai - Mannoroth",
+		["Phatbootygrl - Moon Guard"] = "Phatbootygrl - Moon Guard",
+		["Flexchai - Mannoroth"] = "Flexchai - Mannoroth",
+		["Timberhoo - Mannoroth"] = "Timberhoo - Mannoroth",
+		["Dawnel - Mannoroth"] = "Dawnel - Mannoroth",
+		["Chaisauce - Mannoroth"] = "Chaisauce - Mannoroth",
 		["Ochai - Mannoroth"] = "Ochai - Mannoroth",
 		["Chaichai - Mannoroth"] = "Chaichai - Mannoroth",
-		["Chaisauce - Mannoroth"] = "Chaisauce - Mannoroth",
-		["Phatbootygrl - Moon Guard"] = "Phatbootygrl - Moon Guard",
-		["Timberhoo - Mannoroth"] = "Timberhoo - Mannoroth",
 		["Timberho - Mannoroth"] = "Timberho - Mannoroth",
 		["Shenaynay - Mannoroth"] = "Shenaynay - Mannoroth",
 	},
 	["profiles"] = {
 		["Xchai - Mannoroth"] = {
 		},
-		["Ochai - Mannoroth"] = {
+		["Phatbootygrl - Moon Guard"] = {
 		},
-		["Chaichai - Mannoroth"] = {
+		["Flexchai - Mannoroth"] = {
+		},
+		["Timberhoo - Mannoroth"] = {
+		},
+		["Dawnel - Mannoroth"] = {
 		},
 		["Chaisauce - Mannoroth"] = {
 		},
-		["Phatbootygrl - Moon Guard"] = {
+		["Ochai - Mannoroth"] = {
 		},
-		["Timberhoo - Mannoroth"] = {
+		["Chaichai - Mannoroth"] = {
 		},
 		["Timberho - Mannoroth"] = {
 		},

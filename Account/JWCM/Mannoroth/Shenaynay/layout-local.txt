@@ -2,8 +2,8 @@ Version: 1
 Frame: DcrMUFsContainer
 FrameLevel: 1
 Anchor: LEFT
-X: 309
-Y: -36
+X: 266
+Y: -38
 W: 20
 H: 20
 Frame: MonkeySpeedFrame

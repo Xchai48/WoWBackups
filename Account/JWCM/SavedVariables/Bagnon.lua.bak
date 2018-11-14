@@ -40,8 +40,8 @@ Bagnon_Sets = {
 			},
 			["hiddenRules"] = {
 			},
-			["y"] = -204.999389648438,
-			["x"] = -81.33544921875,
+			["y"] = -121.666015625,
+			["x"] = -215.781005859375,
 			["borderColor"] = {
 			},
 			["itemScale"] = 1,
@@ -165,7 +165,7 @@ Bagnon_Sets = {
 				"contain/all", -- [24]
 				"misc/all", -- [25]
 			},
-			["point"] = "BOTTOMRIGHT",
+			["point"] = "BOTTOMLEFT",
 			["hiddenBags"] = {
 				[-3] = false,
 			},
@@ -174,15 +174,15 @@ Bagnon_Sets = {
 			["hiddenRules"] = {
 			},
 			["alpha"] = 1,
-			["bagBreak"] = true,
-			["x"] = -824.999877929688,
-			["showBags"] = true,
+			["y"] = 0,
+			["x"] = 623.000671386719,
 			["borderColor"] = {
 			},
+			["showBags"] = true,
 			["scale"] = 1,
 			["itemScale"] = 1,
 			["bagFrame"] = true,
-			["y"] = -144.000045776367,
+			["bagBreak"] = true,
 		},
 	},
 	["glowAlpha"] = 0.5,

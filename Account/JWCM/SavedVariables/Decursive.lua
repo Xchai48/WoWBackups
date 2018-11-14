@@ -3,6 +3,7 @@ DecursiveDB = {
 	["profileKeys"] = {
 		["Xchai - Mannoroth"] = "Default",
 		["Dawnel - Mannoroth"] = "Default",
+		["Flexchai - Mannoroth"] = "Default",
 		["Ochai - Mannoroth"] = "Default",
 		["Phatbootygrl - Moon Guard"] = "Default",
 		["Chaisauce - Mannoroth"] = "Default",
@@ -34,18 +35,7 @@ DecursiveDB = {
 				[32] = -16,
 			},
 		},
-		["WARLOCK"] = {
-			["CureOrder"] = {
-				2, -- [1]
-				-16, -- [2]
-				nil, -- [3]
-				-13, -- [4]
-				[8] = -14,
-				[16] = -15,
-				[32] = 1,
-			},
-		},
-		["ROGUE"] = {
+		["PALADIN"] = {
 			["CureOrder"] = {
 				-11, -- [1]
 				-15, -- [2]
@@ -65,28 +55,6 @@ DecursiveDB = {
 				[32] = 1,
 			},
 		},
-		["DRUID"] = {
-			["CureOrder"] = {
-				-13, -- [1]
-				-16, -- [2]
-				nil, -- [3]
-				1, -- [4]
-				[8] = 2,
-				[16] = -15,
-				[32] = -14,
-			},
-		},
-		["PALADIN"] = {
-			["CureOrder"] = {
-				-11, -- [1]
-				-15, -- [2]
-				nil, -- [3]
-				-12, -- [4]
-				[8] = -13,
-				[16] = -14,
-				[32] = -16,
-			},
-		},
 		["PRIEST"] = {
 			["CureOrder"] = {
 				-13, -- [1]
@@ -98,16 +66,60 @@ DecursiveDB = {
 				[32] = -16,
 			},
 		},
+		["WARLOCK"] = {
+			["CureOrder"] = {
+				-13, -- [1]
+				-12, -- [2]
+				nil, -- [3]
+				-14, -- [4]
+				[8] = -15,
+				[16] = -16,
+				[32] = 1,
+			},
+		},
+		["DEMONHUNTER"] = {
+			["CureOrder"] = {
+				-11, -- [1]
+				-15, -- [2]
+				nil, -- [3]
+				-12, -- [4]
+				[8] = -13,
+				[16] = -14,
+				[32] = -16,
+			},
+		},
+		["DRUID"] = {
+			["CureOrder"] = {
+				-13, -- [1]
+				-16, -- [2]
+				nil, -- [3]
+				1, -- [4]
+				[8] = 2,
+				[16] = -15,
+				[32] = -14,
+			},
+		},
+		["ROGUE"] = {
+			["CureOrder"] = {
+				-11, -- [1]
+				-15, -- [2]
+				nil, -- [3]
+				-12, -- [4]
+				[8] = -13,
+				[16] = -14,
+				[32] = -16,
+			},
+		},
 	},
 	["global"] = {
-		["LastVersionAnnounce"] = 1540994560,
+		["LastVersionAnnounce"] = 1542220076,
 	},
 	["profiles"] = {
 		["Default"] = {
-			["DebuffsFrameContainer_y"] = 354.844484256108,
+			["DebuffsFrameContainer_y"] = 353.422257725397,
 			["MainBarX"] = 216.178745168028,
 			["MainBarY"] = -418.133076591497,
-			["DebuffsFrameContainer_x"] = 197.689038550056,
+			["DebuffsFrameContainer_x"] = 169.955679794944,
 		},
 	},
 }

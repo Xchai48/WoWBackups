@@ -2,11 +2,13 @@
 GladiatorlosSADB = {
 	["profileKeys"] = {
 		["Xchai - Mannoroth"] = "Default",
+		["Phatbootygrl - Moon Guard"] = "Default",
+		["Flexchai - Mannoroth"] = "Default",
+		["Timberhoo - Mannoroth"] = "Default",
+		["Dawnel - Mannoroth"] = "Default",
+		["Chaisauce - Mannoroth"] = "Default",
 		["Chaichai - Mannoroth"] = "Default",
 		["Ochai - Mannoroth"] = "Default",
-		["Chaisauce - Mannoroth"] = "Default",
-		["Phatbootygrl - Moon Guard"] = "Default",
-		["Timberhoo - Mannoroth"] = "Default",
 		["Timberho - Mannoroth"] = "Default",
 		["Shenaynay - Mannoroth"] = "Default",
 	},

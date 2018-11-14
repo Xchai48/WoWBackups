@@ -4,7 +4,6 @@ PawnOptions = {
 	["LastPlayerFullName"] = "Xchai-Mannoroth",
 	["AutoSelectScales"] = false,
 	["UpgradeTracking"] = false,
-	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128872] = {
 			["Relics"] = {
@@ -46,6 +45,7 @@ PawnOptions = {
 			["Name"] = "Underlight Angler",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "ROGUE",

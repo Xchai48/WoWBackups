@@ -14,8 +14,7 @@ VER 3 0000000000000004 "Camera" "INV_Misc_QuestionMark"
 /script SetCVar("cameraDistanceMax",18)
 END
 VER 3 0000000000000002 "Decursive" "INV_MISC_QUESTIONMARK"
-/stopcasting
-/cast [@mouseover,nomod,exists] Remove Corruption;  [@mouseover,exists,mod:ctrl] Remove Corruption; [@mouseover,exists,mod:shift] Remove Corruption
+/script DecursiveRootTable.Dcr:Println('No spell available')
 END
 VER 3 0000000000000014 "kneel" "INV_Misc_QuestionMark"
 /kneel

@@ -12,6 +12,7 @@ RSADB = {
 	["profileKeys"] = {
 		["Xchai - Mannoroth"] = "Xchai - Mannoroth",
 		["Dawnel - Mannoroth"] = "Dawnel - Mannoroth",
+		["Flexchai - Mannoroth"] = "DEMONHUNTER",
 		["Ochai - Mannoroth"] = "Ochai - Mannoroth",
 		["Phatbootygrl - Moon Guard"] = "PALADIN",
 		["Chaisauce - Mannoroth"] = "Chaisauce - Mannoroth",
@@ -22,37 +23,6 @@ RSADB = {
 	},
 	["profiles"] = {
 		["Xchai - Mannoroth"] = {
-			["General"] = {
-				["Race"] = "Scourge",
-				["GlobalAnnouncements"] = {
-					["InScenario"] = true,
-					["InLFG_Raid"] = true,
-					["InLFG_Party"] = true,
-					["AlwaysAllowWhispers"] = false,
-				},
-				["Class"] = "WARRIOR",
-			},
-			["Rogue"] = {
-				["Spells"] = {
-					["Tricks"] = {
-						["Whisper"] = false,
-					},
-					["Shroud"] = {
-						["SmartGroup"] = true,
-						["Messages"] = {
-							["End"] = {
-								"[LINK] has ended. You have 5 more seconds of stealth!", -- [1]
-							},
-						},
-					},
-					["CloakOfShadows"] = {
-						["SmartGroup"] = true,
-					},
-					["Kick"] = {
-						["Say"] = false,
-					},
-				},
-			},
 			["Modules"] = {
 				["Warrior"] = true,
 				["Priest"] = true,
@@ -60,31 +30,10 @@ RSADB = {
 				["Racials"] = true,
 				["Rogue"] = true,
 			},
-			["Fixed"] = true,
-			["Warrior"] = {
-				["Spells"] = {
-					["MassSpellReflection"] = {
-						["SmartGroup"] = true,
-					},
-					["SpellReflect"] = {
-						["SmartGroup"] = true,
-					},
-					["RallyingCry"] = {
-						["SmartGroup"] = true,
-					},
-					["LastStand"] = {
-						["SmartGroup"] = true,
-					},
-				},
-			},
 			["Priest"] = {
 				["Spells"] = {
 					["GuardianSpirit"] = {
-						["SmartGroup"] = true,
-						["Say"] = false,
 						["Whisper"] = false,
-					},
-					["MassDispel"] = {
 						["SmartGroup"] = true,
 						["Say"] = false,
 					},
@@ -94,23 +43,84 @@ RSADB = {
 					["MindControl"] = {
 						["SmartGroup"] = true,
 					},
-					["BodyAndSoul"] = {
+					["LeapOfFaith"] = {
 						["Whisper"] = false,
 					},
 					["DivineHymn"] = {
 						["SmartGroup"] = true,
 						["Say"] = false,
 					},
-					["LeapOfFaith"] = {
+					["BodyAndSoul"] = {
 						["Whisper"] = false,
+					},
+					["MassDispel"] = {
+						["SmartGroup"] = true,
+						["Say"] = false,
 					},
 				},
 			},
+			["General"] = {
+				["GlobalAnnouncements"] = {
+					["InScenario"] = true,
+					["InLFG_Raid"] = true,
+					["InLFG_Party"] = true,
+					["AlwaysAllowWhispers"] = false,
+				},
+				["Race"] = "Scourge",
+				["Class"] = "PRIEST",
+			},
 			["sink20OutputSink"] = "Default",
+			["Rogue"] = {
+				["Spells"] = {
+					["Tricks"] = {
+						["Whisper"] = false,
+					},
+					["CloakOfShadows"] = {
+						["SmartGroup"] = true,
+					},
+					["Shroud"] = {
+						["SmartGroup"] = true,
+						["Messages"] = {
+							["End"] = {
+								"Shroud over. You have stealth for 2 more seconds.", -- [1]
+							},
+						},
+					},
+					["Kick"] = {
+						["Say"] = false,
+					},
+				},
+			},
+			["Fixed"] = true,
 			["Racials"] = {
 				["Spells"] = {
 					["ArcaneTorrent"] = {
 						["SmartGroup"] = true,
+					},
+				},
+			},
+			["Warrior"] = {
+				["Spells"] = {
+					["SpellReflect"] = {
+						["SmartGroup"] = true,
+					},
+					["DieByTheSword"] = {
+						["SmartGroup"] = true,
+					},
+					["LastStand"] = {
+						["SmartGroup"] = true,
+					},
+					["RallyingCry"] = {
+						["SmartGroup"] = true,
+					},
+					["EnragedRegeneration"] = {
+						["SmartGroup"] = true,
+					},
+					["MassSpellReflection"] = {
+						["SmartGroup"] = true,
+					},
+					["Intercept"] = {
+						["Whisper"] = false,
 					},
 				},
 			},
@@ -127,12 +137,15 @@ RSADB = {
 			},
 		},
 		["Dawnel - Mannoroth"] = {
+			["Modules"] = {
+				["Racials"] = true,
+				["Paladin"] = true,
+				["Utilities"] = true,
+			},
+			["Fixed"] = true,
 			["General"] = {
 				["Class"] = "PALADIN",
 				["Race"] = "Human",
-			},
-			["Modules"] = {
-				["Paladin"] = true,
 			},
 		},
 		["Ochai - Mannoroth"] = {
@@ -157,6 +170,17 @@ RSADB = {
 				["Class"] = "WARRIOR",
 			},
 		},
+		["DEMONHUNTER"] = {
+			["General"] = {
+				["Class"] = "DEMONHUNTER",
+			},
+			["Modules"] = {
+				["Racials"] = true,
+				["Utilities"] = true,
+				["DemonHunter"] = true,
+			},
+			["Fixed"] = true,
+		},
 		["Chaisauce - Mannoroth"] = {
 			["Modules"] = {
 				["Racials"] = true,
@@ -177,8 +201,8 @@ RSADB = {
 			},
 			["Fixed"] = true,
 			["General"] = {
-				["Class"] = "MAGE",
 				["Race"] = "Goblin",
+				["Class"] = "MAGE",
 			},
 		},
 		["Timberho - Mannoroth"] = {

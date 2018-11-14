@@ -1,6 +1,6 @@
 VER 3 010000000000000E "1Trix" "INV_Misc_QuestionMark"
 #showtooltip
-/cast [target=Chi] Tricks of the Trade
+/cast [target=Whitewolf] Tricks of the Trade
 END
 VER 3 010000000000001E "Adren" "INV_MISC_QUESTIONMARK"
 #showtooltip[nomod][mod:shift][mod:alt] Adrenaline Rush
@@ -71,6 +71,7 @@ VER 3 0100000000000019 "Sinister Strike" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000023 "Vendetta" "INV_MISC_QUESTIONMARK"
 #showtooltip Vendetta
+/use Saltwater Potion
 /use 13
 /cast Vendetta
 END

@@ -20,7 +20,7 @@ AucAdvancedConfig = {
 		},
 		["util"] = {
 			["ahwindowcontrol"] = {
-				["ahframeanchors"] = "TOPLEFT:TOPLEFT:48.2:-110.5",
+				["ahframeanchors"] = "TOPLEFT:TOPLEFT:16.0:-116.0",
 			},
 			["compactui"] = {
 				["priceperitem"] = true,
@@ -72,7 +72,7 @@ AucAdvancedServers = {
 	},
 	["KnownServerKeys"] = {
 		["MoonGuard"] = 1538201661,
-		["#Mannoroth"] = 1540998803,
+		["#Mannoroth"] = 1542217672,
 	},
 	["ExpandedNames"] = {
 		["MoonGuard"] = "Moon Guard",

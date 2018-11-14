@@ -89,6 +89,7 @@ Prat3DB = {
 	["profileKeys"] = {
 		["Xchai - Mannoroth"] = "Default",
 		["Dawnel - Mannoroth"] = "Default",
+		["Flexchai - Mannoroth"] = "Default",
 		["Ochai - Mannoroth"] = "Default",
 		["Phatbootygrl - Moon Guard"] = "Default",
 		["Chaisauce - Mannoroth"] = "Default",

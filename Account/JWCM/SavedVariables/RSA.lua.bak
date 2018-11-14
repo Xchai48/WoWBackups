@@ -7,6 +7,7 @@ RSADB = {
 	["profileKeys"] = {
 		["Xchai - Mannoroth"] = "Xchai - Mannoroth",
 		["Dawnel - Mannoroth"] = "Dawnel - Mannoroth",
+		["Flexchai - Mannoroth"] = "DEMONHUNTER",
 		["Ochai - Mannoroth"] = "Ochai - Mannoroth",
 		["Phatbootygrl - Moon Guard"] = "PALADIN",
 		["Timberho - Mannoroth"] = "Timberho - Mannoroth",
@@ -30,7 +31,7 @@ RSADB = {
 					["InLFG_Party"] = true,
 					["AlwaysAllowWhispers"] = false,
 				},
-				["Class"] = "ROGUE",
+				["Class"] = "PRIEST",
 			},
 			["Rogue"] = {
 				["Spells"] = {
@@ -41,7 +42,7 @@ RSADB = {
 						["SmartGroup"] = true,
 						["Messages"] = {
 							["End"] = {
-								"[LINK] has ended. You have 5 more seconds of stealth!", -- [1]
+								"Shroud over. You have stealth for 2 more seconds.", -- [1]
 							},
 						},
 					},
@@ -66,7 +67,16 @@ RSADB = {
 					["MassSpellReflection"] = {
 						["SmartGroup"] = true,
 					},
+					["EnragedRegeneration"] = {
+						["SmartGroup"] = true,
+					},
+					["Intercept"] = {
+						["Whisper"] = false,
+					},
 					["SpellReflect"] = {
+						["SmartGroup"] = true,
+					},
+					["DieByTheSword"] = {
 						["SmartGroup"] = true,
 					},
 					["RallyingCry"] = {
@@ -127,12 +137,15 @@ RSADB = {
 			},
 		},
 		["Dawnel - Mannoroth"] = {
+			["Modules"] = {
+				["Racials"] = true,
+				["Paladin"] = true,
+				["Utilities"] = true,
+			},
+			["Fixed"] = true,
 			["General"] = {
 				["Race"] = "Human",
 				["Class"] = "PALADIN",
-			},
-			["Modules"] = {
-				["Paladin"] = true,
 			},
 		},
 		["Ochai - Mannoroth"] = {
@@ -157,6 +170,17 @@ RSADB = {
 				["Race"] = "Orc",
 			},
 		},
+		["DEMONHUNTER"] = {
+			["Modules"] = {
+				["Racials"] = true,
+				["Utilities"] = true,
+				["DemonHunter"] = true,
+			},
+			["Fixed"] = true,
+			["General"] = {
+				["Class"] = "DEMONHUNTER",
+			},
+		},
 		["Timberho - Mannoroth"] = {
 			["Modules"] = {
 				["Racials"] = true,
@@ -177,8 +201,8 @@ RSADB = {
 			},
 			["Fixed"] = true,
 			["General"] = {
-				["Race"] = "Goblin",
 				["Class"] = "MAGE",
+				["Race"] = "Goblin",
 			},
 		},
 		["Chaisauce - Mannoroth"] = {

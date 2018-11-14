@@ -660,9 +660,9 @@ SkadaPerCharDB = {
 					{
 						["ts"] = 1535758936.222,
 						["amount"] = -9400,
+						["hp"] = 45535,
 						["spellid"] = 250022,
 						["srcname"] = "Yazma",
-						["hp"] = 45535,
 					}, -- [3]
 					{
 						["absorb"] = 0,
@@ -713,9 +713,9 @@ SkadaPerCharDB = {
 					{
 						["ts"] = 1535758903.148,
 						["amount"] = -4148,
+						["hp"] = 49470,
 						["spellid"] = 259145,
 						["srcname"] = "Yazma",
-						["hp"] = 49470,
 					}, -- [11]
 					{
 						["absorb"] = 0,
@@ -1394,9 +1394,9 @@ SkadaPerCharDB = {
 					{
 						["ts"] = 1535758821.427,
 						["amount"] = -556,
+						["hp"] = 45435,
 						["spellid"] = 259574,
 						["srcname"] = "Vol'kaal",
-						["hp"] = 45435,
 					}, -- [7]
 					{
 						["absorb"] = 0,
@@ -1409,23 +1409,23 @@ SkadaPerCharDB = {
 					{
 						["ts"] = 1535758823.434,
 						["amount"] = -556,
+						["hp"] = 55214,
 						["spellid"] = 259574,
 						["srcname"] = "Vol'kaal",
-						["hp"] = 55214,
 					}, -- [9]
 					{
 						["ts"] = 1535758825.442,
 						["amount"] = -557,
+						["hp"] = 54344,
 						["spellid"] = 259574,
 						["srcname"] = "Vol'kaal",
-						["hp"] = 54344,
 					}, -- [10]
 					{
 						["ts"] = 1535758827.436,
 						["amount"] = -556,
+						["hp"] = 53475,
 						["spellid"] = 259574,
 						["srcname"] = "Vol'kaal",
-						["hp"] = 53475,
 					}, -- [11]
 					{
 						["absorb"] = 0,
@@ -2216,16 +2216,16 @@ SkadaPerCharDB = {
 					{
 						["ts"] = 1535758952.077,
 						["amount"] = -387,
+						["hp"] = 93451,
 						["spellid"] = 124255,
 						["srcname"] = "Junfei-BurningBlade",
-						["hp"] = 93451,
 					}, -- [2]
 					{
 						["ts"] = 1535758952.574,
 						["amount"] = -387,
+						["hp"] = 92520,
 						["spellid"] = 124255,
 						["srcname"] = "Junfei-BurningBlade",
-						["hp"] = 92520,
 					}, -- [3]
 					{
 						["ts"] = 1535758952.574,
@@ -2238,9 +2238,9 @@ SkadaPerCharDB = {
 					{
 						["ts"] = 1535758953.074,
 						["amount"] = -387,
+						["hp"] = 91966,
 						["srcname"] = "Junfei-BurningBlade",
 						["spellid"] = 124255,
-						["hp"] = 91966,
 					}, -- [5]
 					{
 						["absorb"] = -257,
@@ -2252,16 +2252,16 @@ SkadaPerCharDB = {
 					{
 						["ts"] = 1535758953.61,
 						["amount"] = -353,
+						["hp"] = 89219,
 						["spellid"] = 124255,
 						["srcname"] = "Junfei-BurningBlade",
-						["hp"] = 89219,
 					}, -- [7]
 					{
 						["ts"] = 1535758954.079,
 						["amount"] = -353,
+						["hp"] = 88369,
 						["srcname"] = "Junfei-BurningBlade",
 						["spellid"] = 124255,
-						["hp"] = 88369,
 					}, -- [8]
 					{
 						["ts"] = 1535758954.258,
@@ -2274,9 +2274,9 @@ SkadaPerCharDB = {
 					{
 						["ts"] = 1535758954.564,
 						["amount"] = -353,
+						["hp"] = 100578,
 						["spellid"] = 124255,
 						["srcname"] = "Junfei-BurningBlade",
-						["hp"] = 100578,
 					}, -- [10]
 					{
 						["absorb"] = 0,
@@ -2289,9 +2289,9 @@ SkadaPerCharDB = {
 					{
 						["ts"] = 1535758955.069,
 						["amount"] = -353,
+						["hp"] = 100105,
 						["spellid"] = 124255,
 						["srcname"] = "Junfei-BurningBlade",
-						["hp"] = 100105,
 					}, -- [12]
 					{
 						["absorb"] = 0,
@@ -2304,16 +2304,16 @@ SkadaPerCharDB = {
 					{
 						["ts"] = 1535758951.071,
 						["amount"] = -447,
+						["hp"] = 97289,
 						["spellid"] = 124255,
 						["srcname"] = "Junfei-BurningBlade",
-						["hp"] = 97289,
 					}, -- [14]
 					{
 						["ts"] = 1535758951.566,
 						["amount"] = -425,
+						["hp"] = 96267,
 						["spellid"] = 124255,
 						["srcname"] = "Junfei-BurningBlade",
-						["hp"] = 96267,
 					}, -- [15]
 					["pos"] = 13,
 				},
@@ -7849,6 +7849,14 @@ SkadaPerCharDB = {
 							["auratype"] = "BUFF",
 							["uptime"] = 24,
 						},
+						["Combustion"] = {
+							["name"] = "Combustion",
+							["active"] = 0,
+							["school"] = 4,
+							["id"] = 190319,
+							["auratype"] = "BUFF",
+							["uptime"] = 10,
+						},
 						["Rune of Power"] = {
 							["name"] = "Rune of Power",
 							["active"] = 0,
@@ -7856,14 +7864,6 @@ SkadaPerCharDB = {
 							["id"] = 116014,
 							["auratype"] = "BUFF",
 							["uptime"] = 20,
-						},
-						["Ley Surge"] = {
-							["name"] = "Ley Surge",
-							["active"] = 0,
-							["school"] = 1,
-							["id"] = 202879,
-							["auratype"] = "BUFF",
-							["uptime"] = 12,
 						},
 						["Living Bomb"] = {
 							["name"] = "Living Bomb",
@@ -7937,13 +7937,13 @@ SkadaPerCharDB = {
 							["auratype"] = "BUFF",
 							["uptime"] = 37,
 						},
-						["Combustion"] = {
-							["name"] = "Combustion",
+						["Ley Surge"] = {
+							["name"] = "Ley Surge",
 							["active"] = 0,
-							["school"] = 4,
-							["id"] = 190319,
+							["school"] = 1,
+							["id"] = 202879,
 							["auratype"] = "BUFF",
-							["uptime"] = 10,
+							["uptime"] = 12,
 						},
 					},
 					["damagetakenspells"] = {
@@ -16164,18 +16164,6 @@ SkadaPerCharDB = {
 							["max"] = 854,
 							["damage"] = 2989,
 						},
-						["Boar: Kill Command"] = {
-							["hitmin"] = 1983,
-							["id"] = 83381,
-							["min"] = 1983,
-							["hitamount"] = 1983,
-							["hitmax"] = 1983,
-							["hit"] = 1,
-							["school"] = 1,
-							["max"] = 1983,
-							["totalhits"] = 1,
-							["damage"] = 1983,
-						},
 						["Multi-Shot"] = {
 							["hitmin"] = 173,
 							["criticalamount"] = 1384,
@@ -16191,6 +16179,18 @@ SkadaPerCharDB = {
 							["school"] = 1,
 							["max"] = 346,
 							["damage"] = 2076,
+						},
+						["Kil'jaeden's Burning Wish"] = {
+							["criticalamount"] = 12461,
+							["id"] = 235999,
+							["min"] = 3050,
+							["criticalmax"] = 3247,
+							["critical"] = 4,
+							["criticalmin"] = 3050,
+							["school"] = 4,
+							["max"] = 3247,
+							["totalhits"] = 4,
+							["damage"] = 12461,
 						},
 						["Auto Shot"] = {
 							["hitmin"] = 766,
@@ -16216,17 +16216,17 @@ SkadaPerCharDB = {
 							["totalhits"] = 17,
 							["damage"] = 16342,
 						},
-						["Kil'jaeden's Burning Wish"] = {
-							["criticalamount"] = 12461,
-							["id"] = 235999,
-							["min"] = 3050,
-							["criticalmax"] = 3247,
-							["critical"] = 4,
-							["criticalmin"] = 3050,
-							["school"] = 4,
-							["max"] = 3247,
-							["totalhits"] = 4,
-							["damage"] = 12461,
+						["Boar: Kill Command"] = {
+							["hitmin"] = 1983,
+							["id"] = 83381,
+							["min"] = 1983,
+							["hitamount"] = 1983,
+							["hitmax"] = 1983,
+							["hit"] = 1,
+							["school"] = 1,
+							["max"] = 1983,
+							["totalhits"] = 1,
+							["damage"] = 1983,
 						},
 						["Searing Zap"] = {
 							["criticalamount"] = 699,
@@ -16491,6 +16491,14 @@ SkadaPerCharDB = {
 							["auratype"] = "BUFF",
 							["uptime"] = 7,
 						},
+						["Eye of the Tiger"] = {
+							["name"] = "Eye of the Tiger",
+							["active"] = 0,
+							["school"] = 8,
+							["id"] = 196608,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 1,
+						},
 						["Breath of Fire"] = {
 							["name"] = "Breath of Fire",
 							["active"] = 0,
@@ -16498,14 +16506,6 @@ SkadaPerCharDB = {
 							["id"] = 123725,
 							["auratype"] = "DEBUFF",
 							["uptime"] = 7,
-						},
-						["Elusive Brawler"] = {
-							["name"] = "Elusive Brawler",
-							["active"] = 0,
-							["school"] = 1,
-							["id"] = 195630,
-							["auratype"] = "BUFF",
-							["uptime"] = 5,
 						},
 						["Light Stagger"] = {
 							["name"] = "Light Stagger",
@@ -16523,13 +16523,13 @@ SkadaPerCharDB = {
 							["auratype"] = "BUFF",
 							["uptime"] = 8,
 						},
-						["Eye of the Tiger"] = {
-							["name"] = "Eye of the Tiger",
+						["Elusive Brawler"] = {
+							["name"] = "Elusive Brawler",
 							["active"] = 0,
-							["school"] = 8,
-							["id"] = 196608,
-							["auratype"] = "DEBUFF",
-							["uptime"] = 1,
+							["school"] = 1,
+							["id"] = 195630,
+							["auratype"] = "BUFF",
+							["uptime"] = 5,
 						},
 					},
 					["damagetakenspells"] = {

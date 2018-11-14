@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.023,
+	["LastVersion"] = 2.0231,
 	["LastPlayerFullName"] = "Timberho-Mannoroth",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,
