@@ -19,7 +19,7 @@ DBM_AllSavedOptions = {
 		["ArrowPoint"] = "TOP",
 		["SWarnNameInNote"] = true,
 		["FakeBWVersion"] = false,
-		["InfoFramePoint"] = "CENTER",
+		["InfoFramePoint"] = "LEFT",
 		["EventSoundMusicCombined"] = false,
 		["SpecialWarningFlashCol2"] = {
 			1, -- [1]
@@ -69,7 +69,7 @@ DBM_AllSavedOptions = {
 			0, -- [3]
 		},
 		["WarningFontStyle"] = "None",
-		["InfoFrameY"] = 257.111053466797,
+		["InfoFrameY"] = 241.555221557617,
 		["ChatFrame"] = "DEFAULT_CHAT_FRAME",
 		["WarningIconRight"] = true,
 		["UseSoundChannel"] = "Master",
@@ -189,7 +189,7 @@ DBM_AllSavedOptions = {
 		["BonusFilter"] = "Never",
 		["SpecialWarningSound2"] = "Sound\\Creature\\AlgalonTheObserver\\UR_Algalon_BHole01.ogg",
 		["SpecialWarningFlashRepeat2"] = false,
-		["InfoFrameX"] = -335.464752197266,
+		["InfoFrameX"] = 458.206207275391,
 		["SpecialWarningFlashRepeat5"] = true,
 		["DisableStatusWhisper"] = false,
 		["EventDungMusicMythicFilter"] = true,

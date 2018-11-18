@@ -29,6 +29,32 @@ BeanCounterDB = {
 		},
 	},
 	["Mannoroth"] = {
+		["Hexchai"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+		},
 		["Ochai"] = {
 			["vendorsell"] = {
 			},
@@ -188,6 +214,10 @@ BeanCounterDB = {
 			["vendorsell"] = {
 			},
 			["postedBids"] = {
+				["153704"] = {
+					["item:153704::::::::100:::::::"] = {
+					},
+				},
 				["124106"] = {
 					["item:124106::::::::100:::::::"] = {
 					},
@@ -346,6 +376,11 @@ BeanCounterDB = {
 						"7;;;;154000;154000;Yases;1533415805;;H", -- [7]
 						"7;;;;154000;154000;Yases;1533415802;;H", -- [8]
 						"20;;;;434980;434980;Shurelock;1533415794;;H", -- [9]
+					},
+				},
+				["153704"] = {
+					["item:153704::::::::100:::::::"] = {
+						"17;;;;2414000;2414000;Gelid;1542237079;;H", -- [1]
 					},
 				},
 				["128304"] = {
@@ -761,12 +796,22 @@ BeanCounterDB = {
 BeanCounterDBSettings = {
 	["configator.left"] = 560.000061035156,
 	["Mannoroth"] = {
+		["Hexchai"] = {
+			["tasks.sortArray"] = 1542834973,
+			["version"] = 3.04,
+			["faction"] = "Horde",
+			["tasks.compactDB"] = 1542834973,
+			["wealth"] = 185,
+			["tasks.prunePostedDB"] = 1542834973,
+			["mailbox"] = {
+			},
+		},
 		["Ochai"] = {
 			["tasks.sortArray"] = 1540766863,
 			["version"] = 3.04,
 			["faction"] = "Horde",
 			["tasks.compactDB"] = 1540766863,
-			["wealth"] = 181555778,
+			["wealth"] = 181555748,
 			["tasks.prunePostedDB"] = 1541661743,
 			["mailbox"] = {
 			},
@@ -776,7 +821,7 @@ BeanCounterDBSettings = {
 			["version"] = 3.04,
 			["faction"] = "Horde",
 			["tasks.compactDB"] = 1540763485,
-			["wealth"] = 157528212,
+			["wealth"] = 171072782,
 			["tasks.prunePostedDB"] = 1541696763,
 			["mailbox"] = {
 				{
@@ -812,16 +857,16 @@ BeanCounterDBSettings = {
 			},
 		},
 		["Xchai"] = {
-			["tasks.sortArray"] = 1539772991,
+			["tasks.sortArray"] = 1542486968,
 			["version"] = 3.04,
 			["faction"] = "Horde",
-			["tasks.compactDB"] = 1539772991,
-			["wealth"] = 6196885244,
+			["tasks.compactDB"] = 1542486968,
+			["wealth"] = 6209914169,
 			["tasks.prunePostedDB"] = 1541617105,
 			["mailbox"] = {
 				{
 					["subject"] = "Auction won: Felwort (4)",
-					["read"] = 1,
+					["read"] = 2,
 					["time"] = 29.9999656677246,
 					["sender"] = "Auction House",
 				}, -- [1]
@@ -1138,11 +1183,11 @@ BeanCounterDBSettings = {
 			},
 		},
 		["Timberhoo"] = {
-			["tasks.sortArray"] = 1539693102,
+			["tasks.sortArray"] = 1542426071,
 			["version"] = 3.04,
 			["faction"] = "Horde",
-			["tasks.compactDB"] = 1539693102,
-			["wealth"] = 175464847,
+			["tasks.compactDB"] = 1542426071,
+			["wealth"] = 238525092,
 			["tasks.prunePostedDB"] = 1541612046,
 			["mailbox"] = {
 				{
@@ -1158,7 +1203,7 @@ BeanCounterDBSettings = {
 			["version"] = 3.04,
 			["faction"] = "Alliance",
 			["tasks.compactDB"] = 1542286920,
-			["wealth"] = 5984000,
+			["wealth"] = 7955700,
 			["tasks.prunePostedDB"] = 1542286920,
 			["mailbox"] = {
 			},
@@ -1168,14 +1213,14 @@ BeanCounterDBSettings = {
 			["version"] = 3.04,
 			["faction"] = "Horde",
 			["tasks.compactDB"] = 1542476836,
-			["wealth"] = 200062039,
-			["tasks.prunePostedDB"] = 1540938833,
+			["wealth"] = 214288861,
+			["tasks.prunePostedDB"] = 1542400482,
 			["mailbox"] = {
 				{
 					["time"] = 29.999942779541,
 					["sender"] = "Auction House",
 					["subject"] = "Auction won: Jawless Skulker Flesh (200)",
-					["read"] = 1,
+					["read"] = 2,
 				}, -- [1]
 				{
 					["time"] = 29.999792098999,
@@ -1190,11 +1235,11 @@ BeanCounterDBSettings = {
 			["version"] = 3.04,
 			["faction"] = "Horde",
 			["tasks.compactDB"] = 1540138989,
-			["wealth"] = 163739380,
+			["wealth"] = 194447370,
 			["tasks.prunePostedDB"] = 1541943732,
 			["mailbox"] = {
 				{
-					["read"] = 1,
+					["read"] = 2,
 					["sender"] = "Auction House",
 					["time"] = 29.9082069396973,
 					["subject"] = "Outbid on Shimmerscale (66)",
@@ -1219,7 +1264,7 @@ BeanCounterDBSettings = {
 			["faction"] = "Alliance",
 			["tasks.compactDB"] = 1540069550,
 			["wealth"] = 1,
-			["tasks.prunePostedDB"] = 1541110091,
+			["tasks.prunePostedDB"] = 1542719769,
 			["mailbox"] = {
 			},
 		},
@@ -1247,6 +1292,7 @@ BeanCounterDBNames = {
 	["130178:"] = "cff0070dd;Furystone",
 	["124657:"] = "cffffffff;Darkmoon Tincture of Precision",
 	["152512:"] = "cffffffff;Monelite Ore",
+	["153704:"] = "cff1eff00;Viridium",
 	["2459:"] = "cffffffff;Swiftness Potion",
 	["153668:"] = "cffffffff;Contract: Champions of Azeroth",
 	["140587:"] = "cff0070dd;Defiled Augment Rune",

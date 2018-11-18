@@ -8,11 +8,11 @@ AngryAssign_Pages = {
 		["Contents"] = "Everyone -> Green Add (Stack tight)\nWW/Tapz/Tyksu -> Purple Add\nImminent Ruin = Star & Circle",
 	},
 	[3664918494] = {
-		["Updated"] = 1541646572,
+		["Updated"] = 1542249279,
 		["Name"] = "Mythic Zek",
 		["Id"] = 3664918494,
-		["UpdateId"] = 3909669784,
-		["Contents"] = "GREEN = Face corner for wall\nX = Go Crazy",
+		["UpdateId"] = 4165463617,
+		["Contents"] = "1 = Star\n2 = Circle\n3 = Diamond\n4 = Green(Triangle)",
 	},
 	[4276277186] = {
 		["Updated"] = 1530148293,
@@ -36,11 +36,11 @@ AngryAssign_Pages = {
 		["Contents"] = "||cHunterHunters||r and ||cMageMages||r bait Shocktroopers\nDPS: Bats>Pyro>Shocktroopers>Boss\nPods: Spam 1 on boss, 3 if needed to kill bats\n{Skull}[2: on Adds]\n{Cross}[2: 3 near pod, rest near {Square}]\n{Square}[2: Clear Mines from oldest to newest]\n\n{Skull}: Hella > Bear\n{Cross}: Wadd > Chi\n{Square}: MB > Mef\n{Skull}: Bdawg > Kotaku\n{Cross}: Tapz > whoever",
 	},
 	[3247921963] = {
-		["Updated"] = 1538531165,
+		["Updated"] = 1542255256,
 		["Name"] = "Vectis",
 		["Id"] = 3247921963,
-		["UpdateId"] = 2297235876,
-		["Contents"] = "1/2 = Star\n3/4 = Circle\n5/6 = Diamond",
+		["UpdateId"] = 3679600605,
+		["Contents"] = "1 - Star/Skull\n2 - Circle/Cross\n3 - Diamond/Moon\n4 - Triangle/Square",
 	},
 	[3377135645] = {
 		["Updated"] = 1540695312,
@@ -67,7 +67,8 @@ AngryAssign_Pages = {
 AngryAssign_Categories = {
 }
 AngryAssign_State = {
-	["directionUp"] = false,
+	["window"] = {
+	},
 	["locked"] = true,
 	["tree"] = {
 	},
@@ -79,8 +80,7 @@ AngryAssign_State = {
 		["hidden"] = false,
 		["width"] = 227,
 	},
-	["window"] = {
-	},
+	["directionUp"] = false,
 }
 AngryAssign_Config = {
 }

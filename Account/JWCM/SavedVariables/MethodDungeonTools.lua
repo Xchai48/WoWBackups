@@ -4,6 +4,7 @@ MethodDungeonToolsDB = {
 		["Xchai - Mannoroth"] = "Xchai - Mannoroth",
 		["Phatbootygrl - Moon Guard"] = "Phatbootygrl - Moon Guard",
 		["Flexchai - Mannoroth"] = "Flexchai - Mannoroth",
+		["Hexchai - Mannoroth"] = "Hexchai - Mannoroth",
 		["Chaichai - Mannoroth"] = "Chaichai - Mannoroth",
 		["Dawnel - Mannoroth"] = "Dawnel - Mannoroth",
 		["Timberho - Mannoroth"] = "Timberho - Mannoroth",
@@ -4188,6 +4189,7 @@ MethodDungeonToolsDB = {
 					["objects"] = {
 					},
 					["week"] = 11,
+					["text"] = "Preset 3 2",
 					["value"] = {
 						["currentPull"] = 3,
 						["currentSublevel"] = 1,
@@ -4367,7 +4369,6 @@ MethodDungeonToolsDB = {
 							}, -- [10]
 						},
 					},
-					["text"] = "Preset 3 2",
 				}, -- [8]
 				{
 					["value"] = 0,
@@ -4584,7 +4585,32 @@ MethodDungeonToolsDB = {
 					["text"] = "<New Preset>",
 				}, -- [3]
 			}, -- [16]
-			nil, -- [17]
+			{
+				{
+					["objects"] = {
+					},
+					["week"] = 2,
+					["value"] = {
+						["currentPull"] = 1,
+						["currentSublevel"] = 1,
+						["currentDungeonIdx"] = 17,
+						["teeming"] = true,
+						["pulls"] = {
+							{
+								[11] = {
+									1, -- [1]
+								},
+								[13] = {
+									1, -- [1]
+								},
+								[12] = {
+									1, -- [1]
+								},
+							}, -- [1]
+						},
+					},
+				}, -- [1]
+			}, -- [17]
 			{
 				{
 					["value"] = {
@@ -8729,13 +8755,12 @@ MethodDungeonToolsDB = {
 							},
 						}, -- [5]
 					},
-					["week"] = 1,
-					["text"] = "Default 2 2",
+					["week"] = 2,
 					["value"] = {
 						["currentPull"] = 21,
 						["currentSublevel"] = 1,
 						["currentDungeonIdx"] = 22,
-						["teeming"] = false,
+						["teeming"] = true,
 						["pulls"] = {
 							{
 								[3] = {
@@ -8960,6 +8985,7 @@ MethodDungeonToolsDB = {
 							}, -- [21]
 						},
 					},
+					["text"] = "Default 2 2",
 				}, -- [3]
 				{
 					["value"] = 0,
@@ -10268,7 +10294,6 @@ MethodDungeonToolsDB = {
 			}, -- [24]
 		},
 		["anchorTo"] = "CENTER",
-		["currentDungeonIdx"] = 21,
 		["anchorFrom"] = "CENTER",
 		["minimap"] = {
 			["minimapPos"] = 343.958920090488,

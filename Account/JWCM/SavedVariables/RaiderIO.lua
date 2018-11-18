@@ -1,4 +1,4 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "us-Flexchai-mannoroth"
+RaiderIO_LastCharacter = "us-Xchai-mannoroth"

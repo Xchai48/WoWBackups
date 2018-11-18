@@ -651,61 +651,10 @@ RematchSettings = {
 	["QueueSortOrder"] = 1,
 	["XPos"] = 675,
 	["DialogYPos"] = 615.5556640625,
-	["PetCardYPos"] = 898.222229003906,
-	["loadedTeam"] = 141879,
 	["JournalUsed"] = true,
-	["LevelingQueue"] = {
-		"BattlePet-0-00001003ED5C", -- [1]
-		"BattlePet-0-000010047A18", -- [2]
-		"BattlePet-0-000010047C44", -- [3]
-		"BattlePet-0-00001057D65D", -- [4]
-		"BattlePet-0-00001057D7D5", -- [5]
-		"BattlePet-0-00001057D8B0", -- [6]
-		"BattlePet-0-0000105A80BC", -- [7]
-		"BattlePet-0-0000105A8549", -- [8]
+	["SpecialSlots"] = {
 	},
-	["DialogXPos"] = 589.999938964844,
-	["AllowHiddenPetsDefaulted"] = true,
-	["BackupCount"] = 0,
-	["TeamGroups"] = {
-		{
-			"General", -- [1]
-			"Interface\\Icons\\PetJournalPortrait", -- [2]
-		}, -- [1]
-	},
-	["UseTypeBar"] = false,
-	["Filters"] = {
-		["Other"] = {
-		},
-		["Script"] = {
-		},
-		["Moveset"] = {
-		},
-		["Tough"] = {
-		},
-		["Level"] = {
-			[4] = true,
-		},
-		["Similar"] = {
-		},
-		["Sources"] = {
-		},
-		["Breed"] = {
-		},
-		["Rarity"] = {
-		},
-		["Strong"] = {
-			[4] = true,
-		},
-		["Collected"] = {
-			["Missing"] = true,
-		},
-		["Favorite"] = {
-		},
-		["Types"] = {
-		},
-	},
-	["Minimized"] = true,
+	["PetCardYPos"] = 898.222229003906,
 	["FavoriteFilters"] = {
 		{
 			"Fighters", -- [1]
@@ -740,6 +689,58 @@ RematchSettings = {
 				},
 			}, -- [2]
 		}, -- [1]
+	},
+	["Sort"] = {
+		["Order"] = 1,
+		["FavoritesFirst"] = true,
+	},
+	["AllowHiddenPetsDefaulted"] = true,
+	["BackupCount"] = 0,
+	["TeamGroups"] = {
+		{
+			"General", -- [1]
+			"Interface\\Icons\\PetJournalPortrait", -- [2]
+		}, -- [1]
+	},
+	["UseTypeBar"] = false,
+	["Filters"] = {
+		["Other"] = {
+		},
+		["Script"] = {
+		},
+		["Moveset"] = {
+		},
+		["Tough"] = {
+		},
+		["Level"] = {
+		},
+		["Similar"] = {
+		},
+		["Sources"] = {
+		},
+		["Breed"] = {
+		},
+		["Rarity"] = {
+		},
+		["Strong"] = {
+		},
+		["Collected"] = {
+		},
+		["Favorite"] = {
+		},
+		["Types"] = {
+		},
+	},
+	["Minimized"] = true,
+	["LevelingQueue"] = {
+		"BattlePet-0-00001003ED5C", -- [1]
+		"BattlePet-0-000010047A18", -- [2]
+		"BattlePet-0-000010047C44", -- [3]
+		"BattlePet-0-00001057D65D", -- [4]
+		"BattlePet-0-00001057D7D5", -- [5]
+		"BattlePet-0-00001057D8B0", -- [6]
+		"BattlePet-0-0000105A80BC", -- [7]
+		"BattlePet-0-0000105A8549", -- [8]
 	},
 	["PetCardXPos"] = 396.444519042969,
 	["CollapsedOptHeaders"] = {
@@ -1101,12 +1102,8 @@ RematchSettings = {
 	},
 	["NotifiedExperimental"] = true,
 	["CornerPos"] = "BOTTOMLEFT",
-	["Sort"] = {
-		["Order"] = 1,
-		["FavoritesFirst"] = true,
-	},
-	["SpecialSlots"] = {
-	},
+	["DialogXPos"] = 589.999938964844,
+	["loadedTeam"] = 141879,
 	["YPos"] = 237.999938964844,
 	["SelectedTab"] = 1,
 	["PetNotes"] = {

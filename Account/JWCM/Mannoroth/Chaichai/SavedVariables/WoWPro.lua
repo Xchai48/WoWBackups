@@ -679,42 +679,42 @@ WoWProCharDB = {
 		[41148] = "Blanc_Suramar",
 		[43323] = "LudoWowAnniversary",
 		[47737] = "EmmZuldazar",
-		[50976] = "EmmNazmir",
-		[44754] = "Blanc_Suramar",
+		[53082] = "EmmHWarCampaign",
+		[42707] = "EmmLegionMage",
 		[53101] = "EmmHWarCampaign",
 		[41916] = "Blanc_Suramar",
 		[35839] = "LudoGarrCampaign",
-		[50083] = "EmmNazmir",
-		[50703] = "EmmVoldun",
+		[53100] = "EmmHWarCampaign",
+		[44562] = "Blanc_Suramar",
 		[48313] = "EmmVoldun",
 		[52776] = "EmmHWarCampaign",
 		[29346] = "LudoFishing",
 		[38270] = "FlucloTanaanJungle",
-		[52185] = "EmmHWarCampaign",
-		[40469] = "Blanc_Suramar",
+		[52314] = "EmmHWarCampaign",
+		[49758] = "EmmZuldazar",
 		[38462] = "FlucloTanaanJungle",
 		[38526] = "Blanc_Suramar",
 		[48825] = "EmmNazmir",
 		[48889] = "EmmVoldun",
 		[44859] = "Blanc_Suramar",
-		[40212] = "Blanc_Suramar",
+		[48400] = "EmmZuldazar",
 		[49081] = "EmmNazmir",
 		[49145] = "EmmZuldazar",
-		[52183] = "EmmHWarCampaign",
+		[53152] = "EmmHWarCampaign",
 		[41085] = "EmmLegionMage",
 		[41149] = "Blanc_Suramar",
 		[53151] = "EmmHWarCampaign",
 		[47418] = "EmmZuldazar",
-		[42067] = "LarePetWQStorm",
-		[37688] = "FlucloTanaanJungle",
+		[37973] = "LudoHarrison",
+		[53103] = "EmmHWarCampaign",
 		[41469] = "Blanc_Suramar",
-		[42486] = "Blanc_Suramar",
+		[53102] = "EmmHWarCampaign",
 		[49785] = "EmmZuldazar",
-		[52769] = "EmmHWarCampaign",
-		[36207] = "LudoBuildingsHorde",
+		[53668] = "EmmHWarCampaign",
+		[53669] = "EmmHWarCampaign",
 		[53666] = "EmmHWarCampaign",
 		[37850] = "LudoHarrison",
-		[51573] = "EmmVoldun",
+		[53150] = "EmmHWarCampaign",
 		[35840] = "LudoGarrCampaign",
 		[53173] = "EmmHWarCampaign",
 		[44156] = "Blanc_Suramar",
@@ -738,62 +738,62 @@ WoWProCharDB = {
 		[41214] = "Blanc_Suramar",
 		[45372] = "Blanc_Suramar",
 		[53209] = "EmmHWarCampaign",
-		[42008] = "EmmLegionMage",
+		[53208] = "EmmHWarCampaign",
 		[39423] = "FlucloTanaanJungle",
-		[45265] = "Blanc_Suramar",
+		[47312] = "EmmZuldazar",
 		[33410] = "LudoBuildingsHorde",
 		[37568] = "LudoBuildingsHorde",
-		[41107] = "Blanc_Suramar",
-		[34039] = "LudoGarrCampaign",
-		[32985] = "LudoGarrCampaign",
-		[47659] = "EmmNazmir",
+		[47248] = "EmmNazmir",
+		[42914] = "EmmLegionMage",
+		[53081] = "EmmHWarCampaign",
+		[51801] = "EmmHWarCampaign",
 		[35841] = "LudoGarrCampaign",
-		[51984] = "EmmHWarCampaign",
-		[42834] = "Blanc_Suramar",
+		[52855] = "EmmZuldazar",
+		[46928] = "EmmZuldazar",
 		[48315] = "EmmVoldun",
-		[32983] = "LudoGarrCampaign",
-		[44753] = "Blanc_Suramar",
+		[50080] = "EmmNazmir",
+		[42706] = "EmmLegionMage",
 		[42366] = "Blanc_Suramar",
-		[51987] = "EmmHWarCampaign",
+		[49969] = "EmmZuldazar",
 		[42494] = "EmmLegionMage",
 		[36417] = "LudoBuildingsHorde",
 		[38528] = "Blanc_Suramar",
-		[34040] = "LudoGarrCampaign",
-		[44561] = "Blanc_Suramar",
+		[52857] = "EmmZuldazar",
+		[50702] = "EmmVoldun",
 		[44861] = "Blanc_Suramar",
-		[38356] = "LudoBringingBass",
+		[48591] = "EmmNazmir",
 		[52127] = "EmmHWarCampaign",
 		[13830] = "LudoFishing",
-		[50980] = "EmmVoldun",
+		[52770] = "EmmHWarCampaign",
 		[47228] = "EmmZuldazar",
-		[40211] = "Blanc_Suramar",
+		[48399] = "EmmZuldazar",
 		[41215] = "Blanc_Suramar",
 		[47586] = "EmmZuldazar",
-		[34041] = "LudoGarrCampaign",
-		[41762] = "Blanc_Suramar",
-		[51224] = "EmmHWarCampaign",
+		[52764] = "EmmHWarCampaign",
+		[51830] = "EmmHWarCampaign",
+		[51805] = "EmmHWarCampaign",
 		[43582] = "Blanc_Suramar",
 		[47740] = "EmmZuldazar",
-		[51985] = "EmmHWarCampaign",
+		[52765] = "EmmHWarCampaign",
 		[47868] = "EmmNazmir",
 		[39731] = "EmmLegionMage",
 		[47996] = "EmmNazmir",
-		[50901] = "EmmVoldun",
+		[38272] = "FlucloTanaanJungle",
 		[37889] = "FlucloTanaanJungle",
 		[50235] = "EmmZuldazar",
 		[35970] = "LudoGarrCampaign",
 		[42175] = "EmmLegionMage",
-		[26543] = "LudoFishing",
+		[50746] = "EmmVoldun",
 		[40319] = "Blanc_Suramar",
 		[40320] = "Blanc_Suramar",
 		[36290] = "LudoGarrCampaign",
 		[51800] = "EmmHWarCampaign",
 		[48657] = "EmmVoldun",
-		[47631] = "EmmNazmir",
+		[49678] = "EmmZuldazar",
 		[42687] = "EmmLegionMage",
 		[40125] = "Blanc_Suramar",
 		[44862] = "Blanc_Suramar",
-		[47503] = "EmmVoldun",
+		[51597] = "EmmHWarCampaign",
 		[51674] = "EmmHWarCampaign",
 		[49148] = "EmmZuldazar",
 		[52777] = "EmmHWarCampaign",
@@ -803,37 +803,37 @@ WoWProCharDB = {
 		[34042] = "LudoGarrCampaign",
 		[51675] = "EmmHWarCampaign",
 		[51643] = "EmmHWarCampaign",
-		[35185] = "LudoGarrCampaign",
+		[52187] = "EmmHWarCampaign",
 		[51771] = "EmmHWarCampaign",
 		[47741] = "EmmZuldazar",
-		[48847] = "EmmVoldun",
-		[52773] = "EmmHWarCampaign",
+		[51691] = "EmmHWarCampaign",
+		[51536] = "EmmHWarCampaign",
 		[49980] = "EmmNazmir",
-		[47738] = "EmmZuldazar",
-		[42833] = "Blanc_Suramar",
+		[26556] = "LudoFishing",
+		[53068] = "EmmHWarCampaign",
 		[37890] = "FlucloTanaanJungle",
-		[48684] = "EmmVoldun",
-		[44752] = "Blanc_Suramar",
+		[44663] = "EmmLegionMage",
+		[48846] = "EmmVoldun",
 		[48317] = "EmmZuldazar",
-		[34034] = "LudoGarrCampaign",
+		[53602] = "EmmHWarCampaign",
 		[36163] = "LudoGarrCampaign",
 		[40321] = "Blanc_Suramar",
 		[44479] = "EmmLegionMage",
-		[47735] = "EmmZuldazar",
+		[51770] = "EmmHWarCampaign",
 		[50748] = "EmmVoldun",
 		[38530] = "Blanc_Suramar",
 		[42688] = "Blanc_Suramar",
 		[46846] = "EmmZuldazar",
-		[51680] = "EmmZuldazar",
-		[44496] = "EmmLegionMage",
-		[49058] = "LudoPetWQAntoran",
+		[48871] = "EmmVoldun",
+		[48590] = "EmmNazmir",
+		[50812] = "EmmVoldun",
 		[49149] = "EmmZuldazar",
-		[51249] = "EmmZuldazar",
-		[51539] = "EmmZuldazar",
-		[44240] = "EmmLegionMage",
-		[51538] = "EmmZuldazar",
+		[51810] = "EmmVoldun",
+		[52210] = "EmmZuldazar",
+		[50381] = "EmmZuldazar",
+		[45417] = "Blanc_Suramar",
 		[47422] = "EmmZuldazar",
-		[51668] = "EmmVoldun",
+		[47733] = "EmmZuldazar",
 		[41409] = "Blanc_Suramar",
 		[41473] = "Blanc_Suramar",
 		[51772] = "EmmVoldun",
@@ -842,11 +842,11 @@ WoWProCharDB = {
 		[49917] = "EmmZuldazar",
 		[41855] = "LarePetWQVal",
 		[47998] = "EmmNazmir",
-		[47870] = "EmmVoldun",
+		[48492] = "EmmNazmir",
 		[35844] = "LudoGarrCampaign",
 		[51421] = "EmmHWarCampaign",
 		[35972] = "LudoGarrCampaign",
-		[40745] = "Blanc_Suramar",
+		[47897] = "EmmZuldazar",
 		[34354] = "LudoGarrCampaign",
 		[36164] = "LudoGarrCampaign",
 		[40300] = "Blanc_Suramar",
@@ -856,92 +856,92 @@ WoWProCharDB = {
 		[44672] = "Blanc_Suramar",
 		[40642] = "Blanc_Suramar",
 		[48894] = "EmmVoldun",
+		[47103] = "EmmNazmir",
 		[51069] = "EmmZuldazar",
-		[44928] = "Blanc_Suramar",
 		[40898] = "Blanc_Suramar",
 		[45056] = "Blanc_Suramar",
-		[41474] = "Blanc_Suramar",
+		[49662] = "EmmVoldun",
 		[49278] = "EmmNazmir",
 		[37060] = "LudoBuildingsHorde",
 		[49406] = "EmmNazmir",
 		[47423] = "EmmZuldazar",
-		[47871] = "EmmVoldun",
+		[49918] = "EmmZuldazar",
 		[41410] = "Blanc_Suramar",
-		[49662] = "EmmVoldun",
+		[41474] = "Blanc_Suramar",
 		[51773] = "EmmVoldun",
 		[51837] = "EmmHWarCampaign",
 		[37572] = "LudoBuildingsHorde",
-		[49918] = "EmmZuldazar",
-		[52221] = "EmmHWarCampaign",
-		[47502] = "EmmVoldun",
-		[43969] = "Blanc_Suramar",
+		[47871] = "EmmVoldun",
 		[35845] = "LudoGarrCampaign",
-		[47438] = "EmmZuldazar",
+		[51596] = "EmmHWarCampaign",
+		[43969] = "Blanc_Suramar",
+		[52221] = "EmmHWarCampaign",
+		[51532] = "EmmHWarCampaign",
 		[35973] = "LudoGarrCampaign",
 		[53050] = "EmmHWarCampaign",
 		[29317] = "LudoFishing",
 		[29349] = "LudoFishing",
-		[45263] = "Blanc_Suramar",
+		[47310] = "EmmZuldazar",
 		[42434] = "EmmLegionMage",
 		[52774] = "EmmHWarCampaign",
 		[50750] = "EmmVoldun",
 		[52861] = "EmmHWarCampaign",
-		[41766] = "LarePetWQHigh",
+		[47329] = "EmmZuldazar",
 		[48895] = "EmmVoldun",
-		[32984] = "LudoGarrCampaign",
-		[51407] = "EmmZuldazar",
-		[42149] = "EmmLegionMage",
+		[49493] = "EmmZuldazar",
+		[50043] = "EmmZuldazar",
+		[51111] = "EmmZuldazar",
 		[40963] = "Blanc_Suramar",
-		[42832] = "Blanc_Suramar",
-		[36627] = "LudoBuildingsHorde",
-		[42704] = "EmmLegionMage",
-		[35188] = "LudoGarrCampaign",
+		[53067] = "EmmHWarCampaign",
+		[53003] = "EmmHWarCampaign",
+		[40657] = "Blanc_Suramar",
+		[51753] = "EmmHWarCampaign",
 		[39236] = "FlucloTanaanJungle",
 		[49965] = "EmmZuldazar",
-		[51678] = "EmmZuldazar",
+		[49663] = "EmmZuldazar",
 		[41475] = "Blanc_Suramar",
-		[40401] = "Blanc_Suramar",
+		[44495] = "Blanc_Suramar",
 		[40617] = "Blanc_Suramar",
 		[37573] = "LudoBuildingsHorde",
 		[49919] = "EmmZuldazar",
-		[49144] = "EmmZuldazar",
+		[51679] = "EmmZuldazar",
 		[51677] = "EmmZuldazar",
-		[48334] = "EmmVoldun",
+		[52222] = "EmmHWarCampaign",
 		[35846] = "LudoGarrCampaign",
 		[44098] = "EmmLegionMage",
-		[49495] = "EmmZuldazar",
+		[50331] = "EmmZuldazar",
 		[48320] = "EmmVoldun",
 		[52478] = "EmmHWarCampaign",
 		[38213] = "FlucloTanaanJungle",
 		[40324] = "Blanc_Suramar",
 		[42435] = "EmmLegionMage",
-		[42064] = "LarePetWQHigh",
+		[50252] = "EmmZuldazar",
 		[50751] = "EmmVoldun",
-		[49492] = "EmmZuldazar",
+		[49310] = "EmmZuldazar",
 		[44738] = "Blanc_Suramar",
 		[48896] = "EmmVoldun",
-		[50074] = "EmmZuldazar",
+		[52990] = "EmmHWarCampaign",
 		[51071] = "EmmZuldazar",
-		[42728] = "Blanc_Suramar",
+		[36205] = "LudoBuildingsHorde",
 		[40964] = "Blanc_Suramar",
 		[41028] = "Blanc_Suramar",
-		[48549] = "EmmVoldun",
+		[41575] = "Blanc_Suramar",
 		[37062] = "LudoBuildingsHorde",
-		[49932] = "EmmNazmir",
-		[40683] = "Blanc_Suramar",
-		[47204] = "EmmZuldazar",
+		[51979] = "EmmHWarCampaign",
+		[40748] = "Blanc_Suramar",
+		[85679.1] = "LudoGarrisonPets",
 		[34035] = "LudoGarrCampaign",
 		[49664] = "EmmVoldun",
 		[43587] = "Blanc_Suramar",
-		[49920] = "EmmZuldazar",
-		[37574] = "LudoBuildingsHorde",
 		[47873] = "EmmVoldun",
-		[47226] = "EmmZuldazar",
+		[37574] = "LudoBuildingsHorde",
+		[49920] = "EmmZuldazar",
+		[51087] = "EmmZuldazar",
 		[41860] = "LarePetWQVal",
-		[47501] = "EmmVoldun",
+		[51595] = "EmmHWarCampaign",
 		[52184] = "EmmHWarCampaign",
-		[50297] = "EmmZuldazar",
-		[32980] = "LudoGarrCampaign",
+		[42147] = "Blanc_Suramar",
+		[45262] = "Blanc_Suramar",
 		[48321] = "EmmVoldun",
 		[52479] = "EmmHWarCampaign",
 		[36167] = "LudoGarrCampaign",
@@ -949,20 +949,20 @@ WoWProCharDB = {
 		[48577] = "EmmNazmir",
 		[37046] = "LudoBuildingsHorde",
 		[50752] = "EmmVoldun",
-		[38568] = "FlucloTanaanJungle",
+		[47522] = "EmmZuldazar",
 		[44739] = "Blanc_Suramar",
 		[48897] = "EmmZuldazar",
-		[45280] = "Blanc_Suramar",
+		[48850] = "EmmVoldun",
 		[51072] = "EmmZuldazar",
 		[40901] = "Blanc_Suramar",
 		[40965] = "Blanc_Suramar",
 		[51101] = "EmmZuldazar",
-		[51998] = "EmmZuldazar",
+		[49147] = "EmmZuldazar",
 		[38694] = "Blanc_Suramar",
 		[44480] = "EmmLegionMage",
 		[47734] = "EmmZuldazar",
-		[47587] = "EmmZuldazar",
-		[47739] = "EmmZuldazar",
+		[49309] = "EmmZuldazar",
+		[50079] = "EmmNazmir",
 		[49665] = "EmmVoldun",
 		[43588] = "Blanc_Suramar",
 		[37511] = "LudoGarrCampaign",
@@ -972,10 +972,10 @@ WoWProCharDB = {
 		[41861] = "LarePetWQVal",
 		[50466] = "EmmZuldazar",
 		[41989] = "Blanc_Suramar",
-		[40336] = "Blanc_Suramar",
-		[51091] = "EmmZuldazar",
+		[36242] = "LudoGarrCampaign",
+		[50538] = "EmmZuldazar",
 		[48322] = "EmmVoldun",
-		[40315] = "Blanc_Suramar",
+		[50979] = "EmmVoldun",
 		[36168] = "LudoGarrCampaign",
 		[50561] = "EmmVoldun",
 		[48578] = "EmmNazmir",
@@ -985,28 +985,28 @@ WoWProCharDB = {
 		[44740] = "Blanc_Suramar",
 		[36117] = "LudoGarrCampaign",
 		[53056] = "EmmHWarCampaign",
-		[49949] = "EmmNazmir",
-		[49488] = "EmmZuldazar",
-		[50536] = "EmmVoldun",
+		[36260] = "LudoBuildingsHorde",
+		[44964] = "Blanc_Suramar",
+		[39718] = "EmmLegionMage",
 		[41030] = "Blanc_Suramar",
 		[47235] = "EmmZuldazar",
+		[46927] = "EmmZuldazar",
 		[41222] = "Blanc_Suramar",
-		[39175] = "FlucloTanaanJungle",
 		[37192] = "LudoGarrCampaign",
 		[47491] = "EmmNazmir",
 		[43461] = "LudoWowAnniversary",
 		[49666] = "EmmVoldun",
-		[48655] = "EmmVoldun",
+		[41478] = "Blanc_Suramar",
 		[41606] = "Blanc_Suramar",
-		[45316] = "Blanc_Suramar",
+		[38692] = "Blanc_Suramar",
 		[49922] = "EmmZuldazar",
 		[47939] = "EmmVoldun",
 		[41862] = "LarePetWQVal",
-		[33427] = "LudoGarrCampaign",
+		[47756] = "EmmNazmir",
 		[41990] = "LarePetWQSur",
 		[50242] = "Ludo_AlliesH",
 		[50178] = "EmmZuldazar",
-		[34347] = "LudoGarrCampaign",
+		[34340] = "LudoGarrCampaign",
 		[29319] = "LudoFishing",
 		[36169] = "LudoGarrCampaign",
 		[50081] = "EmmNazmir",
@@ -1015,12 +1015,12 @@ WoWProCharDB = {
 		[44736] = "Blanc_Suramar",
 		[50818] = "EmmVoldun",
 		[44741] = "Blanc_Suramar",
-		[35945] = "LudoGarrCampaign",
-		[13832] = "LudoFishing",
-		[53121] = "EmmHWarCampaign",
-		[32979] = "LudoGarrCampaign",
+		[38444] = "FlucloTanaanJungle",
 		[40967] = "Blanc_Suramar",
-		[47244] = "EmmNazmir",
+		[53121] = "EmmHWarCampaign",
+		[45261] = "Blanc_Suramar",
+		[13832] = "LudoFishing",
+		[39056] = "FlucloTanaanJungle",
 		[49283] = "EmmZuldazar",
 		[47583] = "EmmZuldazar",
 		[43811] = "Blanc_Suramar",
@@ -1037,235 +1037,235 @@ WoWProCharDB = {
 		[41112] = "EmmLegionMage",
 		[40625] = "Blanc_Suramar",
 		[40008] = "Blanc_Suramar",
-		[37943] = "LudoHarrison",
+		[49379] = "EmmNazmir",
 		[48324] = "EmmVoldun",
-		[37961] = "LudoBringingBass",
+		[51244] = "EmmNazmir",
 		[48452] = "EmmZuldazar",
 		[40328] = "Blanc_Suramar",
-		[49366] = "EmmNazmir",
+		[38274] = "FlucloTanaanJungle",
 		[34315] = "LudoGarrCampaign",
 		[50755] = "EmmVoldun",
-		[42190] = "LarePetWQVal",
+		[48331] = "EmmVoldun",
 		[44742] = "Blanc_Suramar",
 		[44053] = "Blanc_Suramar",
 		[44870] = "Blanc_Suramar",
 		[37917] = "LudoHarrison",
-		[50535] = "EmmVoldun",
+		[40578] = "Blanc_Suramar",
 		[40968] = "Blanc_Suramar",
 		[41032] = "Blanc_Suramar",
 		[49284] = "EmmZuldazar",
 		[49348] = "EmmNazmir",
-		[52186] = "EmmHWarCampaign",
+		[36874] = "LudoBuildingsHorde",
 		[39241] = "FlucloTanaanJungle",
 		[51587] = "EmmHWarCampaign",
-		[45062] = "Blanc_Suramar",
+		[51555] = "EmmZuldazar",
 		[41480] = "Blanc_Suramar",
 		[43591] = "Blanc_Suramar",
-		[52477] = "EmmNazmir",
+		[49668] = "EmmVoldun",
 		[50881] = "EmmZuldazar",
-		[42423] = "EmmLegionMage",
-		[40927] = "Blanc_Suramar",
+		[49489] = "EmmZuldazar",
+		[47313] = "EmmVoldun",
 		[47621] = "EmmNazmir",
-		[48857] = "EmmNazmir",
-		[48402] = "EmmNazmir",
+		[53476] = "EmmHWarCampaign",
+		[39068] = "FlucloTanaanJungle",
 		[40009] = "Blanc_Suramar",
-		[47499] = "EmmVoldun",
+		[51593] = "EmmHWarCampaign",
 		[35838] = "LudoGarrCampaign",
 		[29320] = "LudoFishing",
 		[44955] = "Blanc_Suramar",
 		[40929] = "Blanc_Suramar",
 		[48581] = "EmmZuldazar",
 		[34316] = "LudoGarrCampaign",
-		[29348] = "LudoFishing",
-		[36380] = "LudoBuildingsHorde",
+		[36645] = "LudoBuildingsHorde",
+		[44726] = "Blanc_Suramar",
 		[42696] = "EmmLegionMage",
 		[40713] = "Blanc_Suramar",
-		[48530] = "EmmVoldun",
-		[36221] = "LudoGarrCampaign",
-		[41097] = "Blanc_Suramar",
-		[40969] = "Blanc_Suramar",
-		[42829] = "Blanc_Suramar",
+		[47263] = "EmmNazmir",
+		[42705] = "EmmLegionMage",
 		[51332] = "EmmHWarCampaign",
-		[45063] = "Blanc_Suramar",
-		[48574] = "EmmNazmir",
+		[40969] = "Blanc_Suramar",
+		[53064] = "EmmHWarCampaign",
+		[41097] = "Blanc_Suramar",
+		[49285] = "EmmZuldazar",
+		[50934] = "EmmNazmir",
 		[39242] = "FlucloTanaanJungle",
-		[49432] = "EmmNazmir",
+		[35837] = "LudoGarrCampaign",
 		[36477] = "LudoGarrCampaign",
 		[47622] = "EmmNazmir",
 		[43592] = "Blanc_Suramar",
 		[49669] = "EmmVoldun",
 		[48576] = "EmmNazmir",
 		[49131] = "EmmNazmir",
-		[40270] = "EmmLegionMage",
-		[48468] = "EmmNazmir",
+		[38223] = "FlucloTanaanJungle",
+		[42455] = "EmmLegionMage",
 		[38971] = "Blanc_Suramar",
 		[44040] = "Blanc_Suramar",
 		[40010] = "Blanc_Suramar",
-		[42940] = "EmmLegionMage",
+		[48573] = "EmmNazmir",
 		[48326] = "EmmVoldun",
-		[51060] = "EmmVoldun",
+		[36230] = "LudoBuildingsHorde",
 		[48454] = "EmmZuldazar",
-		[38720] = "Blanc_Suramar",
-		[40266] = "Blanc_Suramar",
-		[36255] = "LudoBuildingsHorde",
+		[35876] = "LudoGarrCampaign",
+		[49071] = "EmmNazmir",
+		[34381] = "LudoGarrCampaign",
 		[50757] = "EmmVoldun",
-		[47919] = "EmmNazmir",
-		[49327] = "EmmVoldun",
-		[41113] = "EmmLegionMage",
-		[40970] = "Blanc_Suramar",
-		[42889] = "Blanc_Suramar",
-		[41098] = "Blanc_Suramar",
+		[47315] = "EmmVoldun",
+		[36419] = "LudoBuildingsHorde",
+		[48496] = "EmmNazmir",
 		[45064] = "Blanc_Suramar",
-		[41034] = "Blanc_Suramar",
+		[42889] = "Blanc_Suramar",
 		[49286] = "EmmZuldazar",
+		[40970] = "Blanc_Suramar",
+		[41034] = "Blanc_Suramar",
+		[41098] = "Blanc_Suramar",
 		[49477] = "EmmNazmir",
-		[47623] = "EmmNazmir",
+		[38463] = "FlucloTanaanJungle",
 		[39243] = "FlucloTanaanJungle",
 		[51589] = "EmmHWarCampaign",
-		[47498] = "EmmVoldun",
-		[51717] = "EmmVoldun",
+		[51592] = "EmmHWarCampaign",
+		[47623] = "EmmNazmir",
 		[43593] = "Blanc_Suramar",
 		[37516] = "LudoGarrCampaign",
-		[39246] = "FlucloTanaanJungle",
-		[48934] = "EmmNazmir",
+		[47434] = "EmmZuldazar",
+		[35168] = "LudoBuildingsHorde",
 		[47943] = "EmmVoldun",
-		[52978] = "EmmHWarCampaign",
-		[39054] = "FlucloTanaanJungle",
-		[36516] = "LudoBuildingsHorde",
+		[49042] = "LudoPetWQKrokuun",
+		[49289] = "EmmZuldazar",
+		[38273] = "FlucloTanaanJungle",
 		[40011] = "Blanc_Suramar",
-		[42442] = "LarePetWQDala",
-		[48327] = "EmmVoldun",
 		[36301] = "LudoBuildingsHorde",
+		[48327] = "EmmVoldun",
+		[44489] = "Blanc_Suramar",
 		[40267] = "EmmLegionMage",
 		[40331] = "Blanc_Suramar",
-		[44489] = "Blanc_Suramar",
+		[42442] = "LarePetWQDala",
 		[34318] = "LudoGarrCampaign",
-		[35843] = "LudoGarrCampaign",
-		[42828] = "Blanc_Suramar",
-		[35842] = "LudoGarrCampaign",
-		[47262] = "EmmNazmir",
+		[47249] = "EmmNazmir",
+		[44875] = "Blanc_Suramar",
+		[40907] = "Blanc_Suramar",
+		[45065] = "Blanc_Suramar",
 		[44873] = "Blanc_Suramar",
 		[53125] = "EmmHWarCampaign",
 		[42954] = "EmmLegionMage",
 		[40971] = "Blanc_Suramar",
 		[41035] = "EmmLegionMage",
 		[49287] = "EmmZuldazar",
-		[13833] = "LudoFishing",
+		[38269] = "FlucloTanaanJungle",
+		[47432] = "EmmZuldazar",
 		[51526] = "EmmHWarCampaign",
-		[49479] = "EmmNazmir",
 		[51590] = "EmmHWarCampaign",
-		[44555] = "Blanc_Suramar",
+		[42508] = "EmmLegionMage",
 		[51718] = "EmmVoldun",
 		[43594] = "Blanc_Suramar",
 		[47316] = "EmmVoldun",
-		[51696] = "EmmHWarCampaign",
+		[47250] = "EmmNazmir",
 		[47880] = "EmmNazmir",
 		[42010] = "EmmLegionMage",
-		[29322] = "LudoFishing",
+		[79751.1] = "LudoGarrisonPets",
 		[41931] = "LarePetWQSur",
 		[51059] = "EmmVoldun",
 		[40012] = "Blanc_Suramar",
-		[41146] = "Blanc_Suramar",
-		[50834] = "EmmVoldun",
-		[47314] = "EmmVoldun",
-		[36352] = "LudoBuildingsHorde",
+		[50963] = "EmmZuldazar",
+		[47105] = "EmmNazmir",
+		[44876] = "Blanc_Suramar",
+		[40332] = "Blanc_Suramar",
 		[36238] = "LudoBuildingsHorde",
 		[48584] = "EmmNazmir",
 		[34319] = "LudoGarrCampaign",
-		[48699] = "EmmNazmir",
-		[44184] = "EmmLegionMage",
+		[44874] = "Blanc_Suramar",
+		[40972] = "Blanc_Suramar",
 		[48840] = "EmmVoldun",
-		[47241] = "EmmNazmir",
+		[49288] = "EmmZuldazar",
 		[53062] = "EmmHWarCampaign",
 		[53126] = "EmmHWarCampaign",
 		[53190] = "EmmHWarCampaign",
 		[45066] = "Blanc_Suramar",
 		[41036] = "EmmLegionMage",
-		[49288] = "EmmZuldazar",
-		[42955] = "EmmLegionMage",
-		[49160] = "EmmNazmir",
+		[47241] = "EmmNazmir",
+		[40908] = "Blanc_Suramar",
+		[44790] = "Blanc_Suramar",
 		[47433] = "EmmZuldazar",
 		[47497] = "EmmVoldun",
-		[39245] = "FlucloTanaanJungle",
-		[51591] = "EmmHWarCampaign",
 		[40306] = "Blanc_Suramar",
-		[44790] = "Blanc_Suramar",
-		[40908] = "Blanc_Suramar",
+		[51591] = "EmmHWarCampaign",
+		[39245] = "FlucloTanaanJungle",
+		[49160] = "EmmNazmir",
+		[42955] = "EmmLegionMage",
 		[51975] = "EmmHWarCampaign",
-		[40972] = "Blanc_Suramar",
-		[44874] = "Blanc_Suramar",
-		[40332] = "Blanc_Suramar",
-		[44876] = "Blanc_Suramar",
-		[47105] = "EmmNazmir",
-		[50963] = "EmmZuldazar",
+		[44184] = "EmmLegionMage",
+		[48699] = "EmmNazmir",
+		[36352] = "LudoBuildingsHorde",
+		[47314] = "EmmVoldun",
+		[50834] = "EmmVoldun",
+		[41146] = "Blanc_Suramar",
 		[48329] = "EmmVoldun",
-		[79751.1] = "LudoGarrisonPets",
+		[29322] = "LudoFishing",
 		[29354] = "LudoFishing",
-		[47250] = "EmmNazmir",
+		[51696] = "EmmHWarCampaign",
 		[48585] = "EmmVoldun",
-		[42508] = "EmmLegionMage",
-		[47432] = "EmmZuldazar",
-		[38269] = "FlucloTanaanJungle",
-		[45065] = "Blanc_Suramar",
-		[40907] = "Blanc_Suramar",
-		[44875] = "Blanc_Suramar",
-		[47249] = "EmmNazmir",
+		[44555] = "Blanc_Suramar",
+		[49479] = "EmmNazmir",
+		[13833] = "LudoFishing",
+		[47262] = "EmmNazmir",
+		[35842] = "LudoGarrCampaign",
+		[42828] = "Blanc_Suramar",
+		[35843] = "LudoGarrCampaign",
 		[42956] = "EmmLegionMage",
 		[45067] = "Blanc_Suramar",
-		[38273] = "FlucloTanaanJungle",
-		[49289] = "EmmZuldazar",
-		[49042] = "LudoPetWQKrokuun",
-		[35168] = "LudoBuildingsHorde",
-		[47434] = "EmmZuldazar",
-		[51592] = "EmmHWarCampaign",
-		[38463] = "FlucloTanaanJungle",
+		[36516] = "LudoBuildingsHorde",
+		[39054] = "FlucloTanaanJungle",
+		[52978] = "EmmHWarCampaign",
+		[48934] = "EmmNazmir",
+		[39246] = "FlucloTanaanJungle",
+		[47498] = "EmmVoldun",
+		[51717] = "EmmVoldun",
 		[41485] = "Blanc_Suramar",
 		[51784] = "EmmHWarCampaign",
 		[49801] = "EmmZuldazar",
-		[48496] = "EmmNazmir",
-		[36419] = "LudoBuildingsHorde",
-		[47315] = "EmmVoldun",
-		[34381] = "LudoGarrCampaign",
-		[49071] = "EmmNazmir",
-		[35876] = "LudoGarrCampaign",
-		[36230] = "LudoBuildingsHorde",
-		[48573] = "EmmNazmir",
+		[41113] = "EmmLegionMage",
+		[49327] = "EmmVoldun",
+		[47919] = "EmmNazmir",
+		[36255] = "LudoBuildingsHorde",
+		[40266] = "Blanc_Suramar",
+		[38720] = "Blanc_Suramar",
+		[51060] = "EmmVoldun",
+		[42940] = "EmmLegionMage",
 		[48330] = "EmmVoldun",
-		[42455] = "EmmLegionMage",
-		[38223] = "FlucloTanaanJungle",
+		[48468] = "EmmNazmir",
+		[40270] = "EmmLegionMage",
 		[40334] = "Blanc_Suramar",
 		[44492] = "Blanc_Suramar",
 		[38415] = "FlucloTanaanJungle",
 		[6607] = "LudoFishing",
-		[35837] = "LudoGarrCampaign",
-		[50934] = "EmmNazmir",
-		[49285] = "EmmZuldazar",
-		[53064] = "EmmHWarCampaign",
+		[49432] = "EmmNazmir",
+		[48574] = "EmmNazmir",
+		[45063] = "Blanc_Suramar",
+		[42829] = "Blanc_Suramar",
 		[26572] = "LudoFishing",
-		[42705] = "EmmLegionMage",
-		[47263] = "EmmNazmir",
-		[44726] = "Blanc_Suramar",
-		[36645] = "LudoBuildingsHorde",
+		[36221] = "LudoGarrCampaign",
+		[48530] = "EmmVoldun",
+		[36380] = "LudoBuildingsHorde",
+		[29348] = "LudoFishing",
 		[45260] = "Blanc_Suramar",
 		[41230] = "Blanc_Suramar",
 		[47435] = "EmmZuldazar",
-		[51593] = "EmmHWarCampaign",
-		[39068] = "FlucloTanaanJungle",
-		[53476] = "EmmZuldazar",
+		[47499] = "EmmVoldun",
+		[48402] = "EmmNazmir",
+		[48857] = "EmmNazmir",
 		[51785] = "EmmHWarCampaign",
-		[47313] = "EmmVoldun",
-		[49489] = "EmmZuldazar",
+		[40927] = "Blanc_Suramar",
+		[42423] = "EmmLegionMage",
 		[49930] = "Ludo_AlliesH",
-		[49668] = "EmmVoldun",
-		[51555] = "EmmZuldazar",
-		[36874] = "LudoBuildingsHorde",
-		[40578] = "Blanc_Suramar",
+		[52477] = "EmmNazmir",
+		[45062] = "Blanc_Suramar",
+		[52186] = "EmmHWarCampaign",
+		[50535] = "EmmVoldun",
 		[42062] = "LarePetWQDala",
 		[42126] = "EmmLegionMage",
-		[48331] = "EmmVoldun",
-		[38274] = "FlucloTanaanJungle",
-		[51244] = "EmmNazmir",
-		[49379] = "EmmNazmir",
+		[42190] = "LarePetWQVal",
+		[49366] = "EmmNazmir",
+		[37961] = "LudoBringingBass",
+		[37943] = "LudoHarrison",
 		[44493] = "Blanc_Suramar",
 		[38416] = "FlucloTanaanJungle",
 		[48715] = "EmmVoldun",
@@ -1277,164 +1277,191 @@ WoWProCharDB = {
 		[53193] = "EmmHWarCampaign",
 		[13834] = "LudoFishing",
 		[49227] = "EmmVoldun",
-		[39056] = "FlucloTanaanJungle",
-		[45261] = "Blanc_Suramar",
+		[47244] = "EmmNazmir",
+		[32979] = "LudoGarrCampaign",
 		[41231] = "Blanc_Suramar",
-		[38444] = "FlucloTanaanJungle",
+		[35945] = "LudoGarrCampaign",
 		[51594] = "EmmHWarCampaign",
 		[47564] = "EmmVoldun",
-		[34340] = "LudoGarrCampaign",
+		[34347] = "LudoGarrCampaign",
 		[51786] = "EmmHWarCampaign",
-		[47756] = "EmmNazmir",
-		[38692] = "Blanc_Suramar",
-		[41478] = "Blanc_Suramar",
-		[46927] = "EmmZuldazar",
-		[39718] = "EmmLegionMage",
-		[44964] = "Blanc_Suramar",
-		[36260] = "LudoBuildingsHorde",
+		[33427] = "LudoGarrCampaign",
+		[45316] = "Blanc_Suramar",
+		[48655] = "EmmVoldun",
+		[39175] = "FlucloTanaanJungle",
+		[50536] = "EmmVoldun",
+		[49488] = "EmmZuldazar",
+		[49949] = "EmmNazmir",
 		[42063] = "LarePetWQAzs",
 		[42127] = "EmmLegionMage",
 		[48332] = "EmmVoldun",
-		[50979] = "EmmVoldun",
-		[50538] = "EmmZuldazar",
-		[36242] = "LudoGarrCampaign",
+		[40315] = "Blanc_Suramar",
+		[51091] = "EmmZuldazar",
+		[40336] = "Blanc_Suramar",
 		[48588] = "EmmNazmir",
 		[38417] = "FlucloTanaanJungle",
-		[50079] = "EmmNazmir",
-		[49309] = "EmmZuldazar",
+		[47739] = "EmmZuldazar",
+		[47587] = "EmmZuldazar",
 		[42703] = "EmmLegionMage",
 		[44814] = "Blanc_Suramar",
 		[53066] = "EmmHWarCampaign",
-		[49147] = "EmmZuldazar",
+		[51998] = "EmmZuldazar",
 		[42959] = "EmmLegionMage",
-		[48850] = "EmmVoldun",
-		[47522] = "EmmZuldazar",
+		[45280] = "Blanc_Suramar",
+		[38568] = "FlucloTanaanJungle",
 		[47245] = "EmmNazmir",
-		[45262] = "Blanc_Suramar",
-		[42147] = "Blanc_Suramar",
+		[32980] = "LudoGarrCampaign",
+		[50297] = "EmmZuldazar",
 		[47437] = "EmmZuldazar",
-		[51595] = "EmmHWarCampaign",
-		[51087] = "EmmZuldazar",
+		[47501] = "EmmVoldun",
+		[47226] = "EmmZuldazar",
 		[49676] = "EmmVoldun",
 		[51787] = "EmmHWarCampaign",
-		[85679.1] = "LudoGarrisonPets",
-		[40748] = "Blanc_Suramar",
-		[51979] = "EmmHWarCampaign",
-		[41575] = "Blanc_Suramar",
-		[36205] = "LudoBuildingsHorde",
-		[52990] = "EmmHWarCampaign",
-		[49310] = "EmmZuldazar",
-		[50252] = "EmmZuldazar",
-		[50331] = "EmmZuldazar",
-		[52222] = "EmmHWarCampaign",
+		[47204] = "EmmZuldazar",
+		[40683] = "Blanc_Suramar",
+		[49932] = "EmmNazmir",
+		[48549] = "EmmVoldun",
+		[42728] = "Blanc_Suramar",
+		[50074] = "EmmZuldazar",
+		[49492] = "EmmZuldazar",
+		[42064] = "LarePetWQHigh",
+		[49495] = "EmmZuldazar",
+		[48334] = "EmmVoldun",
 		[50444] = "EmmNazmir",
-		[51679] = "EmmZuldazar",
+		[49144] = "EmmZuldazar",
 		[40337] = "LarePetWQSur",
-		[44495] = "Blanc_Suramar",
-		[49663] = "EmmZuldazar",
+		[40401] = "Blanc_Suramar",
+		[51678] = "EmmZuldazar",
 		[36435] = "LudoBuildingsHorde",
-		[51753] = "EmmHWarCampaign",
-		[40657] = "Blanc_Suramar",
-		[53003] = "EmmHWarCampaign",
-		[53067] = "EmmHWarCampaign",
-		[51111] = "EmmZuldazar",
-		[50043] = "EmmZuldazar",
-		[49493] = "EmmZuldazar",
-		[47329] = "EmmZuldazar",
+		[35188] = "LudoGarrCampaign",
+		[42704] = "EmmLegionMage",
+		[36627] = "LudoBuildingsHorde",
+		[42832] = "Blanc_Suramar",
+		[42149] = "EmmLegionMage",
+		[51407] = "EmmZuldazar",
+		[32984] = "LudoGarrCampaign",
+		[41766] = "LarePetWQHigh",
 		[51340] = "EmmHWarCampaign",
-		[47310] = "EmmZuldazar",
+		[45263] = "Blanc_Suramar",
 		[49421] = "EmmZuldazar",
-		[51532] = "EmmHWarCampaign",
-		[51596] = "EmmHWarCampaign",
+		[47438] = "EmmZuldazar",
+		[47502] = "EmmVoldun",
 		[41425] = "Blanc_Suramar",
 		[49677] = "EmmVoldun",
 		[51788] = "EmmHWarCampaign",
-		[47103] = "EmmNazmir",
+		[44928] = "Blanc_Suramar",
 		[51916] = "EmmHWarCampaign",
 		[51980] = "EmmZuldazar",
-		[47897] = "EmmZuldazar",
+		[40745] = "Blanc_Suramar",
 		[48014] = "EmmZuldazar",
-		[48492] = "EmmNazmir",
+		[47870] = "EmmVoldun",
 		[42001] = "EmmLegionMage",
-		[47733] = "EmmZuldazar",
-		[45417] = "Blanc_Suramar",
-		[50381] = "EmmZuldazar",
-		[52210] = "EmmZuldazar",
-		[51810] = "EmmVoldun",
-		[50812] = "EmmVoldun",
-		[48590] = "EmmNazmir",
-		[48871] = "EmmVoldun",
-		[51770] = "EmmHWarCampaign",
-		[53602] = "EmmHWarCampaign",
-		[48846] = "EmmVoldun",
-		[44663] = "EmmLegionMage",
-		[53068] = "EmmHWarCampaign",
-		[26556] = "LudoFishing",
-		[51536] = "EmmHWarCampaign",
-		[51691] = "EmmHWarCampaign",
-		[52187] = "EmmHWarCampaign",
+		[51668] = "EmmVoldun",
+		[51538] = "EmmZuldazar",
+		[44240] = "EmmLegionMage",
+		[51539] = "EmmZuldazar",
+		[51249] = "EmmZuldazar",
+		[49058] = "LudoPetWQAntoran",
+		[44496] = "EmmLegionMage",
+		[51680] = "EmmZuldazar",
+		[47735] = "EmmZuldazar",
+		[34034] = "LudoGarrCampaign",
+		[44752] = "Blanc_Suramar",
+		[48684] = "EmmVoldun",
+		[42833] = "Blanc_Suramar",
+		[47738] = "EmmZuldazar",
+		[52773] = "EmmHWarCampaign",
+		[48847] = "EmmVoldun",
+		[35185] = "LudoGarrCampaign",
 		[47247] = "EmmNazmir",
 		[47311] = "EmmZuldazar",
 		[49422] = "EmmZuldazar",
 		[47439] = "EmmZuldazar",
-		[51597] = "EmmHWarCampaign",
+		[47503] = "EmmVoldun",
 		[41426] = "Blanc_Suramar",
-		[49678] = "EmmZuldazar",
+		[47631] = "EmmNazmir",
 		[51789] = "EmmHWarCampaign",
 		[41618] = "Blanc_Suramar",
 		[49870] = "EmmZuldazar",
-		[50746] = "EmmVoldun",
-		[38272] = "FlucloTanaanJungle",
+		[26543] = "LudoFishing",
+		[50901] = "EmmVoldun",
 		[48015] = "EmmZuldazar",
-		[52765] = "EmmHWarCampaign",
-		[51805] = "EmmHWarCampaign",
-		[51830] = "EmmHWarCampaign",
-		[52764] = "EmmHWarCampaign",
+		[51985] = "EmmHWarCampaign",
+		[51224] = "EmmHWarCampaign",
+		[41762] = "Blanc_Suramar",
+		[34041] = "LudoGarrCampaign",
 		[48335] = "EmmVoldun",
-		[48399] = "EmmZuldazar",
-		[52770] = "EmmHWarCampaign",
+		[40211] = "Blanc_Suramar",
+		[50980] = "EmmVoldun",
 		[48527] = "EmmZuldazar",
-		[48591] = "EmmNazmir",
-		[50702] = "EmmVoldun",
-		[52857] = "EmmZuldazar",
-		[49969] = "EmmZuldazar",
-		[42706] = "EmmLegionMage",
-		[50080] = "EmmNazmir",
-		[46928] = "EmmZuldazar",
-		[52855] = "EmmZuldazar",
-		[51801] = "EmmHWarCampaign",
-		[53081] = "EmmHWarCampaign",
-		[42914] = "EmmLegionMage",
-		[47248] = "EmmNazmir",
-		[47312] = "EmmZuldazar",
-		[53208] = "EmmHWarCampaign",
+		[38356] = "LudoBringingBass",
+		[44561] = "Blanc_Suramar",
+		[34040] = "LudoGarrCampaign",
+		[51987] = "EmmHWarCampaign",
+		[44753] = "Blanc_Suramar",
+		[32983] = "LudoGarrCampaign",
+		[42834] = "Blanc_Suramar",
+		[51984] = "EmmHWarCampaign",
+		[47659] = "EmmNazmir",
+		[32985] = "LudoGarrCampaign",
+		[34039] = "LudoGarrCampaign",
+		[41107] = "Blanc_Suramar",
+		[45265] = "Blanc_Suramar",
+		[42008] = "EmmLegionMage",
 		[47440] = "EmmZuldazar",
 		[51598] = "EmmHWarCampaign",
 		[49615] = "EmmZuldazar",
 		[49679] = "EmmZuldazar",
 		[47696] = "EmmNazmir",
-		[53150] = "EmmHWarCampaign",
+		[51573] = "EmmVoldun",
 		[49871] = "EmmZuldazar",
 		[49935] = "EmmNazmir",
-		[53669] = "EmmHWarCampaign",
-		[53668] = "EmmHWarCampaign",
-		[53102] = "EmmHWarCampaign",
-		[53103] = "EmmHWarCampaign",
-		[37973] = "LudoHarrison",
+		[36207] = "LudoBuildingsHorde",
+		[52769] = "EmmHWarCampaign",
+		[42486] = "Blanc_Suramar",
+		[37688] = "FlucloTanaanJungle",
+		[42067] = "LarePetWQStorm",
 		[85650.1] = "LudoGarrisonPets",
-		[53152] = "EmmHWarCampaign",
-		[48400] = "EmmZuldazar",
-		[49758] = "EmmZuldazar",
-		[52314] = "EmmHWarCampaign",
+		[52183] = "EmmHWarCampaign",
+		[40212] = "Blanc_Suramar",
+		[40469] = "Blanc_Suramar",
+		[52185] = "EmmHWarCampaign",
 		[42451] = "EmmLegionMage",
-		[44562] = "Blanc_Suramar",
-		[53100] = "EmmHWarCampaign",
+		[50703] = "EmmVoldun",
+		[50083] = "EmmNazmir",
 		[34455] = "LudoGarrCampaign",
-		[42707] = "EmmLegionMage",
-		[53082] = "EmmHWarCampaign",
+		[44754] = "Blanc_Suramar",
+		[50976] = "EmmNazmir",
 	},
 	["IgnoreProf"] = false,
-	["EnableFlight"] = true,
+	["GuideVersion"] = {
+		["EmmVoldun"] = "8.0.1M",
+		["LudoGarrisonPets"] = "8.0.1M",
+		["LudoGarrCampaign"] = "8.0.1M",
+		["EmmLegionMage"] = "8.0.1M",
+		["LudoFishing"] = "8.0.1M",
+		["LarePetWQAzs"] = "8.0.1M",
+		["LudoWowAnniversary"] = "8.0.1M",
+		["LudoPetWQAntoran"] = "8.0.1M",
+		["LarePetWQStorm"] = "8.0.1M",
+		["LudoBuildingsHorde"] = "8.0.1M",
+		["Blanc_Suramar"] = "8.0.1M",
+		["LudoPetWQMacAree"] = "8.0.1M",
+		["LarePetWQHigh"] = "8.0.1M",
+		["LudoPetWailingCaverns"] = "8.0.1M",
+		["LudoBringingBass"] = "8.0.1M",
+		["LudoPetWQKrokuun"] = "8.0.1M",
+		["EmmZuldazar"] = "8.0.1M",
+		["LarePetWQBroken"] = "8.0.1M",
+		["EliEndgame"] = "8.0.1M",
+		["EmmNazmir"] = "8.0.1M",
+		["FlucloTanaanJungle"] = "8.0.1M",
+		["EmmHWarCampaign"] = "8.0.1M",
+		["LarePetWQSur"] = "8.0.1M",
+		["LudoHarrison"] = "8.0.1M",
+		["LarePetWQVal"] = "8.0.1M",
+		["LarePetWQDala"] = "8.0.1M",
+	},
 	["Trades"] = {
 		[143066] = true,
 		[18451] = true,
@@ -2043,614 +2070,614 @@ WoWProCharDB = {
 		[112466] = true,
 		[58488] = true,
 		[50620] = true,
-		[18629] = true,
+		[192821] = true,
 		[57209] = true,
-		[18630] = true,
-		[7892] = true,
-		[21945] = true,
-		[3862] = true,
+		[225546] = true,
+		[225554] = true,
+		[58478] = true,
+		[59489] = true,
 		[18422] = true,
+		[225550] = true,
 		[8793] = true,
-		[10840] = true,
 		[22870] = true,
-		[12053] = true,
+		[85785] = true,
 		[50647] = true,
 		[24901] = true,
-		[12060] = true,
+		[40020] = true,
 		[55994] = true,
 		[168835] = true,
 		[24092] = true,
 		[225541] = true,
 		[26086] = true,
-		[3854] = true,
-		[12066] = true,
+		[225527] = true,
+		[225538] = true,
 		[58489] = true,
-		[75597] = true,
+		[7633] = true,
 		[168836] = true,
 		[225559] = true,
-		[6692] = true,
-		[8802] = true,
-		[50644] = true,
+		[225534] = true,
+		[225560] = true,
+		[126994] = true,
 		[7629] = true,
 		[225536] = true,
-		[18404] = true,
+		[238577] = true,
 		[168837] = true,
 		[257114] = true,
 		[22902] = true,
 		[18410] = true,
 		[18442] = true,
-		[55919] = true,
+		[86616] = true,
 		[192890] = true,
 		[225532] = true,
 		[168838] = true,
 		[257115] = true,
-		[23665] = true,
-		[3858] = true,
-		[225528] = true,
+		[225530] = true,
+		[56017] = true,
+		[222408] = true,
 		[86615] = true,
 		[111830] = true,
 		[55995] = true,
 		[168839] = true,
 		[257116] = true,
-		[3758] = true,
-		[6693] = true,
-		[55902] = true,
+		[254238] = true,
+		[26085] = true,
+		[2399] = true,
 		[18405] = true,
 		[58490] = true,
-		[178497] = true,
+		[31450] = true,
 		[168840] = true,
 		[187519] = true,
-		[27032] = true,
+		[165464] = true,
 		[31460] = true,
-		[192811] = true,
-		[192893] = true,
+		[40060] = true,
 		[7893] = true,
-		[192864] = true,
+		[192893] = true,
+		[31453] = true,
 		[168841] = true,
 		[257118] = true,
 		[31451] = true,
 		[126800] = true,
-		[209664] = true,
+		[55906] = true,
 		[26753] = true,
 		[192894] = true,
-		[26752] = true,
+		[36316] = true,
 		[168842] = true,
-		[40024] = true,
+		[209660] = true,
 		[268982] = true,
-		[209659] = true,
+		[36315] = true,
 		[28482] = true,
+		[227561] = true,
 		[268983] = true,
-		[192895] = true,
 		[55996] = true,
 		[168843] = true,
 		[257120] = true,
-		[58484] = true,
+		[55899] = true,
 		[26087] = true,
-		[41205] = true,
+		[192896] = true,
 		[12056] = true,
 		[58491] = true,
 		[12088] = true,
 		[168844] = true,
 		[257121] = true,
-		[20849] = true,
-		[28480] = true,
-		[26754] = true,
+		[137942] = true,
+		[57709] = true,
+		[192802] = true,
 		[26407] = true,
 		[192897] = true,
-		[26758] = true,
+		[70552] = true,
 		[168845] = true,
 		[257122] = true,
 		[192840] = true,
 		[18411] = true,
 		[59387] = true,
-		[31454] = true,
+		[225547] = true,
 		[192898] = true,
-		[26759] = true,
 		[168846] = true,
+		[26759] = true,
 		[125523] = true,
-		[86402] = true,
-		[137941] = true,
-		[192892] = true,
-		[31459] = true,
+		[185949] = true,
+		[269613] = true,
+		[185933] = true,
+		[58482] = true,
 		[192899] = true,
 		[55997] = true,
 		[168847] = true,
 		[59494] = true,
-		[18418] = true,
-		[101921] = true,
-		[185931] = true,
-		[63203] = true,
+		[269612] = true,
+		[186110] = true,
+		[70551] = true,
+		[143074] = true,
 		[192900] = true,
 		[86375] = true,
 		[168848] = true,
 		[257125] = true,
-		[137940] = true,
+		[269611] = true,
 		[55913] = true,
-		[127009] = true,
-		[227240] = true,
+		[192838] = true,
+		[7623] = true,
 		[192901] = true,
-		[143057] = true,
+		[269610] = true,
 		[168849] = true,
 		[257126] = true,
-		[70550] = true,
+		[58485] = true,
 		[19435] = true,
 		[192839] = true,
-		[18421] = true,
+		[10841] = true,
 		[192902] = true,
 		[8762] = true,
 		[168850] = true,
 		[257127] = true,
-		[269609] = true,
-		[213036] = true,
-		[127391] = true,
+		[137939] = true,
+		[50607] = true,
+		[187518] = true,
 		[202854] = true,
 		[192903] = true,
 		[55998] = true,
 		[64250] = true,
 		[257128] = true,
-		[143056] = true,
+		[269608] = true,
 		[58301] = true,
 		[12067] = true,
-		[3276] = true,
 		[192904] = true,
+		[3276] = true,
 		[225531] = true,
 		[168852] = true,
 		[257129] = true,
-		[56010] = true,
-		[55914] = true,
+		[75142] = true,
+		[192852] = true,
 		[182158] = true,
+		[185935] = true,
 		[192905] = true,
-		[186764] = true,
 		[171260] = true,
 		[168853] = true,
 		[257130] = true,
-		[269606] = true,
+		[143055] = true,
 		[18412] = true,
 		[18444] = true,
-		[254227] = true,
+		[127018] = true,
 		[192906] = true,
 		[6686] = true,
 		[26760] = true,
 		[257131] = true,
-		[8797] = true,
+		[125549] = true,
 		[143011] = true,
-		[75248] = true,
-		[23663] = true,
+		[3915] = true,
+		[269605] = true,
 		[192907] = true,
 		[55999] = true,
-		[168855] = true,
+		[75248] = true,
 		[257132] = true,
 		[58472] = true,
-		[142964] = true,
-		[3871] = true,
-		[143054] = true,
-		[2396] = true,
-		[192842] = true,
-		[75141] = true,
+		[187516] = true,
+		[186109] = true,
+		[269604] = true,
+		[3861] = true,
+		[247615] = true,
+		[137936] = true,
 		[257133] = true,
 		[31430] = true,
-		[137936] = true,
-		[225556] = true,
+		[269603] = true,
+		[254231] = true,
 		[3839] = true,
-		[75249] = true,
+		[50610] = true,
 		[61117] = true,
-		[177045] = true,
+		[75249] = true,
 		[257134] = true,
-		[143053] = true,
+		[269602] = true,
 		[192841] = true,
 		[112469] = true,
-		[50608] = true,
-		[137935] = true,
+		[192891] = true,
+		[269601] = true,
 		[59582] = true,
-		[185936] = true,
+		[256308] = true,
 		[257135] = true,
-		[256248] = true,
-		[168854] = true,
-		[58312] = true,
-		[137937] = true,
-		[56009] = true,
+		[56948] = true,
+		[59498] = true,
+		[269600] = true,
+		[50609] = true,
+		[185937] = true,
 		[56000] = true,
 		[75250] = true,
 		[257136] = true,
-		[75268] = true,
-		[20848] = true,
-		[12071] = true,
+		[64261] = true,
+		[137934] = true,
+		[138597] = true,
 		[101920] = true,
 		[12073] = true,
 		[12089] = true,
-		[50606] = true,
+		[227562] = true,
 		[257137] = true,
 		[58473] = true,
-		[55924] = true,
-		[125547] = true,
+		[185926] = true,
+		[86654] = true,
 		[60990] = true,
 		[185930] = true,
 		[61118] = true,
 		[75251] = true,
 		[257138] = true,
-		[137933] = true,
+		[269597] = true,
 		[18413] = true,
 		[18445] = true,
-		[101922] = true,
-		[125527] = true,
+		[210116] = true,
+		[185940] = true,
 		[59583] = true,
 		[26761] = true,
 		[45382] = true,
-		[18449] = true,
-		[269596] = true,
+		[176058] = true,
+		[18417] = true,
 		[8770] = true,
-		[3275] = true,
-		[57032] = true,
+		[230047] = true,
+		[187060] = true,
 		[56001] = true,
 		[75252] = true,
-		[187060] = true,
-		[58481] = true,
-		[3843] = true,
+		[137932] = true,
+		[125531] = true,
+		[12069] = true,
 		[192846] = true,
-		[143069] = true,
-		[75247] = true,
-		[125546] = true,
-		[74557] = true,
+		[125530] = true,
+		[18419] = true,
+		[86653] = true,
+		[187059] = true,
 		[125532] = true,
 		[31431] = true,
-		[12091] = true,
+		[137931] = true,
 		[52739] = true,
-		[12075] = true,
+		[186803] = true,
 		[18403] = true,
 		[61119] = true,
 		[75253] = true,
 		[185942] = true,
 		[31373] = true,
-		[86640] = true,
-		[56008] = true,
-		[75266] = true,
+		[2964] = true,
+		[8795] = true,
+		[64260] = true,
 		[100585] = true,
 		[59584] = true,
 		[63742] = true,
-		[125533] = true,
-		[137930] = true,
-		[192850] = true,
-		[143058] = true,
+		[86640] = true,
+		[187058] = true,
+		[185944] = true,
+		[59493] = true,
 		[185960] = true,
 		[55923] = true,
 		[56002] = true,
 		[75254] = true,
-		[225529] = true,
-		[86652] = true,
-		[256296] = true,
-		[23662] = true,
-		[27724] = true,
-		[185947] = true,
+		[192851] = true,
+		[125545] = true,
+		[125526] = true,
+		[137929] = true,
+		[186801] = true,
+		[112996] = true,
 		[137907] = true,
-		[27660] = true,
+		[190383] = true,
 		[86641] = true,
-		[233278] = true,
+		[125528] = true,
 		[8776] = true,
-		[61120] = true,
+		[3856] = true,
 		[7630] = true,
-		[59585] = true,
-		[137908] = true,
+		[137909] = true,
+		[61120] = true,
 		[75255] = true,
-		[3860] = true,
-		[86642] = true,
+		[26762] = true,
+		[125535] = true,
 		[18414] = true,
 		[3844] = true,
 		[3848] = true,
 		[3852] = true,
-		[137909] = true,
-		[26762] = true,
-		[3864] = true,
+		[59585] = true,
+		[3860] = true,
+		[86642] = true,
 		[3868] = true,
-		[125524] = true,
+		[143071] = true,
 		[58316] = true,
-		[137910] = true,
-		[2397] = true,
 		[56003] = true,
+		[31434] = true,
+		[137910] = true,
 		[75256] = true,
-		[125544] = true,
+		[2393] = true,
 		[143084] = true,
-		[2385] = true,
+		[137927] = true,
 		[192854] = true,
-		[256245] = true,
+		[225548] = true,
 		[172539] = true,
 		[137911] = true,
-		[134585] = true,
+		[125536] = true,
 		[86643] = true,
-		[31432] = true,
-		[18446] = true,
-		[192855] = true,
+		[134585] = true,
+		[55904] = true,
+		[269599] = true,
 		[60993] = true,
 		[86401] = true,
 		[137912] = true,
 		[75257] = true,
-		[56007] = true,
+		[137926] = true,
 		[229177] = true,
-		[58476] = true,
+		[86004] = true,
 		[27658] = true,
-		[55922] = true,
+		[75144] = true,
+		[59495] = true,
 		[137913] = true,
-		[59586] = true,
-		[86644] = true,
 		[125537] = true,
-		[125543] = true,
-		[6695] = true,
+		[86644] = true,
+		[191659] = true,
+		[26764] = true,
 		[165804] = true,
-		[59589] = true,
+		[137925] = true,
+		[192867] = true,
 		[137914] = true,
-		[56004] = true,
 		[75258] = true,
-		[8489] = true,
-		[2406] = true,
+		[2392] = true,
+		[137938] = true,
 		[59502] = true,
 		[86005] = true,
-		[185951] = true,
+		[229184] = true,
 		[12074] = true,
 		[137915] = true,
+		[229041] = true,
 		[125538] = true,
-		[86645] = true,
 		[58287] = true,
 		[125529] = true,
-		[192869] = true,
+		[125525] = true,
 		[60994] = true,
-		[3840] = true,
+		[185938] = true,
 		[137916] = true,
 		[75259] = true,
 		[36686] = true,
-		[269607] = true,
+		[12072] = true,
 		[18415] = true,
 		[18447] = true,
-		[3813] = true,
-		[125539] = true,
+		[208352] = true,
+		[137917] = true,
 		[59587] = true,
 		[26763] = true,
-		[86646] = true,
-		[86649] = true,
-		[48116] = true,
-		[58565] = true,
-		[56005] = true,
-		[55941] = true,
+		[125539] = true,
+		[125542] = true,
+		[55921] = true,
+		[137923] = true,
 		[137918] = true,
+		[55941] = true,
+		[56005] = true,
 		[75260] = true,
-		[48247] = true,
-		[186763] = true,
-		[31455] = true,
-		[58486] = true,
-		[125534] = true,
-		[56006] = true,
-		[137919] = true,
+		[169081] = true,
+		[276059] = true,
+		[142960] = true,
+		[50614] = true,
+		[256291] = true,
 		[137922] = true,
+		[137919] = true,
+		[240272] = true,
 		[125540] = true,
 		[31433] = true,
-		[55920] = true,
-		[185957] = true,
-		[55903] = true,
+		[56011] = true,
+		[127007] = true,
+		[127378] = true,
 		[56965] = true,
 		[137920] = true,
 		[75261] = true,
-		[59496] = true,
-		[57263] = true,
-		[86648] = true,
+		[12070] = true,
+		[48248] = true,
+		[125541] = true,
 		[27659] = true,
-		[8764] = true,
 		[59588] = true,
 		[137921] = true,
+		[8764] = true,
 		[8780] = true,
-		[125541] = true,
-		[48248] = true,
-		[12070] = true,
-		[127378] = true,
-		[127007] = true,
-		[56011] = true,
-		[240272] = true,
+		[86648] = true,
+		[57263] = true,
+		[59496] = true,
+		[55903] = true,
+		[185957] = true,
+		[55920] = true,
+		[56006] = true,
 		[75262] = true,
-		[256291] = true,
-		[50614] = true,
-		[142960] = true,
-		[276059] = true,
-		[169081] = true,
+		[125534] = true,
+		[58486] = true,
+		[31455] = true,
+		[186763] = true,
+		[48247] = true,
 		[269065] = true,
-		[137923] = true,
-		[55921] = true,
-		[125542] = true,
-		[137917] = true,
-		[208352] = true,
-		[12072] = true,
-		[185938] = true,
-		[125525] = true,
+		[58565] = true,
+		[48116] = true,
+		[86649] = true,
+		[86646] = true,
+		[3813] = true,
+		[269607] = true,
+		[3840] = true,
+		[192869] = true,
 		[137924] = true,
 		[75263] = true,
-		[229041] = true,
-		[229184] = true,
+		[86645] = true,
+		[185951] = true,
 		[18416] = true,
-		[137938] = true,
-		[2392] = true,
-		[192867] = true,
-		[137925] = true,
-		[26764] = true,
-		[191659] = true,
+		[2406] = true,
+		[8489] = true,
+		[56004] = true,
+		[59589] = true,
+		[6695] = true,
+		[125543] = true,
 		[165304] = true,
-		[59495] = true,
-		[75144] = true,
-		[86004] = true,
+		[59586] = true,
+		[55922] = true,
+		[58476] = true,
 		[55943] = true,
-		[137926] = true,
+		[56007] = true,
 		[75264] = true,
-		[269599] = true,
-		[55904] = true,
-		[125536] = true,
+		[192855] = true,
+		[18446] = true,
+		[31432] = true,
 		[190381] = true,
-		[225548] = true,
+		[256245] = true,
 		[186799] = true,
-		[137927] = true,
+		[2385] = true,
 		[2389] = true,
-		[2393] = true,
-		[31434] = true,
+		[125544] = true,
+		[2397] = true,
 		[2401] = true,
 		[190382] = true,
-		[143071] = true,
-		[125535] = true,
+		[125524] = true,
+		[3864] = true,
 		[137928] = true,
 		[75265] = true,
-		[3856] = true,
+		[137908] = true,
 		[126696] = true,
-		[125528] = true,
-		[190383] = true,
-		[112996] = true,
-		[186801] = true,
-		[137929] = true,
-		[125526] = true,
-		[125545] = true,
-		[192851] = true,
+		[233278] = true,
+		[27660] = true,
+		[185947] = true,
+		[27724] = true,
+		[23662] = true,
+		[256296] = true,
+		[86652] = true,
+		[225529] = true,
 		[165564] = true,
 		[190384] = true,
-		[59493] = true,
-		[185944] = true,
-		[187058] = true,
-		[64260] = true,
-		[8795] = true,
-		[2964] = true,
+		[143058] = true,
+		[192850] = true,
+		[56008] = true,
+		[75266] = true,
+		[137930] = true,
+		[125533] = true,
 		[92026] = true,
 		[190385] = true,
 		[12059] = true,
-		[186803] = true,
-		[137931] = true,
-		[187059] = true,
-		[86653] = true,
-		[18419] = true,
-		[125530] = true,
+		[12075] = true,
+		[12091] = true,
+		[74557] = true,
+		[125546] = true,
+		[75247] = true,
+		[143069] = true,
 		[190386] = true,
-		[12069] = true,
-		[125531] = true,
-		[137932] = true,
+		[3843] = true,
+		[58481] = true,
+		[57032] = true,
 		[75267] = true,
-		[230047] = true,
+		[3275] = true,
 		[57224] = true,
-		[18417] = true,
-		[176058] = true,
-		[185940] = true,
-		[210116] = true,
-		[269597] = true,
+		[269596] = true,
+		[18449] = true,
+		[125527] = true,
+		[101922] = true,
+		[137933] = true,
 		[26765] = true,
-		[86654] = true,
-		[185926] = true,
+		[125547] = true,
+		[55924] = true,
 		[269598] = true,
-		[227562] = true,
+		[50606] = true,
 		[99448] = true,
-		[138597] = true,
-		[137934] = true,
-		[64261] = true,
-		[185937] = true,
-		[50609] = true,
-		[269600] = true,
-		[59498] = true,
-		[56948] = true,
-		[256308] = true,
-		[269601] = true,
-		[192891] = true,
+		[12071] = true,
+		[56009] = true,
+		[75268] = true,
+		[20848] = true,
+		[137937] = true,
+		[58312] = true,
+		[168854] = true,
+		[256248] = true,
+		[185936] = true,
+		[137935] = true,
+		[50608] = true,
 		[125548] = true,
 		[31435] = true,
-		[269602] = true,
-		[50610] = true,
+		[143053] = true,
+		[177045] = true,
 		[99449] = true,
-		[254231] = true,
-		[269603] = true,
+		[225556] = true,
+		[75141] = true,
 		[75269] = true,
-		[247615] = true,
-		[3861] = true,
-		[269604] = true,
-		[186109] = true,
-		[187516] = true,
+		[192842] = true,
+		[2396] = true,
+		[143054] = true,
+		[3871] = true,
+		[142964] = true,
 		[27725] = true,
-		[269605] = true,
-		[3915] = true,
-		[125549] = true,
-		[127018] = true,
-		[143055] = true,
+		[23663] = true,
+		[168855] = true,
+		[8797] = true,
+		[254227] = true,
+		[269606] = true,
 		[49677] = true,
-		[185935] = true,
-		[192852] = true,
-		[75142] = true,
+		[186764] = true,
+		[55914] = true,
+		[56010] = true,
 		[75270] = true,
 		[146638] = true,
 		[69385] = true,
-		[269608] = true,
+		[143056] = true,
 		[227239] = true,
-		[187518] = true,
-		[50607] = true,
-		[137939] = true,
-		[10841] = true,
+		[127391] = true,
+		[213036] = true,
+		[269609] = true,
+		[18421] = true,
 		[125550] = true,
-		[58485] = true,
-		[269610] = true,
-		[7623] = true,
-		[192838] = true,
+		[70550] = true,
+		[143057] = true,
+		[227240] = true,
+		[127009] = true,
 		[7639] = true,
-		[269611] = true,
-		[143074] = true,
-		[70551] = true,
-		[186110] = true,
-		[269612] = true,
+		[137940] = true,
+		[63203] = true,
+		[185931] = true,
+		[101921] = true,
+		[18418] = true,
 		[18450] = true,
-		[58482] = true,
-		[185933] = true,
-		[269613] = true,
-		[185949] = true,
+		[31459] = true,
+		[192892] = true,
+		[86402] = true,
+		[137941] = true,
 		[125551] = true,
-		[225547] = true,
+		[31454] = true,
 		[143059] = true,
-		[70552] = true,
-		[192802] = true,
-		[57709] = true,
-		[137942] = true,
-		[192896] = true,
-		[55899] = true,
-		[227561] = true,
+		[26758] = true,
+		[26754] = true,
+		[28480] = true,
+		[20849] = true,
+		[41205] = true,
+		[58484] = true,
+		[192895] = true,
 		[143060] = true,
-		[36315] = true,
-		[209660] = true,
-		[36316] = true,
+		[209659] = true,
+		[40024] = true,
+		[26752] = true,
 		[86403] = true,
-		[55906] = true,
+		[209664] = true,
 		[125552] = true,
-		[31453] = true,
+		[192864] = true,
 		[143061] = true,
-		[40060] = true,
-		[165464] = true,
-		[31450] = true,
+		[192811] = true,
+		[27032] = true,
+		[178497] = true,
 		[75145] = true,
-		[2399] = true,
-		[26085] = true,
-		[254238] = true,
+		[55902] = true,
+		[6693] = true,
+		[3758] = true,
 		[143062] = true,
-		[222408] = true,
-		[56017] = true,
-		[225530] = true,
+		[225528] = true,
+		[3858] = true,
+		[23665] = true,
 		[23664] = true,
-		[86616] = true,
+		[55919] = true,
 		[125553] = true,
-		[238577] = true,
+		[18404] = true,
 		[143063] = true,
-		[126994] = true,
-		[225560] = true,
-		[225534] = true,
+		[50644] = true,
+		[8802] = true,
+		[6692] = true,
 		[75146] = true,
-		[7633] = true,
-		[225538] = true,
-		[225527] = true,
+		[75597] = true,
+		[12066] = true,
+		[3854] = true,
 		[143064] = true,
 		[12044] = true,
-		[40020] = true,
+		[12060] = true,
 		[12076] = true,
 		[12092] = true,
-		[85785] = true,
+		[12053] = true,
 		[125554] = true,
-		[225550] = true,
+		[10840] = true,
 		[143065] = true,
-		[59489] = true,
-		[58478] = true,
-		[225554] = true,
-		[225546] = true,
-		[192821] = true,
+		[3862] = true,
+		[21945] = true,
+		[7892] = true,
+		[18630] = true,
+		[18629] = true,
 	},
 	["GuideStack"] = {
 		"EmmJad8586", -- [1]
@@ -2666,10 +2693,11 @@ WoWProCharDB = {
 		"EmmVoldun", -- [11]
 		"EmmNazmir", -- [12]
 		"EmmZuldazar", -- [13]
+		"EmmHWarCampaign", -- [14]
 	},
-	["Enabled"] = true,
-	["AutoAccept"] = true,
-	["ProfessionalfOffset"] = 100,
+	["Enabled"] = false,
+	["AutoAccept"] = false,
+	["EnablePetBattles"] = false,
 	["Taxi"] = {
 		["Shackle's Den"] = true,
 		["Schnottz's Landing"] = true,
@@ -2682,73 +2710,74 @@ WoWProCharDB = {
 		["Meredil"] = true,
 		["Atal'dazar"] = true,
 		["Destiny Point"] = true,
+		["Krazzlefrazz Outpost"] = true,
 		["Orgrimmar"] = true,
-		["Vorrik's Sanctum"] = true,
+		["Gloom Hollow"] = true,
 		["Gates of Sothann"] = true,
 		["The Crossroads"] = true,
-		["Bootlegger Outpost"] = true,
+		["Forsaken Foothold"] = true,
 		["Garden of the Moon"] = true,
 		["Starsong Refuge"] = true,
 		["Westreach Summit"] = true,
 		["Hellscream's Watch"] = true,
-		["Cliffwalker Post"] = true,
 		["Warspear"] = true,
+		["Cliffwalker Post"] = true,
 		["Frostwolf Overlook"] = true,
 		["Ethel Rethor"] = true,
-		["Oasis of Vir'sar"] = true,
+		["Prophet's Reflection"] = true,
 		["Illidari Stand"] = true,
 		["City Center"] = true,
 		["Seeker's Outpost"] = true,
 		["Forlorn Ruins"] = true,
 		["Crimson Thicket"] = true,
 		["Darkspear's Edge"] = true,
-		["Temple of Akunda"] = true,
-		["Nozzlepot's Outpost"] = true,
+		["Ramkahen"] = true,
+		["Shattered Fields"] = true,
 		["Frostwall Garrison"] = true,
 		["Exarch's Refuge"] = true,
-		["Mossy Pile"] = true,
+		["The Great Seal"] = true,
 		["Hope's Landing"] = true,
 		["Malaka'jin"] = true,
 		["The Sludgewerks"] = true,
-		["Fizzle & Pozzik's Speedbarge"] = true,
+		["Krom'gar Fortress"] = true,
 		["Everlook"] = true,
 		["Dalaran"] = true,
 		["Retribution Point"] = true,
-		["Stonefang Outpost"] = true,
-		["Camp Ataya"] = true,
+		["Thunder Totem"] = true,
+		["Vulpera Hideaway"] = true,
 		["Vengeance Point"] = true,
 		["Azurewing Repose"] = true,
 		["The Witchwood"] = true,
 		["Scaletrader Post"] = true,
-		["Bladespire Citadel"] = true,
+		["Valdisdall"] = true,
 		["Stonemaul Hold"] = true,
 		["The Mor'Shan Ramparts"] = true,
 		["Deliverance Point"] = true,
-		["Bloodhoof Village"] = true,
+		["Beastwatch"] = true,
+		["Bradensbrook"] = true,
+		["Port of Zandalar"] = true,
 		["Warport Rastari"] = true,
-		["The Sliver"] = true,
-		["Thunder Bluff"] = true,
 		["Zeb'ahari"] = true,
 		["Whisperwind Grove"] = true,
-		["Camp Mojache"] = true,
+		["The Sliver"] = true,
 		["Shrine of Aviana"] = true,
+		["Nesingwary"] = true,
 		["Garden of the Loa"] = true,
-		["Shadowguard Incursion"] = true,
 		["Vindicaar"] = true,
 		["Durotan's Grasp"] = true,
-		["Emerald Sanctuary"] = true,
+		["Moonglade"] = true,
 		["Vol'jin's Pride"] = true,
 		["Shield's Rest"] = true,
 		["Triumvirate's End"] = true,
 		["Southern Rocketway"] = true,
 		["Northern Rocketway"] = true,
-		["Wor'gol"] = true,
-		["Vendetta Point"] = true,
-		["Terokkar Refuge"] = true,
-		["Brackenwall Village"] = true,
-		["Grove of Aessina"] = true,
+		["Marshal's Stand"] = true,
+		["Karnum's Glade"] = true,
+		["Thunk's Abode"] = true,
+		["Temple of the Prophet"] = true,
+		["Lorlathil"] = true,
 		["Zo'bal Ruins"] = true,
-		["Sanctuary of Malorne"] = true,
+		["Sen'jin Village"] = true,
 		["Gadgetzan"] = true,
 		["Light's Purchase"] = true,
 		["Zul'jan"] = true,
@@ -2756,45 +2785,45 @@ WoWProCharDB = {
 		["Conservatory of the Arcane"] = true,
 		["Zoram'gar Outpost"] = true,
 		["Silverwind Refuge"] = true,
-		["Dawnrise Expedition"] = true,
+		["Razor Hill"] = true,
 		["The Veiled Den"] = true,
 		["Shattrath City"] = true,
-		["Cullen's Post"] = true,
-		["Krokul Hovel"] = true,
-		["Splintertree Post"] = true,
-		["Razor Hill"] = true,
+		["Terokkar Refuge"] = true,
+		["Shadowprey Village"] = true,
+		["Sanctuary of Malorne"] = true,
+		["Dawnrise Expedition"] = true,
 		["Thunder Pass"] = true,
 		["Shipwreck Cove"] = true,
 		["Furien's Post"] = true,
 		["Sun Rock Retreat"] = true,
-		["Shadowprey Village"] = true,
+		["Krokul Hovel"] = true,
 		["Bilgewater Harbor"] = true,
-		["Sen'jin Village"] = true,
-		["Lorlathil"] = true,
-		["Temple of the Prophet"] = true,
-		["Thunk's Abode"] = true,
-		["Karnum's Glade"] = true,
-		["Marshal's Stand"] = true,
-		["Moonglade"] = true,
+		["Splintertree Post"] = true,
+		["Vendetta Point"] = true,
+		["Wor'gol"] = true,
+		["Cullen's Post"] = true,
+		["Grove of Aessina"] = true,
+		["Brackenwall Village"] = true,
+		["Emerald Sanctuary"] = true,
 		["Wolf's Stand"] = true,
-		["Nesingwary"] = true,
+		["Shadowguard Incursion"] = true,
 		["Sanctuary of the Devoted"] = true,
-		["Port of Zandalar"] = true,
-		["Bradensbrook"] = true,
-		["Beastwatch"] = true,
-		["Valdisdall"] = true,
-		["Vulpera Hideaway"] = true,
-		["Thunder Totem"] = true,
-		["Krom'gar Fortress"] = true,
-		["The Great Seal"] = true,
-		["Shattered Fields"] = true,
-		["Ramkahen"] = true,
+		["Camp Mojache"] = true,
+		["Thunder Bluff"] = true,
+		["Bloodhoof Village"] = true,
+		["Bladespire Citadel"] = true,
+		["Camp Ataya"] = true,
+		["Stonefang Outpost"] = true,
+		["Fizzle & Pozzik's Speedbarge"] = true,
+		["Mossy Pile"] = true,
+		["Nozzlepot's Outpost"] = true,
+		["Temple of Akunda"] = true,
 		["Desolation Hold"] = true,
-		["Prophet's Reflection"] = true,
+		["Oasis of Vir'sar"] = true,
 		["Valormok"] = true,
 		["Wardens' Redoubt"] = true,
-		["Forsaken Foothold"] = true,
-		["Gloom Hollow"] = true,
+		["Bootlegger Outpost"] = true,
+		["Vorrik's Sanctum"] = true,
 	},
 	["Guide"] = {
 		["LudoFishing"] = {
@@ -2849,21 +2878,20 @@ WoWProCharDB = {
 				[202] = true,
 				[87] = true,
 				[204] = true,
-				[67] = true,
+				[273] = true,
 				[343] = true,
 				[226] = true,
 				[345] = true,
-				[132] = true,
+				[131] = true,
 				[347] = true,
 				[348] = true,
-				[319] = true,
 				[205] = true,
-				[131] = true,
+				[319] = true,
+				[132] = true,
 				[23] = true,
-				[273] = true,
+				[67] = true,
 			},
 			["done"] = false,
-			["progress"] = 344,
 			["completion"] = {
 				"; step completed by WoWPro.SetupGuideReal() as processed already.", -- [1]
 				39731, -- [2]
@@ -3236,6 +3264,7 @@ WoWProCharDB = {
 				44545, -- [369]
 				[373] = "; step completed by WoWPro.SetupGuideReal() as processed already.",
 			},
+			["progress"] = 344,
 		},
 		["EmmStormheim"] = {
 			["total"] = 499,
@@ -3352,42 +3381,43 @@ WoWProCharDB = {
 				[386] = true,
 				[402] = true,
 				[450] = true,
-				[58] = true,
+				[512] = true,
 				[498] = true,
-				[191] = true,
+				[510] = true,
 				[275] = true,
-				[84] = true,
+				[509] = true,
 				[154] = true,
-				[139] = true,
+				[507] = true,
 				[379] = true,
-				[206] = true,
+				[486] = true,
+				[477] = true,
 				[194] = true,
-				[387] = true,
-				[453] = true,
-				[469] = true,
+				[271] = true,
+				[385] = true,
 				[218] = true,
 				[226] = true,
 				[234] = true,
-				[43] = true,
-				[499] = true,
-				[156] = true,
-				[467] = true,
-				[38] = true,
-				[459] = true,
-				[36] = true,
-				[138] = true,
 				[262] = true,
-				[385] = true,
-				[271] = true,
-				[477] = true,
-				[486] = true,
+				[499] = true,
+				[138] = true,
+				[36] = true,
+				[459] = true,
+				[38] = true,
+				[467] = true,
+				[156] = true,
+				[43] = true,
+				[469] = true,
+				[453] = true,
+				[387] = true,
+				[206] = true,
 				[436] = true,
-				[507] = true,
-				[509] = true,
-				[510] = true,
-				[512] = true,
+				[139] = true,
+				[84] = true,
+				[191] = true,
+				[58] = true,
 			},
 			["done"] = false,
+			["progress"] = 369,
 			["completion"] = {
 				"; step completed by WoWPro.SetupGuideReal() as processed already.", -- [1]
 				39864, -- [2]
@@ -3902,14 +3932,13 @@ WoWProCharDB = {
 				nil, -- [511]
 				"Previously marked as skipped", -- [512]
 				[532] = 44547,
-				[528] = 44545,
+				[518] = 44545,
 				[529] = 44547,
 				[531] = 44545,
 				[519] = 44547,
+				[528] = 44545,
 				[535] = "; step completed by WoWPro.SetupGuideReal() as processed already.",
-				[518] = 44545,
 			},
-			["progress"] = 369,
 		},
 		["LudoPetWQMacAree"] = {
 			["skipped"] = {
@@ -3942,6 +3971,7 @@ WoWProCharDB = {
 				[218] = true,
 			},
 			["done"] = false,
+			["progress"] = 189,
 			["completion"] = {
 				"; step completed by WoWPro.SetupGuideReal() as processed already.", -- [1]
 				"Right-Click", -- [2]
@@ -4146,7 +4176,6 @@ WoWProCharDB = {
 				"AutoCompleteQuestUpdate: AutoComplete", -- [201]
 				[486] = "; step completed by WoWPro.SetupGuideReal() as processed already.",
 			},
-			["progress"] = 189,
 		},
 		["EmmLegionIntro_H"] = {
 			["total"] = 46,
@@ -4154,7 +4183,6 @@ WoWProCharDB = {
 			["skipped"] = {
 			},
 			["done"] = true,
-			["progress"] = 7,
 			["completion"] = {
 				"; step completed by WoWPro.SetupGuideReal() as processed already.", -- [1]
 				43926, -- [2]
@@ -4166,6 +4194,7 @@ WoWProCharDB = {
 				[47] = "; step completed by WoWPro.SetupGuideReal() as processed already.",
 				[42] = 44184,
 			},
+			["progress"] = 7,
 		},
 		["EmmVoldun"] = {
 			["total"] = 676,
@@ -4262,23 +4291,23 @@ WoWProCharDB = {
 				[338] = true,
 				[93] = true,
 				[97] = true,
-				[272] = true,
-				[201] = true,
-				[240] = true,
+				[731] = true,
+				[729] = true,
+				[637] = true,
 				[450] = true,
-				[253] = true,
+				[607] = true,
 				[236] = true,
-				[232] = true,
-				[568] = true,
+				[266] = true,
+				[282] = true,
 				[531] = true,
-				[11] = true,
-				[403] = true,
+				[237] = true,
+				[549] = true,
 				[323] = true,
 				[676] = true,
 				[355] = true,
 				[371] = true,
 				[387] = true,
-				[549] = true,
+				[403] = true,
 				[210] = true,
 				[435] = true,
 				[584] = true,
@@ -4286,23 +4315,24 @@ WoWProCharDB = {
 				[110] = true,
 				[250] = true,
 				[518] = true,
-				[228] = true,
-				[655] = true,
 				[194] = true,
+				[655] = true,
+				[228] = true,
 				[324] = true,
 				[678] = true,
 				[356] = true,
-				[237] = true,
+				[11] = true,
 				[519] = true,
-				[282] = true,
-				[266] = true,
+				[568] = true,
+				[232] = true,
 				[436] = true,
-				[607] = true,
-				[637] = true,
-				[729] = true,
-				[731] = true,
+				[253] = true,
+				[240] = true,
+				[201] = true,
+				[272] = true,
 			},
 			["done"] = false,
+			["progress"] = 392,
 			["completion"] = {
 				"NextStep(): Completed L step because player level is high enough.", -- [1]
 				"Right-Click", -- [2]
@@ -4397,79 +4427,79 @@ WoWProCharDB = {
 				[220] = "AutoCompleteQuestUpdate: AutoComplete",
 				[558] = "AutoCompleteQuestUpdate: Accept",
 				[590] = "AutoCompleteQuestUpdate: via QuestLog",
-				[557] = "AutoCompleteQuestUpdate: AutoComplete",
-				[682] = "No optional rares desired",
+				[649] = "AutoCompleteZone",
+				[648] = "AutoCompleteQuestUpdate: Accept",
 				[408] = "AutoCompleteQuestUpdate: via QuestLog",
 				[591] = "AutoCompleteQuestUpdate: AutoComplete",
 				[440] = "No optional rares desired",
-				[553] = "AutoCompleteGetFP",
+				[588] = "Criteria met",
 				[524] = "No optional rares desired",
-				[149] = "48715",
-				[409] = "Criteria met",
+				[141] = "48888",
+				[561] = true,
 				[133] = "48991",
 				[560] = "AutoCompleteQuestUpdate: via QuestLog",
-				[592] = "AutoCompleteQuestUpdate: Accept",
+				[149] = "48715",
 				[157] = "49005",
 				[165] = "48996",
 				[173] = "47874",
 				[181] = "AutoCompleteQuestUpdate: Accept",
 				[189] = "AutoCompleteQuestUpdate: AutoComplete",
-				[551] = "AutoCompleteQuestUpdate: Accept",
-				[561] = true,
+				[404] = true,
+				[409] = "Criteria met",
 				[593] = "AutoCompleteQuestUpdate: Accept",
 				[221] = "AutoCompleteQuestUpdate: Accept",
-				[559] = "AutoCompleteQuestUpdate: Accept",
-				[405] = true,
-				[410] = "AutoCompleteQuestUpdate: via QuestLog",
-				[142] = "48887",
+				[552] = "AutoCompleteZone",
+				[204] = "Criteria met",
+				[314] = "No optional rares desired",
+				[206] = "AutoCompleteQuestUpdate: AutoComplete",
 				[67] = "47316",
-				[596] = "Criteria met",
+				[150] = "48987",
 				[594] = "AutoCompleteQuestUpdate: via QuestLog",
 				[79] = "47317",
-				[660] = "No optional rares desired",
+				[565] = "AutoCompleteQuestUpdate: AutoComplete",
 				[87] = "47959",
 				[91] = "48550",
 				[95] = "48550",
-				[223] = "AutoCompleteQuestUpdate: AutoComplete",
-				[563] = "AutoCompleteQuestUpdate: via QuestLog",
+				[412] = "AutoCompleteGetFP",
+				[410] = "AutoCompleteQuestUpdate: via QuestLog",
 				[595] = "Criteria met",
-				[567] = "AutoCompleteQuestUpdate: Accept",
+				[397] = "AutoCompleteQuestUpdate: AutoComplete",
 				[115] = "48550",
 				[119] = "48684",
 				[123] = "48895",
-				[207] = "AutoCompleteQuestUpdate: Accept",
+				[317] = "No Treasures desired",
 				[134] = "48992",
-				[564] = "Implicit criteria met",
-				[150] = "48987",
+				[142] = "48887",
+				[596] = "Criteria met",
 				[158] = "48988",
-				[166] = "No Treasures desired",
+				[660] = "No optional rares desired",
 				[174] = "47874",
 				[182] = "Quest in QuestLog",
 				[190] = "AutoCompleteQuestUpdate: Accept",
-				[54] = "No optional rares desired",
+				[183] = true,
 				[411] = "AutoCompleteQuestUpdate: via QuestLog",
 				[597] = "Criteria met",
 				[222] = "AutoCompleteQuestUpdate: Accept",
-				[199] = "AutoCompleteQuestUpdate: AutoComplete",
+				[56] = "51574",
 				[693] = "No optional rares desired",
-				[72] = "47321",
-				[76] = "47321",
-				[730] = "No Treasures desired",
+				[633] = "AutoCompleteQuestUpdate: AutoComplete",
+				[602] = "AutoCompleteQuestUpdate: Accept",
+				[634] = "AutoCompleteQuestUpdate: Accept",
 				[566] = "AutoCompleteQuestUpdate: AutoComplete",
 				[598] = "AutoCompleteQuestUpdate: via QuestLog",
-				[581] = "AutoCompleteQuestUpdate: AutoComplete",
-				[571] = "AutoCompleteQuestUpdate: Accept",
-				[667] = "No optional rares desired",
-				[319] = "No optional rares desired",
+				[419] = "AutoCompleteQuestUpdate: Accept",
+				[572] = "AutoCompleteQuestUpdate: Accept",
+				[152] = "No Treasures desired",
+				[636] = "AutoCompleteZone",
 				[380] = "No Treasures desired",
 				[396] = "AutoCompleteQuestUpdate: via QuestLog",
-				[412] = "AutoCompleteGetFP",
+				[567] = "AutoCompleteQuestUpdate: Accept",
 				[599] = "AutoCompleteQuestUpdate: via QuestLog",
 				[631] = "Took known new flight point",
-				[168] = "48996",
+				[335] = "No optional rares desired",
 				[695] = "No Treasures desired",
 				[727] = "No Treasures desired",
-				[399] = "AutoCompleteQuestUpdate: Accept",
+				[200] = "AutoCompleteQuestUpdate: Accept",
 				[135] = "48993",
 				[143] = "48888",
 				[600] = "AutoCompleteQuestUpdate: quest turn-in.",
@@ -4478,127 +4508,126 @@ WoWProCharDB = {
 				[175] = "48896",
 				[365] = "No optional rares desired",
 				[191] = "AutoCompleteQuestUpdate: via QuestLog",
-				[397] = "AutoCompleteQuestUpdate: AutoComplete",
-				[413] = "AutoCompleteQuestUpdate: AutoComplete",
-				[601] = "AutoCompleteQuestUpdate: quest turn-in.",
-				[56] = "51574",
-				[162] = "48889",
+				[199] = "AutoCompleteQuestUpdate: AutoComplete",
+				[207] = "AutoCompleteQuestUpdate: Accept",
+				[54] = "No optional rares desired",
+				[223] = "AutoCompleteQuestUpdate: AutoComplete",
+				[644] = "AutoCompleteQuestUpdate: Accept",
 				[60] = "47319",
 				[62] = "47320",
 				[64] = "47317",
 				[68] = "47316",
-				[570] = "AutoCompleteQuestUpdate: AutoComplete",
-				[602] = "AutoCompleteQuestUpdate: Accept",
+				[72] = "47321",
+				[76] = "47321",
 				[80] = "47316",
 				[84] = "47321",
 				[88] = "47959",
-				[92] = "48550",
-				[415] = "AutoCompleteQuestUpdate: AutoComplete",
+				[730] = "No Treasures desired",
+				[573] = "AutoCompleteQuestUpdate: via QuestLog",
 				[398] = "AutoCompleteQuestUpdate: Accept",
-				[414] = "AutoCompleteQuestUpdate: AutoComplete",
+				[571] = "AutoCompleteQuestUpdate: Accept",
 				[603] = "Criteria met",
-				[580] = "AutoCompleteQuestUpdate: via QuestLog",
-				[116] = "48549",
+				[146] = "48894",
+				[667] = "No optional rares desired",
 				[120] = "48684",
 				[124] = "48993",
 				[128] = "48992",
 				[136] = "48887",
 				[144] = "48894",
 				[604] = "Criteria met",
-				[636] = "AutoCompleteZone",
-				[335] = "No optional rares desired",
+				[319] = "No optional rares desired",
+				[168] = "48996",
 				[176] = "48896",
 				[184] = true,
 				[192] = "AutoCompleteQuestUpdate: AutoComplete",
-				[200] = "AutoCompleteQuestUpdate: Accept",
-				[573] = "AutoCompleteQuestUpdate: via QuestLog",
+				[399] = "AutoCompleteQuestUpdate: Accept",
+				[415] = "AutoCompleteQuestUpdate: AutoComplete",
 				[605] = "AutoCompleteQuestUpdate: AutoComplete",
-				[548] = "autoarrival=2",
-				[130] = "48993",
+				[138] = "48888",
+				[259] = "No optional rares desired",
 				[555] = "AutoCompleteQuestUpdate: Accept",
 				[733] = "AutoCompleteQuestUpdate: AutoComplete",
-				[576] = "AutoCompleteQuestUpdate: Accept",
-				[117] = "48684",
+				[145] = "48894",
+				[466] = "No optional rares desired",
 				[574] = true,
 				[606] = "AutoCompleteQuestUpdate: Accept",
 				[638] = "AutoCompleteQuestUpdate: AutoComplete",
 				[670] = "No optional rares desired",
-				[113] = "No optional rares desired",
-				[153] = "48987",
-				[579] = "Implicit criteria met",
+				[643] = "AutoCompleteQuestUpdate: AutoComplete",
+				[608] = "Right-Click",
+				[418] = "AutoCompleteQuestUpdate: AutoComplete",
 				[400] = "AutoCompleteQuestUpdate: Accept",
 				[416] = "AutoCompleteQuestUpdate: Accept",
 				[607] = "AutoCompleteQuestUpdate: Accept",
 				[639] = "AutoCompleteQuestUpdate: Accept",
 				[671] = "No Treasures desired",
-				[161] = "49005",
-				[417] = "AutoCompleteQuestUpdate: via QuestLog",
+				[640] = "Criteria met",
+				[169] = "48996",
 				[129] = "48991",
 				[137] = "48888",
-				[145] = "48894",
-				[608] = "Right-Click",
-				[640] = "Criteria met",
+				[576] = "AutoCompleteQuestUpdate: Accept",
+				[153] = "48987",
+				[161] = "49005",
 				[672] = "No optional rares desired",
 				[177] = "48896",
 				[185] = "No optional rares desired",
 				[193] = "AutoCompleteQuestUpdate: Accept",
 				[545] = "No Treasures desired",
-				[577] = "Criteria met",
+				[417] = "AutoCompleteQuestUpdate: via QuestLog",
 				[609] = "AutoCompleteQuestUpdate: quest turn-in.",
 				[641] = "Criteria met",
-				[160] = "48988",
+				[65] = "47321",
 				[705] = "No optional rares desired",
-				[89] = "47959",
+				[706] = "No optional rares desired",
 				[514] = "No optional rares desired",
 				[69] = "47316",
 				[578] = "AutoCompleteQuestUpdate: via QuestLog",
 				[610] = "No optional rares desired",
 				[642] = "AutoCompleteQuestUpdate: via QuestLog",
 				[85] = "47317",
-				[706] = "No optional rares desired",
-				[65] = "47321",
-				[169] = "48996",
+				[89] = "47959",
+				[160] = "48988",
+				[577] = "Criteria met",
 				[402] = true,
-				[418] = "AutoCompleteQuestUpdate: AutoComplete",
+				[579] = "Implicit criteria met",
 				[611] = "No optional rares desired",
-				[643] = "AutoCompleteQuestUpdate: AutoComplete",
-				[466] = "No optional rares desired",
+				[113] = "No optional rares desired",
+				[117] = "48684",
 				[121] = "48895",
 				[125] = "48992",
-				[259] = "No optional rares desired",
-				[138] = "48888",
-				[146] = "48894",
+				[130] = "48993",
+				[548] = "autoarrival=2",
+				[580] = "AutoCompleteQuestUpdate: via QuestLog",
 				[154] = "48987",
-				[644] = "AutoCompleteQuestUpdate: Accept",
+				[162] = "48889",
 				[170] = "50913",
 				[178] = "48896",
 				[186] = "AutoCompleteQuestUpdate: via QuestLog",
-				[152] = "No Treasures desired",
-				[572] = "AutoCompleteQuestUpdate: Accept",
-				[419] = "AutoCompleteQuestUpdate: Accept",
-				[634] = "AutoCompleteQuestUpdate: Accept",
+				[116] = "48549",
+				[414] = "AutoCompleteQuestUpdate: AutoComplete",
+				[581] = "AutoCompleteQuestUpdate: AutoComplete",
+				[92] = "48550",
 				[645] = "Criteria met",
-				[633] = "AutoCompleteQuestUpdate: AutoComplete",
+				[570] = "AutoCompleteQuestUpdate: AutoComplete",
 				[483] = "No Treasures desired",
-				[183] = true,
-				[317] = "No Treasures desired",
+				[601] = "AutoCompleteQuestUpdate: quest turn-in.",
+				[413] = "AutoCompleteQuestUpdate: AutoComplete",
 				[550] = "AutoCompleteQuestUpdate: AutoComplete",
 				[582] = "AutoCompleteQuestUpdate: AutoComplete",
-				[565] = "AutoCompleteQuestUpdate: AutoComplete",
+				[166] = "No Treasures desired",
 				[646] = "AutoCompleteQuestUpdate: AutoComplete",
-				[206] = "AutoCompleteQuestUpdate: AutoComplete",
-				[314] = "No optional rares desired",
-				[204] = "Criteria met",
-				[552] = "AutoCompleteZone",
-				[404] = true,
+				[564] = "Implicit criteria met",
+				[563] = "AutoCompleteQuestUpdate: via QuestLog",
+				[405] = true,
+				[559] = "AutoCompleteQuestUpdate: Accept",
+				[551] = "AutoCompleteQuestUpdate: Accept",
 				[583] = "AutoCompleteQuestUpdate: Accept",
-				[141] = "48888",
+				[592] = "AutoCompleteQuestUpdate: Accept",
 				[647] = "AutoCompleteQuestUpdate: Accept",
-				[588] = "Criteria met",
-				[648] = "AutoCompleteQuestUpdate: Accept",
-				[649] = "AutoCompleteZone",
+				[553] = "AutoCompleteGetFP",
+				[682] = "No optional rares desired",
+				[557] = "AutoCompleteQuestUpdate: AutoComplete",
 			},
-			["progress"] = 392,
 		},
 		["LudoGarrisonPets"] = {
 			["skipped"] = {
@@ -4622,9 +4651,9 @@ WoWProCharDB = {
 			["skipped"] = {
 			},
 			["done"] = false,
-			["progress"] = 82,
 			["completion"] = {
 			},
+			["progress"] = 82,
 		},
 		["Ludo_AlliesH"] = {
 		},
@@ -4637,14 +4666,14 @@ WoWProCharDB = {
 				[65] = true,
 				[316] = true,
 				[255] = true,
-				[374] = true,
+				[254] = true,
 				[131] = true,
-				[68] = true,
-				[67] = true,
-				[288] = true,
-				[398] = true,
-				[401] = true,
 				[327] = true,
+				[67] = true,
+				[351] = true,
+				[70] = true,
+				[275] = true,
+				[68] = true,
 				[265] = true,
 				[392] = true,
 				[393] = true,
@@ -4652,10 +4681,10 @@ WoWProCharDB = {
 				[395] = true,
 				[101] = true,
 				[271] = true,
-				[70] = true,
+				[398] = true,
 				[399] = true,
 				[102] = true,
-				[275] = true,
+				[401] = true,
 				[276] = true,
 				[403] = true,
 				[103] = true,
@@ -4668,11 +4697,12 @@ WoWProCharDB = {
 				[411] = true,
 				[412] = true,
 				[413] = true,
-				[351] = true,
+				[288] = true,
 				[352] = true,
-				[254] = true,
+				[374] = true,
 			},
 			["done"] = false,
+			["progress"] = 350,
 			["completion"] = {
 				"; step completed by WoWPro.SetupGuideReal() as processed already.", -- [1]
 				34681, -- [2]
@@ -5076,7 +5106,6 @@ WoWProCharDB = {
 				[420] = 34401,
 				[436] = 34706,
 			},
-			["progress"] = 350,
 		},
 		["LarePetWQSur"] = {
 			["skipped"] = {
@@ -5095,13 +5124,14 @@ WoWProCharDB = {
 			["Version"] = "8.0.1M",
 			["done"] = false,
 		},
-		["LarePetWQVal"] = {
+		["Blanc_Suramar"] = {
+			["Version"] = "8.0.1M",
 			["skipped"] = {
 			},
+			["done"] = false,
 			["completion"] = {
 			},
-			["Version"] = "8.0.1M",
-			["done"] = false,
+			["NoSelect"] = true,
 		},
 		["EmmFluc_DarkPortal"] = {
 			["total"] = 98,
@@ -5109,6 +5139,7 @@ WoWProCharDB = {
 			["skipped"] = {
 			},
 			["done"] = true,
+			["progress"] = 98,
 			["completion"] = {
 				"; step completed by WoWPro.SetupGuideReal() as processed already.", -- [1]
 				34398, -- [2]
@@ -5214,15 +5245,1648 @@ WoWProCharDB = {
 				"; step completed by WoWPro.SetupGuideReal() as processed already.", -- [102]
 				"Right-Click", -- [103]
 			},
-			["progress"] = 98,
 		},
-		["LarePetWQHigh"] = {
+		["LudoPetWQAntoran"] = {
 			["skipped"] = {
 			},
 			["completion"] = {
 			},
 			["Version"] = "8.0.1M",
 			["done"] = false,
+		},
+		["Ludo_Argus"] = {
+			["total"] = 434,
+			["Version"] = "8.0.1A",
+			["skipped"] = {
+			},
+			["done"] = false,
+			["progress"] = 135,
+			["completion"] = {
+				"; step completed by WoWPro.SetupGuideReal() as processed already.", -- [1]
+				47835, -- [2]
+				47835, -- [3]
+				47835, -- [4]
+				47835, -- [5]
+				47867, -- [6]
+				47867, -- [7]
+				47867, -- [8]
+				47223, -- [9]
+				47223, -- [10]
+				47224, -- [11]
+				47224, -- [12]
+				47224, -- [13]
+				47224, -- [14]
+				48440, -- [15]
+				48440, -- [16]
+				48440, -- [17]
+				46938, -- [18]
+				46938, -- [19]
+				46938, -- [20]
+				47589, -- [21]
+				46297, -- [22]
+				46297, -- [23]
+				46297, -- [24]
+				48483, -- [25]
+				48483, -- [26]
+				47589, -- [27]
+				47589, -- [28]
+				47589, -- [29]
+				46297, -- [30]
+				48483, -- [31]
+				47589, -- [32]
+				48483, -- [33]
+				46297, -- [34]
+				46297, -- [35]
+				47627, -- [36]
+				47627, -- [37]
+				47627, -- [38]
+				47641, -- [39]
+				47641, -- [40]
+				47641, -- [41]
+				46732, -- [42]
+				46732, -- [43]
+				46732, -- [44]
+				46732, -- [45]
+				46816, -- [46]
+				46816, -- [47]
+				46816, -- [48]
+				46839, -- [49]
+				46839, -- [50]
+				46839, -- [51]
+				46841, -- [52]
+				46840, -- [53]
+				46840, -- [54]
+				46841, -- [55]
+				46841, -- [56]
+				46841, -- [57]
+				46840, -- [58]
+				46841, -- [59]
+				46840, -- [60]
+				46842, -- [61]
+				46842, -- [62]
+				46842, -- [63]
+				46842, -- [64]
+				46843, -- [65]
+				46843, -- [66]
+				48500, -- [67]
+				48500, -- [68]
+				48500, -- [69]
+				48500, -- [70]
+				48500, -- [71]
+				47431, -- [72]
+				47431, -- [73]
+				47431, -- [74]
+				47431, -- [75]
+				47431, -- [76]
+				47431, -- [77]
+				47541, -- [78]
+				46213, -- [79]
+				40238, -- [80]
+				46213, -- [81]
+				47541, -- [82]
+				47541, -- [83]
+				40238, -- [84]
+				40238, -- [85]
+				40238, -- [86]
+				47541, -- [87]
+				46213, -- [88]
+				47541, -- [89]
+				47541, -- [90]
+				46213, -- [91]
+				40238, -- [92]
+				47508, -- [93]
+				47508, -- [94]
+				47508, -- [95]
+				47771, -- [96]
+				47771, -- [97]
+				47526, -- [98]
+				47526, -- [99]
+				47526, -- [100]
+				47754, -- [101]
+				47754, -- [102]
+				47754, -- [103]
+				47652, -- [104]
+				47652, -- [105]
+				47652, -- [106]
+				47652, -- [107]
+				47653, -- [108]
+				47653, -- [109]
+				47653, -- [110]
+				47743, -- [111]
+				47743, -- [112]
+				47743, -- [113]
+				49143, -- [114]
+				49143, -- [115]
+				49143, -- [116]
+				48559, -- [117]
+				47287, -- [118]
+				48559, -- [119]
+				47287, -- [120]
+				47287, -- [121]
+				48559, -- [122]
+				48199, -- [123]
+				48199, -- [124]
+				48199, -- [125]
+				48200, -- [126]
+				48200, -- [127]
+				48200, -- [128]
+				48200, -- [129]
+				48201, -- [130]
+				[142] = 49293,
+				[456] = "; step completed by WoWPro.SetupGuideReal() as processed already.",
+				[310] = 48513,
+				[311] = 48513,
+				[313] = 48513,
+				[314] = 48605,
+				[315] = 48605,
+				[316] = 48605,
+				[317] = 48605,
+				[318] = 49293,
+				[319] = 49293,
+			},
+		},
+		["LudoBuildingsHorde"] = {
+			["skipped"] = {
+			},
+			["completion"] = {
+			},
+			["Version"] = "8.0.1M",
+			["done"] = false,
+		},
+		["EmmZuldazar"] = {
+			["total"] = 736,
+			["Version"] = "8.0.1M",
+			["skipped"] = {
+				[480] = true,
+				[710] = true,
+				[492] = true,
+				[249] = true,
+				[552] = true,
+				[282] = true,
+				[417] = true,
+				[421] = true,
+				[298] = true,
+				[152] = true,
+				[433] = true,
+				[156] = true,
+				[158] = true,
+				[445] = true,
+				[162] = true,
+				[326] = true,
+				[457] = true,
+				[174] = true,
+				[696] = true,
+				[481] = true,
+				[180] = true,
+				[720] = true,
+				[184] = true,
+				[497] = true,
+				[192] = true,
+				[514] = true,
+				[263] = true,
+				[776] = true,
+				[538] = true,
+				[239] = true,
+				[279] = true,
+				[206] = true,
+				[570] = true,
+				[30] = true,
+				[422] = true,
+				[697] = true,
+				[216] = true,
+				[303] = true,
+				[14] = true,
+				[719] = true,
+				[224] = true,
+				[226] = true,
+				[454] = true,
+				[430] = true,
+				[462] = true,
+				[466] = true,
+				[496] = true,
+				[238] = true,
+				[698] = true,
+				[482] = true,
+				[283] = true,
+				[722] = true,
+				[212] = true,
+				[164] = true,
+				[252] = true,
+				[379] = true,
+				[510] = true,
+				[260] = true,
+				[67] = true,
+				[556] = true,
+				[71] = true,
+				[284] = true,
+				[280] = true,
+				[691] = true,
+				[415] = true,
+				[154] = true,
+				[310] = true,
+				[427] = true,
+				[731] = true,
+				[155] = true,
+				[439] = true,
+				[163] = true,
+				[320] = true,
+				[324] = true,
+				[566] = true,
+				[557] = true,
+				[541] = true,
+				[549] = true,
+				[173] = true,
+				[285] = true,
+				[524] = true,
+				[472] = true,
+				[517] = true,
+				[740] = true,
+				[732] = true,
+				[187] = true,
+				[446] = true,
+				[507] = true,
+				[40] = true,
+				[518] = true,
+				[450] = true,
+				[506] = true,
+				[201] = true,
+				[550] = true,
+				[558] = true,
+				[693] = true,
+				[416] = true,
+				[709] = true,
+				[539] = true,
+				[215] = true,
+				[733] = true,
+				[110] = true,
+				[28] = true,
+				[317] = true,
+				[225] = true,
+				[227] = true,
+				[527] = true,
+				[687] = true,
+				[543] = true,
+				[551] = true,
+				[686] = true,
+				[476] = true,
+				[736] = true,
+			},
+			["progress"] = 482,
+			["done"] = true,
+			["completion"] = {
+				"NextStep(): Completed L step because player level is high enough.", -- [1]
+				"Right-Click", -- [2]
+				nil, -- [3]
+				"Right-Click", -- [4]
+				"Right-Click", -- [5]
+				"47514", -- [6]
+				"Quest in QuestLog", -- [7]
+				"Right-Click", -- [8]
+				"Right-Click", -- [9]
+				"autoarrival=2", -- [10]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [11]
+				"AutoCompleteQuestUpdate: Accept", -- [12]
+				"AutoCompleteQuestUpdate: Accept", -- [13]
+				"AutoCompleteQuestUpdate: Accept", -- [14]
+				"Took known new flight point", -- [15]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [16]
+				"AutoCompleteQuestUpdate: Accept", -- [17]
+				"AutoCompleteQuestUpdate: Accept", -- [18]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [19]
+				"Criteria met", -- [20]
+				"AutoCompleteQuestUpdate: Accept", -- [21]
+				"Criteria met", -- [22]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [23]
+				"Criteria met", -- [24]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [25]
+				"AutoCompleteQuestUpdate: Accept", -- [26]
+				"Criteria met", -- [27]
+				nil, -- [28]
+				nil, -- [29]
+				nil, -- [30]
+				nil, -- [31]
+				nil, -- [32]
+				nil, -- [33]
+				nil, -- [34]
+				"Right-Click", -- [35]
+				"No Treasures desired", -- [36]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [37]
+				nil, -- [38]
+				nil, -- [39]
+				nil, -- [40]
+				nil, -- [41]
+				nil, -- [42]
+				nil, -- [43]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [44]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [45]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [46]
+				"AutoCompleteQuestUpdate: Accept", -- [47]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [48]
+				"AutoCompleteQuestUpdate: Accept", -- [49]
+				"AutoCompleteQuestUpdate: Accept", -- [50]
+				"AutoCompleteZone", -- [51]
+				true, -- [52]
+				"No optional rares desired", -- [53]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [54]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [55]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [56]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [57]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [58]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [59]
+				"AutoCompleteQuestUpdate: Accept", -- [60]
+				"AutoCompleteZone", -- [61]
+				"47445", -- [62]
+				"No Treasures desired", -- [63]
+				"47445", -- [64]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [65]
+				"AutoCompleteQuestUpdate: Accept", -- [66]
+				nil, -- [67]
+				nil, -- [68]
+				nil, -- [69]
+				nil, -- [70]
+				nil, -- [71]
+				nil, -- [72]
+				nil, -- [73]
+				nil, -- [74]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [75]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [76]
+				"AutoCompleteQuestUpdate: Accept", -- [77]
+				"Criteria met", -- [78]
+				"Criteria met", -- [79]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [80]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [81]
+				"AutoCompleteQuestUpdate: Accept", -- [82]
+				"AutoCompleteQuestUpdate: Accept", -- [83]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [84]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [85]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [86]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [87]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [88]
+				"AutoCompleteQuestUpdate: Accept", -- [89]
+				"Criteria met", -- [90]
+				"Criteria met", -- [91]
+				"No Treasures desired", -- [92]
+				"Criteria met", -- [93]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [94]
+				"AutoCompleteQuestUpdate: Accept", -- [95]
+				"Criteria met", -- [96]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [97]
+				"AutoCompleteQuestUpdate: Accept", -- [98]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [99]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [100]
+				"AutoCompleteQuestUpdate: Accept", -- [101]
+				nil, -- [102]
+				"Criteria met", -- [103]
+				"Criteria met", -- [104]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [105]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [106]
+				"AutoCompleteQuestUpdate: Accept", -- [107]
+				"Right-Click", -- [108]
+				nil, -- [109]
+				nil, -- [110]
+				"AutoCompleteZone", -- [111]
+				"autoarrival=2", -- [112]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [113]
+				"AutoCompleteQuestUpdate: Accept", -- [114]
+				"AutoCompleteQuestUpdate: Accept", -- [115]
+				"AutoCompleteQuestUpdate: Accept", -- [116]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [117]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [118]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [119]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [120]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [121]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [122]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [123]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [124]
+				"AutoCompleteQuestUpdate: Accept", -- [125]
+				"Criteria met", -- [126]
+				"Criteria met", -- [127]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [128]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [129]
+				"AutoCompleteQuestUpdate: Accept", -- [130]
+				"AutoCompleteQuestUpdate: Accept", -- [131]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [132]
+				"AutoCompleteQuestUpdate: Accept", -- [133]
+				true, -- [134]
+				"Criteria met", -- [135]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [136]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [137]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [138]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [139]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [140]
+				"AutoCompleteQuestUpdate: Accept", -- [141]
+				"Criteria met", -- [142]
+				"Criteria met", -- [143]
+				"Criteria met", -- [144]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [145]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [146]
+				"AutoCompleteQuestUpdate: Accept", -- [147]
+				"Criteria met", -- [148]
+				"Criteria met", -- [149]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [150]
+				"AutoCompleteQuestUpdate: Accept", -- [151]
+				[153] = "No optional rares desired",
+				[157] = "No optional rares desired",
+				[630] = "AutoCompleteQuestUpdate: via QuestLog",
+				[758] = "AutoCompleteQuestUpdate: AutoComplete",
+				[631] = "No optional rares desired",
+				[759] = "AutoCompleteQuestUpdate: Accept",
+				[444] = "AutoCompleteZoneBroker",
+				[632] = "AutoCompleteQuestUpdate: via QuestLog",
+				[760] = "AutoCompleteQuestUpdate: via QuestLog",
+				[633] = "AutoCompleteQuestUpdate: AutoComplete",
+				[761] = "AutoCompleteQuestUpdate: AutoComplete",
+				[634] = "AutoCompleteQuestUpdate: AutoComplete",
+				[762] = "AutoCompleteQuestUpdate: Accept",
+				[635] = "AutoCompleteQuestUpdate: Accept",
+				[763] = "AutoCompleteQuestUpdate: Accept",
+				[636] = "Criteria met",
+				[764] = true,
+				[637] = "Criteria met",
+				[765] = "Right-Click",
+				[511] = true,
+				[638] = "AutoCompleteQuestUpdate: AutoComplete",
+				[766] = "AutoCompleteQuestUpdate: via QuestLog",
+				[639] = "AutoCompleteQuestUpdate: Accept",
+				[384] = true,
+				[448] = "No optional rares desired",
+				[512] = "AutoCompleteQuestUpdate: quest turn-in.",
+				[640] = "Criteria met",
+				[768] = "AutoCompleteQuestUpdate: AutoComplete",
+				[641] = "Criteria met",
+				[769] = "AutoCompleteQuestUpdate: Accept",
+				[642] = "AutoCompleteQuestUpdate: via QuestLog",
+				[770] = "Criteria met",
+				[515] = "AutoCompleteZone",
+				[643] = "Right-Click",
+				[771] = "AutoCompleteQuestUpdate: via QuestLog",
+				[644] = "AutoCompleteQuestUpdate: quest turn-in.",
+				[772] = "AutoCompleteQuestUpdate: quest turn-in.",
+				[645] = "AutoCompleteQuestUpdate: AutoComplete",
+				[773] = "AutoCompleteQuestUpdate: Accept",
+				[646] = "AutoCompleteQuestUpdate: Accept",
+				[774] = "AutoCompleteQuestUpdate: Accept",
+				[388] = "AutoCompleteQuestUpdate: AutoComplete",
+				[648] = "51111",
+				[325] = "No optional rares desired",
+				[777] = "AutoCompleteQuestUpdate: via QuestLog",
+				[778] = "AutoCompleteQuestUpdate: via QuestLog",
+				[651] = "AutoCompleteQuestUpdate: AutoComplete",
+				[779] = "AutoCompleteQuestUpdate: via QuestLog",
+				[652] = "AutoCompleteQuestUpdate: Accept",
+				[780] = "AutoCompleteQuestUpdate: via QuestLog",
+				[653] = "AutoCompleteZone",
+				[781] = "AutoCompleteQuestUpdate: via QuestLog",
+				[654] = "AutoCompleteQuestUpdate: Accept",
+				[782] = "AutoCompleteQuestUpdate: via QuestLog",
+				[655] = "AutoCompleteQuestUpdate: AutoComplete",
+				[783] = "AutoCompleteQuestUpdate: via QuestLog",
+				[656] = "AutoCompleteQuestUpdate: via QuestLog",
+				[784] = "AutoCompleteQuestUpdate: via QuestLog",
+				[657] = "AutoCompleteQuestUpdate: AutoComplete",
+				[785] = "AutoCompleteQuestUpdate: AutoComplete",
+				[658] = "AutoCompleteQuestUpdate: Accept",
+				[197] = "AutoCompleteZone",
+				[659] = "AutoCompleteQuestUpdate: Accept",
+				[394] = "AutoCompleteQuestUpdate: AutoComplete",
+				[660] = "AutoCompleteGetFP",
+				[661] = "AutoCompleteQuestUpdate: via QuestLog",
+				[395] = "AutoCompleteQuestUpdate: Accept",
+				[459] = "No Treasures desired",
+				[662] = "Criteria met",
+				[198] = "autoarrival=2",
+				[535] = "No optional rares desired",
+				[663] = "Criteria met",
+				[396] = "AutoCompleteQuestUpdate: via QuestLog",
+				[664] = "AutoCompleteQuestUpdate: via QuestLog",
+				[665] = "AutoCompleteQuestUpdate: via QuestLog",
+				[397] = "AutoCompleteQuestUpdate: AutoComplete",
+				[666] = "AutoCompleteQuestUpdate: AutoComplete",
+				[199] = "AutoCompleteQuestUpdate: AutoComplete",
+				[231] = "Right-Click",
+				[667] = "AutoCompleteQuestUpdate: AutoComplete",
+				[398] = "AutoCompleteQuestUpdate: Accept",
+				[668] = "AutoCompleteQuestUpdate: Accept",
+				[335] = "48897",
+				[399] = "AutoCompleteQuestUpdate: Accept",
+				[670] = "AutoCompleteQuestUpdate: AutoComplete",
+				[200] = "AutoCompleteQuestUpdate: AutoComplete",
+				[232] = "No Treasures desired",
+				[336] = "48897",
+				[400] = "AutoCompleteQuestUpdate: Accept",
+				[672] = "Criteria met",
+				[545] = "No optional rares desired",
+				[673] = "Criteria met",
+				[401] = true,
+				[546] = "No optional rares desired",
+				[674] = "AutoCompleteQuestUpdate: via QuestLog",
+				[675] = "AutoCompleteQuestUpdate: AutoComplete",
+				[402] = "AutoCompleteQuestUpdate: via QuestLog",
+				[676] = "AutoCompleteQuestUpdate: Accept",
+				[677] = "AutoCompleteQuestUpdate: Accept",
+				[403] = "AutoCompleteQuestUpdate: AutoComplete",
+				[678] = "No optional rares desired",
+				[679] = "No Treasures desired",
+				[404] = "AutoCompleteQuestUpdate: via QuestLog",
+				[680] = "AutoCompleteZone",
+				[341] = "No optional rares desired",
+				[405] = "AutoCompleteQuestUpdate: AutoComplete",
+				[469] = "Right-Click",
+				[682] = "AutoCompleteZone",
+				[683] = "AutoCompleteQuestUpdate: AutoComplete",
+				[406] = "AutoCompleteQuestUpdate: Accept",
+				[470] = "No optional rares desired",
+				[685] = "Quest in QuestLog",
+				[407] = "Right-Click",
+				[204] = "No optional rares desired",
+				[344] = "AutoCompleteQuestUpdate: Accept",
+				[408] = "AutoCompleteQuestUpdate: via QuestLog",
+				[345] = "AutoCompleteQuestUpdate: Accept",
+				[409] = "Right-Click",
+				[205] = "No Treasures desired",
+				[346] = "AutoCompleteQuestUpdate: Accept",
+				[410] = "AutoCompleteQuestUpdate: quest turn-in.",
+				[347] = "AutoCompleteQuestUpdate: via QuestLog",
+				[411] = "AutoCompleteQuestUpdate: AutoComplete",
+				[475] = "Took known new flight point",
+				[567] = "Right-Click",
+				[348] = "AutoCompleteQuestUpdate: via QuestLog",
+				[412] = "47528",
+				[349] = "Criteria met",
+				[413] = "No Treasures desired",
+				[477] = "AutoCompleteZone",
+				[571] = "AutoCompleteZone",
+				[350] = "Criteria met",
+				[572] = "AutoCompleteGetFP",
+				[573] = "AutoCompleteQuestUpdate: AutoComplete",
+				[351] = "AutoCompleteQuestUpdate: via QuestLog",
+				[574] = "AutoCompleteQuestUpdate: Accept",
+				[575] = "Criteria met",
+				[352] = "AutoCompleteQuestUpdate: via QuestLog",
+				[576] = "AutoCompleteQuestUpdate: via QuestLog",
+				[577] = "AutoCompleteQuestUpdate: AutoComplete",
+				[353] = "AutoCompleteQuestUpdate: via QuestLog",
+				[578] = "AutoCompleteQuestUpdate: Accept",
+				[579] = "AutoCompleteQuestUpdate: Accept",
+				[354] = "AutoCompleteQuestUpdate: AutoComplete",
+				[418] = "No Treasures desired",
+				[482] = "AutoCompleteQuestUpdate: Accept",
+				[580] = "AutoCompleteQuestUpdate: Accept",
+				[291] = "Right-Click",
+				[355] = "AutoCompleteQuestUpdate: AutoComplete",
+				[483] = true,
+				[582] = "AutoCompleteQuestUpdate: via QuestLog",
+				[242] = "No optional rares desired",
+				[583] = "Criteria met",
+				[356] = "AutoCompleteQuestUpdate: AutoComplete",
+				[584] = "Criteria met",
+				[585] = "AutoCompleteQuestUpdate: Accept",
+				[357] = "AutoCompleteQuestUpdate: Accept",
+				[586] = "Implicit criteria met",
+				[587] = "Criteria met",
+				[358] = "AutoCompleteQuestUpdate: Accept",
+				[588] = "Criteria met",
+				[589] = "Implicit criteria met",
+				[359] = "AutoCompleteQuestUpdate: Accept",
+				[590] = "Implicit criteria met",
+				[591] = "AutoCompleteQuestUpdate: AutoComplete",
+				[360] = true,
+				[592] = "AutoCompleteQuestUpdate: AutoComplete",
+				[593] = "AutoCompleteQuestUpdate: AutoComplete",
+				[361] = "AutoCompleteQuestUpdate: via QuestLog",
+				[425] = "No optional rares desired",
+				[594] = "AutoCompleteQuestUpdate: AutoComplete",
+				[595] = "AutoCompleteQuestUpdate: Accept",
+				[362] = "Criteria met",
+				[596] = "Criteria met",
+				[597] = "AutoCompleteQuestUpdate: via QuestLog",
+				[363] = "No optional rares desired",
+				[598] = "AutoCompleteQuestUpdate: AutoComplete",
+				[599] = "AutoCompleteQuestUpdate: Accept",
+				[364] = "AutoCompleteQuestUpdate: via QuestLog",
+				[600] = "No optional rares desired",
+				[601] = "Criteria met",
+				[365] = "Implicit criteria met",
+				[493] = "Right-Click",
+				[602] = "Criteria met",
+				[302] = "No Treasures desired",
+				[366] = "AutoCompleteQuestUpdate: via QuestLog",
+				[604] = "AutoCompleteQuestUpdate: via QuestLog",
+				[605] = "AutoCompleteQuestUpdate: AutoComplete",
+				[367] = "AutoCompleteQuestUpdate: AutoComplete",
+				[606] = "AutoCompleteQuestUpdate: Accept",
+				[607] = "AutoCompleteQuestUpdate: Accept",
+				[368] = "AutoCompleteQuestUpdate: AutoComplete",
+				[432] = "No optional rares desired",
+				[608] = "AutoCompleteQuestUpdate: Accept",
+				[609] = "AutoCompleteZone",
+				[369] = "AutoCompleteQuestUpdate: AutoComplete",
+				[610] = "AutoCompleteQuestUpdate: via QuestLog",
+				[738] = "No optional rares desired",
+				[611] = "No optional rares desired",
+				[370] = "AutoCompleteQuestUpdate: Accept",
+				[612] = "Right-Click",
+				[787] = "Right-Click",
+				[613] = "AutoCompleteQuestUpdate: via QuestLog",
+				[371] = "Criteria met",
+				[340] = "AutoCompleteZone",
+				[581] = "AutoCompleteQuestUpdate: via QuestLog",
+				[614] = "Criteria met",
+				[775] = "50954",
+				[390] = "AutoCompleteQuestUpdate: Accept",
+				[386] = "AutoCompleteQuestUpdate: via QuestLog",
+				[615] = "Criteria met",
+				[372] = "No Treasures desired",
+				[338] = "AutoCompleteQuestUpdate: Accept",
+				[681] = "AutoCompleteGetFP",
+				[616] = "AutoCompleteQuestUpdate: via QuestLog",
+				[392] = "AutoCompleteQuestUpdate: AutoComplete",
+				[321] = "No Treasures desired",
+				[671] = "AutoCompleteQuestUpdate: Accept",
+				[617] = "AutoCompleteQuestUpdate: AutoComplete",
+				[373] = "AutoCompleteQuestUpdate: AutoComplete",
+				[378] = "AutoCompleteQuestUpdate: Accept",
+				[669] = "AutoCompleteQuestUpdate: via QuestLog",
+				[618] = "AutoCompleteQuestUpdate: AutoComplete",
+				[383] = "AutoCompleteQuestUpdate: Accept",
+				[219] = "No optional rares desired",
+				[747] = "Took known new flight point",
+				[619] = "AutoCompleteQuestUpdate: AutoComplete",
+				[374] = "AutoCompleteQuestUpdate: Accept",
+				[393] = "AutoCompleteQuestUpdate: via QuestLog",
+				[381] = "AutoCompleteQuestUpdate: AutoComplete",
+				[620] = "AutoCompleteQuestUpdate: Accept",
+				[748] = "AutoCompleteZone",
+				[288] = "No Treasures desired",
+				[375] = "AutoCompleteQuestUpdate: via QuestLog",
+				[621] = "AutoCompleteZone",
+				[749] = "AutoCompleteQuestUpdate: AutoComplete",
+				[377] = "AutoCompleteQuestUpdate: Accept",
+				[603] = "Criteria met",
+				[622] = "AutoCompleteQuestUpdate: AutoComplete",
+				[750] = "AutoCompleteQuestUpdate: Accept",
+				[387] = "AutoCompleteQuestUpdate: AutoComplete",
+				[339] = "Took known new flight point",
+				[623] = "AutoCompleteQuestUpdate: Accept",
+				[751] = "AutoCompleteQuestUpdate: Accept",
+				[292] = "Right-Click",
+				[391] = "AutoCompleteQuestUpdate: via QuestLog",
+				[624] = "AutoCompleteQuestUpdate: Accept",
+				[752] = "AutoCompleteQuestUpdate: via QuestLog",
+				[376] = "AutoCompleteQuestUpdate: AutoComplete",
+				[312] = "No Treasures desired",
+				[625] = "AutoCompleteQuestUpdate: Accept",
+				[753] = true,
+				[382] = "AutoCompleteQuestUpdate: Accept",
+				[380] = "47509",
+				[626] = true,
+				[754] = "No optional rares desired",
+				[337] = "AutoCompleteQuestUpdate: AutoComplete",
+				[767] = "AutoCompleteQuestUpdate: AutoComplete",
+				[627] = true,
+				[755] = "AutoCompleteQuestUpdate: via QuestLog",
+				[343] = "AutoCompleteQuestUpdate: AutoComplete",
+				[385] = "AutoCompleteQuestUpdate: via QuestLog",
+				[628] = "Criteria met",
+				[756] = "AutoCompleteQuestUpdate: via QuestLog",
+				[649] = "51111",
+				[389] = "AutoCompleteQuestUpdate: Accept",
+				[629] = "Criteria met",
+				[757] = "AutoCompleteQuestUpdate: AutoComplete",
+				[342] = "AutoCompleteGetFP",
+				[786] = "AutoCompleteQuestUpdate: AutoComplete",
+			},
+			["NoSelect"] = true,
+		},
+		["EmmGorgrond"] = {
+			["total"] = 499,
+			["Version"] = "8.0.1A",
+			["skipped"] = {
+				[58] = true,
+				[139] = true,
+				[201] = true,
+				[120] = true,
+				[122] = true,
+				[182] = true,
+				[95] = true,
+				[128] = true,
+				[174] = true,
+				[140] = true,
+				[202] = true,
+				[144] = true,
+				[143] = true,
+				[146] = true,
+				[187] = true,
+				[142] = true,
+				[171] = true,
+				[147] = true,
+				[141] = true,
+				[121] = true,
+				[96] = true,
+				[184] = true,
+				[127] = true,
+				[98] = true,
+				[145] = true,
+				[90] = true,
+				[73] = true,
+				[75] = true,
+				[181] = true,
+				[185] = true,
+				[186] = true,
+				[126] = true,
+			},
+			["done"] = false,
+			["progress"] = 81,
+			["completion"] = {
+				"; step completed by WoWPro.SetupGuideReal() as processed already.", -- [1]
+				35557, -- [2]
+				35557, -- [3]
+				35557, -- [4]
+				nil, -- [5]
+				nil, -- [6]
+				nil, -- [7]
+				nil, -- [8]
+				nil, -- [9]
+				nil, -- [10]
+				nil, -- [11]
+				nil, -- [12]
+				nil, -- [13]
+				nil, -- [14]
+				nil, -- [15]
+				35557, -- [16]
+				33543, -- [17]
+				33543, -- [18]
+				33544, -- [19]
+				33544, -- [20]
+				33548, -- [21]
+				33548, -- [22]
+				36170, -- [23]
+				33563, -- [24]
+				33563, -- [25]
+				33548, -- [26]
+				33544, -- [27]
+				33544, -- [28]
+				33548, -- [29]
+				33563, -- [30]
+				33593, -- [31]
+				33593, -- [32]
+				33593, -- [33]
+				36434, -- [34]
+				35709, -- [35]
+				36434, -- [36]
+				36460, -- [37]
+				36460, -- [38]
+				36460, -- [39]
+				35151, -- [40]
+				35151, -- [41]
+				35151, -- [42]
+				36474, -- [43]
+				33694, -- [44]
+				35667, -- [45]
+				35707, -- [46]
+				nil, -- [47]
+				"Right-Click", -- [48]
+				"Right-Click", -- [49]
+				nil, -- [50]
+				nil, -- [51]
+				36118, -- [52]
+				[260] = 33694,
+				[473] = "; step completed by WoWPro.SetupGuideReal() as processed already.",
+				[474] = 36494,
+				[355] = "AutoCompleteQuestUpdate: quest turn-in.",
+				[370] = "AutoCompleteQuestUpdate: quest turn-in.",
+				[369] = "AutoCompleteQuestUpdate: AutoComplete",
+				[478] = 37291,
+				[479] = 37291,
+				[480] = 37291,
+				[151] = 33694,
+				[557] = "; step completed by WoWPro.SetupGuideReal() as processed already.",
+				[348] = "AutoCompleteQuestUpdate: Accept",
+				[363] = "AutoCompleteQuestUpdate: AutoComplete",
+				[362] = "AutoCompleteQuestUpdate: AutoComplete",
+			},
+		},
+		["LudoWowAnniversary"] = {
+			["total"] = 62,
+			["Version"] = "8.0.1M",
+			["skipped"] = {
+			},
+			["done"] = false,
+			["completion"] = {
+			},
+			["progress"] = 2,
+		},
+		["LudoPetWQKrokuun"] = {
+			["skipped"] = {
+			},
+			["completion"] = {
+			},
+			["Version"] = "8.0.1M",
+			["done"] = false,
+		},
+		["LudoHarrison"] = {
+			["skipped"] = {
+			},
+			["completion"] = {
+			},
+			["Version"] = "8.0.1M",
+			["done"] = false,
+		},
+		["LarePetWQBroken"] = {
+			["skipped"] = {
+			},
+			["completion"] = {
+			},
+			["Version"] = "8.0.1M",
+			["done"] = false,
+		},
+		["EliEndgame"] = {
+			["skipped"] = {
+			},
+			["completion"] = {
+			},
+			["Version"] = "8.0.1M",
+			["done"] = false,
+		},
+		["EmmNazmir"] = {
+			["total"] = 592,
+			["Version"] = "8.0.1M",
+			["skipped"] = {
+				[247] = true,
+				[249] = true,
+				[8] = true,
+				[255] = true,
+				[270] = true,
+				[298] = true,
+				[429] = true,
+				[310] = true,
+				[624] = true,
+				[632] = true,
+				[449] = true,
+				[44] = true,
+				[45] = true,
+				[186] = true,
+				[12] = true,
+				[48] = true,
+				[49] = true,
+				[271] = true,
+				[275] = true,
+				[208] = true,
+				[291] = true,
+				[426] = true,
+				[430] = true,
+				[55] = true,
+				[311] = true,
+				[226] = true,
+				[454] = true,
+				[234] = true,
+				[60] = true,
+				[61] = true,
+				[246] = true,
+				[611] = true,
+				[627] = true,
+				[256] = true,
+				[276] = true,
+				[72] = true,
+				[73] = true,
+				[74] = true,
+				[431] = true,
+				[312] = true,
+				[451] = true,
+				[455] = true,
+				[459] = true,
+				[86] = true,
+				[492] = true,
+				[615] = true,
+				[242] = true,
+				[94] = true,
+				[95] = true,
+				[610] = true,
+				[257] = true,
+				[388] = true,
+				[59] = true,
+				[438] = true,
+				[273] = true,
+				[277] = true,
+				[103] = true,
+				[104] = true,
+				[115] = true,
+				[288] = true,
+				[213] = true,
+				[7] = true,
+				[305] = true,
+				[614] = true,
+				[221] = true,
+				[220] = true,
+				[216] = true,
+				[304] = true,
+				[456] = true,
+				[460] = true,
+				[292] = true,
+				[637] = true,
+				[237] = true,
+				[474] = true,
+				[547] = true,
+			},
+			["done"] = false,
+			["completion"] = {
+				"NextStep(): Completed L step because player level is high enough.", -- [1]
+				"Right-Click", -- [2]
+				"Right-Click", -- [3]
+				"Right-Click", -- [4]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [5]
+				"AutoCompleteQuestUpdate: Accept", -- [6]
+				nil, -- [7]
+				nil, -- [8]
+				nil, -- [9]
+				nil, -- [10]
+				nil, -- [11]
+				nil, -- [12]
+				nil, -- [13]
+				nil, -- [14]
+				nil, -- [15]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [16]
+				"AutoCompleteQuestUpdate: Accept", -- [17]
+				"Criteria met", -- [18]
+				"AutoCompleteZone", -- [19]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [20]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [21]
+				"AutoCompleteQuestUpdate: Accept", -- [22]
+				"No Treasures desired", -- [23]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [24]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [25]
+				"AutoCompleteQuestUpdate: Accept", -- [26]
+				"AutoCompleteQuestUpdate: Accept", -- [27]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [28]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [29]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [30]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [31]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [32]
+				"AutoCompleteQuestUpdate: Accept", -- [33]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [34]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [35]
+				"AutoCompleteQuestUpdate: Accept", -- [36]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [37]
+				"AutoCompleteGetFP", -- [38]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [39]
+				"AutoCompleteQuestUpdate: Accept", -- [40]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [41]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [42]
+				"AutoCompleteQuestUpdate: Accept", -- [43]
+				nil, -- [44]
+				nil, -- [45]
+				nil, -- [46]
+				nil, -- [47]
+				nil, -- [48]
+				nil, -- [49]
+				nil, -- [50]
+				nil, -- [51]
+				"No optional rares desired", -- [52]
+				nil, -- [53]
+				nil, -- [54]
+				nil, -- [55]
+				"No Treasures desired", -- [56]
+				nil, -- [57]
+				nil, -- [58]
+				nil, -- [59]
+				nil, -- [60]
+				nil, -- [61]
+				nil, -- [62]
+				nil, -- [63]
+				"No Treasures desired", -- [64]
+				nil, -- [65]
+				"No optional rares desired", -- [66]
+				nil, -- [67]
+				nil, -- [68]
+				nil, -- [69]
+				nil, -- [70]
+				nil, -- [71]
+				nil, -- [72]
+				nil, -- [73]
+				nil, -- [74]
+				nil, -- [75]
+				nil, -- [76]
+				nil, -- [77]
+				nil, -- [78]
+				nil, -- [79]
+				"No optional rares desired", -- [80]
+				nil, -- [81]
+				nil, -- [82]
+				nil, -- [83]
+				nil, -- [84]
+				nil, -- [85]
+				nil, -- [86]
+				nil, -- [87]
+				nil, -- [88]
+				nil, -- [89]
+				"Criteria met", -- [90]
+				"Criteria met", -- [91]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [92]
+				"No optional rares desired", -- [93]
+				nil, -- [94]
+				nil, -- [95]
+				nil, -- [96]
+				nil, -- [97]
+				nil, -- [98]
+				nil, -- [99]
+				nil, -- [100]
+				nil, -- [101]
+				nil, -- [102]
+				nil, -- [103]
+				nil, -- [104]
+				nil, -- [105]
+				nil, -- [106]
+				nil, -- [107]
+				nil, -- [108]
+				"No Treasures desired", -- [109]
+				"No optional rares desired", -- [110]
+				"No optional rares desired", -- [111]
+				nil, -- [112]
+				nil, -- [113]
+				nil, -- [114]
+				nil, -- [115]
+				nil, -- [116]
+				"No optional rares desired", -- [117]
+				"No optional rares desired", -- [118]
+				nil, -- [119]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [120]
+				"AutoCompleteQuestUpdate: Accept", -- [121]
+				"No Treasures desired", -- [122]
+				"No optional rares desired", -- [123]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [124]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [125]
+				"AutoCompleteQuestUpdate: Accept", -- [126]
+				"AutoCompleteGetFP", -- [127]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [128]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [129]
+				"AutoCompleteQuestUpdate: Accept", -- [130]
+				"AutoCompleteQuestUpdate: Accept", -- [131]
+				"Criteria met", -- [132]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [133]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [134]
+				"AutoCompleteQuestUpdate: Accept", -- [135]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [136]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [137]
+				"AutoCompleteQuestUpdate: Accept", -- [138]
+				"AutoCompleteQuestUpdate: Accept", -- [139]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [140]
+				"Criteria met", -- [141]
+				"Criteria met", -- [142]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [143]
+				"No optional rares desired", -- [144]
+				"Implicit criteria met", -- [145]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [146]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [147]
+				"AutoCompleteQuestUpdate: Accept", -- [148]
+				"AutoCompleteQuestUpdate: Accept", -- [149]
+				"AutoCompleteQuestUpdate: Accept", -- [150]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [151]
+				true, -- [152]
+				"Criteria met", -- [153]
+				"Criteria met", -- [154]
+				"Criteria met", -- [155]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [156]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [157]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [158]
+				"AutoCompleteQuestUpdate: Accept", -- [159]
+				"Implicit criteria met", -- [160]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [161]
+				"Criteria met", -- [162]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [163]
+				"AutoCompleteQuestUpdate: quest turn-in.", -- [164]
+				"AutoCompleteQuestUpdate: Accept", -- [165]
+				"Criteria met", -- [166]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [167]
+				"AutoCompleteQuestUpdate: Accept", -- [168]
+				"Criteria met", -- [169]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [170]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [171]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [172]
+				"AutoCompleteQuestUpdate: Accept", -- [173]
+				"Criteria met", -- [174]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [175]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [176]
+				"AutoCompleteQuestUpdate: Accept", -- [177]
+				"AutoCompleteQuestUpdate: Accept", -- [178]
+				"AutoCompleteQuestUpdate: Accept", -- [179]
+				"AutoCompleteQuestUpdate: Accept", -- [180]
+				true, -- [181]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [182]
+				"No Treasures desired", -- [183]
+				"Criteria met", -- [184]
+				"AutoCompleteQuestUpdate: Accept", -- [185]
+				nil, -- [186]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [187]
+				"No optional rares desired", -- [188]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [189]
+				"Criteria met", -- [190]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [191]
+				"No optional rares desired", -- [192]
+				nil, -- [193]
+				"Implicit criteria met", -- [194]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [195]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [196]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [197]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [198]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [199]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [200]
+				"AutoCompleteQuestUpdate: Accept", -- [201]
+				"Criteria met", -- [202]
+				"Criteria met", -- [203]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [204]
+				"AutoCompleteQuestUpdate: Accept", -- [205]
+				nil, -- [206]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [207]
+				nil, -- [208]
+				"AutoCompleteQuestUpdate: Accept", -- [209]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [210]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [211]
+				"AutoCompleteQuestUpdate: Accept", -- [212]
+				nil, -- [213]
+				"No optional rares desired", -- [214]
+				nil, -- [215]
+				nil, -- [216]
+				nil, -- [217]
+				nil, -- [218]
+				nil, -- [219]
+				nil, -- [220]
+				nil, -- [221]
+				nil, -- [222]
+				nil, -- [223]
+				nil, -- [224]
+				nil, -- [225]
+				nil, -- [226]
+				nil, -- [227]
+				nil, -- [228]
+				nil, -- [229]
+				"No optional rares desired", -- [230]
+				nil, -- [231]
+				nil, -- [232]
+				nil, -- [233]
+				nil, -- [234]
+				nil, -- [235]
+				nil, -- [236]
+				nil, -- [237]
+				nil, -- [238]
+				nil, -- [239]
+				"No optional rares desired", -- [240]
+				[500] = true,
+				[261] = "No Treasures desired",
+				[552] = "AutoCompleteQuestUpdate: Accept",
+				[584] = "AutoCompleteQuestUpdate: via QuestLog",
+				[520] = "Criteria met",
+				[325] = "AutoCompleteQuestUpdate: via QuestLog",
+				[341] = "AutoCompleteQuestUpdate: Accept",
+				[357] = "AutoCompleteQuestUpdate: via QuestLog",
+				[373] = "AutoCompleteQuestUpdate: via QuestLog",
+				[389] = "AutoCompleteQuestUpdate: via QuestLog",
+				[405] = "AutoCompleteQuestUpdate: via QuestLog",
+				[421] = "AutoCompleteZone",
+				[557] = "AutoCompleteQuestUpdate: via QuestLog",
+				[521] = "Criteria met",
+				[523] = "AutoCompleteQuestUpdate: AutoComplete",
+				[485] = "No optional rares desired",
+				[501] = "Criteria met",
+				[522] = "AutoCompleteQuestUpdate: via QuestLog",
+				[554] = "AutoCompleteQuestUpdate: Accept",
+				[586] = "Criteria met",
+				[618] = "No optional rares desired",
+				[326] = "AutoCompleteQuestUpdate: AutoComplete",
+				[342] = "AutoCompleteQuestUpdate: via QuestLog",
+				[358] = "AutoCompleteQuestUpdate: AutoComplete",
+				[374] = "AutoCompleteQuestUpdate: AutoComplete",
+				[390] = "AutoCompleteQuestUpdate: via QuestLog",
+				[406] = "AutoCompleteQuestUpdate: AutoComplete",
+				[422] = "Criteria met",
+				[619] = "No optional rares desired",
+				[425] = "AutoCompleteQuestUpdate: AutoComplete",
+				[420] = "AutoCompleteQuestUpdate: Accept",
+				[486] = "No Treasures desired",
+				[502] = "Criteria met",
+				[524] = "AutoCompleteQuestUpdate: Accept",
+				[556] = "AutoCompleteQuestUpdate: via QuestLog",
+				[588] = "AutoCompleteQuestUpdate: AutoComplete",
+				[404] = "Criteria met",
+				[327] = "AutoCompleteQuestUpdate: Accept",
+				[343] = "AutoCompleteQuestUpdate: AutoComplete",
+				[359] = "AutoCompleteQuestUpdate: Accept",
+				[375] = "AutoCompleteQuestUpdate: Accept",
+				[391] = "AutoCompleteQuestUpdate: AutoComplete",
+				[407] = "AutoCompleteQuestUpdate: Accept",
+				[423] = "Criteria met",
+				[439] = "No Treasures desired",
+				[393] = "AutoCompleteQuestUpdate: Accept",
+				[561] = "AutoCompleteQuestUpdate: AutoComplete",
+				[487] = "Right-Click",
+				[503] = "Criteria met",
+				[526] = "AutoCompleteQuestUpdate: Accept",
+				[558] = "Criteria met",
+				[590] = "AutoCompleteQuestUpdate: Accept",
+				[589] = "AutoCompleteQuestUpdate: Accept",
+				[328] = "AutoCompleteQuestUpdate: via QuestLog",
+				[344] = "AutoCompleteQuestUpdate: Accept",
+				[360] = "AutoCompleteQuestUpdate: Accept",
+				[376] = "AutoCompleteQuestUpdate: via QuestLog",
+				[392] = "AutoCompleteQuestUpdate: Accept",
+				[408] = "AutoCompleteQuestUpdate: Accept",
+				[591] = true,
+				[563] = "Criteria met",
+				[427] = "AutoCompleteQuestUpdate: Accept",
+				[531] = "AutoCompleteQuestUpdate: via QuestLog",
+				[488] = "Criteria met",
+				[504] = "AutoCompleteQuestUpdate: via QuestLog",
+				[528] = "AutoCompleteQuestUpdate: via QuestLog",
+				[560] = "AutoCompleteQuestUpdate: AutoComplete",
+				[592] = "Criteria met",
+				[395] = "AutoCompleteQuestUpdate: Accept",
+				[329] = "AutoCompleteQuestUpdate: quest turn-in.",
+				[345] = "AutoCompleteQuestUpdate: Accept",
+				[361] = "AutoCompleteQuestUpdate: Accept",
+				[377] = "AutoCompleteQuestUpdate: AutoComplete",
+				[529] = "AutoCompleteQuestUpdate: via QuestLog",
+				[409] = true,
+				[593] = "Criteria met",
+				[625] = "AutoCompleteQuestUpdate: via QuestLog",
+				[585] = "AutoCompleteQuestUpdate: AutoComplete",
+				[567] = "AutoCompleteQuestUpdate: via QuestLog",
+				[489] = "AutoCompleteQuestUpdate: via QuestLog",
+				[505] = "AutoCompleteQuestUpdate: via QuestLog",
+				[530] = "Criteria met",
+				[562] = "AutoCompleteQuestUpdate: Accept",
+				[594] = "AutoCompleteQuestUpdate: via QuestLog",
+				[626] = "AutoCompleteQuestUpdate: AutoComplete",
+				[330] = "AutoCompleteQuestUpdate: Accept",
+				[346] = true,
+				[362] = "No optional rares desired",
+				[378] = "AutoCompleteQuestUpdate: Accept",
+				[394] = "AutoCompleteQuestUpdate: via QuestLog",
+				[410] = true,
+				[426] = "AutoCompleteQuestUpdate: Accept",
+				[627] = "AutoCompleteQuestUpdate: Accept",
+				[599] = "Criteria met",
+				[631] = "No optional rares desired",
+				[490] = "AutoCompleteQuestUpdate: via QuestLog",
+				[506] = "AutoCompleteQuestUpdate: quest turn-in.",
+				[532] = "Implicit criteria met",
+				[564] = "Criteria met",
+				[596] = "AutoCompleteQuestUpdate: AutoComplete",
+				[315] = "No optional rares desired",
+				[331] = "AutoCompleteQuestUpdate: Accept",
+				[347] = "Criteria met",
+				[363] = "No optional rares desired",
+				[379] = "AutoCompleteZone",
+				[533] = "No Treasures desired",
+				[411] = "No optional rares desired",
+				[597] = "AutoCompleteQuestUpdate: AutoComplete",
+				[629] = "AutoCompleteZone",
+				[602] = "AutoCompleteQuestUpdate: Accept",
+				[475] = "No optional rares desired",
+				[491] = "No optional rares desired",
+				[507] = "AutoCompleteQuestUpdate: AutoComplete",
+				[537] = "AutoCompleteQuestUpdate: AutoComplete",
+				[566] = "AutoCompleteQuestUpdate: Accept",
+				[598] = "AutoCompleteQuestUpdate: Accept",
+				[630] = "No optional rares desired",
+				[332] = "AutoCompleteQuestUpdate: Accept",
+				[348] = "AutoCompleteQuestUpdate: via QuestLog",
+				[364] = "AutoCompleteQuestUpdate: via QuestLog",
+				[380] = "autoarrival=1",
+				[535] = "AutoCompleteQuestUpdate: AutoComplete",
+				[412] = "No Treasures desired",
+				[428] = "AutoCompleteQuestUpdate: AutoComplete",
+				[444] = "No Treasures desired",
+				[565] = "AutoCompleteQuestUpdate: AutoComplete",
+				[419] = "AutoCompleteQuestUpdate: AutoComplete",
+				[403] = "AutoCompleteQuestUpdate: AutoComplete",
+				[508] = "AutoCompleteQuestUpdate: AutoComplete",
+				[536] = "AutoCompleteQuestUpdate: AutoComplete",
+				[568] = "AutoCompleteQuestUpdate: AutoComplete",
+				[600] = "AutoCompleteQuestUpdate: via QuestLog",
+				[517] = "AutoCompleteQuestUpdate: Accept",
+				[333] = true,
+				[349] = "Criteria met",
+				[365] = "AutoCompleteQuestUpdate: via QuestLog",
+				[381] = "No optional rares desired",
+				[397] = "Criteria met",
+				[413] = "AutoCompleteQuestUpdate: via QuestLog",
+				[601] = "AutoCompleteQuestUpdate: AutoComplete",
+				[445] = "AutoCompleteQuestUpdate: via QuestLog",
+				[398] = "AutoCompleteQuestUpdate: via QuestLog",
+				[414] = "AutoCompleteQuestUpdate: via QuestLog",
+				[493] = "AutoCompleteQuestUpdate: quest turn-in.",
+				[509] = "AutoCompleteQuestUpdate: Accept",
+				[538] = "AutoCompleteQuestUpdate: Accept",
+				[569] = "AutoCompleteQuestUpdate: Accept",
+				[302] = "AutoCompleteZone",
+				[303] = "Criteria met",
+				[334] = "AutoCompleteQuestUpdate: via QuestLog",
+				[350] = "Right-Click",
+				[366] = "AutoCompleteQuestUpdate: via QuestLog",
+				[382] = "autoarrival=1",
+				[539] = "AutoCompleteQuestUpdate: Accept",
+				[571] = "Criteria met",
+				[603] = "AutoCompleteQuestUpdate: via QuestLog",
+				[446] = "AutoCompleteQuestUpdate: AutoComplete",
+				[559] = "AutoCompleteQuestUpdate: AutoComplete",
+				[478] = "AutoCompleteZone",
+				[494] = "47599",
+				[510] = "Criteria met",
+				[540] = "AutoCompleteQuestUpdate: Accept",
+				[572] = "AutoCompleteQuestUpdate: via QuestLog",
+				[604] = "AutoCompleteQuestUpdate: AutoComplete",
+				[400] = "AutoCompleteQuestUpdate: AutoComplete",
+				[335] = "Criteria met",
+				[351] = "Right-Click",
+				[367] = "Implicit criteria met",
+				[383] = "AutoCompleteQuestUpdate: via QuestLog",
+				[399] = "AutoCompleteQuestUpdate: via QuestLog",
+				[415] = "AutoCompleteQuestUpdate: AutoComplete",
+				[605] = "AutoCompleteQuestUpdate: Accept",
+				[447] = "AutoCompleteQuestUpdate: Accept",
+				[416] = "AutoCompleteQuestUpdate: AutoComplete",
+				[479] = "AutoCompleteQuestUpdate: AutoComplete",
+				[495] = "AutoCompleteQuestUpdate: AutoComplete",
+				[511] = "AutoCompleteQuestUpdate: via QuestLog",
+				[542] = "AutoCompleteQuestUpdate: via QuestLog",
+				[553] = "AutoCompleteQuestUpdate: Accept",
+				[606] = "Criteria met",
+				[513] = "AutoCompleteQuestUpdate: Accept",
+				[336] = "AutoCompleteQuestUpdate: via QuestLog",
+				[352] = "No optional rares desired",
+				[368] = "AutoCompleteQuestUpdate: via QuestLog",
+				[384] = "AutoCompleteGetFP",
+				[543] = "AutoCompleteQuestUpdate: via QuestLog",
+				[575] = "AutoCompleteQuestUpdate: AutoComplete",
+				[607] = "AutoCompleteQuestUpdate: AutoComplete",
+				[448] = "AutoCompleteQuestUpdate: AutoComplete",
+				[401] = "AutoCompleteQuestUpdate: AutoComplete",
+				[480] = "AutoCompleteQuestUpdate: Accept",
+				[496] = "AutoCompleteQuestUpdate: AutoComplete",
+				[512] = "AutoCompleteQuestUpdate: AutoComplete",
+				[544] = "AutoCompleteQuestUpdate: via QuestLog",
+				[576] = "AutoCompleteQuestUpdate: Accept",
+				[608] = "AutoCompleteQuestUpdate: Accept",
+				[527] = "AutoCompleteQuestUpdate: via QuestLog",
+				[337] = "AutoCompleteQuestUpdate: via QuestLog",
+				[353] = "No Treasures desired",
+				[369] = "AutoCompleteQuestUpdate: AutoComplete",
+				[385] = "AutoCompleteQuestUpdate: AutoComplete",
+				[545] = "AutoCompleteQuestUpdate: via QuestLog",
+				[577] = "Criteria met",
+				[609] = "Criteria met",
+				[641] = "No optional rares desired",
+				[541] = "No optional rares desired",
+				[481] = "AutoCompleteQuestUpdate: Accept",
+				[497] = "AutoCompleteQuestUpdate: Accept",
+				[514] = "Criteria met",
+				[546] = "Implicit criteria met",
+				[578] = "AutoCompleteQuestUpdate: AutoComplete",
+				[386] = "AutoCompleteQuestUpdate: Accept",
+				[642] = "AutoCompleteZone",
+				[338] = "AutoCompleteQuestUpdate: AutoComplete",
+				[354] = "AutoCompleteQuestUpdate: AutoComplete",
+				[370] = "AutoCompleteQuestUpdate: AutoComplete",
+				[515] = "AutoCompleteQuestUpdate: via QuestLog",
+				[402] = "AutoCompleteQuestUpdate: Accept",
+				[418] = "AutoCompleteQuestUpdate: via QuestLog",
+				[579] = "AutoCompleteQuestUpdate: Accept",
+				[643] = "AutoCompleteQuestUpdate: AutoComplete",
+				[417] = "AutoCompleteQuestUpdate: Accept",
+				[482] = "AutoCompleteQuestUpdate: Accept",
+				[498] = "AutoCompleteQuestUpdate: Accept",
+				[516] = "AutoCompleteQuestUpdate: AutoComplete",
+				[548] = "No Treasures desired",
+				[580] = "AutoCompleteZone",
+				[573] = "No optional rares desired",
+				[644] = "AutoCompleteQuestUpdate: Accept",
+				[339] = "AutoCompleteQuestUpdate: AutoComplete",
+				[355] = "AutoCompleteQuestUpdate: Accept",
+				[371] = "AutoCompleteQuestUpdate: AutoComplete",
+				[387] = "AutoCompleteQuestUpdate: Accept",
+				[549] = "AutoCompleteQuestUpdate: AutoComplete",
+				[581] = "Criteria met",
+				[435] = "No optional rares desired",
+				[645] = "NextStep(): Available quest is currently complete or active",
+				[301] = "No optional rares desired",
+				[483] = true,
+				[499] = "AutoCompleteQuestUpdate: Accept",
+				[396] = "AutoCompleteQuestUpdate: via QuestLog",
+				[550] = "AutoCompleteQuestUpdate: AutoComplete",
+				[582] = "AutoCompleteQuestUpdate: Accept",
+				[628] = "AutoCompleteQuestUpdate: Accept",
+				[595] = "AutoCompleteQuestUpdate: via QuestLog",
+				[340] = "AutoCompleteQuestUpdate: AutoComplete",
+				[356] = "Criteria met",
+				[372] = "AutoCompleteQuestUpdate: Accept",
+				[519] = "No Treasures desired",
+				[551] = "AutoCompleteQuestUpdate: AutoComplete",
+				[583] = true,
+				[525] = "AutoCompleteQuestUpdate: Accept",
+				[424] = "AutoCompleteQuestUpdate: via QuestLog",
+				[587] = "AutoCompleteQuestUpdate: via QuestLog",
+				[484] = true,
+				[555] = true,
+			},
+			["progress"] = 439,
+		},
+		["FlucloTanaanJungle"] = {
+			["skipped"] = {
+			},
+			["completion"] = {
+			},
+			["Version"] = "8.0.1M",
+			["done"] = false,
+		},
+		["EmmHWarCampaign"] = {
+			["total"] = 490,
+			["Version"] = "8.0.1M",
+			["progress"] = 153,
+			["skipped"] = {
+				[2] = true,
+				[21] = true,
+				[3] = true,
+				[22] = true,
+				[23] = true,
+			},
+			["done"] = false,
+			["completion"] = {
+				"NextStep(): Completed L step because player level is high enough.", -- [1]
+				false, -- [2]
+				nil, -- [3]
+				"Right-Click", -- [4]
+				"Right-Click", -- [5]
+				"53079", -- [6]
+				"52749", -- [7]
+				"52749", -- [8]
+				"52746", -- [9]
+				"52746", -- [10]
+				"53333", -- [11]
+				"53333", -- [12]
+				"51770", -- [13]
+				"51770", -- [14]
+				"51771", -- [15]
+				"51771", -- [16]
+				"51771", -- [17]
+				"53079", -- [18]
+				"53079", -- [19]
+				"53079", -- [20]
+				"AutoCompleteQuestUpdate: Accept", -- [21]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [22]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [23]
+				"Quest in QuestLog", -- [24]
+				"Quest in QuestLog", -- [25]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [26]
+				"AutoCompleteQuestUpdate: quest turn-in.", -- [27]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [28]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [29]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [30]
+				nil, -- [31]
+				nil, -- [32]
+				"AutoCompleteQuestUpdate: Accept", -- [33]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [34]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [35]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [36]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [37]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [38]
+				nil, -- [39]
+				nil, -- [40]
+				nil, -- [41]
+				nil, -- [42]
+				nil, -- [43]
+				nil, -- [44]
+				nil, -- [45]
+				nil, -- [46]
+				nil, -- [47]
+				nil, -- [48]
+				nil, -- [49]
+				nil, -- [50]
+				nil, -- [51]
+				nil, -- [52]
+				nil, -- [53]
+				"AutoCompleteQuestUpdate: Accept", -- [54]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [55]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [56]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [57]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [58]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [59]
+				"AutoCompleteQuestUpdate: Accept", -- [60]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [61]
+				"AutoCompleteQuestUpdate: Accept", -- [62]
+				"Criteria met", -- [63]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [64]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [65]
+				"AutoCompleteQuestUpdate: Accept", -- [66]
+				"51224", -- [67]
+				"Criteria met", -- [68]
+				"Criteria met", -- [69]
+				"Criteria met", -- [70]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [71]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [72]
+				"AutoCompleteQuestUpdate: Accept", -- [73]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [74]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [75]
+				"AutoCompleteQuestUpdate: Accept", -- [76]
+				"Criteria met", -- [77]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [78]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [79]
+				"AutoCompleteQuestUpdate: Accept", -- [80]
+				"Criteria met", -- [81]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [82]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [83]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [84]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [85]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [86]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [87]
+				"AutoCompleteQuestUpdate: Accept", -- [88]
+				"Taxi point known", -- [89]
+				"51985", -- [90]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [91]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [92]
+				"AutoCompleteQuestUpdate: Accept", -- [93]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [94]
+				"AutoCompleteQuestUpdate: Accept", -- [95]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [96]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [97]
+				"AutoCompleteQuestUpdate: Accept", -- [98]
+				"Criteria met", -- [99]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [100]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [101]
+				"AutoCompleteQuestUpdate: Accept", -- [102]
+				"Criteria met", -- [103]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [104]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [105]
+				"AutoCompleteQuestUpdate: Accept", -- [106]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [107]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [108]
+				"AutoCompleteQuestUpdate: Accept", -- [109]
+				"AutoCompleteQuestUpdate: Accept", -- [110]
+				"AutoCompleteQuestUpdate: Accept", -- [111]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [112]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [113]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [114]
+				"Criteria met", -- [115]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [116]
+				"Implicit criteria met", -- [117]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [118]
+				"Criteria met", -- [119]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [120]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [121]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [122]
+				"AutoCompleteQuestUpdate: Accept", -- [123]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [124]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [125]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [126]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [127]
+				"AutoCompleteQuestUpdate: Accept", -- [128]
+				"AutoCompleteGetFP", -- [129]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [130]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [131]
+				"AutoCompleteQuestUpdate: Accept", -- [132]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [133]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [134]
+				"AutoCompleteQuestUpdate: Accept", -- [135]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [136]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [137]
+				"AutoCompleteQuestUpdate: Accept", -- [138]
+				"Criteria met", -- [139]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [140]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [141]
+				"AutoCompleteQuestUpdate: Accept", -- [142]
+				"AutoCompleteQuestUpdate: Accept", -- [143]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [144]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [145]
+				"Implicit criteria met", -- [146]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [147]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [148]
+				"AutoCompleteQuestUpdate: Accept", -- [149]
+				"AutoCompleteQuestUpdate: Accept", -- [150]
+				true, -- [151]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [152]
+				"Criteria met", -- [153]
+				"Criteria met", -- [154]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [155]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [156]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [157]
+				"AutoCompleteQuestUpdate: Accept", -- [158]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [159]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [160]
+				"AutoCompleteQuestUpdate: Accept", -- [161]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [162]
+				"51438", -- [163]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [164]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [165]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [166]
+				"AutoCompleteQuestUpdate: Accept", -- [167]
+				"AutoCompleteQuestUpdate: via QuestLog", -- [168]
+				"AutoCompleteQuestUpdate: AutoComplete", -- [169]
+				[409] = "53121",
+				[286] = "AutoCompleteZoneBroker",
+				[287] = "AutoCompleteZoneBroker",
+				[519] = "NextStep(): Available quest is currently complete or active",
+				[521] = "NextStep(): Available quest is currently complete or active",
+				[408] = "53121",
+			},
+			["NoSelect"] = true,
 		},
 		["EmmAzsuna"] = {
 			["total"] = 449,
@@ -5235,59 +6899,58 @@ WoWProCharDB = {
 				[364] = true,
 				[153] = true,
 				[125] = true,
-				[62] = true,
+				[417] = true,
 				[368] = true,
-				[64] = true,
+				[63] = true,
 				[370] = true,
-				[189] = true,
+				[111] = true,
 				[372] = true,
 				[373] = true,
-				[374] = true,
-				[191] = true,
+				[64] = true,
+				[65] = true,
 				[190] = true,
 				[112] = true,
-				[65] = true,
-				[53] = true,
+				[191] = true,
+				[349] = true,
 				[192] = true,
+				[67] = true,
 				[193] = true,
-				[66] = true,
 				[383] = true,
 				[384] = true,
 				[114] = true,
 				[132] = true,
-				[117] = true,
+				[334] = true,
 				[133] = true,
 				[115] = true,
 				[68] = true,
-				[120] = true,
-				[143] = true,
+				[346] = true,
+				[345] = true,
 				[116] = true,
 				[69] = true,
 				[395] = true,
 				[396] = true,
-				[334] = true,
+				[117] = true,
 				[70] = true,
-				[59] = true,
-				[195] = true,
+				[118] = true,
+				[338] = true,
 				[401] = true,
 				[339] = true,
 				[340] = true,
-				[119] = true,
 				[60] = true,
-				[338] = true,
-				[118] = true,
-				[345] = true,
-				[346] = true,
+				[119] = true,
+				[195] = true,
+				[59] = true,
+				[143] = true,
+				[120] = true,
 				[347] = true,
-				[67] = true,
-				[349] = true,
+				[66] = true,
+				[53] = true,
 				[61] = true,
-				[111] = true,
-				[63] = true,
-				[417] = true,
+				[374] = true,
+				[189] = true,
+				[62] = true,
 			},
 			["done"] = false,
-			["progress"] = 417,
 			["completion"] = {
 				"; step completed by WoWPro.SetupGuideReal() as processed already.", -- [1]
 				38834, -- [2]
@@ -5766,8 +7429,9 @@ WoWProCharDB = {
 				44545, -- [475]
 				[479] = "; step completed by WoWPro.SetupGuideReal() as processed already.",
 			},
+			["progress"] = 417,
 		},
-		["LudoBuildingsHorde"] = {
+		["LarePetWQHigh"] = {
 			["skipped"] = {
 			},
 			["completion"] = {
@@ -5775,1465 +7439,13 @@ WoWProCharDB = {
 			["Version"] = "8.0.1M",
 			["done"] = false,
 		},
-		["EmmZuldazar"] = {
-			["total"] = 736,
-			["Version"] = "8.0.1M",
-			["progress"] = 481,
-			["skipped"] = {
-				[480] = true,
-				[710] = true,
-				[492] = true,
-				[249] = true,
-				[552] = true,
-				[282] = true,
-				[417] = true,
-				[421] = true,
-				[298] = true,
-				[152] = true,
-				[433] = true,
-				[156] = true,
-				[158] = true,
-				[445] = true,
-				[162] = true,
-				[326] = true,
-				[457] = true,
-				[174] = true,
-				[696] = true,
-				[481] = true,
-				[180] = true,
-				[720] = true,
-				[184] = true,
-				[497] = true,
-				[192] = true,
-				[514] = true,
-				[263] = true,
-				[736] = true,
-				[538] = true,
-				[476] = true,
-				[279] = true,
-				[206] = true,
-				[570] = true,
-				[686] = true,
-				[422] = true,
-				[697] = true,
-				[216] = true,
-				[303] = true,
-				[14] = true,
-				[687] = true,
-				[224] = true,
-				[226] = true,
-				[454] = true,
-				[430] = true,
-				[462] = true,
-				[466] = true,
-				[496] = true,
-				[238] = true,
-				[698] = true,
-				[482] = true,
-				[283] = true,
-				[722] = true,
-				[212] = true,
-				[164] = true,
-				[252] = true,
-				[379] = true,
-				[510] = true,
-				[260] = true,
-				[67] = true,
-				[280] = true,
-				[556] = true,
-				[691] = true,
-				[71] = true,
-				[284] = true,
-				[415] = true,
-				[539] = true,
-				[310] = true,
-				[427] = true,
-				[731] = true,
-				[155] = true,
-				[439] = true,
-				[324] = true,
-				[320] = true,
-				[163] = true,
-				[693] = true,
-				[173] = true,
-				[541] = true,
-				[549] = true,
-				[557] = true,
-				[285] = true,
-				[524] = true,
-				[506] = true,
-				[450] = true,
-				[187] = true,
-				[732] = true,
-				[740] = true,
-				[40] = true,
-				[507] = true,
-				[446] = true,
-				[518] = true,
-				[517] = true,
-				[472] = true,
-				[201] = true,
-				[550] = true,
-				[558] = true,
-				[566] = true,
-				[416] = true,
-				[709] = true,
-				[154] = true,
-				[215] = true,
-				[733] = true,
-				[110] = true,
-				[28] = true,
-				[317] = true,
-				[225] = true,
-				[227] = true,
-				[527] = true,
-				[719] = true,
-				[543] = true,
-				[551] = true,
-				[30] = true,
-				[239] = true,
-				[776] = true,
-			},
-			["done"] = false,
-			["completion"] = {
-				"NextStep(): Completed L step because player level is high enough.", -- [1]
-				"Right-Click", -- [2]
-				nil, -- [3]
-				"Right-Click", -- [4]
-				"Right-Click", -- [5]
-				"47514", -- [6]
-				"Quest in QuestLog", -- [7]
-				"Right-Click", -- [8]
-				"Right-Click", -- [9]
-				"autoarrival=2", -- [10]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [11]
-				"AutoCompleteQuestUpdate: Accept", -- [12]
-				"AutoCompleteQuestUpdate: Accept", -- [13]
-				"AutoCompleteQuestUpdate: Accept", -- [14]
-				"Took known new flight point", -- [15]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [16]
-				"AutoCompleteQuestUpdate: Accept", -- [17]
-				"AutoCompleteQuestUpdate: Accept", -- [18]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [19]
-				"Criteria met", -- [20]
-				"AutoCompleteQuestUpdate: Accept", -- [21]
-				"Criteria met", -- [22]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [23]
-				"Criteria met", -- [24]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [25]
-				"AutoCompleteQuestUpdate: Accept", -- [26]
-				"Criteria met", -- [27]
-				nil, -- [28]
-				nil, -- [29]
-				nil, -- [30]
-				nil, -- [31]
-				nil, -- [32]
-				nil, -- [33]
-				nil, -- [34]
-				"Right-Click", -- [35]
-				"No Treasures desired", -- [36]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [37]
-				nil, -- [38]
-				nil, -- [39]
-				nil, -- [40]
-				nil, -- [41]
-				nil, -- [42]
-				nil, -- [43]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [44]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [45]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [46]
-				"AutoCompleteQuestUpdate: Accept", -- [47]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [48]
-				"AutoCompleteQuestUpdate: Accept", -- [49]
-				"AutoCompleteQuestUpdate: Accept", -- [50]
-				"AutoCompleteZone", -- [51]
-				true, -- [52]
-				"No optional rares desired", -- [53]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [54]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [55]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [56]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [57]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [58]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [59]
-				"AutoCompleteQuestUpdate: Accept", -- [60]
-				"AutoCompleteZone", -- [61]
-				"47445", -- [62]
-				"No Treasures desired", -- [63]
-				"47445", -- [64]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [65]
-				"AutoCompleteQuestUpdate: Accept", -- [66]
-				nil, -- [67]
-				nil, -- [68]
-				nil, -- [69]
-				nil, -- [70]
-				nil, -- [71]
-				nil, -- [72]
-				nil, -- [73]
-				nil, -- [74]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [75]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [76]
-				"AutoCompleteQuestUpdate: Accept", -- [77]
-				"Criteria met", -- [78]
-				"Criteria met", -- [79]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [80]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [81]
-				"AutoCompleteQuestUpdate: Accept", -- [82]
-				"AutoCompleteQuestUpdate: Accept", -- [83]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [84]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [85]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [86]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [87]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [88]
-				"AutoCompleteQuestUpdate: Accept", -- [89]
-				"Criteria met", -- [90]
-				"Criteria met", -- [91]
-				"No Treasures desired", -- [92]
-				"Criteria met", -- [93]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [94]
-				"AutoCompleteQuestUpdate: Accept", -- [95]
-				"Criteria met", -- [96]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [97]
-				"AutoCompleteQuestUpdate: Accept", -- [98]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [99]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [100]
-				"AutoCompleteQuestUpdate: Accept", -- [101]
-				nil, -- [102]
-				"Criteria met", -- [103]
-				"Criteria met", -- [104]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [105]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [106]
-				"AutoCompleteQuestUpdate: Accept", -- [107]
-				"Right-Click", -- [108]
-				nil, -- [109]
-				nil, -- [110]
-				"AutoCompleteZone", -- [111]
-				"autoarrival=2", -- [112]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [113]
-				"AutoCompleteQuestUpdate: Accept", -- [114]
-				"AutoCompleteQuestUpdate: Accept", -- [115]
-				"AutoCompleteQuestUpdate: Accept", -- [116]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [117]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [118]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [119]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [120]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [121]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [122]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [123]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [124]
-				"AutoCompleteQuestUpdate: Accept", -- [125]
-				"Criteria met", -- [126]
-				"Criteria met", -- [127]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [128]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [129]
-				"AutoCompleteQuestUpdate: Accept", -- [130]
-				"AutoCompleteQuestUpdate: Accept", -- [131]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [132]
-				"AutoCompleteQuestUpdate: Accept", -- [133]
-				true, -- [134]
-				"Criteria met", -- [135]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [136]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [137]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [138]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [139]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [140]
-				"AutoCompleteQuestUpdate: Accept", -- [141]
-				"Criteria met", -- [142]
-				"Criteria met", -- [143]
-				"Criteria met", -- [144]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [145]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [146]
-				"AutoCompleteQuestUpdate: Accept", -- [147]
-				"Criteria met", -- [148]
-				"Criteria met", -- [149]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [150]
-				"AutoCompleteQuestUpdate: Accept", -- [151]
-				[153] = "No optional rares desired",
-				[157] = "No optional rares desired",
-				[630] = "AutoCompleteQuestUpdate: via QuestLog",
-				[758] = "AutoCompleteQuestUpdate: AutoComplete",
-				[631] = "No optional rares desired",
-				[759] = "AutoCompleteQuestUpdate: Accept",
-				[444] = "AutoCompleteZoneBroker",
-				[632] = "AutoCompleteQuestUpdate: via QuestLog",
-				[760] = "AutoCompleteQuestUpdate: via QuestLog",
-				[633] = "AutoCompleteQuestUpdate: AutoComplete",
-				[761] = "AutoCompleteQuestUpdate: AutoComplete",
-				[634] = "AutoCompleteQuestUpdate: AutoComplete",
-				[762] = "AutoCompleteQuestUpdate: Accept",
-				[635] = "AutoCompleteQuestUpdate: Accept",
-				[763] = "AutoCompleteQuestUpdate: Accept",
-				[636] = "Criteria met",
-				[764] = true,
-				[637] = "Criteria met",
-				[765] = "Right-Click",
-				[511] = true,
-				[638] = "AutoCompleteQuestUpdate: AutoComplete",
-				[766] = "AutoCompleteQuestUpdate: via QuestLog",
-				[639] = "AutoCompleteQuestUpdate: Accept",
-				[384] = true,
-				[448] = "No optional rares desired",
-				[512] = "AutoCompleteQuestUpdate: quest turn-in.",
-				[640] = "Criteria met",
-				[768] = "AutoCompleteQuestUpdate: AutoComplete",
-				[641] = "Criteria met",
-				[769] = "AutoCompleteQuestUpdate: Accept",
-				[642] = "AutoCompleteQuestUpdate: via QuestLog",
-				[770] = "Criteria met",
-				[515] = "AutoCompleteZone",
-				[643] = "Right-Click",
-				[771] = "AutoCompleteQuestUpdate: via QuestLog",
-				[644] = "AutoCompleteQuestUpdate: quest turn-in.",
-				[772] = "AutoCompleteQuestUpdate: quest turn-in.",
-				[645] = "AutoCompleteQuestUpdate: AutoComplete",
-				[773] = "AutoCompleteQuestUpdate: Accept",
-				[646] = "AutoCompleteQuestUpdate: Accept",
-				[774] = "AutoCompleteQuestUpdate: Accept",
-				[388] = "AutoCompleteQuestUpdate: AutoComplete",
-				[648] = "51111",
-				[325] = "No optional rares desired",
-				[777] = "AutoCompleteQuestUpdate: via QuestLog",
-				[778] = "AutoCompleteQuestUpdate: via QuestLog",
-				[651] = "AutoCompleteQuestUpdate: AutoComplete",
-				[779] = "AutoCompleteQuestUpdate: via QuestLog",
-				[652] = "AutoCompleteQuestUpdate: Accept",
-				[780] = "AutoCompleteQuestUpdate: via QuestLog",
-				[653] = "AutoCompleteZone",
-				[781] = "AutoCompleteQuestUpdate: via QuestLog",
-				[654] = "AutoCompleteQuestUpdate: Accept",
-				[782] = "AutoCompleteQuestUpdate: via QuestLog",
-				[655] = "AutoCompleteQuestUpdate: AutoComplete",
-				[783] = "AutoCompleteQuestUpdate: via QuestLog",
-				[656] = "AutoCompleteQuestUpdate: via QuestLog",
-				[784] = "AutoCompleteQuestUpdate: via QuestLog",
-				[657] = "AutoCompleteQuestUpdate: AutoComplete",
-				[785] = "AutoCompleteQuestUpdate: AutoComplete",
-				[658] = "AutoCompleteQuestUpdate: Accept",
-				[197] = "AutoCompleteZone",
-				[659] = "AutoCompleteQuestUpdate: Accept",
-				[394] = "AutoCompleteQuestUpdate: AutoComplete",
-				[660] = "AutoCompleteGetFP",
-				[661] = "AutoCompleteQuestUpdate: via QuestLog",
-				[395] = "AutoCompleteQuestUpdate: Accept",
-				[459] = "No Treasures desired",
-				[662] = "Criteria met",
-				[198] = "autoarrival=2",
-				[535] = "No optional rares desired",
-				[663] = "Criteria met",
-				[396] = "AutoCompleteQuestUpdate: via QuestLog",
-				[664] = "AutoCompleteQuestUpdate: via QuestLog",
-				[665] = "AutoCompleteQuestUpdate: via QuestLog",
-				[397] = "AutoCompleteQuestUpdate: AutoComplete",
-				[666] = "AutoCompleteQuestUpdate: AutoComplete",
-				[199] = "AutoCompleteQuestUpdate: AutoComplete",
-				[231] = "Right-Click",
-				[667] = "AutoCompleteQuestUpdate: AutoComplete",
-				[398] = "AutoCompleteQuestUpdate: Accept",
-				[668] = "AutoCompleteQuestUpdate: Accept",
-				[335] = "48897",
-				[399] = "AutoCompleteQuestUpdate: Accept",
-				[670] = "AutoCompleteQuestUpdate: AutoComplete",
-				[200] = "AutoCompleteQuestUpdate: AutoComplete",
-				[232] = "No Treasures desired",
-				[336] = "48897",
-				[400] = "AutoCompleteQuestUpdate: Accept",
-				[672] = "Criteria met",
-				[545] = "No optional rares desired",
-				[673] = "Criteria met",
-				[401] = true,
-				[546] = "No optional rares desired",
-				[674] = "AutoCompleteQuestUpdate: via QuestLog",
-				[675] = "AutoCompleteQuestUpdate: AutoComplete",
-				[402] = "AutoCompleteQuestUpdate: via QuestLog",
-				[676] = "AutoCompleteQuestUpdate: Accept",
-				[677] = "AutoCompleteQuestUpdate: Accept",
-				[403] = "AutoCompleteQuestUpdate: AutoComplete",
-				[678] = "No optional rares desired",
-				[679] = "No Treasures desired",
-				[404] = "AutoCompleteQuestUpdate: via QuestLog",
-				[680] = "AutoCompleteZone",
-				[341] = "No optional rares desired",
-				[405] = "AutoCompleteQuestUpdate: AutoComplete",
-				[469] = "Right-Click",
-				[682] = "AutoCompleteZone",
-				[683] = "AutoCompleteQuestUpdate: AutoComplete",
-				[406] = "AutoCompleteQuestUpdate: Accept",
-				[470] = "No optional rares desired",
-				[685] = "Quest in QuestLog",
-				[407] = "Right-Click",
-				[204] = "No optional rares desired",
-				[344] = "AutoCompleteQuestUpdate: Accept",
-				[408] = "AutoCompleteQuestUpdate: via QuestLog",
-				[345] = "AutoCompleteQuestUpdate: Accept",
-				[409] = "Right-Click",
-				[205] = "No Treasures desired",
-				[346] = "AutoCompleteQuestUpdate: Accept",
-				[410] = "AutoCompleteQuestUpdate: quest turn-in.",
-				[347] = "AutoCompleteQuestUpdate: via QuestLog",
-				[411] = "AutoCompleteQuestUpdate: AutoComplete",
-				[475] = "Took known new flight point",
-				[567] = "Right-Click",
-				[348] = "AutoCompleteQuestUpdate: via QuestLog",
-				[412] = "47528",
-				[349] = "Criteria met",
-				[413] = "No Treasures desired",
-				[477] = "AutoCompleteZone",
-				[571] = "AutoCompleteZone",
-				[350] = "Criteria met",
-				[572] = "AutoCompleteGetFP",
-				[573] = "AutoCompleteQuestUpdate: AutoComplete",
-				[351] = "AutoCompleteQuestUpdate: via QuestLog",
-				[574] = "AutoCompleteQuestUpdate: Accept",
-				[575] = "Criteria met",
-				[352] = "AutoCompleteQuestUpdate: via QuestLog",
-				[576] = "AutoCompleteQuestUpdate: via QuestLog",
-				[577] = "AutoCompleteQuestUpdate: AutoComplete",
-				[353] = "AutoCompleteQuestUpdate: via QuestLog",
-				[578] = "AutoCompleteQuestUpdate: Accept",
-				[579] = "AutoCompleteQuestUpdate: Accept",
-				[354] = "AutoCompleteQuestUpdate: AutoComplete",
-				[418] = "No Treasures desired",
-				[482] = "AutoCompleteQuestUpdate: Accept",
-				[580] = "AutoCompleteQuestUpdate: Accept",
-				[291] = "Right-Click",
-				[355] = "AutoCompleteQuestUpdate: AutoComplete",
-				[483] = true,
-				[582] = "AutoCompleteQuestUpdate: via QuestLog",
-				[242] = "No optional rares desired",
-				[583] = "Criteria met",
-				[356] = "AutoCompleteQuestUpdate: AutoComplete",
-				[584] = "Criteria met",
-				[585] = "AutoCompleteQuestUpdate: Accept",
-				[357] = "AutoCompleteQuestUpdate: Accept",
-				[586] = "Implicit criteria met",
-				[587] = "Criteria met",
-				[358] = "AutoCompleteQuestUpdate: Accept",
-				[588] = "Criteria met",
-				[589] = "Implicit criteria met",
-				[359] = "AutoCompleteQuestUpdate: Accept",
-				[590] = "Implicit criteria met",
-				[591] = "AutoCompleteQuestUpdate: AutoComplete",
-				[360] = true,
-				[592] = "AutoCompleteQuestUpdate: AutoComplete",
-				[593] = "AutoCompleteQuestUpdate: AutoComplete",
-				[361] = "AutoCompleteQuestUpdate: via QuestLog",
-				[425] = "No optional rares desired",
-				[594] = "AutoCompleteQuestUpdate: AutoComplete",
-				[595] = "AutoCompleteQuestUpdate: Accept",
-				[362] = "Criteria met",
-				[596] = "Criteria met",
-				[597] = "AutoCompleteQuestUpdate: via QuestLog",
-				[363] = "No optional rares desired",
-				[598] = "AutoCompleteQuestUpdate: AutoComplete",
-				[599] = "AutoCompleteQuestUpdate: Accept",
-				[364] = "AutoCompleteQuestUpdate: via QuestLog",
-				[600] = "No optional rares desired",
-				[601] = "Criteria met",
-				[365] = "Implicit criteria met",
-				[493] = "Right-Click",
-				[602] = "Criteria met",
-				[302] = "No Treasures desired",
-				[366] = "AutoCompleteQuestUpdate: via QuestLog",
-				[604] = "AutoCompleteQuestUpdate: via QuestLog",
-				[605] = "AutoCompleteQuestUpdate: AutoComplete",
-				[367] = "AutoCompleteQuestUpdate: AutoComplete",
-				[606] = "AutoCompleteQuestUpdate: Accept",
-				[607] = "AutoCompleteQuestUpdate: Accept",
-				[368] = "AutoCompleteQuestUpdate: AutoComplete",
-				[432] = "No optional rares desired",
-				[608] = "AutoCompleteQuestUpdate: Accept",
-				[609] = "AutoCompleteZone",
-				[369] = "AutoCompleteQuestUpdate: AutoComplete",
-				[610] = "AutoCompleteQuestUpdate: via QuestLog",
-				[738] = "No optional rares desired",
-				[611] = "No optional rares desired",
-				[370] = "AutoCompleteQuestUpdate: Accept",
-				[612] = "Right-Click",
-				[613] = "AutoCompleteQuestUpdate: via QuestLog",
-				[371] = "Criteria met",
-				[786] = "AutoCompleteQuestUpdate: AutoComplete",
-				[342] = "AutoCompleteGetFP",
-				[614] = "Criteria met",
-				[775] = "50954",
-				[390] = "AutoCompleteQuestUpdate: Accept",
-				[389] = "AutoCompleteQuestUpdate: Accept",
-				[615] = "Criteria met",
-				[372] = "No Treasures desired",
-				[649] = "51111",
-				[681] = "AutoCompleteGetFP",
-				[616] = "AutoCompleteQuestUpdate: via QuestLog",
-				[392] = "AutoCompleteQuestUpdate: AutoComplete",
-				[385] = "AutoCompleteQuestUpdate: via QuestLog",
-				[343] = "AutoCompleteQuestUpdate: AutoComplete",
-				[617] = "AutoCompleteQuestUpdate: AutoComplete",
-				[373] = "AutoCompleteQuestUpdate: AutoComplete",
-				[755] = "AutoCompleteQuestUpdate: via QuestLog",
-				[669] = "AutoCompleteQuestUpdate: via QuestLog",
-				[618] = "AutoCompleteQuestUpdate: AutoComplete",
-				[767] = "AutoCompleteQuestUpdate: AutoComplete",
-				[219] = "No optional rares desired",
-				[337] = "AutoCompleteQuestUpdate: AutoComplete",
-				[619] = "AutoCompleteQuestUpdate: AutoComplete",
-				[374] = "AutoCompleteQuestUpdate: Accept",
-				[393] = "AutoCompleteQuestUpdate: via QuestLog",
-				[381] = "AutoCompleteQuestUpdate: AutoComplete",
-				[620] = "AutoCompleteQuestUpdate: Accept",
-				[748] = "AutoCompleteZone",
-				[380] = "47509",
-				[382] = "AutoCompleteQuestUpdate: Accept",
-				[621] = "AutoCompleteZone",
-				[749] = "AutoCompleteQuestUpdate: AutoComplete",
-				[753] = true,
-				[603] = "Criteria met",
-				[622] = "AutoCompleteQuestUpdate: AutoComplete",
-				[750] = "AutoCompleteQuestUpdate: Accept",
-				[623] = "AutoCompleteQuestUpdate: Accept",
-				[751] = "AutoCompleteQuestUpdate: Accept",
-				[312] = "No Treasures desired",
-				[376] = "AutoCompleteQuestUpdate: AutoComplete",
-				[292] = "Right-Click",
-				[391] = "AutoCompleteQuestUpdate: via QuestLog",
-				[624] = "AutoCompleteQuestUpdate: Accept",
-				[752] = "AutoCompleteQuestUpdate: via QuestLog",
-				[339] = "Took known new flight point",
-				[387] = "AutoCompleteQuestUpdate: AutoComplete",
-				[625] = "AutoCompleteQuestUpdate: Accept",
-				[377] = "AutoCompleteQuestUpdate: Accept",
-				[375] = "AutoCompleteQuestUpdate: via QuestLog",
-				[288] = "No Treasures desired",
-				[626] = true,
-				[754] = "No optional rares desired",
-				[747] = "Took known new flight point",
-				[383] = "AutoCompleteQuestUpdate: Accept",
-				[627] = true,
-				[378] = "AutoCompleteQuestUpdate: Accept",
-				[671] = "AutoCompleteQuestUpdate: Accept",
-				[321] = "No Treasures desired",
-				[628] = "Criteria met",
-				[756] = "AutoCompleteQuestUpdate: via QuestLog",
-				[338] = "AutoCompleteQuestUpdate: Accept",
-				[386] = "AutoCompleteQuestUpdate: via QuestLog",
-				[629] = "Criteria met",
-				[757] = "AutoCompleteQuestUpdate: AutoComplete",
-				[581] = "AutoCompleteQuestUpdate: via QuestLog",
-				[340] = "AutoCompleteZone",
-			},
-			["NoSelect"] = true,
-		},
-		["EmmGorgrond"] = {
-			["total"] = 499,
-			["Version"] = "8.0.1A",
-			["skipped"] = {
-				[58] = true,
-				[95] = true,
-				[201] = true,
-				[120] = true,
-				[122] = true,
-				[182] = true,
-				[126] = true,
-				[128] = true,
-				[186] = true,
-				[202] = true,
-				[140] = true,
-				[144] = true,
-				[143] = true,
-				[75] = true,
-				[187] = true,
-				[73] = true,
-				[121] = true,
-				[90] = true,
-				[141] = true,
-				[145] = true,
-				[127] = true,
-				[184] = true,
-				[96] = true,
-				[98] = true,
-				[147] = true,
-				[171] = true,
-				[142] = true,
-				[146] = true,
-				[181] = true,
-				[185] = true,
-				[174] = true,
-				[139] = true,
-			},
-			["done"] = false,
-			["completion"] = {
-				"; step completed by WoWPro.SetupGuideReal() as processed already.", -- [1]
-				35557, -- [2]
-				35557, -- [3]
-				35557, -- [4]
-				nil, -- [5]
-				nil, -- [6]
-				nil, -- [7]
-				nil, -- [8]
-				nil, -- [9]
-				nil, -- [10]
-				nil, -- [11]
-				nil, -- [12]
-				nil, -- [13]
-				nil, -- [14]
-				nil, -- [15]
-				35557, -- [16]
-				33543, -- [17]
-				33543, -- [18]
-				33544, -- [19]
-				33544, -- [20]
-				33548, -- [21]
-				33548, -- [22]
-				36170, -- [23]
-				33563, -- [24]
-				33563, -- [25]
-				33548, -- [26]
-				33544, -- [27]
-				33544, -- [28]
-				33548, -- [29]
-				33563, -- [30]
-				33593, -- [31]
-				33593, -- [32]
-				33593, -- [33]
-				36434, -- [34]
-				35709, -- [35]
-				36434, -- [36]
-				36460, -- [37]
-				36460, -- [38]
-				36460, -- [39]
-				35151, -- [40]
-				35151, -- [41]
-				35151, -- [42]
-				36474, -- [43]
-				33694, -- [44]
-				35667, -- [45]
-				35707, -- [46]
-				nil, -- [47]
-				"Right-Click", -- [48]
-				"Right-Click", -- [49]
-				nil, -- [50]
-				nil, -- [51]
-				36118, -- [52]
-				[260] = 33694,
-				[473] = "; step completed by WoWPro.SetupGuideReal() as processed already.",
-				[474] = 36494,
-				[355] = "AutoCompleteQuestUpdate: quest turn-in.",
-				[557] = "; step completed by WoWPro.SetupGuideReal() as processed already.",
-				[348] = "AutoCompleteQuestUpdate: Accept",
-				[478] = 37291,
-				[479] = 37291,
-				[480] = 37291,
-				[151] = 33694,
-				[362] = "AutoCompleteQuestUpdate: AutoComplete",
-				[363] = "AutoCompleteQuestUpdate: AutoComplete",
-				[369] = "AutoCompleteQuestUpdate: AutoComplete",
-				[370] = "AutoCompleteQuestUpdate: quest turn-in.",
-			},
-			["progress"] = 81,
-		},
-		["LudoWowAnniversary"] = {
-			["total"] = 62,
-			["Version"] = "8.0.1M",
-			["skipped"] = {
-			},
-			["done"] = false,
-			["progress"] = 2,
-			["completion"] = {
-			},
-		},
-		["LudoPetWQKrokuun"] = {
+		["LarePetWQVal"] = {
 			["skipped"] = {
 			},
 			["completion"] = {
 			},
 			["Version"] = "8.0.1M",
 			["done"] = false,
-		},
-		["EliEndgame"] = {
-			["skipped"] = {
-			},
-			["completion"] = {
-			},
-			["Version"] = "8.0.1M",
-			["done"] = false,
-		},
-		["LarePetWQBroken"] = {
-			["skipped"] = {
-			},
-			["completion"] = {
-			},
-			["Version"] = "8.0.1M",
-			["done"] = false,
-		},
-		["LudoHarrison"] = {
-			["skipped"] = {
-			},
-			["completion"] = {
-			},
-			["Version"] = "8.0.1M",
-			["done"] = false,
-		},
-		["EmmNazmir"] = {
-			["total"] = 592,
-			["Version"] = "8.0.1M",
-			["skipped"] = {
-				[247] = true,
-				[249] = true,
-				[8] = true,
-				[255] = true,
-				[270] = true,
-				[298] = true,
-				[429] = true,
-				[310] = true,
-				[624] = true,
-				[632] = true,
-				[449] = true,
-				[44] = true,
-				[45] = true,
-				[186] = true,
-				[12] = true,
-				[48] = true,
-				[49] = true,
-				[271] = true,
-				[275] = true,
-				[208] = true,
-				[291] = true,
-				[426] = true,
-				[430] = true,
-				[55] = true,
-				[311] = true,
-				[226] = true,
-				[454] = true,
-				[234] = true,
-				[60] = true,
-				[61] = true,
-				[246] = true,
-				[611] = true,
-				[627] = true,
-				[256] = true,
-				[276] = true,
-				[72] = true,
-				[73] = true,
-				[74] = true,
-				[431] = true,
-				[312] = true,
-				[451] = true,
-				[455] = true,
-				[459] = true,
-				[86] = true,
-				[547] = true,
-				[474] = true,
-				[242] = true,
-				[94] = true,
-				[95] = true,
-				[257] = true,
-				[637] = true,
-				[388] = true,
-				[292] = true,
-				[438] = true,
-				[273] = true,
-				[277] = true,
-				[103] = true,
-				[104] = true,
-				[456] = true,
-				[304] = true,
-				[213] = true,
-				[216] = true,
-				[305] = true,
-				[614] = true,
-				[221] = true,
-				[220] = true,
-				[7] = true,
-				[288] = true,
-				[115] = true,
-				[460] = true,
-				[59] = true,
-				[610] = true,
-				[237] = true,
-				[615] = true,
-				[492] = true,
-			},
-			["done"] = false,
-			["progress"] = 439,
-			["completion"] = {
-				"NextStep(): Completed L step because player level is high enough.", -- [1]
-				"Right-Click", -- [2]
-				"Right-Click", -- [3]
-				"Right-Click", -- [4]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [5]
-				"AutoCompleteQuestUpdate: Accept", -- [6]
-				nil, -- [7]
-				nil, -- [8]
-				nil, -- [9]
-				nil, -- [10]
-				nil, -- [11]
-				nil, -- [12]
-				nil, -- [13]
-				nil, -- [14]
-				nil, -- [15]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [16]
-				"AutoCompleteQuestUpdate: Accept", -- [17]
-				"Criteria met", -- [18]
-				"AutoCompleteZone", -- [19]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [20]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [21]
-				"AutoCompleteQuestUpdate: Accept", -- [22]
-				"No Treasures desired", -- [23]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [24]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [25]
-				"AutoCompleteQuestUpdate: Accept", -- [26]
-				"AutoCompleteQuestUpdate: Accept", -- [27]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [28]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [29]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [30]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [31]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [32]
-				"AutoCompleteQuestUpdate: Accept", -- [33]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [34]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [35]
-				"AutoCompleteQuestUpdate: Accept", -- [36]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [37]
-				"AutoCompleteGetFP", -- [38]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [39]
-				"AutoCompleteQuestUpdate: Accept", -- [40]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [41]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [42]
-				"AutoCompleteQuestUpdate: Accept", -- [43]
-				nil, -- [44]
-				nil, -- [45]
-				nil, -- [46]
-				nil, -- [47]
-				nil, -- [48]
-				nil, -- [49]
-				nil, -- [50]
-				nil, -- [51]
-				"No optional rares desired", -- [52]
-				nil, -- [53]
-				nil, -- [54]
-				nil, -- [55]
-				"No Treasures desired", -- [56]
-				nil, -- [57]
-				nil, -- [58]
-				nil, -- [59]
-				nil, -- [60]
-				nil, -- [61]
-				nil, -- [62]
-				nil, -- [63]
-				"No Treasures desired", -- [64]
-				nil, -- [65]
-				"No optional rares desired", -- [66]
-				nil, -- [67]
-				nil, -- [68]
-				nil, -- [69]
-				nil, -- [70]
-				nil, -- [71]
-				nil, -- [72]
-				nil, -- [73]
-				nil, -- [74]
-				nil, -- [75]
-				nil, -- [76]
-				nil, -- [77]
-				nil, -- [78]
-				nil, -- [79]
-				"No optional rares desired", -- [80]
-				nil, -- [81]
-				nil, -- [82]
-				nil, -- [83]
-				nil, -- [84]
-				nil, -- [85]
-				nil, -- [86]
-				nil, -- [87]
-				nil, -- [88]
-				nil, -- [89]
-				"Criteria met", -- [90]
-				"Criteria met", -- [91]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [92]
-				"No optional rares desired", -- [93]
-				nil, -- [94]
-				nil, -- [95]
-				nil, -- [96]
-				nil, -- [97]
-				nil, -- [98]
-				nil, -- [99]
-				nil, -- [100]
-				nil, -- [101]
-				nil, -- [102]
-				nil, -- [103]
-				nil, -- [104]
-				nil, -- [105]
-				nil, -- [106]
-				nil, -- [107]
-				nil, -- [108]
-				"No Treasures desired", -- [109]
-				"No optional rares desired", -- [110]
-				"No optional rares desired", -- [111]
-				nil, -- [112]
-				nil, -- [113]
-				nil, -- [114]
-				nil, -- [115]
-				nil, -- [116]
-				"No optional rares desired", -- [117]
-				"No optional rares desired", -- [118]
-				nil, -- [119]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [120]
-				"AutoCompleteQuestUpdate: Accept", -- [121]
-				"No Treasures desired", -- [122]
-				"No optional rares desired", -- [123]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [124]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [125]
-				"AutoCompleteQuestUpdate: Accept", -- [126]
-				"AutoCompleteGetFP", -- [127]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [128]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [129]
-				"AutoCompleteQuestUpdate: Accept", -- [130]
-				"AutoCompleteQuestUpdate: Accept", -- [131]
-				"Criteria met", -- [132]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [133]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [134]
-				"AutoCompleteQuestUpdate: Accept", -- [135]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [136]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [137]
-				"AutoCompleteQuestUpdate: Accept", -- [138]
-				"AutoCompleteQuestUpdate: Accept", -- [139]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [140]
-				"Criteria met", -- [141]
-				"Criteria met", -- [142]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [143]
-				"No optional rares desired", -- [144]
-				"Implicit criteria met", -- [145]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [146]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [147]
-				"AutoCompleteQuestUpdate: Accept", -- [148]
-				"AutoCompleteQuestUpdate: Accept", -- [149]
-				"AutoCompleteQuestUpdate: Accept", -- [150]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [151]
-				true, -- [152]
-				"Criteria met", -- [153]
-				"Criteria met", -- [154]
-				"Criteria met", -- [155]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [156]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [157]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [158]
-				"AutoCompleteQuestUpdate: Accept", -- [159]
-				"Implicit criteria met", -- [160]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [161]
-				"Criteria met", -- [162]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [163]
-				"AutoCompleteQuestUpdate: quest turn-in.", -- [164]
-				"AutoCompleteQuestUpdate: Accept", -- [165]
-				"Criteria met", -- [166]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [167]
-				"AutoCompleteQuestUpdate: Accept", -- [168]
-				"Criteria met", -- [169]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [170]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [171]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [172]
-				"AutoCompleteQuestUpdate: Accept", -- [173]
-				"Criteria met", -- [174]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [175]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [176]
-				"AutoCompleteQuestUpdate: Accept", -- [177]
-				"AutoCompleteQuestUpdate: Accept", -- [178]
-				"AutoCompleteQuestUpdate: Accept", -- [179]
-				"AutoCompleteQuestUpdate: Accept", -- [180]
-				true, -- [181]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [182]
-				"No Treasures desired", -- [183]
-				"Criteria met", -- [184]
-				"AutoCompleteQuestUpdate: Accept", -- [185]
-				nil, -- [186]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [187]
-				"No optional rares desired", -- [188]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [189]
-				"Criteria met", -- [190]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [191]
-				"No optional rares desired", -- [192]
-				nil, -- [193]
-				"Implicit criteria met", -- [194]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [195]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [196]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [197]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [198]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [199]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [200]
-				"AutoCompleteQuestUpdate: Accept", -- [201]
-				"Criteria met", -- [202]
-				"Criteria met", -- [203]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [204]
-				"AutoCompleteQuestUpdate: Accept", -- [205]
-				nil, -- [206]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [207]
-				nil, -- [208]
-				"AutoCompleteQuestUpdate: Accept", -- [209]
-				"AutoCompleteQuestUpdate: via QuestLog", -- [210]
-				"AutoCompleteQuestUpdate: AutoComplete", -- [211]
-				"AutoCompleteQuestUpdate: Accept", -- [212]
-				nil, -- [213]
-				"No optional rares desired", -- [214]
-				nil, -- [215]
-				nil, -- [216]
-				nil, -- [217]
-				nil, -- [218]
-				nil, -- [219]
-				nil, -- [220]
-				nil, -- [221]
-				nil, -- [222]
-				nil, -- [223]
-				nil, -- [224]
-				nil, -- [225]
-				nil, -- [226]
-				nil, -- [227]
-				nil, -- [228]
-				nil, -- [229]
-				"No optional rares desired", -- [230]
-				nil, -- [231]
-				nil, -- [232]
-				nil, -- [233]
-				nil, -- [234]
-				nil, -- [235]
-				nil, -- [236]
-				nil, -- [237]
-				nil, -- [238]
-				nil, -- [239]
-				"No optional rares desired", -- [240]
-				[500] = true,
-				[261] = "No Treasures desired",
-				[552] = "AutoCompleteQuestUpdate: Accept",
-				[584] = "AutoCompleteQuestUpdate: via QuestLog",
-				[406] = "AutoCompleteQuestUpdate: AutoComplete",
-				[325] = "AutoCompleteQuestUpdate: via QuestLog",
-				[341] = "AutoCompleteQuestUpdate: Accept",
-				[357] = "AutoCompleteQuestUpdate: via QuestLog",
-				[373] = "AutoCompleteQuestUpdate: via QuestLog",
-				[389] = "AutoCompleteQuestUpdate: via QuestLog",
-				[405] = "AutoCompleteQuestUpdate: via QuestLog",
-				[421] = "AutoCompleteZone",
-				[407] = "AutoCompleteQuestUpdate: Accept",
-				[409] = true,
-				[410] = true,
-				[485] = "No optional rares desired",
-				[501] = "Criteria met",
-				[522] = "AutoCompleteQuestUpdate: via QuestLog",
-				[554] = "AutoCompleteQuestUpdate: Accept",
-				[586] = "Criteria met",
-				[618] = "No optional rares desired",
-				[326] = "AutoCompleteQuestUpdate: AutoComplete",
-				[342] = "AutoCompleteQuestUpdate: via QuestLog",
-				[358] = "AutoCompleteQuestUpdate: AutoComplete",
-				[374] = "AutoCompleteQuestUpdate: AutoComplete",
-				[390] = "AutoCompleteQuestUpdate: via QuestLog",
-				[555] = true,
-				[422] = "Criteria met",
-				[619] = "No optional rares desired",
-				[426] = "AutoCompleteQuestUpdate: Accept",
-				[583] = true,
-				[486] = "No Treasures desired",
-				[502] = "Criteria met",
-				[524] = "AutoCompleteQuestUpdate: Accept",
-				[556] = "AutoCompleteQuestUpdate: via QuestLog",
-				[588] = "AutoCompleteQuestUpdate: AutoComplete",
-				[551] = "AutoCompleteQuestUpdate: AutoComplete",
-				[327] = "AutoCompleteQuestUpdate: Accept",
-				[343] = "AutoCompleteQuestUpdate: AutoComplete",
-				[359] = "AutoCompleteQuestUpdate: Accept",
-				[375] = "AutoCompleteQuestUpdate: Accept",
-				[391] = "AutoCompleteQuestUpdate: AutoComplete",
-				[557] = "AutoCompleteQuestUpdate: via QuestLog",
-				[423] = "Criteria met",
-				[439] = "No Treasures desired",
-				[591] = true,
-				[529] = "AutoCompleteQuestUpdate: via QuestLog",
-				[487] = "Right-Click",
-				[503] = "Criteria met",
-				[526] = "AutoCompleteQuestUpdate: Accept",
-				[558] = "Criteria met",
-				[590] = "AutoCompleteQuestUpdate: Accept",
-				[587] = "AutoCompleteQuestUpdate: via QuestLog",
-				[328] = "AutoCompleteQuestUpdate: via QuestLog",
-				[344] = "AutoCompleteQuestUpdate: Accept",
-				[360] = "AutoCompleteQuestUpdate: Accept",
-				[376] = "AutoCompleteQuestUpdate: via QuestLog",
-				[392] = "AutoCompleteQuestUpdate: Accept",
-				[408] = "AutoCompleteQuestUpdate: Accept",
-				[424] = "AutoCompleteQuestUpdate: via QuestLog",
-				[533] = "No Treasures desired",
-				[428] = "AutoCompleteQuestUpdate: AutoComplete",
-				[444] = "No Treasures desired",
-				[488] = "Criteria met",
-				[504] = "AutoCompleteQuestUpdate: via QuestLog",
-				[528] = "AutoCompleteQuestUpdate: via QuestLog",
-				[560] = "AutoCompleteQuestUpdate: AutoComplete",
-				[592] = "Criteria met",
-				[525] = "AutoCompleteQuestUpdate: Accept",
-				[329] = "AutoCompleteQuestUpdate: quest turn-in.",
-				[345] = "AutoCompleteQuestUpdate: Accept",
-				[361] = "AutoCompleteQuestUpdate: Accept",
-				[377] = "AutoCompleteQuestUpdate: AutoComplete",
-				[393] = "AutoCompleteQuestUpdate: Accept",
-				[561] = "AutoCompleteQuestUpdate: AutoComplete",
-				[593] = "Criteria met",
-				[625] = "AutoCompleteQuestUpdate: via QuestLog",
-				[535] = "AutoCompleteQuestUpdate: AutoComplete",
-				[589] = "AutoCompleteQuestUpdate: Accept",
-				[489] = "AutoCompleteQuestUpdate: via QuestLog",
-				[505] = "AutoCompleteQuestUpdate: via QuestLog",
-				[530] = "Criteria met",
-				[562] = "AutoCompleteQuestUpdate: Accept",
-				[594] = "AutoCompleteQuestUpdate: via QuestLog",
-				[626] = "AutoCompleteQuestUpdate: AutoComplete",
-				[330] = "AutoCompleteQuestUpdate: Accept",
-				[346] = true,
-				[362] = "No optional rares desired",
-				[378] = "AutoCompleteQuestUpdate: Accept",
-				[394] = "AutoCompleteQuestUpdate: via QuestLog",
-				[563] = "Criteria met",
-				[595] = "AutoCompleteQuestUpdate: via QuestLog",
-				[627] = "AutoCompleteQuestUpdate: Accept",
-				[600] = "AutoCompleteQuestUpdate: via QuestLog",
-				[315] = "No optional rares desired",
-				[490] = "AutoCompleteQuestUpdate: via QuestLog",
-				[506] = "AutoCompleteQuestUpdate: quest turn-in.",
-				[532] = "Implicit criteria met",
-				[564] = "Criteria met",
-				[596] = "AutoCompleteQuestUpdate: AutoComplete",
-				[628] = "AutoCompleteQuestUpdate: Accept",
-				[331] = "AutoCompleteQuestUpdate: Accept",
-				[347] = "Criteria met",
-				[363] = "No optional rares desired",
-				[379] = "AutoCompleteZone",
-				[395] = "AutoCompleteQuestUpdate: Accept",
-				[411] = "No optional rares desired",
-				[597] = "AutoCompleteQuestUpdate: AutoComplete",
-				[629] = "AutoCompleteZone",
-				[585] = "AutoCompleteQuestUpdate: AutoComplete",
-				[475] = "No optional rares desired",
-				[491] = "No optional rares desired",
-				[507] = "AutoCompleteQuestUpdate: AutoComplete",
-				[539] = "AutoCompleteQuestUpdate: Accept",
-				[566] = "AutoCompleteQuestUpdate: Accept",
-				[598] = "AutoCompleteQuestUpdate: Accept",
-				[630] = "No optional rares desired",
-				[332] = "AutoCompleteQuestUpdate: Accept",
-				[348] = "AutoCompleteQuestUpdate: via QuestLog",
-				[364] = "AutoCompleteQuestUpdate: via QuestLog",
-				[380] = "autoarrival=1",
-				[396] = "AutoCompleteQuestUpdate: via QuestLog",
-				[412] = "No Treasures desired",
-				[599] = "Criteria met",
-				[631] = "No optional rares desired",
-				[571] = "Criteria met",
-				[581] = "Criteria met",
-				[549] = "AutoCompleteQuestUpdate: AutoComplete",
-				[508] = "AutoCompleteQuestUpdate: AutoComplete",
-				[536] = "AutoCompleteQuestUpdate: AutoComplete",
-				[568] = "AutoCompleteQuestUpdate: AutoComplete",
-				[301] = "No optional rares desired",
-				[387] = "AutoCompleteQuestUpdate: Accept",
-				[333] = true,
-				[349] = "Criteria met",
-				[365] = "AutoCompleteQuestUpdate: via QuestLog",
-				[381] = "No optional rares desired",
-				[397] = "Criteria met",
-				[413] = "AutoCompleteQuestUpdate: via QuestLog",
-				[601] = "AutoCompleteQuestUpdate: AutoComplete",
-				[445] = "AutoCompleteQuestUpdate: via QuestLog",
-				[537] = "AutoCompleteQuestUpdate: AutoComplete",
-				[604] = "AutoCompleteQuestUpdate: AutoComplete",
-				[493] = "AutoCompleteQuestUpdate: quest turn-in.",
-				[509] = "AutoCompleteQuestUpdate: Accept",
-				[538] = "AutoCompleteQuestUpdate: Accept",
-				[415] = "AutoCompleteQuestUpdate: AutoComplete",
-				[302] = "AutoCompleteZone",
-				[565] = "AutoCompleteQuestUpdate: AutoComplete",
-				[334] = "AutoCompleteQuestUpdate: via QuestLog",
-				[350] = "Right-Click",
-				[366] = "AutoCompleteQuestUpdate: via QuestLog",
-				[382] = "autoarrival=1",
-				[398] = "AutoCompleteQuestUpdate: via QuestLog",
-				[414] = "AutoCompleteQuestUpdate: via QuestLog",
-				[603] = "AutoCompleteQuestUpdate: via QuestLog",
-				[446] = "AutoCompleteQuestUpdate: AutoComplete",
-				[569] = "AutoCompleteQuestUpdate: Accept",
-				[478] = "AutoCompleteZone",
-				[494] = "47599",
-				[510] = "Criteria met",
-				[540] = "AutoCompleteQuestUpdate: Accept",
-				[572] = "AutoCompleteQuestUpdate: via QuestLog",
-				[303] = "Criteria met",
-				[575] = "AutoCompleteQuestUpdate: AutoComplete",
-				[335] = "Criteria met",
-				[351] = "Right-Click",
-				[367] = "Implicit criteria met",
-				[383] = "AutoCompleteQuestUpdate: via QuestLog",
-				[399] = "AutoCompleteQuestUpdate: via QuestLog",
-				[573] = "No optional rares desired",
-				[605] = "AutoCompleteQuestUpdate: Accept",
-				[447] = "AutoCompleteQuestUpdate: Accept",
-				[543] = "AutoCompleteQuestUpdate: via QuestLog",
-				[479] = "AutoCompleteQuestUpdate: AutoComplete",
-				[495] = "AutoCompleteQuestUpdate: AutoComplete",
-				[511] = "AutoCompleteQuestUpdate: via QuestLog",
-				[542] = "AutoCompleteQuestUpdate: via QuestLog",
-				[385] = "AutoCompleteQuestUpdate: AutoComplete",
-				[606] = "Criteria met",
-				[545] = "AutoCompleteQuestUpdate: via QuestLog",
-				[336] = "AutoCompleteQuestUpdate: via QuestLog",
-				[352] = "No optional rares desired",
-				[368] = "AutoCompleteQuestUpdate: via QuestLog",
-				[384] = "AutoCompleteGetFP",
-				[400] = "AutoCompleteQuestUpdate: AutoComplete",
-				[416] = "AutoCompleteQuestUpdate: AutoComplete",
-				[607] = "AutoCompleteQuestUpdate: AutoComplete",
-				[448] = "AutoCompleteQuestUpdate: AutoComplete",
-				[577] = "Criteria met",
-				[480] = "AutoCompleteQuestUpdate: Accept",
-				[496] = "AutoCompleteQuestUpdate: AutoComplete",
-				[512] = "AutoCompleteQuestUpdate: AutoComplete",
-				[544] = "AutoCompleteQuestUpdate: via QuestLog",
-				[576] = "AutoCompleteQuestUpdate: Accept",
-				[608] = "AutoCompleteQuestUpdate: Accept",
-				[553] = "AutoCompleteQuestUpdate: Accept",
-				[337] = "AutoCompleteQuestUpdate: via QuestLog",
-				[353] = "No Treasures desired",
-				[369] = "AutoCompleteQuestUpdate: AutoComplete",
-				[513] = "AutoCompleteQuestUpdate: Accept",
-				[401] = "AutoCompleteQuestUpdate: AutoComplete",
-				[417] = "AutoCompleteQuestUpdate: Accept",
-				[609] = "Criteria met",
-				[641] = "No optional rares desired",
-				[541] = "No optional rares desired",
-				[481] = "AutoCompleteQuestUpdate: Accept",
-				[497] = "AutoCompleteQuestUpdate: Accept",
-				[514] = "Criteria met",
-				[546] = "Implicit criteria met",
-				[578] = "AutoCompleteQuestUpdate: AutoComplete",
-				[418] = "AutoCompleteQuestUpdate: via QuestLog",
-				[642] = "AutoCompleteZone",
-				[338] = "AutoCompleteQuestUpdate: AutoComplete",
-				[354] = "AutoCompleteQuestUpdate: AutoComplete",
-				[370] = "AutoCompleteQuestUpdate: AutoComplete",
-				[515] = "AutoCompleteQuestUpdate: via QuestLog",
-				[402] = "AutoCompleteQuestUpdate: Accept",
-				[579] = "AutoCompleteQuestUpdate: Accept",
-				[386] = "AutoCompleteQuestUpdate: Accept",
-				[643] = "AutoCompleteQuestUpdate: AutoComplete",
-				[527] = "AutoCompleteQuestUpdate: via QuestLog",
-				[482] = "AutoCompleteQuestUpdate: Accept",
-				[498] = "AutoCompleteQuestUpdate: Accept",
-				[516] = "AutoCompleteQuestUpdate: AutoComplete",
-				[548] = "No Treasures desired",
-				[580] = "AutoCompleteZone",
-				[559] = "AutoCompleteQuestUpdate: AutoComplete",
-				[644] = "AutoCompleteQuestUpdate: Accept",
-				[339] = "AutoCompleteQuestUpdate: AutoComplete",
-				[355] = "AutoCompleteQuestUpdate: Accept",
-				[371] = "AutoCompleteQuestUpdate: AutoComplete",
-				[517] = "AutoCompleteQuestUpdate: Accept",
-				[403] = "AutoCompleteQuestUpdate: AutoComplete",
-				[419] = "AutoCompleteQuestUpdate: AutoComplete",
-				[435] = "No optional rares desired",
-				[645] = "NextStep(): Available quest is currently complete or active",
-				[602] = "AutoCompleteQuestUpdate: Accept",
-				[483] = true,
-				[499] = "AutoCompleteQuestUpdate: Accept",
-				[567] = "AutoCompleteQuestUpdate: via QuestLog",
-				[550] = "AutoCompleteQuestUpdate: AutoComplete",
-				[582] = "AutoCompleteQuestUpdate: Accept",
-				[531] = "AutoCompleteQuestUpdate: via QuestLog",
-				[427] = "AutoCompleteQuestUpdate: Accept",
-				[340] = "AutoCompleteQuestUpdate: AutoComplete",
-				[356] = "Criteria met",
-				[372] = "AutoCompleteQuestUpdate: Accept",
-				[519] = "No Treasures desired",
-				[404] = "Criteria met",
-				[420] = "AutoCompleteQuestUpdate: Accept",
-				[425] = "AutoCompleteQuestUpdate: AutoComplete",
-				[523] = "AutoCompleteQuestUpdate: AutoComplete",
-				[521] = "Criteria met",
-				[484] = true,
-				[520] = "Criteria met",
-			},
-		},
-		["FlucloTanaanJungle"] = {
-			["skipped"] = {
-			},
-			["completion"] = {
-			},
-			["Version"] = "8.0.1M",
-			["done"] = false,
-		},
-		["EmmHWarCampaign"] = {
-			["Version"] = "8.0.1M",
-			["skipped"] = {
-			},
-			["done"] = false,
-			["completion"] = {
-			},
-			["NoSelect"] = true,
-		},
-		["Ludo_Argus"] = {
-			["total"] = 434,
-			["Version"] = "8.0.1A",
-			["skipped"] = {
-			},
-			["done"] = false,
-			["completion"] = {
-				"; step completed by WoWPro.SetupGuideReal() as processed already.", -- [1]
-				47835, -- [2]
-				47835, -- [3]
-				47835, -- [4]
-				47835, -- [5]
-				47867, -- [6]
-				47867, -- [7]
-				47867, -- [8]
-				47223, -- [9]
-				47223, -- [10]
-				47224, -- [11]
-				47224, -- [12]
-				47224, -- [13]
-				47224, -- [14]
-				48440, -- [15]
-				48440, -- [16]
-				48440, -- [17]
-				46938, -- [18]
-				46938, -- [19]
-				46938, -- [20]
-				47589, -- [21]
-				46297, -- [22]
-				46297, -- [23]
-				46297, -- [24]
-				48483, -- [25]
-				48483, -- [26]
-				47589, -- [27]
-				47589, -- [28]
-				47589, -- [29]
-				46297, -- [30]
-				48483, -- [31]
-				47589, -- [32]
-				48483, -- [33]
-				46297, -- [34]
-				46297, -- [35]
-				47627, -- [36]
-				47627, -- [37]
-				47627, -- [38]
-				47641, -- [39]
-				47641, -- [40]
-				47641, -- [41]
-				46732, -- [42]
-				46732, -- [43]
-				46732, -- [44]
-				46732, -- [45]
-				46816, -- [46]
-				46816, -- [47]
-				46816, -- [48]
-				46839, -- [49]
-				46839, -- [50]
-				46839, -- [51]
-				46841, -- [52]
-				46840, -- [53]
-				46840, -- [54]
-				46841, -- [55]
-				46841, -- [56]
-				46841, -- [57]
-				46840, -- [58]
-				46841, -- [59]
-				46840, -- [60]
-				46842, -- [61]
-				46842, -- [62]
-				46842, -- [63]
-				46842, -- [64]
-				46843, -- [65]
-				46843, -- [66]
-				48500, -- [67]
-				48500, -- [68]
-				48500, -- [69]
-				48500, -- [70]
-				48500, -- [71]
-				47431, -- [72]
-				47431, -- [73]
-				47431, -- [74]
-				47431, -- [75]
-				47431, -- [76]
-				47431, -- [77]
-				47541, -- [78]
-				46213, -- [79]
-				40238, -- [80]
-				46213, -- [81]
-				47541, -- [82]
-				47541, -- [83]
-				40238, -- [84]
-				40238, -- [85]
-				40238, -- [86]
-				47541, -- [87]
-				46213, -- [88]
-				47541, -- [89]
-				47541, -- [90]
-				46213, -- [91]
-				40238, -- [92]
-				47508, -- [93]
-				47508, -- [94]
-				47508, -- [95]
-				47771, -- [96]
-				47771, -- [97]
-				47526, -- [98]
-				47526, -- [99]
-				47526, -- [100]
-				47754, -- [101]
-				47754, -- [102]
-				47754, -- [103]
-				47652, -- [104]
-				47652, -- [105]
-				47652, -- [106]
-				47652, -- [107]
-				47653, -- [108]
-				47653, -- [109]
-				47653, -- [110]
-				47743, -- [111]
-				47743, -- [112]
-				47743, -- [113]
-				49143, -- [114]
-				49143, -- [115]
-				49143, -- [116]
-				48559, -- [117]
-				47287, -- [118]
-				48559, -- [119]
-				47287, -- [120]
-				47287, -- [121]
-				48559, -- [122]
-				48199, -- [123]
-				48199, -- [124]
-				48199, -- [125]
-				48200, -- [126]
-				48200, -- [127]
-				48200, -- [128]
-				48200, -- [129]
-				48201, -- [130]
-				[142] = 49293,
-				[456] = "; step completed by WoWPro.SetupGuideReal() as processed already.",
-				[310] = 48513,
-				[311] = 48513,
-				[313] = 48513,
-				[314] = 48605,
-				[315] = 48605,
-				[316] = 48605,
-				[317] = 48605,
-				[318] = 49293,
-				[319] = 49293,
-			},
-			["progress"] = 135,
-		},
-		["LudoPetWQAntoran"] = {
-			["skipped"] = {
-			},
-			["completion"] = {
-			},
-			["Version"] = "8.0.1M",
-			["done"] = false,
-		},
-		["Blanc_Suramar"] = {
-			["Version"] = "8.0.1M",
-			["skipped"] = {
-			},
-			["done"] = false,
-			["completion"] = {
-			},
-			["NoSelect"] = true,
 		},
 		["EmmFrostfire"] = {
 			["total"] = 484,
@@ -7243,16 +7455,17 @@ WoWProCharDB = {
 				[354] = true,
 				[385] = true,
 				[179] = true,
-				[143] = true,
+				[384] = true,
 				[329] = true,
-				[345] = true,
+				[143] = true,
 				[331] = true,
 				[376] = true,
 				[197] = true,
 				[304] = true,
-				[384] = true,
+				[345] = true,
 			},
 			["done"] = false,
+			["progress"] = 286,
 			["completion"] = {
 				"; step completed by WoWPro.SetupGuideReal() as processed already.", -- [1]
 				33815, -- [2]
@@ -7518,130 +7731,172 @@ WoWProCharDB = {
 				32990, -- [262]
 				32990, -- [263]
 				36567, -- [264]
-				[268] = 32990,
-				[269] = 33013,
-				[270] = 32990,
-				[273] = 32990,
-				[274] = 32990,
-				[275] = 32990,
-				[276] = 32991,
-				[284] = 32991,
-				[285] = 32991,
-				[286] = 32991,
-				[287] = 33013,
-				[288] = 32991,
-				[289] = 33013,
-				[290] = 33013,
-				[291] = 32991,
-				[292] = 32992,
-				[295] = 34736,
-				[296] = 34345,
-				[297] = 34736,
-				[298] = 34344,
-				[299] = 34346,
-				[300] = 34345,
-				[301] = 34344,
-				[302] = 34346,
-				[303] = -33918,
-				[304] = "Previously marked as skipped",
-				[305] = 33838,
-				[306] = 33838,
-				[307] = 33838,
-				[308] = 34729,
-				[310] = 34345,
-				[311] = 34344,
-				[312] = 34346,
-				[313] = 33462,
-				[314] = 33462,
-				[315] = 32981,
-				[317] = 32981,
-				[319] = 33462,
-				[320] = 33462,
-				[322] = 32981,
-				[323] = 35341,
-				[324] = 34346,
-				[325] = 34344,
-				[326] = 34345,
-				[327] = 34348,
-				[328] = 34348,
-				[329] = "Previously marked as skipped",
-				[331] = "Previously marked as skipped",
-				[332] = 34348,
-				[333] = 34731,
-				[338] = 36706,
-				[345] = "Previously marked as skipped",
-				[346] = 32992,
-				[354] = "Previously marked as skipped",
-				[355] = 34476,
-				[356] = 32992,
-				[357] = 32992,
-				[358] = 32993,
-				[359] = 32993,
-				[360] = 33826,
-				[361] = 33785,
-				[362] = 33785,
-				[363] = 33826,
-				[364] = 34651,
-				[365] = 33826,
-				[366] = 33826,
-				[367] = 32994,
-				[368] = 33828,
-				[369] = 32994,
-				[370] = 33828,
-				[371] = 36457,
-				[372] = 36457,
-				[373] = 36475,
-				[374] = 36475,
-				[375] = 36475,
-				[376] = "Previously marked as skipped",
-				[377] = 32994,
-				[378] = 33785,
-				[379] = 33785,
-				[380] = 32994,
-				[381] = 33828,
-				[382] = 33493,
-				[384] = "Previously marked as skipped",
-				[385] = "Previously marked as skipped",
-				[388] = 35154,
-				[389] = 35154,
-				[390] = 35154,
-				[393] = 33493,
-				[394] = 33493,
-				[416] = 36643,
-				[417] = 36643,
-				[418] = 36643,
-				[419] = 36643,
-				[420] = 36643,
-				[471] = "AutoCompleteQuestUpdate: AutoComplete",
-				[479] = "AutoCompleteQuestUpdate: via QuestLog",
-				[456] = 33493,
-				[464] = 33132,
+				nil, -- [265]
+				nil, -- [266]
+				nil, -- [267]
+				32990, -- [268]
+				33013, -- [269]
+				32990, -- [270]
+				nil, -- [271]
+				nil, -- [272]
+				32990, -- [273]
+				32990, -- [274]
+				32990, -- [275]
+				32991, -- [276]
+				nil, -- [277]
+				nil, -- [278]
+				nil, -- [279]
+				nil, -- [280]
+				nil, -- [281]
+				nil, -- [282]
+				nil, -- [283]
+				32991, -- [284]
+				32991, -- [285]
+				32991, -- [286]
+				33013, -- [287]
+				32991, -- [288]
+				33013, -- [289]
+				33013, -- [290]
+				32991, -- [291]
+				32992, -- [292]
+				nil, -- [293]
+				nil, -- [294]
+				34736, -- [295]
+				34345, -- [296]
+				34736, -- [297]
+				34344, -- [298]
+				34346, -- [299]
+				34345, -- [300]
+				34344, -- [301]
+				34346, -- [302]
+				-33918, -- [303]
+				"Previously marked as skipped", -- [304]
+				33838, -- [305]
+				33838, -- [306]
+				33838, -- [307]
+				34729, -- [308]
+				nil, -- [309]
+				34345, -- [310]
+				34344, -- [311]
+				34346, -- [312]
+				33462, -- [313]
+				33462, -- [314]
+				32981, -- [315]
+				nil, -- [316]
+				32981, -- [317]
+				nil, -- [318]
+				33462, -- [319]
+				33462, -- [320]
+				nil, -- [321]
+				32981, -- [322]
+				35341, -- [323]
+				34346, -- [324]
+				34344, -- [325]
+				34345, -- [326]
+				34348, -- [327]
+				34348, -- [328]
+				"Previously marked as skipped", -- [329]
+				nil, -- [330]
+				"Previously marked as skipped", -- [331]
+				34348, -- [332]
+				34731, -- [333]
+				nil, -- [334]
+				nil, -- [335]
+				nil, -- [336]
+				nil, -- [337]
+				36706, -- [338]
+				nil, -- [339]
+				nil, -- [340]
+				nil, -- [341]
+				nil, -- [342]
+				nil, -- [343]
+				nil, -- [344]
+				"Previously marked as skipped", -- [345]
+				32992, -- [346]
+				nil, -- [347]
+				nil, -- [348]
+				nil, -- [349]
+				nil, -- [350]
+				nil, -- [351]
+				nil, -- [352]
+				nil, -- [353]
+				"Previously marked as skipped", -- [354]
+				34476, -- [355]
+				32992, -- [356]
+				32992, -- [357]
+				32993, -- [358]
+				32993, -- [359]
+				33826, -- [360]
+				33785, -- [361]
+				33785, -- [362]
+				33826, -- [363]
+				34651, -- [364]
+				33826, -- [365]
+				33826, -- [366]
+				32994, -- [367]
+				33828, -- [368]
+				32994, -- [369]
+				33828, -- [370]
+				36457, -- [371]
+				36457, -- [372]
+				36475, -- [373]
+				36475, -- [374]
+				36475, -- [375]
+				"Previously marked as skipped", -- [376]
+				32994, -- [377]
+				33785, -- [378]
+				33785, -- [379]
+				32994, -- [380]
+				33828, -- [381]
+				33493, -- [382]
+				nil, -- [383]
+				"Previously marked as skipped", -- [384]
+				"Previously marked as skipped", -- [385]
+				nil, -- [386]
+				nil, -- [387]
+				35154, -- [388]
+				35154, -- [389]
+				35154, -- [390]
 				[480] = "AutoCompleteQuestUpdate: AutoComplete",
+				[393] = 33493,
 				[457] = "AutoCompleteQuestUpdate: Accept",
-				[465] = "AutoCompleteQuestUpdate: via QuestLog",
-				[473] = "AutoCompleteQuestUpdate: via QuestLog",
-				[481] = "AutoCompleteQuestUpdate: Accept",
-				[458] = "AutoCompleteQuestUpdate: via QuestLog",
-				[466] = 33947,
-				[474] = "AutoCompleteQuestUpdate: AutoComplete",
-				[482] = "AutoCompleteQuestUpdate: Accept",
-				[459] = "AutoCompleteQuestUpdate: AutoComplete",
-				[475] = "AutoCompleteQuestUpdate: Accept",
-				[483] = "AutoCompleteQuestUpdate: via QuestLog",
-				[460] = "AutoCompleteQuestUpdate: Accept",
-				[484] = "AutoCompleteQuestUpdate: quest turn-in.",
 				[461] = 34733,
 				[477] = "AutoCompleteQuestUpdate: AutoComplete",
+				[394] = 33493,
+				[466] = 33947,
 				[470] = "AutoCompleteQuestUpdate: quest turn-in.",
+				[474] = "AutoCompleteQuestUpdate: AutoComplete",
 				[478] = "AutoCompleteQuestUpdate: Accept",
-				[463] = 33125,
 				[518] = "; step completed by WoWPro.SetupGuideReal() as processed already.",
+				[460] = "AutoCompleteQuestUpdate: Accept",
+				[484] = "AutoCompleteQuestUpdate: quest turn-in.",
+				[463] = 33125,
+				[483] = "AutoCompleteQuestUpdate: via QuestLog",
+				[471] = "AutoCompleteQuestUpdate: AutoComplete",
+				[475] = "AutoCompleteQuestUpdate: Accept",
+				[479] = "AutoCompleteQuestUpdate: via QuestLog",
+				[459] = "AutoCompleteQuestUpdate: AutoComplete",
+				[482] = "AutoCompleteQuestUpdate: Accept",
+				[458] = "AutoCompleteQuestUpdate: via QuestLog",
+				[481] = "AutoCompleteQuestUpdate: Accept",
+				[473] = "AutoCompleteQuestUpdate: via QuestLog",
+				[465] = "AutoCompleteQuestUpdate: via QuestLog",
+				[420] = 36643,
+				[419] = 36643,
+				[456] = 33493,
+				[464] = 33132,
+				[418] = 36643,
+				[417] = 36643,
+				[416] = 36643,
 			},
-			["progress"] = 286,
 		},
 	},
 	["EnableTreasures"] = false,
 	["EnableGrail"] = true,
+	["EnableFlight"] = true,
+	["AutoSelect"] = false,
+	["BuildingLocations"] = {
+	},
 	["completedQIDs"] = {
 		[49674] = false,
 		[49930] = true,
@@ -7669,9 +7924,12 @@ WoWProCharDB = {
 		[34703] = false,
 		[51211] = true,
 		[47244] = true,
+		[51595] = false,
 		[47756] = false,
+		[51979] = true,
 		[39950] = true,
 		[40078] = false,
+		[53003] = false,
 		[45069] = true,
 		[49676] = true,
 		[49932] = true,
@@ -7762,6 +8020,7 @@ WoWProCharDB = {
 		[51089] = false,
 		[34837] = true,
 		[47250] = true,
+		[51601] = false,
 		[47890] = false,
 		[48402] = true,
 		[48530] = false,
@@ -7928,6 +8187,7 @@ WoWProCharDB = {
 		[36256] = false,
 		[48669] = false,
 		[40607] = false,
+		[53148] = false,
 		[32929] = true,
 		[49437] = false,
 		[37536] = true,
@@ -7952,9 +8212,12 @@ WoWProCharDB = {
 		[39073] = false,
 		[35106] = false,
 		[47647] = false,
+		[51870] = false,
 		[51998] = false,
 		[44448] = false,
+		[52766] = false,
 		[52894] = false,
+		[53150] = false,
 		[37538] = true,
 		[50079] = true,
 		[33955] = true,
@@ -7969,6 +8232,7 @@ WoWProCharDB = {
 		[36387] = false,
 		[48800] = true,
 		[36643] = true,
+		[53151] = false,
 		[32804] = true,
 		[49312] = false,
 		[49440] = true,
@@ -7983,8 +8247,10 @@ WoWProCharDB = {
 		[40099] = false,
 		[36132] = false,
 		[36260] = false,
+		[52768] = false,
 		[52896] = true,
 		[48929] = false,
+		[53152] = false,
 		[49185] = true,
 		[49313] = false,
 		[49569] = true,
@@ -7996,8 +8262,10 @@ WoWProCharDB = {
 		[35237] = true,
 		[32019] = false,
 		[52129] = false,
+		[52769] = false,
 		[36645] = false,
 		[41124] = true,
+		[53665] = false,
 		[37669] = true,
 		[50082] = true,
 		[50466] = false,
@@ -8007,7 +8275,9 @@ WoWProCharDB = {
 		[35238] = true,
 		[30484] = false,
 		[36518] = false,
+		[53154] = false,
 		[41125] = false,
+		[53666] = false,
 		[37542] = true,
 		[49955] = true,
 		[41893] = true,
@@ -8022,6 +8292,7 @@ WoWProCharDB = {
 		[39718] = true,
 		[52131] = true,
 		[36391] = false,
+		[53667] = false,
 		[49956] = true,
 		[50084] = false,
 		[46245] = true,
@@ -8045,6 +8316,7 @@ WoWProCharDB = {
 		[53028] = true,
 		[49317] = false,
 		[49445] = true,
+		[53668] = false,
 		[49957] = true,
 		[50085] = false,
 		[37928] = false,
@@ -8056,6 +8328,7 @@ WoWProCharDB = {
 		[47526] = true,
 		[47654] = false,
 		[39592] = true,
+		[52005] = false,
 		[39848] = true,
 		[35881] = false,
 		[36137] = false,
@@ -8063,6 +8336,7 @@ WoWProCharDB = {
 		[36393] = false,
 		[36521] = false,
 		[48934] = false,
+		[53669] = false,
 		[33450] = true,
 		[33578] = true,
 		[33706] = false,
@@ -8110,6 +8384,8 @@ WoWProCharDB = {
 		[39851] = true,
 		[35884] = true,
 		[48553] = false,
+		[52776] = false,
+		[53416] = false,
 		[33581] = true,
 		[37932] = true,
 		[42283] = true,
@@ -8118,10 +8394,12 @@ WoWProCharDB = {
 		[38956] = true,
 		[43179] = true,
 		[43307] = false,
+		[51753] = true,
 		[39596] = true,
 		[40108] = false,
 		[36141] = false,
 		[48554] = false,
+		[52777] = false,
 		[48938] = false,
 		[36781] = false,
 		[33454] = true,
@@ -8247,6 +8525,7 @@ WoWProCharDB = {
 		[35511] = false,
 		[47924] = false,
 		[48052] = false,
+		[52275] = false,
 		[40374] = false,
 		[36919] = false,
 		[49972] = false,
@@ -8261,6 +8540,7 @@ WoWProCharDB = {
 		[47541] = true,
 		[43702] = true,
 		[39735] = false,
+		[52276] = false,
 		[40375] = false,
 		[36920] = true,
 		[49333] = false,
@@ -8348,6 +8628,7 @@ WoWProCharDB = {
 		[48443] = false,
 		[48699] = true,
 		[48827] = true,
+		[53050] = false,
 		[37566] = true,
 		[49979] = false,
 		[37822] = true,
@@ -8358,6 +8639,7 @@ WoWProCharDB = {
 		[34751] = true,
 		[34879] = false,
 		[39102] = true,
+		[51643] = true,
 		[51771] = true,
 		[39870] = false,
 		[39998] = false,
@@ -8391,6 +8673,7 @@ WoWProCharDB = {
 		[44479] = false,
 		[36417] = true,
 		[48958] = true,
+		[53437] = true,
 		[33730] = true,
 		[34242] = true,
 		[50750] = true,
@@ -8429,6 +8712,7 @@ WoWProCharDB = {
 		[48321] = false,
 		[48577] = false,
 		[30499] = false,
+		[53056] = false,
 		[37060] = false,
 		[37572] = false,
 		[49985] = true,
@@ -8455,6 +8739,7 @@ WoWProCharDB = {
 		[29924] = true,
 		[47939] = false,
 		[44100] = false,
+		[52546] = false,
 		[30500] = false,
 		[49091] = true,
 		[37062] = true,
@@ -8516,6 +8801,8 @@ WoWProCharDB = {
 		[48327] = false,
 		[36170] = true,
 		[30502] = false,
+		[53062] = false,
+		[53190] = false,
 		[49479] = false,
 		[37450] = true,
 		[33483] = true,
@@ -8550,6 +8837,7 @@ WoWProCharDB = {
 		[48329] = true,
 		[40267] = false,
 		[48585] = false,
+		[53064] = false,
 		[36812] = false,
 		[41035] = true,
 		[31399] = false,
@@ -8563,6 +8851,8 @@ WoWProCharDB = {
 		[48202] = false,
 		[48330] = false,
 		[36301] = true,
+		[53065] = false,
+		[53193] = false,
 		[41036] = true,
 		[41420] = true,
 		[37965] = false,
@@ -8577,6 +8867,7 @@ WoWProCharDB = {
 		[44108] = false,
 		[48331] = false,
 		[48715] = true,
+		[53066] = false,
 		[49099] = true,
 		[49227] = false,
 		[49483] = false,
@@ -8588,6 +8879,7 @@ WoWProCharDB = {
 		[47180] = false,
 		[35151] = true,
 		[47564] = false,
+		[51787] = false,
 		[48332] = false,
 		[40270] = false,
 		[48588] = false,
@@ -8605,6 +8897,7 @@ WoWProCharDB = {
 		[35536] = false,
 		[52428] = true,
 		[48461] = false,
+		[53068] = false,
 		[45134] = true,
 		[33873] = true,
 		[46286] = true,
@@ -8617,6 +8910,7 @@ WoWProCharDB = {
 		[47182] = false,
 		[39120] = false,
 		[47438] = true,
+		[51789] = false,
 		[35537] = true,
 		[35665] = false,
 		[48334] = false,
@@ -8724,6 +9018,7 @@ WoWProCharDB = {
 		[38872] = false,
 		[31853] = true,
 		[39384] = true,
+		[51797] = false,
 		[48854] = false,
 		[48982] = true,
 		[53333] = true,
@@ -8754,10 +9049,12 @@ WoWProCharDB = {
 		[39130] = false,
 		[47576] = false,
 		[99999] = false,
+		[52183] = false,
 		[48344] = false,
 		[48600] = false,
 		[36571] = false,
 		[40794] = true,
+		[53207] = false,
 		[37467] = true,
 		[33500] = true,
 		[33884] = false,
@@ -8769,11 +9066,13 @@ WoWProCharDB = {
 		[47321] = true,
 		[47577] = false,
 		[29999] = false,
+		[52184] = false,
 		[52312] = true,
 		[48345] = false,
 		[48473] = false,
 		[48601] = false,
 		[48857] = false,
+		[53208] = false,
 		[32989] = true,
 		[37468] = true,
 		[37596] = true,
@@ -8788,6 +9087,7 @@ WoWProCharDB = {
 		[48090] = false,
 		[35933] = true,
 		[36573] = false,
+		[53081] = false,
 		[36829] = false,
 		[32990] = true,
 		[37469] = true,
@@ -8806,6 +9106,7 @@ WoWProCharDB = {
 		[35934] = false,
 		[36574] = false,
 		[48987] = true,
+		[53210] = false,
 		[32991] = true,
 		[33119] = true,
 		[37470] = true,
@@ -8839,6 +9140,7 @@ WoWProCharDB = {
 		[30001] = false,
 		[39775] = true,
 		[48093] = false,
+		[52444] = true,
 		[48605] = true,
 		[36832] = false,
 		[32993] = true,
@@ -8853,6 +9155,8 @@ WoWProCharDB = {
 		[47198] = true,
 		[35041] = false,
 		[51677] = true,
+		[51805] = false,
+		[52189] = false,
 		[48478] = false,
 		[41056] = true,
 		[32994] = true,
@@ -8882,6 +9186,7 @@ WoWProCharDB = {
 		[47584] = false,
 		[47712] = false,
 		[35811] = false,
+		[52319] = false,
 		[48480] = false,
 		[44769] = true,
 		[36707] = true,
@@ -8895,6 +9200,8 @@ WoWProCharDB = {
 		[29747] = false,
 		[51424] = false,
 		[47585] = false,
+		[52192] = false,
+		[52320] = false,
 		[48993] = true,
 		[49377] = false,
 		[33125] = false,
@@ -8924,6 +9231,7 @@ WoWProCharDB = {
 		[49123] = false,
 		[49251] = false,
 		[49379] = false,
+		[53602] = true,
 		[49891] = false,
 		[37862] = true,
 		[42213] = true,
@@ -8937,6 +9245,7 @@ WoWProCharDB = {
 		[47716] = true,
 		[11997] = false,
 		[35815] = false,
+		[52451] = false,
 		[48996] = true,
 		[49124] = false,
 		[49252] = false,
@@ -8960,61 +9269,140 @@ WoWProCharDB = {
 		[36713] = false,
 		[49126] = true,
 		[49382] = false,
+		[47574] = false,
+		[52671] = false,
+		[53082] = false,
+		[52222] = false,
 		[50150] = false,
 		[33898] = true,
+		[52221] = false,
+		[53101] = false,
 		[50662] = false,
 		[42600] = false,
+		[53100] = false,
 		[29622] = false,
 		[38889] = true,
 		[29750] = false,
 		[43240] = false,
+		[34236] = true,
 		[29942] = true,
 		[43624] = true,
+		[34393] = true,
+		[52314] = false,
 		[35818] = false,
 		[44136] = true,
+		[52313] = false,
+		[52479] = false,
+		[38147] = true,
+		[36097] = false,
 		[48871] = false,
 		[36714] = false,
 		[45032] = true,
+		[52191] = false,
+		[52990] = false,
+		[52190] = false,
+		[52188] = false,
+		[52185] = false,
 		[41705] = true,
+		[52187] = false,
+		[52186] = false,
+		[38461] = false,
+		[42640] = false,
 		[50535] = false,
+		[52774] = false,
+		[52773] = false,
+		[52772] = false,
 		[42857] = true,
+		[52770] = false,
+		[52767] = false,
 		[43241] = true,
+		[52765] = false,
+		[52764] = false,
+		[53067] = false,
 		[43753] = true,
 		[39786] = false,
 		[35819] = false,
 		[44137] = true,
+		[52122] = false,
 		[36203] = false,
+		[51837] = false,
+		[51830] = false,
 		[48872] = false,
 		[36715] = false,
+		[38816] = true,
+		[51526] = true,
+		[51798] = false,
 		[33132] = true,
+		[52127] = false,
 		[49768] = false,
+		[53103] = false,
+		[53102] = false,
+		[51788] = false,
 		[50280] = false,
+		[51786] = false,
 		[38251] = true,
+		[51785] = false,
+		[51784] = false,
+		[51599] = false,
 		[38763] = false,
+		[51598] = false,
 		[29751] = false,
 		[29815] = true,
 		[29879] = true,
 		[29943] = true,
+		[51597] = false,
+		[51596] = false,
 		[39787] = false,
+		[51594] = false,
 		[44138] = false,
 		[36076] = false,
 		[36204] = false,
+		[51593] = false,
 		[36460] = true,
+		[51592] = false,
 		[49001] = false,
+		[51678] = true,
 		[49257] = false,
+		[51590] = false,
+		[50381] = false,
+		[53671] = false,
+		[53670] = false,
 		[41707] = true,
+		[47283] = false,
+		[51082] = false,
 		[50281] = false,
+		[53173] = false,
 		[34157] = true,
+		[53212] = false,
+		[53209] = false,
+		[51984] = true,
+		[51975] = true,
+		[51438] = true,
 		[34925] = true,
+		[49309] = true,
+		[29922] = false,
 		[51689] = false,
+		[51440] = true,
+		[51439] = true,
 		[39788] = true,
+		[51437] = true,
 		[44139] = false,
+		[51436] = true,
 		[36205] = false,
+		[51435] = true,
+		[51421] = true,
 		[36589] = false,
 		[49002] = false,
 		[49130] = true,
+		[51986] = true,
+		[51696] = true,
+		[51674] = true,
+		[51691] = true,
+		[51675] = true,
 		[41708] = true,
+		[31134] = true,
 		[37869] = true,
+		[51536] = true,
 		[42220] = true,
 		[50538] = false,
 		[42476] = true,
@@ -9024,32 +9412,48 @@ WoWProCharDB = {
 		[38893] = true,
 		[29752] = false,
 		[39149] = true,
+		[51532] = true,
 		[39405] = false,
+		[51818] = false,
+		[51985] = true,
 		[39789] = false,
 		[48107] = false,
 		[44140] = true,
+		[51987] = false,
+		[51234] = true,
+		[51233] = true,
+		[51231] = true,
 		[48875] = false,
 		[49003] = true,
 		[49131] = true,
+		[51224] = true,
+		[51340] = true,
+		[51332] = true,
+		[51888] = false,
 		[37486] = true,
+		[51800] = true,
+		[51802] = true,
+		[51801] = true,
+		[51803] = true,
 		[42221] = true,
 		[50539] = true,
 		[38382] = true,
 		[38510] = false,
+		[51916] = false,
 		[34671] = false,
-		[50086] = false,
-		[36621] = false,
+		[53079] = true,
+		[44811] = true,
 		[31864] = true,
-		[50321] = false,
+		[50976] = false,
 		[47596] = true,
-		[50080] = false,
-		[50138] = true,
+		[51819] = false,
+		[31765] = true,
 		[50083] = false,
-		[35981] = false,
+		[44171] = false,
 		[40046] = false,
 		[51244] = true,
 		[36207] = false,
-		[49941] = true,
+		[51302] = false,
 		[48910] = false,
 		[34261] = true,
 		[49004] = false,
@@ -9057,14 +9461,14 @@ WoWProCharDB = {
 		[50642] = true,
 		[48541] = false,
 		[50898] = false,
-		[34257] = true,
-		[50361] = false,
-		[49370] = false,
-		[47697] = true,
-		[34445] = true,
+		[49949] = true,
+		[42639] = false,
+		[49938] = true,
+		[50013] = false,
+		[46730] = true,
 		[49754] = false,
 		[42222] = false,
-		[34189] = false,
+		[50569] = false,
 		[29433] = true,
 		[38511] = false,
 		[42734] = false,
@@ -9074,31 +9478,31 @@ WoWProCharDB = {
 		[43246] = false,
 		[29881] = false,
 		[47597] = true,
-		[31303] = false,
+		[33933] = true,
 		[47853] = false,
 		[39791] = true,
-		[31239] = true,
+		[41995] = true,
 		[35952] = false,
 		[36080] = false,
-		[47925] = false,
-		[35154] = true,
+		[47711] = true,
+		[43342] = false,
 		[35025] = false,
-		[34711] = false,
+		[38383] = false,
 		[40815] = true,
-		[48015] = false,
+		[47525] = true,
 		[49261] = false,
-		[47264] = true,
+		[47245] = true,
 		[40003] = false,
-		[48856] = false,
-		[48852] = false,
+		[35984] = false,
+		[31766] = true,
 		[49901] = false,
 		[33649] = true,
-		[51680] = true,
-		[47312] = false,
-		[48492] = false,
-		[34216] = false,
+		[34256] = true,
+		[42635] = false,
+		[38808] = true,
+		[38738] = false,
 		[38384] = true,
-		[49314] = false,
+		[44106] = true,
 		[29865] = false,
 		[51053] = false,
 		[42991] = true,
@@ -9106,29 +9510,29 @@ WoWProCharDB = {
 		[43247] = true,
 		[47260] = false,
 		[47598] = true,
-		[39093] = true,
+		[31404] = true,
 		[47854] = false,
 		[39792] = false,
 		[35557] = true,
 		[34765] = true,
-		[40044] = false,
+		[51679] = true,
 		[36209] = false,
 		[34576] = true,
-		[34855] = true,
+		[29932] = false,
 		[40009] = true,
 		[36721] = false,
-		[50348] = false,
+		[44105] = false,
 		[49262] = false,
 		[33010] = true,
-		[51080] = false,
-		[50888] = false,
+		[34700] = false,
+		[47247] = true,
 		[49774] = false,
 		[49902] = true,
-		[48591] = false,
+		[35035] = false,
 		[49079] = true,
-		[37856] = true,
-		[34379] = true,
-		[47263] = true,
+		[33740] = true,
+		[48801] = true,
+		[50617] = true,
 		[34290] = false,
 		[34418] = true,
 		[38641] = true,
@@ -9138,57 +9542,57 @@ WoWProCharDB = {
 		[39153] = false,
 		[29882] = false,
 		[47599] = true,
-		[47262] = true,
+		[42477] = true,
 		[47855] = false,
 		[39793] = false,
-		[31771] = true,
+		[35018] = true,
 		[42069] = false,
-		[50954] = true,
-		[52073] = true,
+		[46929] = true,
+		[37832] = false,
 		[48623] = false,
-		[47205] = true,
+		[42693] = true,
 		[36594] = false,
 		[36722] = false,
-		[47201] = true,
+		[37654] = true,
 		[29670] = false,
 		[33011] = false,
 		[40005] = false,
-		[47329] = false,
+		[42452] = true,
 		[49775] = false,
-		[47257] = false,
-		[38495] = false,
+		[38509] = false,
+		[38343] = true,
 		[50159] = false,
-		[50707] = false,
-		[50770] = true,
+		[32461] = false,
+		[38724] = true,
 		[34163] = true,
 		[42481] = false,
-		[51111] = true,
+		[42567] = true,
 		[46832] = false,
 		[51055] = false,
 		[34803] = true,
 		[34931] = true,
 		[39154] = false,
-		[30504] = false,
+		[29866] = false,
 		[47261] = false,
-		[36037] = false,
+		[47792] = false,
 		[47856] = false,
 		[44437] = true,
-		[42338] = false,
-		[48092] = false,
+		[47066] = false,
+		[47310] = false,
 		[40178] = false,
 		[48496] = false,
-		[51678] = true,
+		[50259] = false,
 		[40562] = false,
-		[40089] = false,
+		[40273] = false,
 		[36723] = false,
 		[49136] = true,
-		[49080] = true,
+		[47797] = false,
 		[49392] = false,
 		[38466] = true,
-		[34699] = false,
+		[51079] = false,
 		[49776] = false,
-		[42844] = false,
-		[43327] = true,
+		[38626] = false,
+		[48405] = false,
 		[35402] = false,
 		[38217] = true,
 		[47272] = false,
@@ -9203,27 +9607,27 @@ WoWProCharDB = {
 		[47473] = false,
 		[47601] = true,
 		[30011] = false,
-		[51407] = false,
-		[35432] = false,
-		[52592] = true,
-		[33736] = true,
+		[48025] = false,
+		[51249] = false,
+		[51248] = false,
+		[51247] = false,
 		[40179] = false,
-		[48497] = false,
-		[33988] = true,
-		[49315] = true,
+		[52592] = true,
+		[51539] = false,
+		[50508] = false,
 		[36596] = false,
-		[31978] = true,
+		[52749] = true,
 		[38847] = false,
 		[50154] = false,
 		[33013] = true,
-		[37492] = true,
-		[34236] = true,
+		[36083] = false,
 		[49777] = false,
+		[37492] = true,
 		[49905] = true,
-		[34260] = true,
+		[33473] = true,
 		[46066] = true,
-		[35248] = false,
-		[47528] = true,
+		[31768] = true,
+		[34241] = false,
 		[34165] = false,
 		[42483] = false,
 		[38516] = false,
@@ -9231,112 +9635,112 @@ WoWProCharDB = {
 		[51057] = false,
 		[38900] = false,
 		[47218] = false,
-		[29922] = false,
-		[48462] = false,
+		[51441] = true,
+		[47685] = false,
 		[47602] = true,
 		[43635] = false,
 		[47522] = true,
 		[47986] = false,
-		[38677] = false,
+		[38753] = true,
 		[40052] = true,
 		[47521] = true,
 		[48498] = false,
 		[48626] = false,
-		[29723] = false,
+		[33868] = true,
 		[36597] = false,
-		[47623] = true,
+		[51718] = false,
 		[49138] = false,
 		[44098] = false,
-		[34667] = true,
-		[34228] = false,
-		[33735] = true,
+		[50637] = false,
+		[35031] = false,
+		[36512] = true,
 		[49778] = false,
 		[33526] = true,
 		[50034] = false,
 		[38687] = true,
-		[33816] = true,
-		[42632] = false,
-		[34279] = false,
+		[36158] = false,
+		[34442] = true,
+		[29628] = false,
 		[38389] = false,
 		[34422] = true,
 		[38645] = true,
 		[51058] = false,
 		[42707] = false,
 		[47219] = false,
-		[49309] = true,
-		[34392] = true,
-		[29623] = false,
-		[34255] = true,
+		[51442] = true,
+		[34239] = false,
+		[35910] = false,
+		[42516] = false,
 		[29939] = true,
 		[43892] = true,
 		[52210] = false,
-		[37829] = true,
+		[37537] = true,
 		[36086] = false,
 		[48499] = false,
-		[49122] = true,
+		[35416] = false,
 		[40008] = true,
-		[38339] = true,
+		[52978] = false,
 		[36726] = false,
 		[49139] = false,
 		[49267] = false,
 		[39393] = true,
-		[42517] = false,
-		[34393] = true,
+		[47965] = false,
+		[34148] = false,
 		[49779] = false,
 		[33527] = true,
-		[42645] = false,
-		[38615] = true,
-		[34476] = true,
+		[34724] = false,
+		[31776] = true,
+		[33470] = true,
 		[42229] = true,
 		[34167] = true,
 		[38390] = false,
 		[34423] = true,
 		[38646] = true,
 		[51059] = false,
-		[34777] = false,
+		[42520] = false,
 		[47220] = false,
 		[51443] = true,
-		[48992] = true,
+		[50755] = false,
 		[39383] = true,
 		[34277] = false,
-		[44104] = true,
+		[38774] = false,
 		[43893] = true,
 		[36516] = false,
-		[33882] = false,
-		[47622] = true,
+		[47311] = false,
+		[51717] = false,
 		[48500] = true,
-		[50381] = false,
-		[38360] = true,
-		[47238] = false,
+		[38944] = true,
+		[29935] = true,
+		[39048] = false,
 		[36727] = false,
-		[29647] = false,
-		[51077] = false,
-		[50949] = false,
-		[49780] = false,
-		[47436] = true,
+		[47542] = true,
+		[34697] = false,
+		[34569] = true,
+		[34278] = false,
 		[37495] = true,
-		[50565] = false,
+		[49780] = false,
+		[34185] = false,
 		[29717] = false,
 		[33784] = true,
-		[42119] = true,
+		[33929] = true,
 		[46325] = true,
-		[33729] = true,
-		[33694] = false,
-		[47418] = false,
+		[37658] = true,
+		[38347] = true,
+		[51060] = false,
 		[38647] = true,
 		[29629] = false,
 		[38903] = false,
 		[39031] = false,
 		[29821] = true,
-		[43207] = false,
+		[42641] = false,
 		[33728] = true,
 		[47733] = true,
 		[34140] = false,
 		[47989] = false,
-		[35227] = true,
+		[43195] = false,
 		[38490] = false,
-		[40220] = true,
-		[34012] = false,
+		[40094] = false,
+		[33468] = true,
 		[38810] = true,
 		[40567] = true,
 		[36600] = false,
@@ -9350,199 +9754,199 @@ WoWProCharDB = {
 		[39097] = true,
 		[33657] = true,
 		[33785] = true,
-		[48543] = false,
+		[34380] = true,
 		[39072] = true,
-		[44187] = true,
+		[47259] = false,
 		[50677] = false,
 		[50805] = true,
 		[50933] = false,
 		[51061] = false,
 		[35406] = false,
-		[51829] = false,
+		[38460] = true,
 		[43255] = false,
 		[51573] = false,
-		[35036] = false,
 		[47734] = true,
-		[35434] = false,
+		[51829] = false,
+		[47990] = false,
 		[43895] = true,
-		[34142] = false,
+		[45046] = true,
 		[42451] = false,
-		[40568] = true,
-		[29637] = false,
-		[36345] = false,
 		[44663] = true,
-		[50948] = false,
+		[34696] = true,
+		[36345] = false,
+		[40568] = true,
+		[38663] = true,
 		[49014] = true,
-		[29937] = true,
+		[51076] = false,
 		[49270] = false,
 		[34653] = false,
-		[36706] = true,
-		[38486] = false,
+		[34107] = true,
+		[29579] = false,
 		[37497] = true,
 		[33530] = true,
-		[50308] = false,
-		[49096] = true,
-		[48460] = false,
+		[46213] = true,
+		[29585] = false,
+		[47988] = false,
 		[29617] = false,
 		[50550] = true,
-		[48280] = false,
-		[50934] = false,
+		[51338] = false,
 		[46839] = true,
+		[50934] = false,
 		[51062] = false,
 		[29694] = true,
 		[47223] = true,
 		[29822] = true,
 		[51574] = true,
-		[39801] = true,
+		[36729] = false,
 		[47735] = true,
-		[47443] = false,
-		[47991] = false,
+		[34221] = false,
+		[39801] = true,
 		[38616] = true,
-		[40123] = true,
-		[50242] = true,
-		[49015] = true,
-		[34238] = true,
+		[36473] = true,
+		[34234] = true,
+		[35501] = false,
+		[47315] = true,
 		[36474] = true,
 		[48887] = true,
-		[36730] = false,
+		[49015] = true,
 		[49143] = true,
-		[48333] = false,
-		[34414] = true,
-		[36257] = false,
+		[40605] = false,
+		[42375] = false,
+		[33531] = false,
 		[29587] = false,
-		[50423] = false,
+		[42233] = true,
 		[49911] = false,
-		[51063] = false,
+		[50551] = true,
 		[31230] = false,
 		[33915] = true,
-		[42233] = true,
+		[50423] = false,
 		[34171] = false,
-		[37496] = true,
+		[38691] = true,
 		[34427] = true,
 		[46840] = true,
-		[34683] = true,
-		[34401] = true,
+		[51063] = false,
+		[47987] = false,
 		[47224] = true,
 		[39084] = true,
-		[31134] = true,
-		[29967] = true,
+		[51668] = false,
+		[48790] = false,
 		[47736] = true,
-		[34364] = true,
+		[47992] = false,
 		[35707] = false,
 		[29920] = false,
 		[52343] = true,
 		[44281] = false,
-		[36475] = true,
-		[50947] = false,
 		[52855] = false,
+		[38662] = true,
+		[36475] = true,
 		[36603] = true,
 		[36731] = false,
 		[49144] = true,
-		[42629] = false,
-		[38352] = false,
-		[47574] = false,
+		[34439] = true,
+		[48888] = true,
+		[53623] = true,
 		[34425] = true,
 		[36091] = false,
-		[35247] = false,
+		[33660] = false,
 		[50040] = false,
-		[38778] = true,
+		[34108] = true,
 		[29748] = false,
 		[42234] = true,
 		[40079] = false,
-		[43642] = true,
+		[46931] = true,
 		[50808] = true,
 		[46841] = true,
 		[29631] = false,
-		[46931] = true,
+		[49373] = false,
 		[34940] = false,
 		[29823] = true,
-		[47993] = false,
-		[47737] = true,
-		[30015] = true,
+		[35056] = false,
 		[34232] = false,
-		[39803] = true,
+		[43642] = true,
+		[42706] = false,
+		[47993] = false,
 		[39931] = true,
-		[34801] = false,
+		[47320] = true,
 		[52472] = false,
 		[29716] = false,
-		[33976] = true,
+		[36604] = false,
 		[36476] = true,
 		[48889] = true,
 		[36732] = false,
 		[49145] = true,
 		[38767] = true,
 		[47314] = true,
-		[42286] = false,
-		[33917] = true,
+		[39079] = false,
+		[36858] = false,
 		[49785] = false,
-		[31167] = true,
-		[33661] = false,
 		[47322] = false,
-		[50297] = false,
-		[47994] = false,
+		[31167] = true,
+		[47573] = false,
+		[33917] = true,
+		[36708] = true,
 		[38268] = false,
-		[48799] = false,
+		[46842] = true,
 		[34429] = true,
 		[42747] = true,
 		[38780] = false,
-		[39796] = true,
+		[51796] = true,
 		[47226] = false,
-		[37046] = false,
 		[34739] = true,
+		[35709] = true,
 		[31999] = true,
 		[47738] = true,
-		[47235] = false,
-		[39804] = true,
+		[34950] = true,
+		[47994] = false,
 		[39932] = true,
 		[35965] = false,
 		[40188] = false,
-		[36605] = false,
-		[51074] = false,
-		[52857] = false,
 		[48890] = true,
+		[29636] = false,
+		[52857] = false,
+		[36605] = false,
 		[36733] = false,
 		[49146] = true,
-		[42756] = true,
+		[34566] = true,
 		[42884] = true,
-		[39121] = false,
-		[42372] = true,
+		[36430] = false,
+		[38277] = true,
 		[29941] = true,
 		[41724] = true,
 		[33662] = false,
-		[29930] = false,
+		[35430] = false,
 		[33918] = false,
 		[38355] = true,
 		[50554] = false,
-		[38781] = false,
-		[42748] = true,
-		[46843] = true,
+		[50656] = false,
 		[29632] = false,
+		[42748] = true,
+		[38781] = false,
 		[34814] = false,
-		[47867] = true,
+		[42291] = true,
 		[29824] = true,
-		[35152] = false,
 		[46818] = false,
+		[40189] = false,
 		[47739] = true,
-		[43772] = true,
+		[47867] = true,
 		[47995] = false,
 		[39933] = true,
 		[35966] = false,
 		[36094] = false,
-		[49410] = false,
-		[34668] = false,
+		[41220] = true,
+		[40113] = false,
 		[40573] = true,
-		[43446] = false,
+		[44240] = true,
 		[36734] = false,
 		[49147] = true,
 		[41085] = true,
-		[42640] = false,
-		[38772] = true,
-		[50043] = false,
-		[44547] = true,
-		[42956] = false,
+		[35241] = true,
+		[42150] = false,
+		[38644] = true,
+		[48642] = true,
 		[33663] = false,
-		[38014] = true,
+		[50043] = false,
 		[33919] = true,
+		[38014] = true,
 		[38142] = true,
 		[34294] = false,
 		[42493] = false,
@@ -9551,94 +9955,94 @@ WoWProCharDB = {
 		[38782] = true,
 		[47100] = false,
 		[47228] = false,
-		[38377] = true,
+		[29756] = false,
 		[44405] = true,
-		[42282] = true,
+		[40062] = true,
 		[47740] = true,
 		[47868] = true,
 		[47996] = false,
 		[39934] = true,
 		[35967] = false,
-		[34721] = true,
+		[39081] = false,
 		[48508] = false,
-		[40187] = false,
-		[34859] = false,
+		[42508] = false,
+		[39986] = true,
 		[31767] = true,
 		[36735] = false,
 		[49148] = true,
-		[48455] = false,
-		[51073] = false,
-		[38015] = true,
-		[50817] = false,
+		[43595] = false,
+		[42883] = true,
+		[38143] = true,
+		[34437] = true,
 		[33408] = true,
-		[29181] = false,
-		[42371] = true,
-		[38655] = true,
-		[33920] = true,
-		[42238] = true,
+		[34432] = true,
+		[50561] = true,
 		[34681] = true,
+		[38015] = true,
+		[42238] = true,
+		[38783] = false,
 		[42494] = false,
 		[50812] = false,
-		[42750] = true,
+		[38655] = true,
 		[29633] = false,
 		[47101] = false,
 		[47229] = true,
-		[34860] = true,
-		[35948] = false,
-		[34233] = false,
+		[42418] = true,
+		[35701] = false,
+		[30648] = false,
 		[47741] = true,
-		[43622] = true,
+		[34861] = true,
 		[42865] = true,
 		[39935] = true,
 		[35968] = false,
-		[50536] = false,
+		[36480] = true,
 		[48509] = true,
 		[36352] = false,
 		[44670] = false,
-		[29630] = false,
+		[33872] = true,
 		[36736] = false,
 		[49149] = true,
 		[53372] = true,
-		[36717] = false,
+		[38864] = false,
 		[36625] = false,
 		[38381] = true,
-		[52992] = false,
+		[48897] = true,
 		[49917] = false,
 		[50045] = false,
-		[42702] = false,
+		[42751] = true,
 		[36718] = false,
 		[38144] = true,
 		[42367] = false,
-		[46846] = true,
-		[40195] = false,
 		[38656] = true,
+		[44290] = true,
+		[46846] = true,
 		[51069] = false,
 		[43007] = false,
 		[34945] = false,
-		[34421] = true,
+		[47102] = false,
 		[39029] = true,
-		[48894] = true,
+		[46938] = true,
 		[47742] = true,
 		[47870] = false,
 		[47998] = false,
 		[39936] = true,
-		[43778] = true,
+		[47873] = false,
 		[52477] = false,
 		[48510] = true,
 		[48638] = false,
-		[31152] = true,
-		[44799] = false,
+		[52861] = false,
+		[48894] = true,
 		[36737] = false,
-		[38960] = true,
+		[34229] = false,
 		[49278] = true,
 		[49406] = true,
 		[37249] = false,
 		[49662] = true,
 		[33410] = true,
 		[49918] = false,
-		[29626] = false,
+		[41890] = true,
 		[34102] = true,
-		[34858] = true,
+		[38529] = false,
 		[38145] = true,
 		[42368] = false,
 		[50686] = false,
@@ -9646,406 +10050,375 @@ WoWProCharDB = {
 		[34348] = true,
 		[29634] = false,
 		[47103] = true,
-		[29635] = false,
+		[51072] = false,
 		[42636] = true,
 		[35202] = false,
 		[35058] = false,
 		[47743] = true,
 		[47871] = false,
-		[48639] = true,
+		[34295] = false,
 		[39937] = true,
-		[36651] = false,
-		[50432] = true,
-		[48511] = true,
 		[30466] = false,
+		[52478] = false,
+		[48511] = true,
+		[48639] = true,
 		[36482] = false,
 		[48895] = true,
 		[36738] = false,
-		[31770] = true,
-		[29804] = true,
-		[29755] = false,
+		[36610] = false,
+		[34447] = true,
+		[36658] = false,
 		[48637] = true,
 		[49663] = true,
-		[37507] = true,
+		[33412] = true,
 		[49919] = false,
 		[43596] = false,
-		[34291] = false,
-		[35880] = false,
+		[36656] = false,
+		[47561] = true,
 		[38146] = true,
 		[42369] = false,
-		[38861] = true,
-		[29627] = false,
+		[50431] = false,
+		[44044] = true,
 		[44544] = false,
 		[51071] = false,
 		[47104] = false,
 		[34227] = false,
-		[34292] = false,
-		[44545] = true,
-		[42479] = true,
-		[38386] = true,
-		[38388] = true,
-		[39938] = true,
-		[44033] = false,
-		[49005] = true,
-		[40194] = false,
-		[49097] = true,
-		[48640] = true,
 		[38642] = false,
+		[48640] = true,
+		[49097] = true,
+		[38386] = true,
+		[49005] = true,
+		[44033] = false,
+		[39938] = true,
+		[38388] = true,
+		[40194] = false,
+		[42479] = true,
+		[44545] = true,
+		[34292] = false,
 		[48896] = true,
 		[36739] = false,
-		[44044] = true,
-		[50431] = false,
-		[47561] = true,
-		[36656] = false,
+		[29627] = false,
+		[38861] = true,
+		[35880] = false,
+		[34291] = false,
 		[49664] = true,
-		[33412] = true,
+		[37507] = true,
 		[49920] = false,
-		[36658] = false,
-		[34447] = true,
-		[36610] = false,
-		[38147] = true,
+		[29755] = false,
+		[29804] = true,
+		[31770] = true,
+		[50432] = true,
 		[42370] = true,
-		[34295] = false,
+		[36651] = false,
 		[34436] = true,
 		[34564] = true,
-		[51072] = false,
+		[29635] = false,
 		[47105] = true,
-		[38529] = false,
+		[34858] = true,
 		[29827] = true,
-		[41890] = true,
-		[34229] = false,
-		[36097] = false,
-		[47873] = false,
-		[46938] = true,
+		[29626] = false,
+		[38960] = true,
+		[44799] = false,
+		[43778] = true,
+		[31152] = true,
 		[39939] = true,
-		[47102] = false,
-		[44290] = true,
+		[34421] = true,
+		[40195] = false,
 		[48513] = true,
 		[48641] = true,
-		[42751] = true,
-		[48897] = true,
+		[42702] = false,
+		[52992] = false,
 		[36740] = false,
 		[45058] = true,
-		[38864] = false,
-		[33872] = true,
-		[36480] = true,
+		[36717] = false,
+		[29630] = false,
+		[50536] = false,
 		[49665] = true,
-		[34861] = true,
-		[30648] = false,
-		[35701] = false,
-		[42418] = true,
-		[38783] = false,
+		[43622] = true,
+		[34233] = false,
+		[35948] = false,
+		[34860] = true,
+		[42750] = true,
 		[38148] = true,
-		[50561] = true,
-		[34432] = true,
-		[34437] = true,
-		[38143] = true,
-		[42883] = true,
-		[43595] = false,
+		[42371] = true,
+		[33920] = true,
+		[50817] = false,
+		[29181] = false,
+		[51073] = false,
+		[48455] = false,
 		[34949] = false,
-		[39986] = true,
-		[42508] = false,
-		[39081] = false,
-		[40062] = true,
+		[34859] = false,
+		[40187] = false,
+		[34721] = true,
+		[42282] = true,
 		[47874] = true,
-		[29756] = false,
+		[38377] = true,
 		[39940] = true,
 		[40068] = false,
 		[36101] = false,
 		[48514] = true,
-		[48642] = true,
-		[38644] = true,
-		[42150] = false,
-		[35241] = true,
-		[44240] = true,
-		[40113] = false,
-		[41220] = true,
-		[40189] = false,
+		[44547] = true,
+		[42956] = false,
+		[38772] = true,
+		[53121] = true,
+		[43446] = false,
+		[34668] = false,
+		[49410] = false,
+		[43772] = true,
 		[49666] = true,
-		[42291] = true,
+		[35152] = false,
 		[49922] = false,
-		[50656] = false,
+		[46843] = true,
 		[50178] = false,
-		[35430] = false,
+		[29930] = false,
 		[42244] = true,
-		[38277] = true,
-		[36430] = false,
+		[42372] = true,
+		[39121] = false,
 		[50818] = false,
-		[34566] = true,
-		[29636] = false,
+		[42756] = true,
+		[51074] = false,
 		[34822] = true,
-		[34950] = true,
-		[35709] = true,
+		[47235] = false,
+		[39804] = true,
 		[47491] = true,
-		[51796] = true,
-		[46842] = true,
-		[36708] = true,
-		[47573] = false,
+		[37046] = false,
+		[39796] = true,
+		[48799] = false,
+		[50297] = false,
 		[39941] = true,
-		[36858] = false,
-		[39079] = false,
+		[33661] = false,
+		[42286] = false,
 		[36230] = false,
 		[44548] = false,
-		[36604] = false,
+		[33976] = true,
 		[52994] = false,
-		[47320] = true,
-		[42706] = false,
+		[34801] = false,
+		[39803] = true,
 		[49283] = false,
-		[35056] = false,
-		[49373] = false,
+		[30015] = true,
+		[47737] = true,
 		[49667] = false,
 		[37510] = true,
 		[33543] = true,
-		[34108] = true,
-		[33660] = false,
+		[38778] = true,
+		[35247] = false,
 		[50307] = false,
 		[50435] = false,
 		[50563] = false,
-		[48888] = true,
-		[34439] = true,
-		[38662] = true,
+		[38352] = false,
+		[42629] = false,
+		[50947] = false,
 		[51075] = false,
 		[34823] = true,
-		[47992] = false,
-		[48790] = false,
-		[51668] = false,
+		[34364] = true,
+		[29967] = true,
+		[51587] = true,
 		[35335] = false,
-		[47987] = false,
-		[38691] = true,
-		[50551] = false,
+		[34401] = true,
+		[34683] = true,
+		[37496] = true,
 		[39942] = true,
 		[35975] = false,
-		[33531] = false,
-		[42375] = false,
-		[40605] = false,
-		[47315] = true,
-		[35501] = false,
-		[34234] = true,
-		[36473] = true,
+		[36257] = false,
+		[34414] = true,
+		[48333] = false,
+		[36730] = false,
+		[34238] = true,
+		[50242] = true,
+		[40123] = true,
 		[49284] = false,
-		[34221] = false,
-		[36729] = false,
+		[47991] = false,
+		[47443] = false,
 		[49668] = false,
-		[51338] = false,
+		[48280] = false,
 		[33544] = true,
-		[47988] = false,
-		[29585] = false,
-		[46213] = true,
-		[29579] = false,
-		[34107] = true,
+		[48460] = false,
+		[49096] = true,
+		[50308] = false,
+		[38486] = false,
+		[36706] = true,
 		[38407] = true,
-		[51076] = false,
-		[38663] = true,
-		[34696] = true,
+		[29937] = true,
+		[50948] = false,
+		[29637] = false,
 		[34824] = true,
 		[29765] = true,
-		[45046] = true,
-		[47990] = false,
+		[34142] = false,
+		[35434] = false,
 		[47621] = true,
-		[38460] = true,
+		[35036] = false,
 		[47877] = false,
-		[47259] = false,
+		[44187] = true,
 		[39943] = true,
-		[34380] = true,
+		[48543] = false,
 		[36104] = false,
 		[40327] = false,
 		[44550] = false,
 		[36488] = false,
 		[40711] = true,
-		[33468] = true,
-		[40094] = false,
+		[34012] = false,
+		[40220] = true,
 		[49285] = false,
-		[43195] = false,
+		[35227] = true,
 		[37256] = true,
 		[49669] = false,
-		[42641] = false,
-		[51060] = false,
-		[38347] = true,
-		[37658] = true,
-		[33929] = true,
+		[43207] = false,
+		[47418] = false,
+		[33694] = false,
+		[33729] = true,
+		[42119] = true,
 		[50437] = false,
-		[34185] = false,
+		[50565] = false,
 		[50693] = false,
-		[34278] = false,
-		[34569] = true,
-		[34697] = false,
-		[47542] = true,
-		[39048] = false,
-		[29935] = true,
-		[38944] = true,
-		[51717] = false,
-		[47311] = false,
+		[47436] = true,
+		[50949] = false,
+		[51077] = false,
+		[29647] = false,
+		[47238] = false,
+		[38360] = true,
+		[51589] = false,
+		[47622] = true,
+		[33882] = false,
 		[47878] = false,
-		[38774] = false,
+		[44104] = true,
 		[39944] = true,
 		[40072] = false,
-		[50755] = false,
-		[42520] = false,
-		[33470] = true,
-		[31776] = true,
-		[34724] = false,
-		[34148] = false,
-		[47965] = false,
+		[48992] = true,
+		[34777] = false,
+		[34476] = true,
+		[38615] = true,
+		[42645] = false,
+		[53125] = false,
+		[42517] = false,
 		[49286] = false,
-		[38461] = false,
+		[38339] = true,
 		[37257] = true,
-		[35416] = false,
-		[37537] = true,
+		[49122] = true,
+		[37829] = true,
 		[33546] = true,
-		[42516] = false,
-		[35910] = false,
-		[34239] = false,
+		[34255] = true,
+		[29623] = false,
+		[34392] = true,
 		[50438] = false,
 		[42376] = false,
-		[29628] = false,
-		[34442] = true,
-		[36158] = false,
+		[34279] = false,
+		[42632] = false,
+		[33816] = true,
 		[34698] = false,
-		[36512] = true,
-		[35031] = false,
-		[50637] = false,
+		[33735] = true,
+		[34228] = false,
+		[34667] = true,
 		[35210] = false,
-		[51718] = false,
-		[33868] = true,
+		[47623] = true,
+		[29723] = false,
 		[47879] = false,
-		[38753] = true,
+		[38677] = false,
 		[39945] = true,
-		[47685] = false,
+		[48462] = false,
 		[36106] = false,
-		[34241] = false,
-		[31768] = true,
-		[33473] = true,
+		[47528] = true,
+		[35248] = false,
+		[34260] = true,
 		[36618] = false,
-		[36083] = false,
+		[53126] = false,
 		[36874] = false,
 		[49287] = false,
-		[52749] = true,
-		[50508] = false,
-		[51539] = false,
-		[51247] = false,
-		[51248] = false,
-		[51249] = false,
-		[48025] = false,
+		[31978] = true,
+		[49315] = true,
+		[33988] = true,
+		[48497] = false,
+		[33736] = true,
+		[35432] = false,
+		[51407] = false,
 		[50311] = false,
 		[50439] = false,
 		[50567] = false,
 		[42505] = false,
-		[48405] = false,
-		[38626] = false,
-		[51079] = false,
+		[43327] = true,
+		[42844] = false,
+		[34699] = false,
 		[38922] = true,
-		[47797] = false,
-		[40273] = false,
-		[50259] = false,
-		[47310] = false,
-		[47066] = false,
+		[49080] = true,
+		[40089] = false,
+		[51591] = false,
+		[48092] = false,
+		[42338] = false,
 		[47880] = true,
-		[47792] = false,
+		[36037] = false,
 		[39946] = true,
-		[29866] = false,
-		[42567] = true,
-		[38724] = true,
-		[32461] = false,
-		[38343] = true,
-		[38509] = false,
-		[42452] = true,
+		[30504] = false,
+		[51111] = true,
+		[50770] = true,
+		[50707] = false,
+		[38495] = false,
+		[47257] = false,
+		[47329] = false,
 		[49160] = true,
 		[49288] = false,
-		[37654] = true,
-		[42693] = true,
-		[37832] = false,
-		[46929] = true,
+		[47201] = true,
+		[47205] = true,
+		[52073] = true,
+		[50954] = true,
 		[33548] = true,
-		[35018] = true,
-		[42477] = true,
-		[50617] = true,
-		[48801] = true,
-		[33740] = true,
+		[31771] = true,
+		[47262] = true,
+		[47263] = true,
+		[34379] = true,
+		[37856] = true,
 		[42506] = false,
-		[35035] = false,
-		[47247] = true,
-		[34700] = false,
-		[44105] = false,
+		[48591] = false,
+		[50888] = false,
+		[51080] = false,
+		[50348] = false,
 		[47241] = true,
-		[29932] = false,
+		[34855] = true,
 		[47497] = false,
-		[51679] = true,
+		[40044] = false,
 		[35468] = false,
 		[43786] = true,
-		[31404] = true,
+		[39093] = true,
 		[39947] = true,
 		[35980] = false,
-		[44106] = true,
-		[38738] = false,
-		[38808] = true,
-		[42635] = false,
-		[34256] = true,
-		[31766] = true,
-		[35984] = false,
+		[49314] = false,
+		[34216] = false,
+		[48492] = false,
+		[47312] = false,
+		[51680] = true,
+		[48852] = false,
+		[48856] = false,
 		[49289] = false,
-		[47245] = true,
-		[47525] = true,
-		[38383] = false,
+		[47264] = true,
+		[48015] = false,
+		[34711] = false,
 		[49801] = false,
-		[43342] = false,
-		[47711] = true,
-		[41995] = true,
-		[33933] = true,
+		[35154] = true,
+		[47925] = false,
+		[31239] = true,
+		[31303] = false,
 		[50441] = false,
-		[50569] = false,
+		[34189] = false,
 		[38412] = true,
-		[46730] = true,
-		[50013] = false,
-		[49938] = true,
-		[42639] = false,
-		[49949] = true,
+		[34445] = true,
+		[47697] = true,
+		[49370] = false,
+		[50361] = false,
+		[34257] = true,
 		[51465] = true,
 		[47498] = false,
 		[35341] = true,
 		[47754] = true,
 		[47882] = false,
-		[51302] = false,
+		[49941] = true,
 		[39948] = true,
-		[44171] = false,
+		[35981] = false,
 		[44299] = true,
-		[31765] = true,
-		[38816] = true,
-		[50976] = false,
-		[44811] = true,
-		[53079] = true,
+		[50138] = true,
+		[50080] = false,
+		[50321] = false,
+		[36621] = false,
+		[50086] = false,
 	},
-	["AutoSelect"] = true,
-	["BuildingLocations"] = {
-	},
-	["GuideVersion"] = {
-		["EmmVoldun"] = "8.0.1M",
-		["LudoGarrisonPets"] = "8.0.1M",
-		["LudoGarrCampaign"] = "8.0.1M",
-		["EmmLegionMage"] = "8.0.1M",
-		["LudoFishing"] = "8.0.1M",
-		["LarePetWQAzs"] = "8.0.1M",
-		["LudoWowAnniversary"] = "8.0.1M",
-		["LudoPetWQAntoran"] = "8.0.1M",
-		["LarePetWQStorm"] = "8.0.1M",
-		["LarePetWQDala"] = "8.0.1M",
-		["LarePetWQVal"] = "8.0.1M",
-		["LudoPetWQMacAree"] = "8.0.1M",
-		["EliEndgame"] = "8.0.1M",
-		["LudoPetWailingCaverns"] = "8.0.1M",
-		["LudoBringingBass"] = "8.0.1M",
-		["LudoPetWQKrokuun"] = "8.0.1M",
-		["EmmZuldazar"] = "8.0.1M",
-		["LarePetWQBroken"] = "8.0.1M",
-		["LudoHarrison"] = "8.0.1M",
-		["EmmNazmir"] = "8.0.1M",
-		["FlucloTanaanJungle"] = "8.0.1M",
-		["EmmHWarCampaign"] = "8.0.1M",
-		["LarePetWQSur"] = "8.0.1M",
-		["LarePetWQHigh"] = "8.0.1M",
-		["Blanc_Suramar"] = "8.0.1M",
-		["LudoBuildingsHorde"] = "8.0.1M",
-	},
-	["EnablePetBattles"] = false,
+	["ProfessionalfOffset"] = 100,
 	["AutoTurnin"] = true,
 	["skippedQIDs"] = {
 		[34483] = true,
@@ -10058,6 +10431,7 @@ WoWProCharDB = {
 		[43447] = true,
 		[39858] = true,
 		[39108] = true,
+		[53476] = true,
 		[38864] = true,
 		[35220] = true,
 		[39130] = true,
@@ -10072,24 +10446,25 @@ WoWProCharDB = {
 		[34498] = true,
 		[34185] = true,
 		[39357] = true,
-		[34106] = true,
-		[33919] = true,
-		[39083] = true,
-		[36858] = true,
+		[53602] = true,
+		[38783] = true,
+		[39086] = true,
+		[39081] = true,
+		[38903] = true,
 		[39856] = true,
 		[34142] = true,
 		[39121] = true,
+		[47756] = true,
 		[35219] = true,
-		[34148] = true,
 		[44139] = true,
 		[33438] = true,
 		[44108] = true,
-		[47756] = true,
+		[34148] = true,
 		[40080] = true,
-		[38903] = true,
-		[39081] = true,
-		[39086] = true,
-		[38783] = true,
+		[36858] = true,
+		[39083] = true,
+		[33919] = true,
+		[34106] = true,
 	},
 	["EnableRares"] = false,
 }

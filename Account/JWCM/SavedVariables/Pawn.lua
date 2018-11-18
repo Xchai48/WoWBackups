@@ -54,6 +54,9 @@ PawnCommon = {
 		["\"MrRobot\":SHAMAN1"] = {
 			["IconTexturePath"] = 136048,
 			["PerCharacterOptions"] = {
+				["Hexchai-Mannoroth"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "0070de",
 			["ClassID"] = 7,

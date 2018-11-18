@@ -4,6 +4,7 @@ TomTomDB = {
 		["Xchai - Mannoroth"] = "Default",
 		["Dawnel - Mannoroth"] = "Default",
 		["Flexchai - Mannoroth"] = "Default",
+		["Hexchai - Mannoroth"] = "Default",
 		["Ochai - Mannoroth"] = "Default",
 		["Phatbootygrl - Moon Guard"] = "Default",
 		["Chaisauce - Mannoroth"] = "Default",
@@ -23,6 +24,7 @@ TomTomWaypointsM = {
 		["Xchai - Mannoroth"] = "Xchai - Mannoroth",
 		["Phatbootygrl - Moon Guard"] = "Phatbootygrl - Moon Guard",
 		["Flexchai - Mannoroth"] = "Flexchai - Mannoroth",
+		["Hexchai - Mannoroth"] = "Hexchai - Mannoroth",
 		["Timberhoo - Mannoroth"] = "Timberhoo - Mannoroth",
 		["Dawnel - Mannoroth"] = "Dawnel - Mannoroth",
 		["Chaisauce - Mannoroth"] = "Chaisauce - Mannoroth",
@@ -41,10 +43,18 @@ TomTomWaypointsM = {
 					["arrivaldistance"] = 15,
 					["callbacks"] = {
 						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
 						},
 						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 					},
 					["persistent"] = true,
@@ -62,6 +72,8 @@ TomTomWaypointsM = {
 		},
 		["Flexchai - Mannoroth"] = {
 		},
+		["Hexchai - Mannoroth"] = {
+		},
 		["Timberhoo - Mannoroth"] = {
 		},
 		["Dawnel - Mannoroth"] = {
@@ -78,9 +90,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["persistent"] = true,

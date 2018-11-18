@@ -8,11 +8,11 @@ AngryAssign_Pages = {
 		["Contents"] = "Everyone -> Green Add (Stack tight)\nWW/Tapz/Tyksu -> Purple Add\nImminent Ruin = Star & Circle",
 	},
 	[3664918494] = {
-		["Updated"] = 1541646572,
+		["Updated"] = 1542249279,
 		["Name"] = "Mythic Zek",
 		["Id"] = 3664918494,
-		["UpdateId"] = 3909669784,
-		["Contents"] = "GREEN = Face corner for wall\nX = Go Crazy",
+		["UpdateId"] = 4165463617,
+		["Contents"] = "1 = Star\n2 = Circle\n3 = Diamond\n4 = Green(Triangle)",
 	},
 	[4276277186] = {
 		["Updated"] = 1530148293,
@@ -50,11 +50,11 @@ AngryAssign_Pages = {
 		["Contents"] = "#1 - Pichu/Butt [L]\n#2 - Timb/Swift [R]\n#3 - Neth/Grump [L]\n\n1st Bloodfeast - Tanks + Neth/Grump (KILL)\n2nd Bloodfeast - ALL PERSON",
 	},
 	[3247921963] = {
-		["Updated"] = 1538531165,
+		["Updated"] = 1542255256,
 		["Name"] = "Vectis",
 		["Id"] = 3247921963,
-		["UpdateId"] = 2297235876,
-		["Contents"] = "1/2 = Star\n3/4 = Circle\n5/6 = Diamond",
+		["UpdateId"] = 3679600605,
+		["Contents"] = "1 - Star/Skull\n2 - Circle/Cross\n3 - Diamond/Moon\n4 - Triangle/Square",
 	},
 	[1856338458] = {
 		["Updated"] = 1537410408,
@@ -67,11 +67,7 @@ AngryAssign_Pages = {
 AngryAssign_Categories = {
 }
 AngryAssign_State = {
-	["tree"] = {
-	},
-	["locked"] = true,
-	["window"] = {
-	},
+	["directionUp"] = false,
 	["display"] = {
 		["y"] = 263.111114501953,
 		["x"] = 32.5559158325195,
@@ -80,7 +76,11 @@ AngryAssign_State = {
 		["hidden"] = false,
 		["width"] = 227,
 	},
-	["directionUp"] = false,
+	["tree"] = {
+	},
+	["locked"] = true,
+	["window"] = {
+	},
 }
 AngryAssign_Config = {
 }

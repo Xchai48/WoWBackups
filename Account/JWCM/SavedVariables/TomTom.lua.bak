@@ -4,6 +4,7 @@ TomTomDB = {
 		["Xchai - Mannoroth"] = "Default",
 		["Dawnel - Mannoroth"] = "Default",
 		["Flexchai - Mannoroth"] = "Default",
+		["Hexchai - Mannoroth"] = "Default",
 		["Ochai - Mannoroth"] = "Default",
 		["Phatbootygrl - Moon Guard"] = "Default",
 		["Timberho - Mannoroth"] = "Default",
@@ -23,6 +24,7 @@ TomTomWaypointsM = {
 		["Xchai - Mannoroth"] = "Xchai - Mannoroth",
 		["Phatbootygrl - Moon Guard"] = "Phatbootygrl - Moon Guard",
 		["Flexchai - Mannoroth"] = "Flexchai - Mannoroth",
+		["Hexchai - Mannoroth"] = "Hexchai - Mannoroth",
 		["Timberhoo - Mannoroth"] = "Timberhoo - Mannoroth",
 		["Dawnel - Mannoroth"] = "Dawnel - Mannoroth",
 		["Timberho - Mannoroth"] = "Timberho - Mannoroth",
@@ -62,6 +64,8 @@ TomTomWaypointsM = {
 		},
 		["Flexchai - Mannoroth"] = {
 		},
+		["Hexchai - Mannoroth"] = {
+		},
 		["Timberhoo - Mannoroth"] = {
 		},
 		["Dawnel - Mannoroth"] = {
@@ -80,9 +84,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,

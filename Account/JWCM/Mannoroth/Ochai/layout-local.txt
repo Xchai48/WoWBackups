@@ -13,13 +13,6 @@ X: 470
 Y: -144
 W: 232
 H: 100
-Frame: TargetFrame
-FrameLevel: 1
-Anchor: RIGHT
-X: -470
-Y: -144
-W: 232
-H: 100
 Frame: SimcCopyFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -34,3 +27,10 @@ X: -17
 Y: -26
 W: 56
 H: 42
+Frame: TargetFrame
+FrameLevel: 1
+Anchor: RIGHT
+X: -470
+Y: -144
+W: 232
+H: 100

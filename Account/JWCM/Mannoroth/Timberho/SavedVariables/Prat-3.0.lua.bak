@@ -14,33 +14,33 @@ Prat3CharDB = {
 			},
 			["ChatFrame6EditBox"] = {
 			},
-			["ChatFrame9EditBox"] = {
-			},
-			["ChatFrame2EditBox"] = {
+			["ChatFrame1EditBox"] = {
 			},
 			["ChatFrame3EditBox"] = {
 			},
-			["ChatFrame1EditBox"] = {
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
 			},
 		},
 	},
 }
 Prat3HighCPUPerCharDB = {
-	["time"] = 1542025197,
+	["time"] = 1542026086,
 	["scrollback"] = {
 		["ChatFrame1"] = {
 			{
-				"|cff979797[07:19:20]|r|c00000000|r You won an auction for Siren's Pollen", -- [1]
-				1, -- [2]
-				1, -- [3]
+				"|cff979797[07:19:29]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				0, -- [2]
+				0.666666686534882, -- [3]
 				0, -- [4]
-				1, -- [5]
+				28, -- [5]
 				false, -- [6]
-				5, -- [7]
-				6, -- [8]
+				1, -- [7]
+				2, -- [8]
 			}, -- [1]
 			{
-				"|cff979797[07:19:28]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx200.", -- [1]
+				"|cff979797[07:19:29]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -50,7 +50,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [2]
 			{
-				"|cff979797[07:19:28]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx200.", -- [1]
+				"|cff979797[07:19:30]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -60,7 +60,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [3]
 			{
-				"|cff979797[07:19:28]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:30]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -70,7 +70,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [4]
 			{
-				"|cff979797[07:19:29]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:30]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -80,7 +80,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [5]
 			{
-				"|cff979797[07:19:29]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:31]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -90,7 +90,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [6]
 			{
-				"|cff979797[07:19:29]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:31]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -100,7 +100,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [7]
 			{
-				"|cff979797[07:19:30]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:31]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -110,7 +110,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [8]
 			{
-				"|cff979797[07:19:30]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:31]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -120,7 +120,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [9]
 			{
-				"|cff979797[07:19:30]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:32]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -130,7 +130,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [10]
 			{
-				"|cff979797[07:19:31]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:32]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -140,7 +140,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [11]
 			{
-				"|cff979797[07:19:31]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:32]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -150,7 +150,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [12]
 			{
-				"|cff979797[07:19:31]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:32]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -160,7 +160,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [13]
 			{
-				"|cff979797[07:19:31]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:33]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -170,7 +170,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [14]
 			{
-				"|cff979797[07:19:32]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:33]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -180,7 +180,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [15]
 			{
-				"|cff979797[07:19:32]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:33]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -190,7 +190,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [16]
 			{
-				"|cff979797[07:19:32]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:33]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -200,7 +200,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [17]
 			{
-				"|cff979797[07:19:32]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:34]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -210,7 +210,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [18]
 			{
-				"|cff979797[07:19:33]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:34]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -220,7 +220,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [19]
 			{
-				"|cff979797[07:19:33]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:34]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -230,7 +230,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [20]
 			{
-				"|cff979797[07:19:33]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:35]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -240,7 +240,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [21]
 			{
-				"|cff979797[07:19:33]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:35]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -250,7 +250,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [22]
 			{
-				"|cff979797[07:19:34]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:35]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -260,7 +260,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [23]
 			{
-				"|cff979797[07:19:34]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:35]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -270,7 +270,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [24]
 			{
-				"|cff979797[07:19:34]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:36]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -280,7 +280,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [25]
 			{
-				"|cff979797[07:19:35]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:36]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -290,7 +290,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [26]
 			{
-				"|cff979797[07:19:35]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:36]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -300,7 +300,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [27]
 			{
-				"|cff979797[07:19:35]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:36]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -310,7 +310,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [28]
 			{
-				"|cff979797[07:19:35]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:37]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -320,7 +320,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [29]
 			{
-				"|cff979797[07:19:36]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:37]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -330,7 +330,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [30]
 			{
-				"|cff979797[07:19:36]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:37]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -340,7 +340,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [31]
 			{
-				"|cff979797[07:19:36]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:38]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -350,7 +350,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [32]
 			{
-				"|cff979797[07:19:36]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:38]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -360,7 +360,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [33]
 			{
-				"|cff979797[07:19:37]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:38]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -370,7 +370,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [34]
 			{
-				"|cff979797[07:19:37]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:38]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -380,7 +380,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [35]
 			{
-				"|cff979797[07:19:37]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:39]|r|c00000000|r You receive item: |cffffffff|Hitem:152505::::::::85:267::::::|h[Riverbud]|h|rx200.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -390,7 +390,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [36]
 			{
-				"|cff979797[07:19:38]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:39]|r|c00000000|r You receive item: |cffffffff|Hitem:152505::::::::85:267::::::|h[Riverbud]|h|rx200.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -400,7 +400,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [37]
 			{
-				"|cff979797[07:19:38]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:39]|r|c00000000|r You receive item: |cffffffff|Hitem:152505::::::::85:267::::::|h[Riverbud]|h|rx200.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -410,7 +410,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [38]
 			{
-				"|cff979797[07:19:38]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:40]|r|c00000000|r You receive item: |cffffffff|Hitem:152505::::::::85:267::::::|h[Riverbud]|h|rx48.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -420,7 +420,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [39]
 			{
-				"|cff979797[07:19:38]|r|c00000000|r You receive item: |cffffffff|Hitem:152509::::::::85:267::::::|h[Siren's Pollen]|h|rx5.", -- [1]
+				"|cff979797[07:19:40]|r|c00000000|r You receive item: |cffffffff|Hitem:152505::::::::85:267::::::|h[Riverbud]|h|rx16.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -430,7 +430,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [40]
 			{
-				"|cff979797[07:19:39]|r|c00000000|r You receive item: |cffffffff|Hitem:152505::::::::85:267::::::|h[Riverbud]|h|rx200.", -- [1]
+				"|cff979797[07:19:40]|r|c00000000|r You receive item: |cffffffff|Hitem:152505::::::::85:267::::::|h[Riverbud]|h|rx5.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -440,7 +440,7 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [41]
 			{
-				"|cff979797[07:19:39]|r|c00000000|r You receive item: |cffffffff|Hitem:152505::::::::85:267::::::|h[Riverbud]|h|rx200.", -- [1]
+				"|cff979797[07:19:40]|r|c00000000|r You receive item: |cffffffff|Hitem:152505::::::::85:267::::::|h[Riverbud]|h|rx3.", -- [1]
 				0, -- [2]
 				0.666666686534882, -- [3]
 				0, -- [4]
@@ -450,56 +450,6 @@ Prat3HighCPUPerCharDB = {
 				2, -- [8]
 			}, -- [42]
 			{
-				"|cff979797[07:19:39]|r|c00000000|r You receive item: |cffffffff|Hitem:152505::::::::85:267::::::|h[Riverbud]|h|rx200.", -- [1]
-				0, -- [2]
-				0.666666686534882, -- [3]
-				0, -- [4]
-				28, -- [5]
-				false, -- [6]
-				1, -- [7]
-				2, -- [8]
-			}, -- [43]
-			{
-				"|cff979797[07:19:40]|r|c00000000|r You receive item: |cffffffff|Hitem:152505::::::::85:267::::::|h[Riverbud]|h|rx48.", -- [1]
-				0, -- [2]
-				0.666666686534882, -- [3]
-				0, -- [4]
-				28, -- [5]
-				false, -- [6]
-				1, -- [7]
-				2, -- [8]
-			}, -- [44]
-			{
-				"|cff979797[07:19:40]|r|c00000000|r You receive item: |cffffffff|Hitem:152505::::::::85:267::::::|h[Riverbud]|h|rx16.", -- [1]
-				0, -- [2]
-				0.666666686534882, -- [3]
-				0, -- [4]
-				28, -- [5]
-				false, -- [6]
-				1, -- [7]
-				2, -- [8]
-			}, -- [45]
-			{
-				"|cff979797[07:19:40]|r|c00000000|r You receive item: |cffffffff|Hitem:152505::::::::85:267::::::|h[Riverbud]|h|rx5.", -- [1]
-				0, -- [2]
-				0.666666686534882, -- [3]
-				0, -- [4]
-				28, -- [5]
-				false, -- [6]
-				1, -- [7]
-				2, -- [8]
-			}, -- [46]
-			{
-				"|cff979797[07:19:40]|r|c00000000|r You receive item: |cffffffff|Hitem:152505::::::::85:267::::::|h[Riverbud]|h|rx3.", -- [1]
-				0, -- [2]
-				0.666666686534882, -- [3]
-				0, -- [4]
-				28, -- [5]
-				false, -- [6]
-				1, -- [7]
-				2, -- [8]
-			}, -- [47]
-			{
 				"|cff979797[07:19:57]|r|c00000000|r |Hchannel:channel:1|h[1] |h Left Channel: |Hchannel:1|h[1. General - Orgrimmar]|h", -- [1]
 				1, -- [2]
 				0.752941250801086, -- [3]
@@ -508,7 +458,7 @@ Prat3HighCPUPerCharDB = {
 				false, -- [6]
 				7, -- [7]
 				8, -- [8]
-			}, -- [48]
+			}, -- [43]
 			{
 				"|cff979797[07:19:57]|r|c00000000|r |Hchannel:channel:2|h[2] |h Left Channel: |Hchannel:2|h[2. Trade - City]|h", -- [1]
 				1, -- [2]
@@ -518,7 +468,7 @@ Prat3HighCPUPerCharDB = {
 				false, -- [6]
 				10, -- [7]
 				11, -- [8]
-			}, -- [49]
+			}, -- [44]
 			{
 				"|cff979797[07:19:57]|r|c00000000|r |Hchannel:channel:3|h[3] |h Left Channel: |Hchannel:3|h[3. LocalDefense - Orgrimmar]|h", -- [1]
 				1, -- [2]
@@ -528,6 +478,56 @@ Prat3HighCPUPerCharDB = {
 				false, -- [6]
 				13, -- [7]
 				14, -- [8]
+			}, -- [45]
+			{
+				"|cff979797[07:30:26]|r|c00000000|r |cfff48cbaChi|r has gone offline.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+				false, -- [6]
+				1, -- [7]
+				2, -- [8]
+			}, -- [46]
+			{
+				"|cff979797[07:30:26]|r|c00000000|r |cfff48cbaChi|r has gone offline.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+				false, -- [6]
+				1, -- [7]
+				2, -- [8]
+			}, -- [47]
+			{
+				"|cff979797[07:34:46]|r|c00000000|r |Hchannel:channel:1|h[1] |h Left Channel: |Hchannel:1|h[1. General - Orgrimmar]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+				false, -- [6]
+				5, -- [7]
+				6, -- [8]
+			}, -- [48]
+			{
+				"|cff979797[07:34:46]|r|c00000000|r |Hchannel:channel:2|h[2] |h Left Channel: |Hchannel:2|h[2. Trade - City]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+				false, -- [6]
+				8, -- [7]
+				9, -- [8]
+			}, -- [49]
+			{
+				"|cff979797[07:34:46]|r|c00000000|r |Hchannel:channel:3|h[3] |h Left Channel: |Hchannel:3|h[3. LocalDefense - Orgrimmar]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				69, -- [5]
+				false, -- [6]
+				11, -- [7]
+				12, -- [8]
 			}, -- [50]
 		},
 	},

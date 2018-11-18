@@ -30,6 +30,7 @@ SellJunkDB = {
 		["Xchai - Mannoroth"] = "Xchai - Mannoroth",
 		["Dawnel - Mannoroth"] = "Dawnel - Mannoroth",
 		["Flexchai - Mannoroth"] = "Flexchai - Mannoroth",
+		["Hexchai - Mannoroth"] = "Hexchai - Mannoroth",
 		["Ochai - Mannoroth"] = "Ochai - Mannoroth",
 		["Phatbootygrl - Moon Guard"] = "Phatbootygrl - Moon Guard",
 		["Chaisauce - Mannoroth"] = "Chaisauce - Mannoroth",

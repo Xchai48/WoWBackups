@@ -72,7 +72,7 @@ AucAdvancedServers = {
 	},
 	["KnownServerKeys"] = {
 		["MoonGuard"] = 1538201661,
-		["#Mannoroth"] = 1542217672,
+		["#Mannoroth"] = 1542541820,
 	},
 	["ExpandedNames"] = {
 		["MoonGuard"] = "Moon Guard",

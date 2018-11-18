@@ -9,8 +9,11 @@ WoWProData = {
 			["currentguide"] = "LudoWowAnniversary",
 		},
 		["Flexchai - Mannoroth"] = {
-			["currentguide"] = "LinksMardum098099",
+			["currentguide"] = "LinksDHArtCH100100",
 			["lastlevelingguide"] = "LinksMardum098099",
+		},
+		["Hexchai - Mannoroth"] = {
+			["currentguide"] = "BitDur0105",
 		},
 		["Ochai - Mannoroth"] = {
 			["currentguide"] = "EmmVoldun",
@@ -24,7 +27,8 @@ WoWProData = {
 			["lastlevelingguide"] = "EmmHWarCampaign",
 		},
 		["Chaichai - Mannoroth"] = {
-			["currentguide"] = "EmmZuldazar",
+			["currentguide"] = "EmmHWarCampaign",
+			["lastlevelingguide"] = "EmmHWarCampaign",
 		},
 		["Timberho - Mannoroth"] = {
 			["currentguide"] = "LudoWowAnniversary",
@@ -39,6 +43,7 @@ WoWProData = {
 		["Xchai - Mannoroth"] = "Default",
 		["Phatbootygrl - Moon Guard"] = "Default",
 		["Flexchai - Mannoroth"] = "Default",
+		["Hexchai - Mannoroth"] = "Default",
 		["Ochai - Mannoroth"] = "Default",
 		["Chaichai - Mannoroth"] = "Default",
 		["Timberho - Mannoroth"] = "Default",
@@ -10804,10 +10809,10 @@ WoWProData = {
 					["name"] = "Explore Tiragarde Sound",
 					["cid"] = 15298,
 				},
-				[6754] = {
-					["icon"] = 645218,
-					["name"] = "The Dark Heart of the Mogu",
-					["cid"] = 15113,
+				[1689] = {
+					["icon"] = 133202,
+					["name"] = "He Knows If You've Been Naughty",
+					["cid"] = 156,
 				},
 				[9507] = {
 					["icon"] = 132281,
@@ -10839,10 +10844,10 @@ WoWProData = {
 					["name"] = "Bros. Before Ho Ho Ho's",
 					["cid"] = 156,
 				},
-				[1689] = {
-					["icon"] = 133202,
-					["name"] = "He Knows If You've Been Naughty",
-					["cid"] = 156,
+				[9411] = {
+					["icon"] = 236695,
+					["name"] = "Highmaul Historian",
+					["cid"] = 15071,
 				},
 				[1693] = {
 					["icon"] = 236709,
@@ -11289,15 +11294,15 @@ WoWProData = {
 					["name"] = "Emerald Void",
 					["cid"] = 14806,
 				},
-				[12323] = {
-					["icon"] = 135849,
-					["name"] = "Shattered",
-					["cid"] = 14922,
-				},
 				[2058] = {
 					["icon"] = 236177,
 					["name"] = "Snakes. Why'd It Have To Be Snakes?",
 					["cid"] = 14806,
+				},
+				[8228] = {
+					["icon"] = 236805,
+					["name"] = "Collector: Remains of Paragons",
+					["cid"] = 15071,
 				},
 				[6475] = {
 					["icon"] = 603530,
@@ -11624,15 +11629,15 @@ WoWProData = {
 					["name"] = "Honorable Medallion",
 					["cid"] = 95,
 				},
+				[11748] = {
+					["icon"] = 236415,
+					["name"] = "Black is the New Black",
+					["cid"] = 15259,
+				},
 				[2938] = {
 					["icon"] = 254104,
 					["name"] = "Must Deconstruct Faster (25 player)",
 					["cid"] = 15278,
-				},
-				[5875] = {
-					["icon"] = 132599,
-					["name"] = "Littlest Pet Shop",
-					["cid"] = 15118,
 				},
 				[11716] = {
 					["icon"] = 532989,
@@ -11844,10 +11849,10 @@ WoWProData = {
 					["name"] = "Legacy of Leyara",
 					["cid"] = 15070,
 				},
-				[11748] = {
-					["icon"] = 236415,
-					["name"] = "Black is the New Black",
-					["cid"] = 15259,
+				[5875] = {
+					["icon"] = 132599,
+					["name"] = "Littlest Pet Shop",
+					["cid"] = 15118,
 				},
 				[11780] = {
 					["icon"] = 1546417,
@@ -12009,10 +12014,10 @@ WoWProData = {
 					["name"] = "Now We Got Bad Blood",
 					["cid"] = 15286,
 				},
-				[8228] = {
-					["icon"] = 236805,
-					["name"] = "Collector: Remains of Paragons",
-					["cid"] = 15071,
+				[12323] = {
+					["icon"] = 135849,
+					["name"] = "Shattered",
+					["cid"] = 14922,
 				},
 				[12836] = {
 					["icon"] = 2103082,
@@ -12194,10 +12199,10 @@ WoWProData = {
 					["name"] = "Explore Vale of Eternal Blossoms",
 					["cid"] = 15113,
 				},
-				[9411] = {
-					["icon"] = 236695,
-					["name"] = "Highmaul Historian",
-					["cid"] = 15071,
+				[6754] = {
+					["icon"] = 645218,
+					["name"] = "The Dark Heart of the Mogu",
+					["cid"] = 15113,
 				},
 				[9667] = {
 					["icon"] = 135831,
@@ -13663,9 +13668,9 @@ WoWProData = {
 					["name"] = "Draenor",
 					["parentID"] = 96,
 				},
-				[14866] = {
-					["name"] = "Wrath of the Lich King",
-					["parentID"] = 201,
+				[15247] = {
+					["name"] = "Toy Box",
+					["parentID"] = 15246,
 				},
 				[15222] = {
 					["name"] = "Proving Grounds",
@@ -13687,9 +13692,9 @@ WoWProData = {
 					["name"] = "The Burning Crusade",
 					["parentID"] = 201,
 				},
-				[15120] = {
-					["name"] = "Level",
-					["parentID"] = 15117,
+				[14866] = {
+					["name"] = "Wrath of the Lich King",
+					["parentID"] = 201,
 				},
 				[15228] = {
 					["name"] = "Draenor Dungeon",
@@ -13767,9 +13772,9 @@ WoWProData = {
 					["name"] = "Collections",
 					["parentID"] = -1,
 				},
-				[15247] = {
-					["name"] = "Toy Box",
-					["parentID"] = 15246,
+				[15120] = {
+					["name"] = "Level",
+					["parentID"] = 15117,
 				},
 				[15248] = {
 					["name"] = "Mounts",
@@ -22100,12 +22105,174 @@ WoWProData = {
 			"Action=A|Step=Return to the Black Temple|M0=69.85,37.90|M1=69.85,37.93|Error=0.03|QID=38729|Vers=8.0.1M|Guide=LinksMardum098099", -- [8135]
 			"Action=C|Step=Return to the Black Temple|M0=69.85,37.90|M1=69.86,37.69|Error=0.21|QID=38729|Vers=8.0.1M|Guide=LinksMardum098099", -- [8136]
 			"Action=T|Step=Return to the Black Temple|M0=69.86,37.70|M1=69.86,37.69|Error=0.01|QID=38729|Vers=8.0.1M|Guide=LinksMardum098099", -- [8137]
+			"Action=K|Step=Immolanth|M0=45.94,14.73|M1=48.66,19.69|Error=5.66|QID=39683;40254|Vers=8.0.1M|Guide=LinksVault099100", -- [8138]
+			"Action=C|Step=Beam Me Up|M0=70.99,49.68|M1=70.96,50.02|Error=0.34|QID=39684|Vers=8.0.1M|Guide=LinksVault099100", -- [8139]
+			"Action=C|Step=Frozen in Time|M0=43.58,78.04|M1=49.97,78.25|Error=6.40|QID=39685|Vers=8.0.1M|Guide=LinksVault099100", -- [8140]
+			"Action=C|Step=Frozen in Time|M0=43.58,78.04|M1=49.97,78.25|Error=6.40|QID=39685|Vers=8.0.1M|Guide=LinksVault099100", -- [8141]
+			"Action=C|Step=Frozen in Time|M0=43.58,78.04|M1=49.97,78.25|Error=6.40|QID=39685|Vers=8.0.1M|Guide=LinksVault099100", -- [8142]
+			"Action=L|Step=Level 100|M0=43.58,78.04|M1=48.94,78.52|Error=5.38|QID=-99|Vers=8.0.1M|Guide=LinksVault099100", -- [8143]
+			"Action=T|Step=Forged in Fire|M0=41.13,47.17|M1=41.09,47.32|Error=0.15|QID=39683;40254|Vers=8.0.1M|Guide=LinksVault099100", -- [8144]
+			"Action=T|Step=Frozen in Time|M0=41.13,47.17|M1=41.09,47.32|Error=0.15|QID=39685|Vers=8.0.1M|Guide=LinksVault099100", -- [8145]
+			"Action=T|Step=Beam Me Up|M0=41.13,47.13|M1=41.09,47.32|Error=0.19|QID=39684|Vers=8.0.1M|Guide=LinksVault099100", -- [8146]
+			"Action=A|Step=All The Way Up|M0=41.13,47.13|M1=41.09,47.32|Error=0.19|QID=39686|Vers=8.0.1M|Guide=LinksVault099100", -- [8147]
+			"Action=C|Step=All The Way Up|M0=46.80,48.18|M1=24.27,19.37|Error=36.57|QID=39686|Vers=8.0.1M|Guide=LinksVault099100", -- [8148]
+			"Action=h|Step=The Warden's Court|M0=24.42,55.86|M1=24.52,55.95|Error=0.14|QID=39686|Vers=8.0.1M|Guide=LinksVault099100", -- [8149]
+			"Action=T|Step=All The Way Up|M0=24.42,55.86|M1=24.52,55.95|Error=0.14|QID=39686|Vers=8.0.1M|Guide=LinksVault099100", -- [8150]
+			"Action=A|Step=A New Direction|M0=24.42,55.86|M1=24.52,55.95|Error=0.14|QID=40373|Vers=8.0.1M|Guide=LinksVault099100", -- [8151]
+			"Action=C|Step=A New Direction|M0=24.43,51.48|M1=24.42,53.29|Error=1.81|QID=40373|Vers=8.0.1M|Guide=LinksVault099100", -- [8152]
+			"Action=C|Step=A New Direction|M0=24.43,55.72|M1=24.21,55.37|Error=0.41|QID=40373|Vers=8.0.1M|Guide=LinksVault099100", -- [8153]
+			"Action=T|Step=A New Direction|M0=24.43,55.72|M1=24.26,55.84|Error=0.21|QID=40373|Vers=8.0.1M|Guide=LinksVault099100", -- [8154]
+			"Action=A|Step=Between Us and Freedom|M0=24.43,55.72|M1=24.26,55.93|Error=0.27|QID=39694;39688;40255;40256|Vers=8.0.1M|Guide=LinksVault099100", -- [8155]
+			"Action=K|Step=Bastillax|M0=50.78,78.24|M1=50.87,79.15|Error=0.92|QID=39694;39688;40255;40256|Vers=8.0.1M|Guide=LinksVault099100", -- [8156]
+			"Action=T|Step=Between Us and Freedom|M0=84.04,82.82|M1=84.33,82.65|Error=0.34|QID=39694;39688;40255;40256|Vers=8.0.1M|Guide=LinksVault099100", -- [8157]
+			"Action=A|Step=Illidari, We Are Leaving|M0=85.99,84.31|M1=85.54,84.00|Error=0.55|QID=39690|Vers=8.0.1M|Guide=LinksVault099100", -- [8158]
+			"Action=L|Step=Level 100|M0=85.99,84.31|M1=65.20,67.17|Error=26.95|QID=-99|Vers=8.0.1M|Guide=LinksDHArtCH100100", -- [8159]
+			"Action=A|Step=Artifact Specific Quest|M0=85.99,84.31|M1=65.20,67.17|Error=26.95|QID=41120;40819;40247;41803|Vers=8.0.1M|Guide=LinksDHArtCH100100", -- [8160]
+			"Action=A|Step=Artifact specific quest|M0=85.99,84.31|M1=65.20,67.17|Error=26.95|QID=41120;40819;40247;41803|Vers=8.0.1M|Guide=LinksDHArtCH100100", -- [8161]
+			"Action=A|Step=By Any Means|M0=65.64,67.26|M1=65.40,67.46|Error=0.31|QID=41121;39051|Vers=8.0.1M|Guide=LinksDHArtCH100100", -- [8162]
+			"Action=C|Step=By Any Means|M0=66.08,68.11|M1=65.85,67.95|Error=0.28|QID=41121;39051|Vers=8.0.1M|Guide=LinksDHArtCH100100", -- [8163]
+			"Action=C|Step=By Any Means|M0=67.75,69.66|M1=50.89,74.19|Error=17.46|QID=41121;39051|Vers=8.0.1M|Guide=LinksDHArtCH100100", -- [8164]
+			"Action=C|Step=By Any Means|M0=52.13,47.80|M1=51.27,47.39|Error=0.95|QID=41121;39051|Vers=8.0.1M|Guide=LinksDHArtCH100100", -- [8165]
+			"Action=T|Step=By Any Means|M0=50.29,70.94|M1=50.17,71.95|Error=1.02|QID=41121;39051|Vers=8.0.1M|Guide=LinksDHArtCH100100", -- [8166]
+			"Action=A|Step=The Hunt|M0=50.29,70.94|M1=50.17,71.95|Error=1.02|QID=41119;39247|Vers=8.0.1M|Guide=LinksDHArtCH100100", -- [8167]
+			"Action=R|Step=Dalaran|M0=50.29,70.94|M1=65.01,66.81|Error=15.29|QID=41119;39247|Vers=8.0.1M|Guide=LinksDHArtCH100100", -- [8168]
+			"Action=T|Step=The Kul Tiras Campaign|M0=58.56,62.73|M1=58.43,62.67|Error=0.14|QID=51803|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8169]
+			"Action=A|Step=A Trip Across the Ocean|M0=58.56,62.73|M1=58.43,62.67|Error=0.14|QID=51332|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8170]
+			"Action=T|Step=A Trip Across the Ocean|M0=58.56,62.73|M1=58.47,62.62|Error=0.14|QID=51332|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8171]
+			"Action=A|Step=Drustvar Ho!|M0=58.56,62.73|M1=58.47,62.62|Error=0.14|QID=51340|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8172]
+			"Action=C|Step=Drustvar Ho!|M0=58.43,62.67|M1=58.52,62.72|Error=0.10|QID=51340|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8173]
+			"Action=C|Step=Drustvar Ho!|M0=58.43,62.67|M1=58.44,63.00|Error=0.33|QID=51340|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8174]
+			"Action=T|Step=Drustvar Ho!|M0=58.43,62.67|M1=20.78,43.77|Error=42.12|QID=51340|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8175]
+			"Action=A|Step=Profit and Reconnaissance|M0=58.43,62.67|M1=20.78,43.77|Error=42.12|QID=51224|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8176]
+			"Action=C|Step=Profit and Reconnaissance|M0=58.43,62.67|M1=22.27,46.28|Error=39.70|QID=51224|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8177]
+			"Action=C|Step=Profit and Reconnaissance|M0=58.43,62.67|M1=25.52,46.17|Error=36.81|QID=51224|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8178]
+			"Action=C|Step=Profit and Reconnaissance|M0=58.43,62.67|M1=29.47,54.86|Error=29.99|QID=51224|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8179]
+			"Action=C|Step=Profit and Reconnaissance|M0=58.43,62.67|M1=32.26,54.24|Error=27.50|QID=51224|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8180]
+			"Action=T|Step=Profit and Reconnaissance|M0=58.43,62.67|M1=32.34,54.54|Error=27.32|QID=51224|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8181]
+			"Action=A|Step=Wiccaphobia|M0=58.43,62.67|M1=32.34,54.54|Error=27.32|QID=51231|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8182]
+			"Action=C|Step=Wiccaphobia|M0=58.43,62.67|M1=32.17,54.51|Error=27.50|QID=51231|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8183]
+			"Action=T|Step=Wiccaphobia|M0=58.43,62.67|M1=32.36,54.50|Error=27.32|QID=51231|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8184]
+			"Action=A|Step=I Hope There's No Witches in the Mountains|M0=58.43,62.67|M1=32.37,54.53|Error=27.31|QID=51233|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8185]
+			"Action=C|Step=I Hope There's No Witches in the Mountains|M0=58.43,62.67|M1=33.58,37.88|Error=35.10|QID=51233|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8186]
+			"Action=C|Step=I Hope There's No Witches in the Mountains|M0=58.43,62.67|M1=37.48,27.51|Error=40.93|QID=51233|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8187]
+			"Action=T|Step=I Hope There's No Witches in the Mountains|M0=58.43,62.67|M1=37.22,27.23|Error=41.30|QID=51233|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8188]
+			"Action=A|Step=Krazzlefrazz Outpost|M0=58.43,62.67|M1=36.93,27.10|Error=41.56|QID=51234|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8189]
+			"Action=C|Step=Krazzlefrazz Outpost|M0=58.43,62.67|M1=36.91,26.25|Error=42.30|QID=51234|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8190]
+			"Action=C|Step=Krazzlefrazz Outpost|M0=58.43,62.67|M1=37.70,24.43|Error=43.50|QID=51234|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8191]
+			"Action=C|Step=Krazzlefrazz Outpost|M0=58.43,62.67|M1=37.70,24.43|Error=43.50|QID=51234|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8192]
+			"Action=C|Step=Krazzlefrazz Outpost|M0=58.43,62.67|M1=37.70,24.43|Error=43.50|QID=51234|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8193]
+			"Action=T|Step=Krazzlefrazz Outpost|M0=58.43,62.67|M1=37.17,27.14|Error=41.41|QID=51234|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8194]
+			"Action=A|Step=Champion: Hobart Grapplehammer|M0=58.43,62.67|M1=36.95,27.13|Error=41.52|QID=51987|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8195]
+			"Action=T|Step=Champion: Hobart Grapplehammer|M0=58.43,62.67|M1=36.95,27.13|Error=41.52|QID=51987|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8196]
+			"Action=A|Step=Return to Zuldazar|M0=58.43,62.67|M1=37.23,27.11|Error=41.40|QID=51985|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8197]
+			"Action=f|Step=Krazzlefrazz Outpost|M0=58.43,62.67|M1=36.95,24.02|Error=44.22|QID=51985|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8198]
+			"Action=C|Step=Return to Zuldazar|M0=58.43,62.67|M1=58.40,62.50|Error=0.18|QID=51985|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8199]
+			"Action=T|Step=Return to Zuldazar|M0=58.43,62.67|M1=58.42,62.68|Error=0.01|QID=51985|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8200]
+			"Action=A|Step=The Ongoing Campaign|M0=58.43,62.67|M1=58.42,62.68|Error=0.01|QID=51979|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8201]
+			"Action=N|Step=Come back at level 114|M0=58.43,62.67|M1=58.42,62.68|Error=0.01|QID=-99|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8202]
+			"Action=T|Step=Foothold: Stormsong Valley|M0=58.45,62.62|M1=58.41,62.63|Error=0.04|QID=51802|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8203]
+			"Action=T|Step=Foothold: Stormsong Valley|M0=58.44,62.62|M1=58.41,62.63|Error=0.03|QID=51802|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8204]
+			"Action=T|Step=Foothold: Stormsong Valley|M0=58.44,62.62|M1=58.41,62.63|Error=0.03|QID=51802|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8205]
+			"Action=C|Step=Pick next Foothold|M0=58.44,62.62|M1=58.41,62.63|Error=0.03|QID=51979|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8206]
+			"Action=T|Step=The Ongoing Campaign|M0=58.43,62.67|M1=58.42,62.67|Error=0.01|QID=51979|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8207]
+			"Action=A|Step=The Warlord's Call|M0=58.43,62.67|M1=58.42,62.67|Error=0.01|QID=51526|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8208]
+			"Action=T|Step=The Warlord's Call|M0=58.44,62.45|M1=58.42,62.47|Error=0.03|QID=51526|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8209]
+			"Action=A|Step=Storming In|M0=58.44,62.45|M1=58.42,62.47|Error=0.03|QID=51532|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8210]
+			"Action=A|Step=Adapting Our Tactics|M0=58.46,62.99|M1=58.53,62.72|Error=0.28|QID=53602|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8211]
+			"Action=C|Step=Storming In|M0=58.46,62.99|M1=58.42,62.95|Error=0.05|QID=51532|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8212]
+			"Action=T|Step=Storming In|M0=51.11,21.16|M1=51.08,21.07|Error=0.09|QID=51532|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8213]
+			"Action=A|Step=A Wall of Iron|M0=51.11,21.16|M1=51.08,21.07|Error=0.09|QID=51643|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8214]
+			"Action=C|Step=A Wall of Iron|M0=51.18,21.12|M1=51.18,21.12|Error=0.00|QID=51643|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8215]
+			"Action=C|Step=A Wall of Iron|M0=51.18,21.12|M1=51.18,21.12|Error=0.00|QID=51643|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8216]
+			"Action=T|Step=A Wall of Iron|M0=51.11,21.16|M1=51.06,21.07|Error=0.11|QID=51643|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8217]
+			"Action=A|Step=On the Hunt|M0=51.11,21.16|M1=51.06,21.07|Error=0.11|QID=51536|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8218]
+			"Action=C|Step=On the Hunt|M0=51.05,21.47|M1=51.05,21.47|Error=0.01|QID=51536|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8219]
+			"Action=C|Step=On the Hunt|M0=50.39,26.18|M1=50.40,26.23|Error=0.05|QID=51536|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8220]
+			"Action=T|Step=On the Hunt|M0=50.41,26.17|M1=50.40,26.26|Error=0.09|QID=51536|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8221]
+			"Action=A|Step=Onward!|M0=50.41,26.17|M1=50.40,26.26|Error=0.09|QID=51587|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8222]
+			"Action=C|Step=Onward!|M0=51.91,30.17|M1=51.98,30.01|Error=0.17|QID=51587|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8223]
+			"Action=T|Step=Onward!|M0=51.66,29.83|M1=51.65,29.88|Error=0.05|QID=51587|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8224]
+			"Action=A|Step=Hunt Them Down|M0=51.66,29.83|M1=51.65,29.88|Error=0.05|QID=51675|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8225]
+			"Action=A|Step=Almost Worth Saving|M0=51.66,29.83|M1=51.65,29.88|Error=0.05|QID=51691|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8226]
+			"Action=A|Step=Douse the Flames|M0=51.67,29.94|M1=51.65,29.88|Error=0.06|QID=51674|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8227]
+			"Action=C|Step=Douse the Flames|M0=51.85,33.63|M1=51.45,33.02|Error=0.73|QID=51674|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8228]
+			"Action=C|Step=Douse the Flames|M0=51.85,33.63|M1=51.45,33.02|Error=0.73|QID=51674|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8229]
+			"Action=C|Step=Hunt Them Down|M0=51.85,33.63|M1=51.46,32.81|Error=0.91|QID=51675|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8230]
+			"Action=C|Step=Hunt Them Down|M0=51.85,32.63|M1=49.45,32.69|Error=2.40|QID=51675|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8231]
+			"Action=C|Step=Hunt Them Down|M0=51.85,32.63|M1=49.45,32.69|Error=2.40|QID=51675|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8232]
+			"Action=C|Step=Almost Worth Saving|M0=51.85,32.63|M1=49.34,31.95|Error=2.60|QID=51691|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8233]
+			"Action=C|Step=Almost Worth Saving|M0=51.85,32.63|M1=49.34,31.95|Error=2.60|QID=51691|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8234]
+			"Action=C|Step=Almost Worth Saving|M0=51.85,32.63|M1=49.34,31.95|Error=2.60|QID=51691|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8235]
+			"Action=T|Step=Hunt Them Down|M0=49.18,34.22|M1=49.20,34.24|Error=0.03|QID=51675|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8236]
+			"Action=T|Step=Almost Worth Saving|M0=49.18,34.22|M1=49.20,34.24|Error=0.03|QID=51691|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8237]
+			"Action=T|Step=Douse the Flames|M0=49.26,34.29|M1=49.20,34.24|Error=0.07|QID=51674|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8238]
+			"Action=A|Step=Reclaiming What's Ours|M0=49.26,34.29|M1=49.20,34.24|Error=0.07|QID=51696|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8239]
+			"Action=C|Step=Reclaiming What's Ours|M0=49.58,34.77|M1=49.54,34.81|Error=0.06|QID=51696|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8240]
+			"Action=T|Step=Reclaiming What's Ours|M0=52.13,33.66|M1=52.11,33.65|Error=0.02|QID=51696|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8241]
+			"Action=A|Step=Champion: Rexxar|M0=52.13,53.66|M1=52.11,33.65|Error=20.01|QID=51753|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8242]
+			"Action=T|Step=Champion: Rexxar|M0=52.13,53.66|M1=52.11,33.65|Error=20.01|QID=51753|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8243]
+			"Action=A|Step=Return to Zuldazar|M0=52.13,33.66|M1=52.11,33.65|Error=0.02|QID=51986|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8244]
+			"Action=f|Step=Warfang Hold|M0=51.43,33.74|M1=51.45,33.73|Error=0.02|QID=51986|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8245]
+			"Action=C|Step=Return to Zuldazar|M0=51.43,33.74|M1=58.40,62.50|Error=29.59|QID=51986|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8246]
+			"Action=T|Step=Return to Zuldazar|M0=58.44,62.67|M1=58.44,62.62|Error=0.05|QID=51986|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8247]
+			"Action=b|Step=Port of Zandalar|M0=58.44,62.67|M1=50.26,99.62|Error=37.85|QID=-99|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8248]
+			"Action=T|Step=Shiver Me Timbers|M0=89.34,53.38|M1=89.33,53.42|Error=0.05|QID=51421|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8249]
+			"Action=A|Step=Swashbuckling in Style|M0=89.34,53.38|M1=89.33,53.42|Error=0.05|QID=51435|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8250]
+			"Action=C|Step=Swashbuckling in Style|M0=89.45,53.65|M1=89.41,53.59|Error=0.07|QID=51435|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8251]
+			"Action=T|Step=Swashbuckling in Style|M0=89.34,53.39|M1=89.33,53.42|Error=0.03|QID=51435|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8252]
+			"Action=A|Step=Parleyin' Wit Pirates|M0=89.34,53.39|M1=89.33,53.42|Error=0.03|QID=51436|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8253]
+			"Action=C|Step=Parleyin' Wit Pirates|M0=89.34,53.39|M1=88.22,51.17|Error=2.49|QID=51436|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8254]
+			"Action=C|Step=Parleyin' Wit Pirates|M0=88.22,51.17|M1=87.29,50.00|Error=1.49|QID=51436|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8255]
+			"Action=T|Step=Parleyin' Wit Pirates|M0=87.31,49.98|M1=87.29,50.00|Error=0.03|QID=51436|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8256]
+			"Action=F|Step=Plunder Harbor|M0=87.31,49.98|M1=87.29,50.00|Error=0.03|QID=-99|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8257]
+			"Action=A|Step=Spike the Punch|M0=87.31,49.98|M1=87.29,50.00|Error=0.03|QID=51437|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8258]
+			"Action=A|Step=Cannonball Collection|M0=87.27,50.00|M1=87.30,50.02|Error=0.03|QID=51439|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8259]
+			"Action=C|Step=Spike the Punch|M0=87.85,50.96|M1=87.38,52.32|Error=1.44|QID=51437|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8260]
+			"Action=C|Step=Spike the Punch|M0=87.85,50.96|M1=87.38,52.32|Error=1.44|QID=51437|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8261]
+			"Action=C|Step=Cannonball Collection|M0=87.85,50.96|M1=87.11,52.71|Error=1.90|QID=51439|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8262]
+			"Action=T|Step=Cannonball Collection|M0=87.28,50.01|M1=87.30,50.03|Error=0.03|QID=51439|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8263]
+			"Action=T|Step=Spike the Punch|M0=87.31,49.98|M1=87.30,50.03|Error=0.06|QID=51437|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8264]
+			"Action=A|Step=A Change in Direction|M0=87.31,49.98|M1=87.30,50.03|Error=0.06|QID=51440|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8265]
+			"Action=A|Step=Thar She Blows!|M0=87.28,50.01|M1=87.30,50.03|Error=0.03|QID=51441|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8266]
+			"Action=C|Step=A Change in Direction|M0=87.02,51.94|M1=87.86,50.17|Error=1.96|QID=51440|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8267]
+			"Action=C|Step=A Change in Direction|M0=87.02,51.94|M1=87.28,49.58|Error=2.38|QID=51440|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8268]
+			"Action=C|Step=A Change in Direction|M0=87.02,51.94|M1=87.04,51.96|Error=0.03|QID=51440|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8269]
+			"Action=C|Step=Thar She Blows!|M0=88.25,50.73|M1=87.88,50.69|Error=0.37|QID=51441|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8270]
+			"Action=T|Step=Thar She Blows!|M0=87.28,50.00|M1=87.29,50.01|Error=0.01|QID=51441|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8271]
+			"Action=T|Step=A Change in Direction|M0=87.31,49.98|M1=87.30,49.99|Error=0.01|QID=51440|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8272]
+			"Action=A|Step=I'm the Captain Now|M0=87.31,49.98|M1=87.30,49.99|Error=0.01|QID=51442|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8273]
+			"Action=C|Step=I'm the Captain Now|M0=86.93,53.13|M1=86.99,52.98|Error=0.16|QID=51442|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8274]
+			"Action=T|Step=I'm the Captain Now|M0=87.31,49.98|M1=87.29,49.97|Error=0.02|QID=51442|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8275]
+			"Action=A|Step=Marking Our Territory|M0=87.31,49.98|M1=87.29,49.98|Error=0.02|QID=51438|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8276]
+			"Action=C|Step=Marking Our Territory|M0=87.31,49.98|M1=87.45,50.37|Error=0.42|QID=51438|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8277]
+			"Action=T|Step=Marking Our Territory|M0=87.27,50.67|M1=87.30,50.02|Error=0.65|QID=51438|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8278]
+			"Action=A|Step=Champion: Shadow Hunter Ty'jin|M0=87.28,50.01|M1=87.30,50.02|Error=0.02|QID=51975|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8279]
+			"Action=T|Step=Champion: Shadow Hunter Ty'jin|M0=87.28,50.01|M1=87.30,50.02|Error=0.02|QID=51975|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8280]
+			"Action=A|Step=Return to Zuldazar|M0=87.28,50.01|M1=87.30,50.02|Error=0.02|QID=51984|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8281]
+			"Action=C|Step=Return to Zuldazar|M0=87.84,51.18|M1=58.40,62.50|Error=31.54|QID=51984|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8282]
+			"Action=T|Step=Return to Zuldazar|M0=58.44,62.67|M1=58.43,62.68|Error=0.02|QID=51984|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8283]
+			"Action=C|Step=Adapting Our Tactics|M0=58.44,62.67|M1=58.52,62.67|Error=0.08|QID=53602|Vers=8.0.1M|Guide=EmmHWarCampaign", -- [8284]
+			"Action=A|Step=The Rise of the Darkspear|M0=42.82,53.44|M1=42.88,53.54|Error=0.12|QID=24758|Vers=8.0.1M|Guide=BitDur0105", -- [8285]
+			"Action=T|Step=The Rise of the Darkspear|M0=50.08,52.75|M1=50.00,52.73|Error=0.08|QID=24758|Vers=8.0.1M|Guide=BitDur0105", -- [8286]
+			"Action=A|Step=The Basics: Hitting Things|M0=50.08,52.74|M1=50.00,52.73|Error=0.08|QID=24759|Vers=8.0.1M|Guide=BitDur0105", -- [8287]
+			"Action=C|Step=The Basics: Hitting Things|M0=58.13,54.14|M1=50.62,52.69|Error=7.65|QID=24759|Vers=8.0.1M|Guide=BitDur0105", -- [8288]
+			"Action=A|Step=The Basics: Hitting Things|M0=50.08,52.74|M1=50.23,52.86|Error=0.19|QID=24759|Vers=8.0.1M|Guide=BitDur0105", -- [8289]
+			"Action=A|Step=A Rough Start|M0=52.89,49.90|M1=50.23,52.86|Error=3.98|QID=24761|Vers=8.0.1M|Guide=BitDur0105", -- [8290]
+			"Action=C|Step=A Rough Start|M0=58.13,54.14|M1=62.37,45.57|Error=9.57|QID=24761|Vers=8.0.1M|Guide=BitDur0105", -- [8291]
+			"Action=T|Step=A Rough Start|M0=50.08,52.74|M1=50.12,52.81|Error=0.08|QID=24761|Vers=8.0.1M|Guide=BitDur0105", -- [8292]
+			"Action=A|Step=Proving Pit|M0=50.08,52.74|M1=50.12,52.81|Error=0.08|QID=24762|Vers=8.0.1M|Guide=BitDur0105", -- [8293]
+			"Action=C|Step=Proving Pit|M0=51.94,51.36|M1=51.84,51.45|Error=0.13|QID=24762|Vers=8.0.1M|Guide=BitDur0105", -- [8294]
+			"Action=C|Step=Proving Pit|M0=51.37,51.66|M1=51.53,51.58|Error=0.18|QID=24762|Vers=8.0.1M|Guide=BitDur0105", -- [8295]
+			"Action=T|Step=Proving Pit|M0=51.72,52.06|M1=50.71,52.13|Error=1.01|QID=24762|Vers=8.0.1M|Guide=BitDur0105", -- [8296]
+			"Action=A|Step=More Than Expected|M0=50.08,52.74|M1=50.71,52.13|Error=0.88|QID=24763|Vers=8.0.1M|Guide=BitDur0105", -- [8297]
+			"Action=T|Step=More Than Expected|M0=61.57,65.85|M1=61.45,65.76|Error=0.15|QID=24763|Vers=8.0.1M|Guide=BitDur0105", -- [8298]
+			"Action=A|Step=Moraya|M0=61.57,65.85|M1=61.45,65.76|Error=0.15|QID=25064|Vers=8.0.1M|Guide=BitDur0105", -- [8299]
 		},
 		["Log"] = {
-			"121241 |c7fffff7fWoWPro|r: Log Reset from Addon Load, WoWPro Version 8.0.1M.", -- [1]
-			"121241 |c7f0000ffWoWPro|r: Unit: Timberhoo, Realm: Mannoroth, Class: Warrior, Race: Orc, Faction: Horde", -- [2]
-			"121247 |c7fffff7fWoWPro|r: |cff33ff33Enabled|r: Version 8.0.1M", -- [3]
-			"121247 |c7fffff7fWoWPro|r: |cffff3333Disabled|r: Version 8.0.1M", -- [4]
+			"055608 |c7fffff7fWoWPro|r: Log Reset from Addon Load, WoWPro Version 8.0.1M.", -- [1]
+			"055608 |c7f0000ffWoWPro|r: Unit: Timberhoo, Realm: Mannoroth, Class: Warrior, Race: Orc, Faction: Horde", -- [2]
+			"055614 |c7fffff7fWoWPro|r: |cff33ff33Enabled|r: Version 8.0.1M", -- [3]
+			"055614 |c7fffff7fWoWPro|r: |cffff3333Disabled|r: Version 8.0.1M", -- [4]
 		},
 		["NpcFauxQuests"] = {
 			[79180] = {
@@ -22268,10 +22435,10 @@ WoWProData = {
 				["title"] = "Jahan, Samm, and Archimedes",
 				["guide"] = "LudoGarrisonPets",
 			},
-			[128023] = {
-				["qid"] = 49057,
-				["title"] = "Minixis",
-				["guide"] = "LudoPetWQAntoran",
+			[85561] = {
+				["qid"] = 85561.1,
+				["title"] = "Brutus, Ruckus",
+				["guide"] = "LudoGarrisonPets",
 			},
 			[85655] = {
 				["qid"] = 85561.1,
@@ -22313,9 +22480,9 @@ WoWProData = {
 				["title"] = "Watcher",
 				["guide"] = "LudoPetWQAntoran",
 			},
-			[85561] = {
-				["qid"] = 85561.1,
-				["title"] = "Brutus, Ruckus",
+			[85687] = {
+				["qid"] = 85686.1,
+				["title"] = "Manos, Hanos, and Fatos",
 				["guide"] = "LudoGarrisonPets",
 			},
 			[79182] = {
@@ -22338,10 +22505,10 @@ WoWProData = {
 				["title"] = "Grubbles, Scrags, and Stings",
 				["guide"] = "LudoGarrisonPets",
 			},
-			[85687] = {
-				["qid"] = 85686.1,
-				["title"] = "Manos, Hanos, and Fatos",
-				["guide"] = "LudoGarrisonPets",
+			[128023] = {
+				["qid"] = 49057,
+				["title"] = "Minixis",
+				["guide"] = "LudoPetWQAntoran",
 			},
 			[85683] = {
 				["qid"] = 85682.1,

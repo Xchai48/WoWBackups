@@ -14,12 +14,14 @@ VER 3 0000000000000004 "Camera" "INV_Misc_QuestionMark"
 /script SetCVar("cameraDistanceMax",18)
 END
 VER 3 0000000000000002 "Decursive" "INV_MISC_QUESTIONMARK"
-/script DecursiveRootTable.Dcr:Println('No spell available')
+/stopcasting
+/cast [@mouseover,nomod,exists] Purify Disease;  [@mouseover,exists,mod:ctrl] Dispel Magic; [@mouseover,exists,mod:shift] Purify Disease
 END
 VER 3 0000000000000014 "kneel" "INV_Misc_QuestionMark"
 /kneel
 END
 VER 3 0000000000000001 "Random" "INV_Misc_QuestionMark"
+/cancelaura Jack-o'-Lanterned!
 END
 VER 3 0000000000000019 "remindm+" "INV_MISC_QUESTIONMARK"
 /s Delete your unwanted keys.

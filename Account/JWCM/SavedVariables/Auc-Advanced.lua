@@ -71,7 +71,7 @@ AucAdvancedServers = {
 	},
 	["Timestamp"] = 1530751529,
 	["KnownServerKeys"] = {
-		["#Mannoroth"] = 1542220855,
+		["#Mannoroth"] = 1542542748,
 		["MoonGuard"] = 1538201661,
 	},
 	["ExpandedNames"] = {

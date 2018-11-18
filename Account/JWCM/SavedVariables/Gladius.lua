@@ -3,9 +3,10 @@ Gladius2DB = {
 	["profileKeys"] = {
 		["Xchai - Mannoroth"] = "Default",
 		["Timberhoo - Mannoroth"] = "Default",
+		["Shenaynay - Mannoroth"] = "Shenaynay - Mannoroth",
 		["Flexchai - Mannoroth"] = "Flexchai - Mannoroth",
 		["Chaisauce - Mannoroth"] = "Default",
-		["Shenaynay - Mannoroth"] = "Shenaynay - Mannoroth",
+		["Hexchai - Mannoroth"] = "Hexchai - Mannoroth",
 	},
 	["profiles"] = {
 		["Xchai - Mannoroth"] = {
@@ -106,6 +107,16 @@ Gladius2DB = {
 			},
 			["auraVersion"] = 1,
 		},
+		["Shenaynay - Mannoroth"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["y"] = {
+				["arena1"] = 747.662327038444,
+			},
+			["x"] = {
+				["arena1"] = 273.066790771481,
+			},
+		},
 		["Flexchai - Mannoroth"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
@@ -120,14 +131,14 @@ Gladius2DB = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
 		},
-		["Shenaynay - Mannoroth"] = {
+		["Hexchai - Mannoroth"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 747.662327038444,
-			},
 			["x"] = {
-				["arena1"] = 273.066790771481,
+				["arena1"] = 915.910838902797,
+			},
+			["y"] = {
+				["arena1"] = 731.306702404021,
 			},
 		},
 	},

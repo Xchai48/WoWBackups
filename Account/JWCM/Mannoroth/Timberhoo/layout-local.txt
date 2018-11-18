@@ -1,11 +1,4 @@
 Version: 1
-Frame: WorldQuestTrackerFinderFrame
-FrameLevel: 1
-Anchor: TOPLEFT
-X: 177
-Y: -102
-W: 240
-H: 170
 Frame: MonkeySpeedFrame
 FrameLevel: 1
 Anchor: TOPRIGHT
@@ -69,6 +62,13 @@ X: 0
 Y: 0
 W: 700
 H: 450
+Frame: WorldQuestTrackerFinderFrame
+FrameLevel: 1
+Anchor: TOPLEFT
+X: 177
+Y: -102
+W: 240
+H: 170
 Frame: WoWPro.MainFrame
 FrameLevel: 1
 Anchor: TOPLEFT

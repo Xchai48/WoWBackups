@@ -4,6 +4,7 @@ HandyNotesDB = {
 		["Xchai - Mannoroth"] = "Xchai - Mannoroth",
 		["Dawnel - Mannoroth"] = "Dawnel - Mannoroth",
 		["Flexchai - Mannoroth"] = "Flexchai - Mannoroth",
+		["Hexchai - Mannoroth"] = "Hexchai - Mannoroth",
 		["Ochai - Mannoroth"] = "Ochai - Mannoroth",
 		["Phatbootygrl - Moon Guard"] = "Phatbootygrl - Moon Guard",
 		["Chaisauce - Mannoroth"] = "Xchai - Mannoroth",
@@ -22,6 +23,8 @@ HandyNotesDB = {
 		["Dawnel - Mannoroth"] = {
 		},
 		["Flexchai - Mannoroth"] = {
+		},
+		["Hexchai - Mannoroth"] = {
 		},
 		["Ochai - Mannoroth"] = {
 		},
@@ -44,6 +47,7 @@ HandyNotes_HandyNotesDB = {
 		["Xchai - Mannoroth"] = "Xchai - Mannoroth",
 		["Dawnel - Mannoroth"] = "Dawnel - Mannoroth",
 		["Flexchai - Mannoroth"] = "Flexchai - Mannoroth",
+		["Hexchai - Mannoroth"] = "Hexchai - Mannoroth",
 		["Ochai - Mannoroth"] = "Ochai - Mannoroth",
 		["Phatbootygrl - Moon Guard"] = "Phatbootygrl - Moon Guard",
 		["Chaisauce - Mannoroth"] = "Chaisauce - Mannoroth",
@@ -58,6 +62,8 @@ HandyNotes_HandyNotesDB = {
 		["Dawnel - Mannoroth"] = {
 		},
 		["Flexchai - Mannoroth"] = {
+		},
+		["Hexchai - Mannoroth"] = {
 		},
 		["Ochai - Mannoroth"] = {
 		},

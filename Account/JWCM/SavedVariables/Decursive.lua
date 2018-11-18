@@ -1,16 +1,7 @@
 
 DecursiveDB = {
-	["profileKeys"] = {
-		["Xchai - Mannoroth"] = "Default",
-		["Dawnel - Mannoroth"] = "Default",
-		["Flexchai - Mannoroth"] = "Default",
-		["Ochai - Mannoroth"] = "Default",
-		["Phatbootygrl - Moon Guard"] = "Default",
-		["Chaisauce - Mannoroth"] = "Default",
-		["Timberhoo - Mannoroth"] = "Default",
-		["Chaichai - Mannoroth"] = "Default",
-		["Timberho - Mannoroth"] = "Default",
-		["Shenaynay - Mannoroth"] = "Default",
+	["global"] = {
+		["LastVersionAnnounce"] = 1542537834,
 	},
 	["class"] = {
 		["HUNTER"] = {
@@ -90,13 +81,24 @@ DecursiveDB = {
 		},
 		["DRUID"] = {
 			["CureOrder"] = {
-				-13, -- [1]
+				3, -- [1]
 				-16, -- [2]
 				nil, -- [3]
 				1, -- [4]
 				[8] = 2,
 				[16] = -15,
 				[32] = -14,
+			},
+		},
+		["SHAMAN"] = {
+			["CureOrder"] = {
+				-11, -- [1]
+				-15, -- [2]
+				nil, -- [3]
+				-12, -- [4]
+				[8] = -13,
+				[16] = -14,
+				[32] = -16,
 			},
 		},
 		["ROGUE"] = {
@@ -111,8 +113,18 @@ DecursiveDB = {
 			},
 		},
 	},
-	["global"] = {
-		["LastVersionAnnounce"] = 1542220076,
+	["profileKeys"] = {
+		["Xchai - Mannoroth"] = "Default",
+		["Dawnel - Mannoroth"] = "Default",
+		["Flexchai - Mannoroth"] = "Default",
+		["Hexchai - Mannoroth"] = "Default",
+		["Ochai - Mannoroth"] = "Default",
+		["Phatbootygrl - Moon Guard"] = "Default",
+		["Timberho - Mannoroth"] = "Default",
+		["Chaichai - Mannoroth"] = "Default",
+		["Timberhoo - Mannoroth"] = "Default",
+		["Chaisauce - Mannoroth"] = "Default",
+		["Shenaynay - Mannoroth"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

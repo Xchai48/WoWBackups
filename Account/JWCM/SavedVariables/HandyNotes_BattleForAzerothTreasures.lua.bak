@@ -4,6 +4,7 @@ HandyNotes_BattleForAzerothTreasuresDB = {
 		["Xchai - Mannoroth"] = "Xchai - Mannoroth",
 		["Phatbootygrl - Moon Guard"] = "Phatbootygrl - Moon Guard",
 		["Flexchai - Mannoroth"] = "Flexchai - Mannoroth",
+		["Hexchai - Mannoroth"] = "Hexchai - Mannoroth",
 		["Timberhoo - Mannoroth"] = "Timberhoo - Mannoroth",
 		["Dawnel - Mannoroth"] = "Dawnel - Mannoroth",
 		["Timberho - Mannoroth"] = "Timberho - Mannoroth",
@@ -18,6 +19,8 @@ HandyNotes_BattleForAzerothTreasuresDB = {
 		["Phatbootygrl - Moon Guard"] = {
 		},
 		["Flexchai - Mannoroth"] = {
+		},
+		["Hexchai - Mannoroth"] = {
 		},
 		["Timberhoo - Mannoroth"] = {
 		},

@@ -1,6 +1,6 @@
 VER 3 010000000000000E "1Trix" "INV_Misc_QuestionMark"
 #showtooltip
-/cast [target=Whitewolf] Tricks of the Trade
+/cast [target=Oníx] Tricks of the Trade
 END
 VER 3 010000000000001E "Adren" "INV_MISC_QUESTIONMARK"
 #showtooltip[nomod][mod:shift][mod:alt] Adrenaline Rush
@@ -10,9 +10,8 @@ VER 3 010000000000001E "Adren" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000007 "Backstab" "INV_Misc_QuestionMark"
 #showtooltip Backstab
-/use [combat] 10
-/cast Backstab
 /startattack
+/cast Backstab
 END
 VER 3 0100000000000020 "Belt eng" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -22,10 +21,6 @@ VER 3 010000000000000A "blind" "INV_Misc_QuestionMark"
 #showtooltip
 /focus
 /cast Blind
-END
-VER 3 010000000000001D "BokkTrix" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [target=Bokk] Tricks of the Trade
 END
 VER 3 0100000000000021 "Dispatch" "INV_MISC_QUESTIONMARK"
 #showtooltip [mod:alt] 13; Dispatch
@@ -42,11 +37,9 @@ VER 3 010000000000001F "Glider back" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use 15
 END
-VER 3 0100000000000014 "Hemo" "INV_Misc_QuestionMark"
-#showtooltip Hemorrhage
-/use [combat] 10
-/cast Hemorrhage
-/startattack
+VER 3 0100000000000024 "KickSub" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [stealth] Distract; [nostealth] Kick
 END
 VER 3 0100000000000022 "Marked for Death" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -63,6 +56,10 @@ VER 3 0100000000000006 "Sap" "INV_Misc_QuestionMark"
 /targetenemy [noharm][dead]
 /cast [harm] Sap
 /focus
+END
+VER 3 0100000000000025 "SapSub" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [stealth, nomod] Sap; [nostealth, nomod] Shuriken Storm; [mod:alt] Sap
 END
 VER 3 0100000000000019 "Sinister Strike" "INV_MISC_QUESTIONMARK"
 #showtooltip Sinister Strike

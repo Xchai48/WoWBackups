@@ -13,6 +13,7 @@ RSADB = {
 		["Xchai - Mannoroth"] = "Xchai - Mannoroth",
 		["Dawnel - Mannoroth"] = "Dawnel - Mannoroth",
 		["Flexchai - Mannoroth"] = "DEMONHUNTER",
+		["Hexchai - Mannoroth"] = "SHAMAN",
 		["Ochai - Mannoroth"] = "Ochai - Mannoroth",
 		["Phatbootygrl - Moon Guard"] = "PALADIN",
 		["Chaisauce - Mannoroth"] = "Chaisauce - Mannoroth",
@@ -23,60 +24,20 @@ RSADB = {
 	},
 	["profiles"] = {
 		["Xchai - Mannoroth"] = {
-			["Modules"] = {
-				["Warrior"] = true,
-				["Priest"] = true,
-				["Utilities"] = true,
-				["Racials"] = true,
-				["Rogue"] = true,
-			},
-			["Priest"] = {
-				["Spells"] = {
-					["GuardianSpirit"] = {
-						["Whisper"] = false,
-						["SmartGroup"] = true,
-						["Say"] = false,
-					},
-					["VampiricEmbrace"] = {
-						["SmartGroup"] = true,
-					},
-					["MindControl"] = {
-						["SmartGroup"] = true,
-					},
-					["LeapOfFaith"] = {
-						["Whisper"] = false,
-					},
-					["DivineHymn"] = {
-						["SmartGroup"] = true,
-						["Say"] = false,
-					},
-					["BodyAndSoul"] = {
-						["Whisper"] = false,
-					},
-					["MassDispel"] = {
-						["SmartGroup"] = true,
-						["Say"] = false,
-					},
-				},
-			},
 			["General"] = {
+				["Race"] = "Scourge",
 				["GlobalAnnouncements"] = {
 					["InScenario"] = true,
 					["InLFG_Raid"] = true,
 					["InLFG_Party"] = true,
 					["AlwaysAllowWhispers"] = false,
 				},
-				["Race"] = "Scourge",
-				["Class"] = "PRIEST",
+				["Class"] = "ROGUE",
 			},
-			["sink20OutputSink"] = "Default",
 			["Rogue"] = {
 				["Spells"] = {
 					["Tricks"] = {
 						["Whisper"] = false,
-					},
-					["CloakOfShadows"] = {
-						["SmartGroup"] = true,
 					},
 					["Shroud"] = {
 						["SmartGroup"] = true,
@@ -86,12 +47,47 @@ RSADB = {
 							},
 						},
 					},
+					["CloakOfShadows"] = {
+						["SmartGroup"] = true,
+					},
 					["Kick"] = {
 						["Say"] = false,
 					},
 				},
 			},
+			["Modules"] = {
+				["Warrior"] = true,
+				["Priest"] = true,
+				["Utilities"] = true,
+				["Racials"] = true,
+				["Rogue"] = true,
+			},
 			["Fixed"] = true,
+			["Warrior"] = {
+				["Spells"] = {
+					["MassSpellReflection"] = {
+						["SmartGroup"] = true,
+					},
+					["EnragedRegeneration"] = {
+						["SmartGroup"] = true,
+					},
+					["Intercept"] = {
+						["Whisper"] = false,
+					},
+					["SpellReflect"] = {
+						["SmartGroup"] = true,
+					},
+					["DieByTheSword"] = {
+						["SmartGroup"] = true,
+					},
+					["RallyingCry"] = {
+						["SmartGroup"] = true,
+					},
+					["LastStand"] = {
+						["SmartGroup"] = true,
+					},
+				},
+			},
 			["Racials"] = {
 				["Spells"] = {
 					["ArcaneTorrent"] = {
@@ -99,27 +95,32 @@ RSADB = {
 					},
 				},
 			},
-			["Warrior"] = {
+			["sink20OutputSink"] = "Default",
+			["Priest"] = {
 				["Spells"] = {
-					["SpellReflect"] = {
+					["GuardianSpirit"] = {
+						["Whisper"] = false,
+						["Say"] = false,
 						["SmartGroup"] = true,
 					},
-					["DieByTheSword"] = {
+					["MassDispel"] = {
+						["SmartGroup"] = true,
+						["Say"] = false,
+					},
+					["VampiricEmbrace"] = {
 						["SmartGroup"] = true,
 					},
-					["LastStand"] = {
+					["MindControl"] = {
 						["SmartGroup"] = true,
 					},
-					["RallyingCry"] = {
-						["SmartGroup"] = true,
+					["BodyAndSoul"] = {
+						["Whisper"] = false,
 					},
-					["EnragedRegeneration"] = {
+					["DivineHymn"] = {
 						["SmartGroup"] = true,
+						["Say"] = false,
 					},
-					["MassSpellReflection"] = {
-						["SmartGroup"] = true,
-					},
-					["Intercept"] = {
+					["LeapOfFaith"] = {
 						["Whisper"] = false,
 					},
 				},
@@ -148,6 +149,17 @@ RSADB = {
 				["Race"] = "Human",
 			},
 		},
+		["SHAMAN"] = {
+			["Modules"] = {
+				["Racials"] = true,
+				["Utilities"] = true,
+				["Shaman"] = true,
+			},
+			["Fixed"] = true,
+			["General"] = {
+				["Class"] = "SHAMAN",
+			},
+		},
 		["Ochai - Mannoroth"] = {
 			["Modules"] = {
 				["Racials"] = true,
@@ -159,27 +171,6 @@ RSADB = {
 				["Class"] = "HUNTER",
 				["Race"] = "Orc",
 			},
-		},
-		["Timberhoo - Mannoroth"] = {
-			["Modules"] = {
-				["Warrior"] = true,
-			},
-			["Fixed"] = true,
-			["General"] = {
-				["Race"] = "Orc",
-				["Class"] = "WARRIOR",
-			},
-		},
-		["DEMONHUNTER"] = {
-			["General"] = {
-				["Class"] = "DEMONHUNTER",
-			},
-			["Modules"] = {
-				["Racials"] = true,
-				["Utilities"] = true,
-				["DemonHunter"] = true,
-			},
-			["Fixed"] = true,
 		},
 		["Chaisauce - Mannoroth"] = {
 			["Modules"] = {
@@ -193,6 +184,27 @@ RSADB = {
 				["Race"] = "Tauren",
 			},
 		},
+		["DEMONHUNTER"] = {
+			["Modules"] = {
+				["Racials"] = true,
+				["Utilities"] = true,
+				["DemonHunter"] = true,
+			},
+			["Fixed"] = true,
+			["General"] = {
+				["Class"] = "DEMONHUNTER",
+			},
+		},
+		["Timberhoo - Mannoroth"] = {
+			["Modules"] = {
+				["Warrior"] = true,
+			},
+			["Fixed"] = true,
+			["General"] = {
+				["Race"] = "Orc",
+				["Class"] = "WARRIOR",
+			},
+		},
 		["Chaichai - Mannoroth"] = {
 			["Modules"] = {
 				["Racials"] = true,
@@ -201,8 +213,8 @@ RSADB = {
 			},
 			["Fixed"] = true,
 			["General"] = {
-				["Race"] = "Goblin",
 				["Class"] = "MAGE",
+				["Race"] = "Goblin",
 			},
 		},
 		["Timberho - Mannoroth"] = {
@@ -213,8 +225,8 @@ RSADB = {
 			},
 			["Fixed"] = true,
 			["General"] = {
-				["Class"] = "WARLOCK",
 				["Race"] = "Scourge",
+				["Class"] = "WARLOCK",
 			},
 		},
 		["Shenaynay - Mannoroth"] = {

@@ -5,166 +5,13 @@ SwatterData = {
 	["combat"] = false,
 	["errors"] = {
 		{
-			["message"] = "[string \"--[[ Error in 'RaidCDs_NamesText' ]] return...\"]:3: attempt to index local 'parentName' (a nil value)",
-			["count"] = 1,
-			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AltMailer, vv1.0.0\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.01\n  AtlasLootBattleforAzeroth, vv8.08.01\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.18\n  DBMCore, v8.0.14\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Gladius, v6.0.1\n  Grid2, vr841\n  Grid2LDB, vr841\n  Grid2RaidDebuffs, vr841\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201810300600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSARogue, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.8.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=80f)\n",
-			["timestamp"] = "2018-10-31 20:48:11",
-			["context"] = "Global",
-			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\AuraEnvironment.lua:156: in function `ActivateAuraEnvironment'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:653: in function `ScanWithFakeEvent'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:823: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1663: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1529: in function `ScanForLoads'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1599: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1597>\n",
-		}, -- [1]
-		{
-			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
-			["count"] = 1000,
-			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AltMailer, vv1.0.0\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.01\n  AtlasLootBattleforAzeroth, vv8.08.01\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.18\n  DBMCore, v8.0.14\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Gladius, v6.0.1\n  Grid2, vr841\n  Grid2LDB, vr841\n  Grid2RaidDebuffs, vr841\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201810300600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSARogue, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.8.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=80f)\n",
-			["timestamp"] = "2018-10-31 20:48:12",
-			["context"] = "Global",
-			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [2]
-		{
-			["message"] = "[string \"--[[ Error in 'RaidCDs_ButtonHandler 2' ]] ...\"]:3: attempt to index local 'parentName' (a nil value)",
-			["count"] = 1000,
-			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AltMailer, vv1.0.0\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.01\n  AtlasLootBattleforAzeroth, vv8.08.01\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.18\n  DBMCore, v8.0.14\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Gladius, v6.0.1\n  Grid2, vr841\n  Grid2LDB, vr841\n  Grid2RaidDebuffs, vr841\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201810300600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSARogue, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.8.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=80f)\n",
-			["timestamp"] = "2018-10-31 20:48:12",
-			["context"] = "Global",
-			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [3]
-		{
-			["message"] = "[string \"--[[ Error in 'RaidCDs_CDText 2' ]] return ...\"]:3: attempt to index local 'parentName' (a nil value)",
-			["count"] = 1000,
-			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AltMailer, vv1.0.0\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.01\n  AtlasLootBattleforAzeroth, vv8.08.01\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.18\n  DBMCore, v8.0.14\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Gladius, v6.0.1\n  Grid2, vr841\n  Grid2LDB, vr841\n  Grid2RaidDebuffs, vr841\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201810300600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSARogue, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.8.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=80f)\n",
-			["timestamp"] = "2018-10-31 20:48:12",
-			["context"] = "Global",
-			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [4]
-		{
-			["message"] = "[string \"--[[ Error in 'RaidCDs_Background' ]] retur...\"]:3: attempt to index local 'parentName' (a nil value)",
-			["count"] = 1000,
-			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AltMailer, vv1.0.0\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.01\n  AtlasLootBattleforAzeroth, vv8.08.01\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.18\n  DBMCore, v8.0.14\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Gladius, v6.0.1\n  Grid2, vr841\n  Grid2LDB, vr841\n  Grid2RaidDebuffs, vr841\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201810300600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSARogue, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.8.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=80f)\n",
-			["timestamp"] = "2018-10-31 20:48:12",
-			["context"] = "Global",
-			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [5]
-		{
-			["message"] = "[string \"--[[ Error in 'RaidCDs_GroupPoll 2' ]] retu...\"]:4: attempt to index local 'parentName' (a nil value)",
-			["count"] = 1000,
-			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AltMailer, vv1.0.0\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.01\n  AtlasLootBattleforAzeroth, vv8.08.01\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.18\n  DBMCore, v8.0.14\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Gladius, v6.0.1\n  Grid2, vr841\n  Grid2LDB, vr841\n  Grid2RaidDebuffs, vr841\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201810300600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSARogue, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.8.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=80f)\n",
-			["timestamp"] = "2018-10-31 20:48:12",
-			["context"] = "Global",
-			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\RegionTypes\\Text.lua:171: in function `UpdateCustomText'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:3887: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:3881>\n",
-		}, -- [6]
-		{
-			["message"] = "[string \"--[[ Error in 'RaidCDs_Engine' ]] return fu...\"]:4: attempt to index local 'parentName' (a nil value)",
-			["count"] = 1000,
-			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AltMailer, vv1.0.0\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.01\n  AtlasLootBattleforAzeroth, vv8.08.01\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.18\n  DBMCore, v8.0.14\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Gladius, v6.0.1\n  Grid2, vr841\n  Grid2LDB, vr841\n  Grid2RaidDebuffs, vr841\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201810300600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSARogue, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.8.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=80f)\n",
-			["timestamp"] = "2018-10-31 20:48:13",
-			["context"] = "Global",
-			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:686: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:679>\n",
-		}, -- [7]
-		{
-			["message"] = "[string \"--[[ Error in 'RaidCDs_ButtonHandler 2' ]] ...\"]:8: attempt to index local 'parentID' (a nil value)",
-			["count"] = 1,
-			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.01\n  AtlasLootBattleforAzeroth, vv8.08.01\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.18\n  ChampionCommander, v1.1.1 80000\n  DBMCore, v8.0.14\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Gladius, v6.0.1\n  Grid2, vr841\n  Grid2LDB, vr841\n  Grid2RaidDebuffs, vr841\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerJournal, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811010600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSARogue, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.8.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=838)\n",
-			["timestamp"] = "2018-11-01 16:02:57",
-			["context"] = "Global",
-			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\AuraEnvironment.lua:156: in function `ActivateAuraEnvironment'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:653: in function `ScanWithFakeEvent'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:823: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1663: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1529: in function `ScanForLoads'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1599: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1597>\n",
-		}, -- [8]
-		{
-			["message"] = "[string \"--[[ Error in 'RaidCDs_Engine' ]] return fu...\"]:2: attempt to index local 'parentName' (a nil value)",
-			["count"] = 1,
-			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.01\n  AtlasLootBattleforAzeroth, vv8.08.01\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.18\n  ChampionCommander, v1.1.1 80000\n  DBMCore, v8.0.14\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Gladius, v6.0.1\n  Grid2, vr841\n  Grid2LDB, vr841\n  Grid2RaidDebuffs, vr841\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerJournal, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811010600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSARogue, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.8.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=838)\n",
-			["timestamp"] = "2018-11-01 16:02:57",
-			["context"] = "Global",
-			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\AuraEnvironment.lua:156: in function `ActivateAuraEnvironment'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:653: in function `ScanWithFakeEvent'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:823: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1663: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1529: in function `ScanForLoads'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1599: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1597>\n",
-		}, -- [9]
-		{
-			["message"] = "[string \"--[[ Error in 'RaidCDs_GroupPoll 2' ]] retu...\"]:3: attempt to index local 'parentName' (a nil value)",
-			["count"] = 1,
-			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.01\n  AtlasLootBattleforAzeroth, vv8.08.01\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.18\n  ChampionCommander, v1.1.1 80000\n  DBMCore, v8.0.14\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Gladius, v6.0.1\n  Grid2, vr841\n  Grid2LDB, vr841\n  Grid2RaidDebuffs, vr841\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerJournal, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811010600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSARogue, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.8.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=838)\n",
-			["timestamp"] = "2018-11-01 16:02:57",
-			["context"] = "Global",
-			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\AuraEnvironment.lua:156: in function `ActivateAuraEnvironment'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:653: in function `ScanWithFakeEvent'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:823: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1663: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1529: in function `ScanForLoads'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1599: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1597>\n",
-		}, -- [10]
-		{
-			["message"] = "[string \"--[[ Error in 'RaidCDs_Background' ]] retur...\"]:2: attempt to index local 'parentName' (a nil value)",
-			["count"] = 1,
-			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.01\n  AtlasLootBattleforAzeroth, vv8.08.01\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.18\n  ChampionCommander, v1.1.1 80000\n  DBMCore, v8.0.14\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Gladius, v6.0.1\n  Grid2, vr841\n  Grid2LDB, vr841\n  Grid2RaidDebuffs, vr841\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerJournal, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811010600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSARogue, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.8.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=838)\n",
-			["timestamp"] = "2018-11-01 16:02:57",
-			["context"] = "Global",
-			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\AuraEnvironment.lua:156: in function `ActivateAuraEnvironment'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:653: in function `ScanWithFakeEvent'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:823: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1663: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1529: in function `ScanForLoads'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1599: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1597>\n",
-		}, -- [11]
-		{
-			["message"] = "[string \"--[[ Error in 'RaidCDs_CustomAbilities' ]] ...\"]:12: attempt to index local 'parentName' (a nil value)",
-			["count"] = 1,
-			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.01\n  AtlasLootBattleforAzeroth, vv8.08.01\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.18\n  ChampionCommander, v1.1.1 80000\n  DBMCore, v8.0.14\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Gladius, v6.0.1\n  Grid2, vr841\n  Grid2LDB, vr841\n  Grid2RaidDebuffs, vr841\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerJournal, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811010600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSARogue, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.8.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=838)\n",
-			["timestamp"] = "2018-11-01 16:02:57",
-			["context"] = "Global",
-			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\AuraEnvironment.lua:156: in function `ActivateAuraEnvironment'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:653: in function `ScanWithFakeEvent'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:823: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1663: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1529: in function `ScanForLoads'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1599: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1597>\n",
-		}, -- [12]
-		{
-			["message"] = "[string \"--[[ Error in 'RaidCDs_NamesText 2' ]] retu...\"]:3: attempt to index local 'parentName' (a nil value)",
-			["count"] = 1,
-			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.01\n  AtlasLootBattleforAzeroth, vv8.08.01\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.18\n  ChampionCommander, v1.1.1 80000\n  DBMCore, v8.0.14\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Gladius, v6.0.1\n  Grid2, vr841\n  Grid2LDB, vr841\n  Grid2RaidDebuffs, vr841\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerJournal, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811010600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSARogue, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.8.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=838)\n",
-			["timestamp"] = "2018-11-01 16:02:57",
-			["context"] = "Global",
-			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\AuraEnvironment.lua:156: in function `ActivateAuraEnvironment'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:653: in function `ScanWithFakeEvent'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:823: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1663: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1529: in function `ScanForLoads'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1599: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1597>\n",
-		}, -- [13]
-		{
-			["message"] = "[string \"--[[ Error in 'RaidCDs_ButtonHandler 2' ]] ...\"]:3: attempt to index local 'parentName' (a nil value)",
-			["count"] = 1000,
-			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.01\n  AtlasLootBattleforAzeroth, vv8.08.01\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.18\n  ChampionCommander, v1.1.1 80000\n  DBMCore, v8.0.14\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Gladius, v6.0.1\n  Grid2, vr841\n  Grid2LDB, vr841\n  Grid2RaidDebuffs, vr841\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerJournal, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811010600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSARogue, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.8.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=838)\n",
-			["timestamp"] = "2018-11-01 16:02:59",
-			["context"] = "Global",
-			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [14]
-		{
-			["message"] = "[string \"--[[ Error in 'RaidCDs_Background' ]] retur...\"]:3: attempt to index local 'parentName' (a nil value)",
-			["count"] = 1000,
-			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.01\n  AtlasLootBattleforAzeroth, vv8.08.01\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.18\n  ChampionCommander, v1.1.1 80000\n  DBMCore, v8.0.14\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Gladius, v6.0.1\n  Grid2, vr841\n  Grid2LDB, vr841\n  Grid2RaidDebuffs, vr841\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerJournal, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811010600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSARogue, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.8.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=838)\n",
-			["timestamp"] = "2018-11-01 16:02:59",
-			["context"] = "Global",
-			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [15]
-		{
-			["message"] = "[string \"--[[ Error in 'RaidCDs_CDText 2' ]] return ...\"]:3: attempt to index local 'parentName' (a nil value)",
-			["count"] = 1000,
-			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.01\n  AtlasLootBattleforAzeroth, vv8.08.01\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.18\n  ChampionCommander, v1.1.1 80000\n  DBMCore, v8.0.14\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Gladius, v6.0.1\n  Grid2, vr841\n  Grid2LDB, vr841\n  Grid2RaidDebuffs, vr841\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerJournal, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811010600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSARogue, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.8.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=838)\n",
-			["timestamp"] = "2018-11-01 16:02:59",
-			["context"] = "Global",
-			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [16]
-		{
-			["message"] = "[string \"--[[ Error in 'RaidCDs_GroupPoll 2' ]] retu...\"]:4: attempt to index local 'parentName' (a nil value)",
-			["count"] = 1000,
-			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.01\n  AtlasLootBattleforAzeroth, vv8.08.01\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.18\n  ChampionCommander, v1.1.1 80000\n  DBMCore, v8.0.14\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Gladius, v6.0.1\n  Grid2, vr841\n  Grid2LDB, vr841\n  Grid2RaidDebuffs, vr841\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerJournal, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811010600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSARogue, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.8.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=838)\n",
-			["timestamp"] = "2018-11-01 16:02:59",
-			["context"] = "Global",
-			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\RegionTypes\\Text.lua:171: in function `UpdateCustomText'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:3887: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:3881>\n",
-		}, -- [17]
-		{
-			["message"] = "[string \"--[[ Error in 'RaidCDs_Engine' ]] return fu...\"]:4: attempt to index local 'parentName' (a nil value)",
-			["count"] = 1000,
-			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.01\n  AtlasLootBattleforAzeroth, vv8.08.01\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.18\n  ChampionCommander, v1.1.1 80000\n  DBMCore, v8.0.14\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Gladius, v6.0.1\n  Grid2, vr841\n  Grid2LDB, vr841\n  Grid2RaidDebuffs, vr841\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerJournal, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811010600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSARogue, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.8.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=838)\n",
-			["timestamp"] = "2018-11-01 16:02:59",
-			["context"] = "Global",
-			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:686: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:679>\n",
-		}, -- [18]
-		{
-			["message"] = "Interface\\AddOns\\Skada\\Skada.lua:1201: script ran too long",
-			["count"] = 3,
-			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.01\n  AtlasLootBattleforAzeroth, vv8.08.01\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.18\n  ChampionCommander, v1.1.1 80000\n  DBMCore, v8.0.14\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DBMUldir, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Gladius, v6.0.1\n  Grid2, vr841\n  Grid2LDB, vr841\n  Grid2RaidDebuffs, vr841\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerJournal, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811010600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSARogue, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.8.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=846)\n",
-			["locals"] = "(*temporary) = <table> {\n defaults = <table> {\n }\n get_player = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1666\n UpdateDisplay = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1978\n modules = <table> {\n }\n CancelTimer = <function> defined @Interface\\AddOns\\AngryAssignments\\libs\\AceTimer-3.0\\AceTimer-3.0.lua:147\n GetSets = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:2138\n windowdefaults = <table> {\n }\n ClearIndexes = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1632\n ApplyBorder = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:2551\n GetSetTime = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:2285\n SetDefaultModulePrototype = <function> defined @Interface\\AddOns\\AngryAssignments\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:440\n EndSegment = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1370\n IsEnabled = <function> defined @Interface\\AddOns\\AngryAssignments\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:482\n ScheduleTimer = <function> defined @Interface\\AddOns\\AngryAssignments\\libs\\AceTimer-3.0\\AceTimer-3.0.lua:94\n DeleteSet = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1204\n RemoveMode = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:2257\n db = <table> {\n }\n OpenOptions = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:2879\n PetDebug = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:912\n SetFeed = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1286\n ZONE_CHANGED_NEW_AREA = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1041\n ReloadSettings = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1234\n OnEnable = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:2889\n AddSubviewToTooltip = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:2432\n GetFeeds = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:2261\n ShowPopup = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:80\n GetPetOwner = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1899\n Notify = <function> defined @Interface\\AddOns\\Skada\\lib\\LibNotify-1.0\\LibNotify-1.0.lua:382\n OnInitialize = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:2769\n NewModule = <function> defined @Interface\\AddOns\\AngryAssignments\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:266\n ResumeSegment = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1362\n UNIT_PET = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1101\n NotifyOnce = <function> defined @Interface\\AddOns\\Skada\\lib\\LibNotify-1.0\\LibNotify-1.0.lua:390\n PlayerActiveTime = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:2294\n total = <table> {\n }\n GetName = <function> defined @Interface\\AddOns\\AngryAssignments\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:310\n SetActive = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:920\n name = \"Skada\"\n SetNotifyIcon = <function> defined @Interface\\AddOns\\Skada\\lib\\LibNotify-1.0\\LibNotify-1.0.lua:409\n Disable = <function> defined @Interface\\AddOns\\AngryAssignments\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:345\n cleuHandler = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1735\n Print = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:724\n CreateReportWindow = <function> defined @Interface\\AddOns\\Skada\\Menus.lua:409\n GetModes = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:2142\n Tick = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1343\n AddDisplaySystem = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:2189\n ZoneCheck = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1001\n Report = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:837\n Debug = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:728\n tcopy = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:631\n NewSegment = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1304\n find_player = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1649\n classcolors = <table> {\n }\n Reset = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1163\n PET_BATTLE_CLOSE = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1115\n OpenReportWindow = <function> defined @Interface\\AddOns\\Skada\\Menus.lua:384\n EnableModule = <function> defined @I",
-			["timestamp"] = "2018-11-01 16:57:35",
-			["context"] = "Global",
-			["stack"] = "Interface\\AddOns\\Skada\\Skada.lua:1201: in function `Reset'\nInterface\\AddOns\\Skada\\Skada.lua:1080: in function <Interface\\AddOns\\Skada\\Skada.lua:1058>\nInterface\\AddOns\\Skada\\Skada.lua:1095: in function `?'\nInterface\\AddOns\\Skada\\Skada.lua:42: in function <Interface\\AddOns\\Skada\\Skada.lua:41>\n",
-		}, -- [19]
-		{
 			["message"] = "[string \"--[[ Error in 'RaidCDs_ButtonHandler 2' ]] ...\"]:8: attempt to index local 'parentID' (a nil value)",
 			["count"] = 1,
 			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.01\n  AtlasLootBattleforAzeroth, vv8.08.01\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.18\n  DBMCore, v8.0.14\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  Decursive, v2.7.6.1\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Grid2, vr841\n  Grid2LDB, vr841\n  Grid2RaidDebuffs, vr841\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811010600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSADruid, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.8.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=7fe)\n",
 			["timestamp"] = "2018-11-01 18:19:56",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'RaidCDs_ButtonHandler 2' ]] ...\"]:8: in function <[string \"--[[ Error in 'RaidCDs_ButtonHandler 2' ]] ...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\AuraEnvironment.lua:156: in function `ActivateAuraEnvironment'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:653: in function `ScanWithFakeEvent'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:823: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1663: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1529: in function `ScanForLoads'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1599: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1597>\n",
-		}, -- [20]
+		}, -- [1]
 		{
 			["message"] = "[string \"--[[ Error in 'RaidCDs_Engine' ]] return fu...\"]:2: attempt to index local 'parentName' (a nil value)",
 			["count"] = 1,
@@ -172,7 +19,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-01 18:19:56",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'RaidCDs_Engine' ]] return fu...\"]:2: in function <[string \"--[[ Error in 'RaidCDs_Engine' ]] return fu...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\AuraEnvironment.lua:156: in function `ActivateAuraEnvironment'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:653: in function `ScanWithFakeEvent'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:823: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1663: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1529: in function `ScanForLoads'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1599: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1597>\n",
-		}, -- [21]
+		}, -- [2]
 		{
 			["message"] = "[string \"--[[ Error in 'RaidCDs_GroupPoll 2' ]] retu...\"]:3: attempt to index local 'parentName' (a nil value)",
 			["count"] = 1,
@@ -180,7 +27,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-01 18:19:56",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'RaidCDs_GroupPoll 2' ]] retu...\"]:3: in function <[string \"--[[ Error in 'RaidCDs_GroupPoll 2' ]] retu...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\AuraEnvironment.lua:156: in function `ActivateAuraEnvironment'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:653: in function `ScanWithFakeEvent'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:823: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1663: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1529: in function `ScanForLoads'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1599: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1597>\n",
-		}, -- [22]
+		}, -- [3]
 		{
 			["message"] = "[string \"--[[ Error in 'RaidCDs_Background' ]] retur...\"]:2: attempt to index local 'parentName' (a nil value)",
 			["count"] = 1,
@@ -188,7 +35,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-01 18:19:56",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'RaidCDs_Background' ]] retur...\"]:2: in function <[string \"--[[ Error in 'RaidCDs_Background' ]] retur...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\AuraEnvironment.lua:156: in function `ActivateAuraEnvironment'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:653: in function `ScanWithFakeEvent'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:823: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1663: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1529: in function `ScanForLoads'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1599: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1597>\n",
-		}, -- [23]
+		}, -- [4]
 		{
 			["message"] = "[string \"--[[ Error in 'RaidCDs_CustomAbilities' ]] ...\"]:12: attempt to index local 'parentName' (a nil value)",
 			["count"] = 1,
@@ -196,7 +43,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-01 18:19:56",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'RaidCDs_CustomAbilities' ]] ...\"]:12: in function <[string \"--[[ Error in 'RaidCDs_CustomAbilities' ]] ...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\AuraEnvironment.lua:156: in function `ActivateAuraEnvironment'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:653: in function `ScanWithFakeEvent'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:823: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1663: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1529: in function `ScanForLoads'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1599: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1597>\n",
-		}, -- [24]
+		}, -- [5]
 		{
 			["message"] = "[string \"--[[ Error in 'RaidCDs_NamesText 2' ]] retu...\"]:3: attempt to index local 'parentName' (a nil value)",
 			["count"] = 1,
@@ -204,7 +51,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-01 18:19:56",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'RaidCDs_NamesText 2' ]] retu...\"]:3: in function <[string \"--[[ Error in 'RaidCDs_NamesText 2' ]] retu...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\AuraEnvironment.lua:156: in function `ActivateAuraEnvironment'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:653: in function `ScanWithFakeEvent'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:823: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1663: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1529: in function `ScanForLoads'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1599: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1597>\n",
-		}, -- [25]
+		}, -- [6]
 		{
 			["message"] = "[string \"--[[ Error in 'RaidCDs_Engine' ]] return fu...\"]:4: attempt to index local 'parentName' (a nil value)",
 			["count"] = 42,
@@ -212,7 +59,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-01 18:19:58",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'RaidCDs_Engine' ]] return fu...\"]:4: in function <[string \"--[[ Error in 'RaidCDs_Engine' ]] return fu...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:686: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:679>\n",
-		}, -- [26]
+		}, -- [7]
 		{
 			["message"] = "[string \"--[[ Error in 'RaidCDs_ButtonHandler 2' ]] ...\"]:3: attempt to index local 'parentName' (a nil value)",
 			["count"] = 174,
@@ -220,7 +67,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-01 18:19:58",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'RaidCDs_ButtonHandler 2' ]] ...\"]:3: in function <[string \"--[[ Error in 'RaidCDs_ButtonHandler 2' ]] ...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [27]
+		}, -- [8]
 		{
 			["message"] = "[string \"--[[ Error in 'RaidCDs_Background' ]] retur...\"]:3: attempt to index local 'parentName' (a nil value)",
 			["count"] = 174,
@@ -228,7 +75,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-01 18:19:58",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'RaidCDs_Background' ]] retur...\"]:3: in function <[string \"--[[ Error in 'RaidCDs_Background' ]] retur...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [28]
+		}, -- [9]
 		{
 			["message"] = "[string \"--[[ Error in 'RaidCDs_CDText 2' ]] return ...\"]:3: attempt to index local 'parentName' (a nil value)",
 			["count"] = 518,
@@ -236,7 +83,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-01 18:19:58",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'RaidCDs_CDText 2' ]] return ...\"]:3: in function <[string \"--[[ Error in 'RaidCDs_CDText 2' ]] return ...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [29]
+		}, -- [10]
 		{
 			["message"] = "[string \"--[[ Error in 'RaidCDs_GroupPoll 2' ]] retu...\"]:4: attempt to index local 'parentName' (a nil value)",
 			["count"] = 86,
@@ -244,7 +91,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-01 18:19:58",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'RaidCDs_GroupPoll 2' ]] retu...\"]:4: in function <[string \"--[[ Error in 'RaidCDs_GroupPoll 2' ]] retu...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\RegionTypes\\Text.lua:171: in function `UpdateCustomText'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:3887: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:3881>\n",
-		}, -- [30]
+		}, -- [11]
 		{
 			["message"] = "[string \"--[[ Error in 'RaidCDs_ButtonHandler 2' ]] ...\"]:8: attempt to index local 'parentID' (a nil value)",
 			["count"] = 1,
@@ -252,7 +99,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-01 19:39:02",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\AuraEnvironment.lua:156: in function `ActivateAuraEnvironment'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:653: in function `ScanWithFakeEvent'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:823: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1663: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1529: in function `ScanForLoads'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1599: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1597>\n",
-		}, -- [31]
+		}, -- [12]
 		{
 			["message"] = "[string \"--[[ Error in 'RaidCDs_Engine' ]] return fu...\"]:2: attempt to index local 'parentName' (a nil value)",
 			["count"] = 1,
@@ -260,7 +107,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-01 19:39:02",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\AuraEnvironment.lua:156: in function `ActivateAuraEnvironment'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:653: in function `ScanWithFakeEvent'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:823: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1663: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1529: in function `ScanForLoads'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1599: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1597>\n",
-		}, -- [32]
+		}, -- [13]
 		{
 			["message"] = "[string \"--[[ Error in 'RaidCDs_CustomAbilities' ]] ...\"]:12: attempt to index local 'parentName' (a nil value)",
 			["count"] = 1,
@@ -268,7 +115,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-01 19:39:02",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\AuraEnvironment.lua:156: in function `ActivateAuraEnvironment'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:653: in function `ScanWithFakeEvent'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:823: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1663: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1529: in function `ScanForLoads'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1599: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1597>\n",
-		}, -- [33]
+		}, -- [14]
 		{
 			["message"] = "[string \"--[[ Error in 'RaidCDs_GroupPoll 2' ]] retu...\"]:3: attempt to index local 'parentName' (a nil value)",
 			["count"] = 1,
@@ -276,7 +123,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-01 19:39:02",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\AuraEnvironment.lua:156: in function `ActivateAuraEnvironment'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:653: in function `ScanWithFakeEvent'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:823: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1663: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1529: in function `ScanForLoads'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1599: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1597>\n",
-		}, -- [34]
+		}, -- [15]
 		{
 			["message"] = "[string \"--[[ Error in 'RaidCDs_Background' ]] retur...\"]:2: attempt to index local 'parentName' (a nil value)",
 			["count"] = 1,
@@ -284,7 +131,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-01 19:39:02",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\AuraEnvironment.lua:156: in function `ActivateAuraEnvironment'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:653: in function `ScanWithFakeEvent'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:823: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1663: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1529: in function `ScanForLoads'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1599: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1597>\n",
-		}, -- [35]
+		}, -- [16]
 		{
 			["message"] = "[string \"--[[ Error in 'RaidCDs_NamesText' ]] return...\"]:3: attempt to index local 'parentName' (a nil value)",
 			["count"] = 1,
@@ -292,7 +139,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-01 19:39:02",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\AuraEnvironment.lua:156: in function `ActivateAuraEnvironment'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:653: in function `ScanWithFakeEvent'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:823: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1663: in function `LoadDisplays'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1529: in function `ScanForLoads'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:1599: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1597>\n",
-		}, -- [36]
+		}, -- [17]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -300,7 +147,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-01 19:39:04",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [37]
+		}, -- [18]
 		{
 			["message"] = "[string \"--[[ Error in 'RaidCDs_ButtonHandler 2' ]] ...\"]:3: attempt to index local 'parentName' (a nil value)",
 			["count"] = 1000,
@@ -308,7 +155,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-01 19:39:04",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [38]
+		}, -- [19]
 		{
 			["message"] = "[string \"--[[ Error in 'RaidCDs_CDText 2' ]] return ...\"]:3: attempt to index local 'parentName' (a nil value)",
 			["count"] = 1000,
@@ -316,7 +163,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-01 19:39:04",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [39]
+		}, -- [20]
 		{
 			["message"] = "[string \"--[[ Error in 'RaidCDs_Background' ]] retur...\"]:3: attempt to index local 'parentName' (a nil value)",
 			["count"] = 1000,
@@ -324,7 +171,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-01 19:39:04",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [40]
+		}, -- [21]
 		{
 			["message"] = "[string \"--[[ Error in 'RaidCDs_GroupPoll 2' ]] retu...\"]:4: attempt to index local 'parentName' (a nil value)",
 			["count"] = 1000,
@@ -332,7 +179,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-01 19:39:04",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\RegionTypes\\Text.lua:171: in function `UpdateCustomText'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:3887: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:3881>\n",
-		}, -- [41]
+		}, -- [22]
 		{
 			["message"] = "[string \"--[[ Error in 'RaidCDs_Engine' ]] return fu...\"]:4: attempt to index local 'parentName' (a nil value)",
 			["count"] = 1000,
@@ -340,7 +187,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-01 19:39:04",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:686: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:679>\n",
-		}, -- [42]
+		}, -- [23]
 		{
 			["message"] = "[string \"--[[ Error in 'RaidCDs_CDText 2' ]] return ...\"]:4: attempt to index local 'parentName' (a nil value)",
 			["count"] = 149,
@@ -348,7 +195,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-01 22:35:05",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\RegionTypes\\Text.lua:171: in function `UpdateCustomText'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:3887: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:3881>\n",
-		}, -- [43]
+		}, -- [24]
 		{
 			["message"] = "[string \"--[[ Error in 'RaidCDs_NamesText' ]] return...\"]:4: attempt to index local 'parentName' (a nil value)",
 			["count"] = 205,
@@ -356,7 +203,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-01 22:36:59",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\RegionTypes\\Text.lua:171: in function `UpdateCustomText'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:3887: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:3881>\n",
-		}, -- [44]
+		}, -- [25]
 		{
 			["message"] = "[string \"--[[ Error in 'RaidCDs_TimeText 2' ]] retur...\"]:4: attempt to index local 'parentName' (a nil value)",
 			["count"] = 175,
@@ -364,7 +211,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-01 22:37:34",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\RegionTypes\\Text.lua:171: in function `UpdateCustomText'\nInterface\\AddOns\\WeakAuras\\WeakAuras.lua:3887: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:3881>\n",
-		}, -- [45]
+		}, -- [26]
 		{
 			["message"] = "Error: AddOn WorldQuestsList attempted to call a forbidden function (GuildControlSetRank()) from a tainted execution path.",
 			["count"] = 1,
@@ -372,7 +219,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-02 16:28:41",
 			["context"] = "AddOn: WorldQuestsList",
 			["stack"] = "[C]: in function `GuildControlSetRank'\n...\\Blizzard_GuildControlUI\\Blizzard_GuildControlUI.lua:24: in function <...\\Blizzard_GuildControlUI\\Blizzard_GuildControlUI.lua:7>\n[C]: ?\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:446: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:692: in function `Communities_LoadUI'\nInterface\\FrameXML\\UIParent.lua:926: in function `ToggleCommunitiesFrame'\nInterface\\FrameXML\\UIParent.lua:813: in function `ToggleGuildFrame'\n[string \"TOGGLEGUILDTAB\"]:1: in function <[string \"TOGGLEGUILDTAB\"]:1>\n",
-		}, -- [46]
+		}, -- [27]
 		{
 			["message"] = "attempt to index a nil value",
 			["count"] = 1,
@@ -381,7 +228,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-02 16:28:42",
 			["context"] = "Global",
 			["stack"] = "[C]: ?\n[C]: in function `GetMessagesBefore'\n...AddOns\\Blizzard_Communities\\CommunitiesChatFrame.lua:208: in function `BackfillMessages'\n...AddOns\\Blizzard_Communities\\CommunitiesChatFrame.lua:56: in function <...AddOns\\Blizzard_Communities\\CommunitiesChatFrame.lua:44>\n",
-		}, -- [47]
+		}, -- [28]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -389,7 +236,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-02 18:48:15",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `UnitDebuff'\n[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [48]
+		}, -- [29]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -397,7 +244,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-02 19:37:53",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [49]
+		}, -- [30]
 		{
 			["message"] = "Interface\\AddOns\\TidyPlates\\TidyPlatesUtility.lua:632: Usage: PlaySound(soundKitID, optional[\"SFX\",\"Music\",\"Ambience\", \"Dialog\" or \"Master\"], [forceNoDuplicates, runFinishCallback])",
 			["count"] = 1,
@@ -406,7 +253,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-02 23:14:23",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `PlaySound'\nInterface\\AddOns\\TidyPlates\\TidyPlatesUtility.lua:632: in function <Interface\\AddOns\\TidyPlates\\TidyPlatesUtility.lua:631>\n",
-		}, -- [50]
+		}, -- [31]
 		{
 			["message"] = "Interface\\AddOns\\TidyPlates\\TidyPlatesUtility.lua:632: Usage: PlaySound(soundKitID, optional[\"SFX\",\"Music\",\"Ambience\", \"Dialog\" or \"Master\"], [forceNoDuplicates, runFinishCallback])",
 			["count"] = 1,
@@ -415,7 +262,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-02 23:50:06",
 			["context"] = "Global",
 			["stack"] = "[C]: ?\n[C]: in function `PlaySound'\nInterface\\AddOns\\TidyPlates\\TidyPlatesUtility.lua:632: in function <Interface\\AddOns\\TidyPlates\\TidyPlatesUtility.lua:631>\n",
-		}, -- [51]
+		}, -- [32]
 		{
 			["message"] = "Interface\\AddOns\\TidyPlatesHub\\Templates.lua:416: Usage: PlaySound(soundKitID, optional[\"SFX\",\"Music\",\"Ambience\", \"Dialog\" or \"Master\"], [forceNoDuplicates, runFinishCallback])",
 			["count"] = 1,
@@ -424,7 +271,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-03 00:25:02",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `PlaySound'\nInterface\\AddOns\\TidyPlatesHub\\Templates.lua:416: in function <Interface\\AddOns\\TidyPlatesHub\\Templates.lua:394>\nInterface\\AddOns\\TidyPlatesHub\\Templates.lua:589: in function <Interface\\AddOns\\TidyPlatesHub\\Templates.lua:589>\n",
-		}, -- [52]
+		}, -- [33]
 		{
 			["message"] = "Interface\\AddOns\\TidyPlatesHub\\Templates.lua:620: Usage: PlaySound(soundKitID, optional[\"SFX\",\"Music\",\"Ambience\", \"Dialog\" or \"Master\"], [forceNoDuplicates, runFinishCallback])",
 			["count"] = 1,
@@ -433,7 +280,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-03 00:25:05",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `PlaySound'\nInterface\\AddOns\\TidyPlatesHub\\Templates.lua:620: in function <Interface\\AddOns\\TidyPlatesHub\\Templates.lua:619>\n",
-		}, -- [53]
+		}, -- [34]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -441,7 +288,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-03 00:59:12",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [54]
+		}, -- [35]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -449,7 +296,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-03 01:44:29",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `UnitDebuff'\n[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [55]
+		}, -- [36]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -457,7 +304,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-03 02:19:28",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `UnitDebuff'\n[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [56]
+		}, -- [37]
 		{
 			["message"] = "...rface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua:1787: attempt to index local 'slotInfo' (a nil value)",
 			["count"] = 1,
@@ -466,7 +313,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-03 05:38:12",
 			["context"] = "Global",
 			["stack"] = "...rface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua:1787: in function `Update'\n...rface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua:1526: in function `Update'\n...rface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua:1461: in function <...rface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua:1459>\n",
-		}, -- [57]
+		}, -- [38]
 		{
 			["message"] = "Interface\\AddOns\\Skada\\Skada.lua:1201: script ran too long",
 			["count"] = 1,
@@ -475,7 +322,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-03 05:38:15",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Skada\\Skada.lua:1201: in function `Reset'\nInterface\\AddOns\\Skada\\Skada.lua:1080: in function <Interface\\AddOns\\Skada\\Skada.lua:1058>\nInterface\\AddOns\\Skada\\Skada.lua:1095: in function `?'\nInterface\\AddOns\\Skada\\Skada.lua:42: in function <Interface\\AddOns\\Skada\\Skada.lua:41>\n",
-		}, -- [58]
+		}, -- [39]
 		{
 			["message"] = "Interface\\AddOns\\Gladius\\Gladius.lua:706: attempt to index field 'anchor' (a nil value)",
 			["count"] = 35,
@@ -484,7 +331,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-03 05:39:00",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Gladius\\Gladius.lua:706: in function `ShowUnit'\nInterface\\AddOns\\Gladius\\Gladius.lua:426: in function `?'\nInterface\\AddOns\\Gladius\\Gladius.lua:46: in function <Interface\\AddOns\\Gladius\\Gladius.lua:38>\n",
-		}, -- [59]
+		}, -- [40]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -492,7 +339,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-03 05:56:03",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `UnitDebuff'\n[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [60]
+		}, -- [41]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -500,7 +347,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-03 07:26:18",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `UnitDebuff'\n[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [61]
+		}, -- [42]
 		{
 			["message"] = "Interface\\AddOns\\Skada\\Skada.lua:1201: script ran too long",
 			["count"] = 1,
@@ -509,7 +356,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-03 18:32:49",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Skada\\Skada.lua:1201: in function `Reset'\nInterface\\AddOns\\Skada\\Skada.lua:1080: in function <Interface\\AddOns\\Skada\\Skada.lua:1058>\nInterface\\AddOns\\Skada\\Skada.lua:1095: in function `?'\nInterface\\AddOns\\Skada\\Skada.lua:42: in function <Interface\\AddOns\\Skada\\Skada.lua:41>\n",
-		}, -- [62]
+		}, -- [43]
 		{
 			["message"] = "Usage: local spellID = C_SpecializationInfo.GetSpellsDisplay(specializationID)",
 			["count"] = 1,
@@ -518,7 +365,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-03 22:55:49",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `GetSpellsDisplay'\n...rface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua:1247: in function `PlayerTalentFrame_UpdateSpecFrame'\n...rface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua:417: in function `PlayerTalentFrame_Refresh'\n...rface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua:306: in function <...rface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua:299>\n",
-		}, -- [63]
+		}, -- [44]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 363,
@@ -526,7 +373,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-04 00:13:27",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `UnitDebuff'\n[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [64]
+		}, -- [45]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -534,7 +381,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-04 00:13:45",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `UnitDebuff'\n[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [65]
+		}, -- [46]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -542,7 +389,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-04 01:48:34",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [66]
+		}, -- [47]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -550,7 +397,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-04 04:25:01",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `UnitDebuff'\n[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [67]
+		}, -- [48]
 		{
 			["message"] = "Interface\\FrameXML\\LFGList.lua:1484: attempt to index local 'classTextColor' (a nil value)",
 			["count"] = 7,
@@ -559,7 +406,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-04 16:33:25",
 			["context"] = "Global",
 			["stack"] = "Interface\\FrameXML\\LFGList.lua:1484: in function `LFGListApplicationViewer_UpdateApplicantMember'\nInterface\\FrameXML\\LFGList.lua:1375: in function `LFGListApplicationViewer_UpdateApplicant'\nInterface\\FrameXML\\LFGList.lua:1351: in function `LFGListApplicationViewer_UpdateResults'\nInterface\\FrameXML\\LFGList.lua:1117: in function `onEvent'\nInterface\\FrameXML\\LFGList.lua:206: in function <Interface\\FrameXML\\LFGList.lua:110>\n",
-		}, -- [68]
+		}, -- [49]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -567,7 +414,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-04 16:36:55",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [69]
+		}, -- [50]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -575,7 +422,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-04 18:43:19",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `UnitDebuff'\n[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1046: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1044>\n",
-		}, -- [70]
+		}, -- [51]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -583,7 +430,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-05 20:05:19",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:544: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:509>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:635: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:622: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1060>\n",
-		}, -- [71]
+		}, -- [52]
 		{
 			["message"] = "Interface\\FrameXML\\ChatFrame.lua:5197: attempt to index local 'info' (a nil value)",
 			["count"] = 1,
@@ -592,7 +439,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-05 21:44:01",
 			["context"] = "Global",
 			["stack"] = "Interface\\FrameXML\\ChatFrame.lua:5197: in function `Chat_GetColoredChatName'\nInterface\\FrameXML\\ItemRef.lua:155: in function <Interface\\FrameXML\\ItemRef.lua:1>\n[C]: ?\n...ace\\AddOns\\Blizzard_CombatLog\\Blizzard_CombatLog.lua:3510: in function <...ace\\AddOns\\Blizzard_CombatLog\\Blizzard_CombatLog.lua:3452>\n[C]: ?\n[C]: in function `SetItemRef'\nInterface\\FrameXML\\ChatFrame.lua:3630: in function <Interface\\FrameXML\\ChatFrame.lua:3629>\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: ?\n[C]: in function `ChatFrame_OnHyperlinkShow'\n[string \"*:OnHyperlinkClick\"]:1: in function <[string \"*:OnHyperlinkClick\"]:1>\n",
-		}, -- [72]
+		}, -- [53]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -600,7 +447,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-05 21:44:23",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:544: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:509>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:635: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:622: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1060>\n",
-		}, -- [73]
+		}, -- [54]
 		{
 			["message"] = "...lizzard_MapCanvas\\MapCanvas_ScrollContainerMixin.lua:668: attempt to index field 'zoomLevels' (a nil value)",
 			["count"] = 2,
@@ -609,7 +456,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-06 00:29:51",
 			["context"] = "Global",
 			["stack"] = "...lizzard_MapCanvas\\MapCanvas_ScrollContainerMixin.lua:668: in function `GetScaleForMinZoom'\n...lizzard_MapCanvas\\MapCanvas_ScrollContainerMixin.lua:695: in function <...lizzard_MapCanvas\\MapCanvas_ScrollContainerMixin.lua:694>\n(tail call): ?\nInterface\\AddOns\\Paku_Totems\\Paku_Totems.lua:286: in function <Interface\\AddOns\\Paku_Totems\\Paku_Totems.lua:270>\n",
-		}, -- [74]
+		}, -- [55]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -617,7 +464,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-06 02:06:36",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:544: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:509>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:635: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:622: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1060>\n",
-		}, -- [75]
+		}, -- [56]
 		{
 			["message"] = "Error: AddOn Prat-3.0_Libraries attempted to call a forbidden function (CastItemSpellOnFollowerAbility()) from a tainted execution path.",
 			["count"] = 1,
@@ -625,7 +472,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-06 09:54:56",
 			["context"] = "AddOn: Prat-3.0_Libraries",
 			["stack"] = "[C]: in function `CastItemSpellOnFollowerAbility'\n...rrisonTemplates\\Blizzard_GarrisonSharedTemplates.lua:59: in function `OnAccept'\nInterface\\FrameXML\\StaticPopup.lua:4973: in function `StaticPopup_OnClick'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n",
-		}, -- [76]
+		}, -- [57]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -633,7 +480,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-06 12:06:07",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:544: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:509>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:635: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:622: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1060>\n",
-		}, -- [77]
+		}, -- [58]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -641,7 +488,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-06 12:34:58",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:544: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:509>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:635: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:622: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1060>\n",
-		}, -- [78]
+		}, -- [59]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -649,7 +496,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-06 13:57:46",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:544: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:509>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:635: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:622: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1060>\n",
-		}, -- [79]
+		}, -- [60]
 		{
 			["message"] = "...lizzard_MapCanvas\\MapCanvas_ScrollContainerMixin.lua:668: attempt to index field 'zoomLevels' (a nil value)",
 			["count"] = 1,
@@ -658,7 +505,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-06 16:49:52",
 			["context"] = "Global",
 			["stack"] = "[C]: ?\n...lizzard_MapCanvas\\MapCanvas_ScrollContainerMixin.lua:668: in function `GetScaleForMinZoom'\n...lizzard_MapCanvas\\MapCanvas_ScrollContainerMixin.lua:695: in function <...lizzard_MapCanvas\\MapCanvas_ScrollContainerMixin.lua:694>\n(tail call): ?\nInterface\\AddOns\\Paku_Totems\\Paku_Totems.lua:286: in function <Interface\\AddOns\\Paku_Totems\\Paku_Totems.lua:270>\n",
-		}, -- [80]
+		}, -- [61]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -666,7 +513,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-06 17:19:13",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:544: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:509>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:635: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:622: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1060>\n",
-		}, -- [81]
+		}, -- [62]
 		{
 			["message"] = "...lizzard_MapCanvas\\MapCanvas_ScrollContainerMixin.lua:668: attempt to index field 'zoomLevels' (a nil value)",
 			["count"] = 2,
@@ -675,7 +522,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-06 19:02:34",
 			["context"] = "Global",
 			["stack"] = "...lizzard_MapCanvas\\MapCanvas_ScrollContainerMixin.lua:668: in function `GetScaleForMinZoom'\n...lizzard_MapCanvas\\MapCanvas_ScrollContainerMixin.lua:695: in function <...lizzard_MapCanvas\\MapCanvas_ScrollContainerMixin.lua:694>\n(tail call): ?\nInterface\\AddOns\\Paku_Totems\\Paku_Totems.lua:286: in function <Interface\\AddOns\\Paku_Totems\\Paku_Totems.lua:270>\n",
-		}, -- [82]
+		}, -- [63]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -683,7 +530,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-07 23:45:16",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:544: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:509>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:635: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:622: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1060>\n",
-		}, -- [83]
+		}, -- [64]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -691,7 +538,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-08 19:59:04",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `UnitDebuff'\n[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:544: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:509>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:635: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:622: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1060>\n",
-		}, -- [84]
+		}, -- [65]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -699,7 +546,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-08 20:53:51",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `UnitDebuff'\n[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:544: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:509>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:635: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:622: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1060>\n",
-		}, -- [85]
+		}, -- [66]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -707,7 +554,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-08 22:31:49",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:544: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:509>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:635: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:622: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1060>\n",
-		}, -- [86]
+		}, -- [67]
 		{
 			["message"] = "Usage: local spellID = C_SpecializationInfo.GetSpellsDisplay(specializationID)",
 			["count"] = 1,
@@ -716,7 +563,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-09 19:18:03",
 			["context"] = "Global",
 			["stack"] = "[C]: ?\n[C]: in function `GetSpellsDisplay'\n...rface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua:1247: in function `PlayerTalentFrame_UpdateSpecFrame'\n...rface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua:417: in function `PlayerTalentFrame_Refresh'\n...rface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua:306: in function <...rface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua:299>\n",
-		}, -- [87]
+		}, -- [68]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -724,7 +571,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-09 20:57:55",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `UnitDebuff'\n[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:544: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:509>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:635: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:622: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1060>\n",
-		}, -- [88]
+		}, -- [69]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -732,7 +579,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-09 22:22:40",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `UnitDebuff'\n[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:544: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:509>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:635: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:622: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1060>\n",
-		}, -- [89]
+		}, -- [70]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -740,7 +587,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-10 00:12:31",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:544: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:509>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:635: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:622: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1060>\n",
-		}, -- [90]
+		}, -- [71]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -748,7 +595,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-10 06:43:24",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:544: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:509>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:635: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:622: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1060>\n",
-		}, -- [91]
+		}, -- [72]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -756,7 +603,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-10 17:30:31",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:544: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:509>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:635: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:622: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1060>\n",
-		}, -- [92]
+		}, -- [73]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -764,7 +611,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-10 22:35:56",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:544: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:509>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:635: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:622: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1060>\n",
-		}, -- [93]
+		}, -- [74]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -772,7 +619,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-11 03:55:05",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:544: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:509>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:635: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:622: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1060>\n",
-		}, -- [94]
+		}, -- [75]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -780,7 +627,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-11 18:59:02",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:544: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:509>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:635: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:622: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1060>\n",
-		}, -- [95]
+		}, -- [76]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -788,7 +635,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-12 04:30:11",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:544: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:509>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:635: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:622: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1060>\n",
-		}, -- [96]
+		}, -- [77]
 		{
 			["message"] = "Interface\\AddOns\\Gladius\\Modules\\CastBar.lua:445: attempt to index field '?' (a nil value)",
 			["count"] = 2,
@@ -797,7 +644,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-12 05:47:50",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Gladius\\Modules\\CastBar.lua:445: in function `?'\nInterface\\AddOns\\Gladius\\Gladius.lua:63: in function `Call'\nInterface\\AddOns\\Gladius\\Gladius.lua:753: in function `ResetUnit'\nInterface\\AddOns\\Gladius\\Gladius.lua:489: in function `HideFrame'\nInterface\\AddOns\\Gladius\\Gladius.lua:382: in function `LeftArena'\nInterface\\AddOns\\Gladius\\Gladius.lua:335: in function `?'\nInterface\\AddOns\\Gladius\\Gladius.lua:46: in function <Interface\\AddOns\\Gladius\\Gladius.lua:38>\n",
-		}, -- [97]
+		}, -- [78]
 		{
 			["message"] = "Usage: local spellID = C_SpecializationInfo.GetSpellsDisplay(specializationID)",
 			["count"] = 1,
@@ -806,7 +653,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-12 06:09:00",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `GetSpellsDisplay'\n...rface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua:1247: in function `PlayerTalentFrame_UpdateSpecFrame'\n...rface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua:417: in function `PlayerTalentFrame_Refresh'\n...rface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua:306: in function <...rface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua:299>\n",
-		}, -- [98]
+		}, -- [79]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -814,7 +661,7 @@ SwatterData = {
 			["timestamp"] = "2018-11-12 20:12:41",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:546: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1064: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062>\n",
-		}, -- [99]
+		}, -- [80]
 		{
 			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
 			["count"] = 1000,
@@ -822,7 +669,170 @@ SwatterData = {
 			["timestamp"] = "2018-11-12 22:55:13",
 			["context"] = "Global",
 			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:546: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1064: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062>\n",
+		}, -- [81]
+		{
+			["message"] = "Error: AddOn GatherMate2 attempted to call a forbidden function (UseQuestLogSpecialItem()) from a tainted execution path.",
+			["count"] = 5,
+			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.02\n  AtlasLootBattleforAzeroth, vv8.08.02\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BagnonConfig, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.20\n  ChampionCommander, v1.1.1 80000\n  DBMCore, v8.0.15\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  Decursive, v2.7.6.1\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Grid2, vr844\n  Grid2LDB, vr844\n  Grid2RaidDebuffs, vr844\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  OmniCCConfig, v\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerConfig, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811140600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSAMage, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.9.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  WoWPro, v8.0.1M\n  WoWProAchievements, v8.0.1M\n  WoWProDailies, v8.0.1M\n  WoWProLeveling, v8.0.1M\n  WowProProfession, v8.0.1M\n  WoWProWorldEvents, v8.0.1M\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=8ff)\n",
+			["timestamp"] = "2018-11-14 14:51:55",
+			["context"] = "AddOn: GatherMate2",
+			["stack"] = "[C]: in function `UseQuestLogSpecialItem'\n...ObjectiveTracker\\Blizzard_ObjectiveTrackerShared.lua:95: in function <...ObjectiveTracker\\Blizzard_ObjectiveTrackerShared.lua:88>\n",
+		}, -- [82]
+		{
+			["message"] = "Usage: local spellID = C_SpecializationInfo.GetSpellsDisplay(specializationID)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.02\n  AtlasLootBattleforAzeroth, vv8.08.02\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BagnonConfig, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.20\n  ChampionCommander, v1.1.1 80000\n  DBMCore, v8.0.15\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  Decursive, v2.7.6.1\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Grid2, vr844\n  Grid2LDB, vr844\n  Grid2RaidDebuffs, vr844\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  OmniCCConfig, v\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerConfig, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811140600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSAMage, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.9.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  WoWPro, v8.0.1M\n  WoWProAchievements, v8.0.1M\n  WoWProDailies, v8.0.1M\n  WoWProLeveling, v8.0.1M\n  WowProProfession, v8.0.1M\n  WoWProWorldEvents, v8.0.1M\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=8ff)\n",
+			["locals"] = "(*temporary) = <function> defined =[C]:-1\n",
+			["timestamp"] = "2018-11-14 15:11:43",
+			["context"] = "Global",
+			["stack"] = "(tail call): ?\n[C]: ?\n[C]: in function `GetSpellsDisplay'\n...rface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua:1247: in function `PlayerTalentFrame_UpdateSpecFrame'\n...rface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua:417: in function `PlayerTalentFrame_Refresh'\n...rface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua:306: in function <...rface\\AddOns\\Blizzard_TalentUI\\Blizzard_TalentUI.lua:299>\n",
+		}, -- [83]
+		{
+			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
+			["count"] = 999,
+			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.02\n  AtlasLootBattleforAzeroth, vv8.08.02\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BagnonConfig, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.20\n  ChampionCommander, v1.1.1 80000\n  DBMCore, v8.0.15\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  Decursive, v2.7.6.1\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Grid2, vr844\n  Grid2LDB, vr844\n  Grid2RaidDebuffs, vr844\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  OmniCCConfig, v\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerConfig, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811140600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSAMage, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.9.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  WoWPro, v8.0.1M\n  WoWProAchievements, v8.0.1M\n  WoWProDailies, v8.0.1M\n  WoWProLeveling, v8.0.1M\n  WowProProfession, v8.0.1M\n  WoWProWorldEvents, v8.0.1M\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=8ff)\n",
+			["timestamp"] = "2018-11-14 15:24:01",
+			["context"] = "Global",
+			["stack"] = "(tail call): ?\n[C]: in function `UnitDebuff'\n[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:546: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1064: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062>\n",
+		}, -- [84]
+		{
+			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
+			["count"] = 1000,
+			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.02\n  AtlasLootBattleforAzeroth, vv8.08.02\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.20\n  ChampionCommander, v1.1.1 80000\n  DBMCore, v8.0.15\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Grid2, vr844\n  Grid2LDB, vr844\n  Grid2RaidDebuffs, vr844\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811140600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSAWarrior, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.9.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  WoWPro, v8.0.1M\n  WoWProAchievements, v8.0.1M\n  WoWProDailies, v8.0.1M\n  WoWProLeveling, v8.0.1M\n  WowProProfession, v8.0.1M\n  WoWProWorldEvents, v8.0.1M\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=8a8)\n",
+			["timestamp"] = "2018-11-14 17:47:56",
+			["context"] = "Global",
+			["stack"] = "[C]: in function `UnitDebuff'\n[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:546: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1064: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062>\n",
+		}, -- [85]
+		{
+			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
+			["count"] = 1000,
+			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.02\n  AtlasLootBattleforAzeroth, vv8.08.02\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.20\n  DBMCore, v8.0.15\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Grid2, vr844\n  Grid2LDB, vr844\n  Grid2RaidDebuffs, vr844\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811140600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSAWarrior, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.9.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  WoWPro, v8.0.1M\n  WoWProAchievements, v8.0.1M\n  WoWProDailies, v8.0.1M\n  WoWProLeveling, v8.0.1M\n  WowProProfession, v8.0.1M\n  WoWProWorldEvents, v8.0.1M\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=886)\n",
+			["timestamp"] = "2018-11-14 20:06:21",
+			["context"] = "Global",
+			["stack"] = "[C]: in function `UnitDebuff'\n[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:546: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1064: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062>\n",
+		}, -- [86]
+		{
+			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
+			["count"] = 1000,
+			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.02\n  AtlasLootBattleforAzeroth, vv8.08.02\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.20\n  DBMCore, v8.0.15\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  Decursive, v2.7.6.1\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Grid2, vr844\n  Grid2LDB, vr844\n  Grid2RaidDebuffs, vr844\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811140600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSADruid, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.9.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=7fe)\n",
+			["timestamp"] = "2018-11-15 21:19:08",
+			["context"] = "Global",
+			["stack"] = "[C]: in function `UnitDebuff'\n[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:546: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1064: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062>\n",
+		}, -- [87]
+		{
+			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
+			["count"] = 1000,
+			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.02\n  AtlasLootBattleforAzeroth, vv8.08.02\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.20\n  DBMCore, v8.0.15\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  Decursive, v2.7.6.1\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Grid2, vr844\n  Grid2LDB, vr844\n  Grid2RaidDebuffs, vr844\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811140600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSAPriest, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.9.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=7ff)\n",
+			["timestamp"] = "2018-11-15 22:13:30",
+			["context"] = "Global",
+			["stack"] = "[C]: in function `UnitDebuff'\n[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:546: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1064: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062>\n",
+		}, -- [88]
+		{
+			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
+			["count"] = 1000,
+			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.02\n  AtlasLootBattleforAzeroth, vv8.08.02\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.20\n  ChampionCommander, v1.1.1 80000\n  DBMCore, v8.0.15\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Grid2, vr844\n  Grid2LDB, vr844\n  Grid2RaidDebuffs, vr844\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811140600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSAWarrior, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.9.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  WoWPro, v8.0.1M\n  WoWProAchievements, v8.0.1M\n  WoWProDailies, v8.0.1M\n  WoWProLeveling, v8.0.1M\n  WowProProfession, v8.0.1M\n  WoWProWorldEvents, v8.0.1M\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=8a8)\n",
+			["timestamp"] = "2018-11-15 23:17:47",
+			["context"] = "Global",
+			["stack"] = "[C]: in function `UnitDebuff'\n[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:546: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1064: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062>\n",
+		}, -- [89]
+		{
+			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
+			["count"] = 1000,
+			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.02\n  AtlasLootBattleforAzeroth, vv8.08.02\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.20\n  ChampionCommander, v1.1.1 80000\n  DBMCore, v8.0.15\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Grid2, vr844\n  Grid2LDB, vr844\n  Grid2RaidDebuffs, vr844\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811140600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSAWarrior, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.9.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  WoWPro, v8.0.1M\n  WoWProAchievements, v8.0.1M\n  WoWProDailies, v8.0.1M\n  WoWProLeveling, v8.0.1M\n  WowProProfession, v8.0.1M\n  WoWProWorldEvents, v8.0.1M\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=8a8)\n",
+			["timestamp"] = "2018-11-16 12:32:29",
+			["context"] = "Global",
+			["stack"] = "[C]: in function `UnitDebuff'\n[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:546: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1064: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062>\n",
+		}, -- [90]
+		{
+			["message"] = "...\\Blizzard_IslandsQueueUI\\Blizzard_IslandsQueueUI.lua:95: Usage: <unnamed>:SetMinMaxValues(min, max)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.02\n  AtlasLootBattleforAzeroth, vv8.08.02\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.20\n  ChampionCommander, v1.1.1 80000\n  DBMCore, v8.0.15\n  DBMDefaultSkin, v\n  DBMPartyBfA, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Grid2, vr844\n  Grid2LDB, vr844\n  Grid2RaidDebuffs, vr844\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811140600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSAWarrior, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.9.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  WoWPro, v8.0.1M\n  WoWProAchievements, v8.0.1M\n  WoWProDailies, v8.0.1M\n  WoWProLeveling, v8.0.1M\n  WowProProfession, v8.0.1M\n  WoWProWorldEvents, v8.0.1M\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=8b9)\n",
+			["locals"] = "",
+			["timestamp"] = "2018-11-16 12:48:22",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[C]: in function `SetMinMaxValues'\n...\\Blizzard_IslandsQueueUI\\Blizzard_IslandsQueueUI.lua:95: in function `UpdateQuestProgressBar'\n...\\Blizzard_IslandsQueueUI\\Blizzard_IslandsQueueUI.lua:115: in function `Refresh'\n...\\Blizzard_IslandsQueueUI\\Blizzard_IslandsQueueUI.lua:32: in function <...\\Blizzard_IslandsQueueUI\\Blizzard_IslandsQueueUI.lua:30>\n",
+		}, -- [91]
+		{
+			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
+			["count"] = 1000,
+			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.02\n  AtlasLootBattleforAzeroth, vv8.08.02\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.20\n  DBMCore, v8.0.15\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  Decursive, v2.7.6.1\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Grid2, vr844\n  Grid2LDB, vr844\n  Grid2RaidDebuffs, vr844\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811140600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSADruid, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.9.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=7fe)\n",
+			["timestamp"] = "2018-11-16 14:42:29",
+			["context"] = "Global",
+			["stack"] = "[C]: in function `UnitDebuff'\n[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:546: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1064: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062>\n",
+		}, -- [92]
+		{
+			["message"] = "Interface\\AddOns\\Skada\\Skada.lua:1201: script ran too long",
+			["count"] = 1,
+			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.02\n  AtlasLootBattleforAzeroth, vv8.08.02\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.20\n  ChampionCommander, v1.1.1 80000\n  DBMCore, v8.0.15\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Gladius, v6.0.1\n  Grid2, vr844\n  Grid2LDB, vr844\n  Grid2RaidDebuffs, vr844\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerJournal, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811140600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSARogue, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.9.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=838)\n",
+			["locals"] = "(*temporary) = <table> {\n PET_BATTLE_CLOSE = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1115\n displays = <table> {\n }\n UpdateDisplay = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1978\n FormatNumber = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:2147\n EnableModule = <function> defined @Interface\\AddOns\\AngryAssignments\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:363\n modules = <table> {\n }\n CancelTimer = <function> defined @Interface\\AddOns\\AngryAssignments\\libs\\AceTimer-3.0\\AceTimer-3.0.lua:147\n IterateEmbeds = <function> defined @Interface\\AddOns\\AngryAssignments\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:473\n OpenReportWindow = <function> defined @Interface\\AddOns\\Skada\\Menus.lua:384\n SetDefaultModuleLibraries = <function> defined @Interface\\AddOns\\AngryAssignments\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:398\n get_player = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1666\n windowdefaults = <table> {\n }\n SetNotifyStorage = <function> defined @Interface\\AddOns\\Skada\\lib\\LibNotify-1.0\\LibNotify-1.0.lua:400\n SetTooltipPosition = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:2351\n ClearIndexes = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1632\n ApplyBorder = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:2551\n baseName = \"Skada\"\n GetSetTime = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:2285\n versions = <table> {\n }\n SetDefaultModulePrototype = <function> defined @Interface\\AddOns\\AngryAssignments\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:440\n GetSets = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:2138\n EndSegment = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1370\n defaults = <table> {\n }\n defaultModuleState = true\n SegmentMenu = <function> defined @Interface\\AddOns\\Skada\\Menus.lua:314\n IsEnabled = <function> defined @Interface\\AddOns\\AngryAssignments\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:482\n getsetlabel_fs = <unnamed> {\n }\n ScheduleTimer = <function> defined @Interface\\AddOns\\AngryAssignments\\libs\\AceTimer-3.0\\AceTimer-3.0.lua:94\n DisableModule = <function> defined @Interface\\AddOns\\AngryAssignments\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:381\n PLAYER_REGEN_DISABLED = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1478\n AddFeed = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:2266\n char = <table> {\n }\n SetLabelFormats = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:454\n RemoveFeed = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:2271\n ENCOUNTER_START = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1903\n FrameSettings = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:2572\n OpenMenu = <function> defined @Interface\\AddOns\\Skada\\Menus.lua:73\n DeleteWindow = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:710\n OnEnable = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:2889\n DeleteSet = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1204\n RemoveMode = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:2257\n db = <table> {\n }\n options = <table> {\n }\n OpenOptions = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:2879\n AddLoadableModuleCheckbox = <function> defined @Interface\\AddOns\\Skada\\Options.lua:160\n PetDebug = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:912\n SetEnabledState = <function> defined @Interface\\AddOns\\AngryAssignments\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:455\n enabledState = true\n ZONE_CHANGED_NEW_AREA = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1041\n FixPets = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:2312\n ReloadSettings = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1234\n SetFeed = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:1286\n AddColumnOptions = <function> defined @Interface\\AddOns\\Skada\\Options.lua:122\n GetSetLabel = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:463\n IterateModules = <function> defined @Interface\\AddOns\\AngryAssignments\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:468\n cleuFrame = <unnamed> {\n }\n resetoptions = <table> {\n }\n AddSubviewToTooltip = <function> defined @Interface\\AddOns\\Skada\\Skada.lua:2432\n GetFeeds = <function> defined @Interface\\A",
+			["timestamp"] = "2018-11-16 16:43:10",
+			["context"] = "Global",
+			["stack"] = "Interface\\AddOns\\Skada\\Skada.lua:1201: in function `Reset'\nInterface\\AddOns\\Skada\\Skada.lua:1080: in function <Interface\\AddOns\\Skada\\Skada.lua:1058>\nInterface\\AddOns\\Skada\\Skada.lua:1095: in function `?'\nInterface\\AddOns\\Skada\\Skada.lua:42: in function <Interface\\AddOns\\Skada\\Skada.lua:41>\n",
+		}, -- [93]
+		{
+			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
+			["count"] = 1000,
+			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.02\n  AtlasLootBattleforAzeroth, vv8.08.02\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.20\n  DBMCore, v8.0.15\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Grid2, vr844\n  Grid2LDB, vr844\n  Grid2RaidDebuffs, vr844\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811140600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSAWarrior, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.9.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  WoWPro, v8.0.1M\n  WoWProAchievements, v8.0.1M\n  WoWProDailies, v8.0.1M\n  WoWProLeveling, v8.0.1M\n  WowProProfession, v8.0.1M\n  WoWProWorldEvents, v8.0.1M\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=886)\n",
+			["timestamp"] = "2018-11-16 18:03:02",
+			["context"] = "Global",
+			["stack"] = "[C]: in function `UnitDebuff'\n[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:546: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1064: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062>\n",
+		}, -- [94]
+		{
+			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
+			["count"] = 1000,
+			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.02\n  AtlasLootBattleforAzeroth, vv8.08.02\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.20\n  ChampionCommander, v1.1.1 80000\n  DBMCore, v8.0.15\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Gladius, v6.0.1\n  Grid2, vr844\n  Grid2LDB, vr844\n  Grid2RaidDebuffs, vr844\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811160600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSAOptions, v\n  RSARogue, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.9.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=82c)\n",
+			["timestamp"] = "2018-11-16 21:20:51",
+			["context"] = "Global",
+			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:546: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1064: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062>\n",
+		}, -- [95]
+		{
+			["message"] = "Error: AddOn Skada attempted to call a forbidden function (GuildControlSetRank()) from a tainted execution path.",
+			["count"] = 1,
+			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.02\n  AtlasLootBattleforAzeroth, vv8.08.02\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.20\n  ChampionCommander, v1.1.1 80000\n  DBMCore, v8.0.15\n  DBMDefaultSkin, v\n  DBMPartyBfA, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Gladius, v6.0.1\n  Grid2, vr844\n  Grid2LDB, vr844\n  Grid2RaidDebuffs, vr844\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811160600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSAOptions, v\n  RSARogue, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.9.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=83d)\n",
+			["timestamp"] = "2018-11-16 21:58:09",
+			["context"] = "AddOn: Skada",
+			["stack"] = "[C]: in function `GuildControlSetRank'\n...\\Blizzard_GuildControlUI\\Blizzard_GuildControlUI.lua:24: in function <...\\Blizzard_GuildControlUI\\Blizzard_GuildControlUI.lua:7>\n[C]: ?\n[C]: in function `LoadAddOn'\nInterface\\FrameXML\\UIParent.lua:446: in function `UIParentLoadAddOn'\nInterface\\FrameXML\\UIParent.lua:692: in function `Communities_LoadUI'\nInterface\\FrameXML\\UIParent.lua:926: in function `ToggleCommunitiesFrame'\nInterface\\FrameXML\\UIParent.lua:813: in function `ToggleGuildFrame'\n[string \"TOGGLEGUILDTAB\"]:1: in function <[string \"TOGGLEGUILDTAB\"]:1>\n",
+		}, -- [96]
+		{
+			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
+			["count"] = 1000,
+			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.02\n  AtlasLootBattleforAzeroth, vv8.08.02\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.20\n  ChampionCommander, v1.1.1 80000\n  DBMCore, v8.0.15\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Grid2, vr844\n  Grid2LDB, vr844\n  Grid2RaidDebuffs, vr844\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811160600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSAWarrior, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.9.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  WoWPro, v8.0.1M\n  WoWProAchievements, v8.0.1M\n  WoWProDailies, v8.0.1M\n  WoWProLeveling, v8.0.1M\n  WowProProfession, v8.0.1M\n  WoWProWorldEvents, v8.0.1M\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=8a8)\n",
+			["timestamp"] = "2018-11-16 22:06:23",
+			["context"] = "Global",
+			["stack"] = "[C]: in function `UnitDebuff'\n[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:546: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1064: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062>\n",
+		}, -- [97]
+		{
+			["message"] = "Error: AddOn Prat-3.0 attempted to call a forbidden function (SetNote()) from a tainted execution path.",
+			["count"] = 3,
+			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.02\n  AtlasLootBattleforAzeroth, vv8.08.02\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.20\n  DBMCore, v8.0.15\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  Decursive, v2.7.6.1\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Gladius, v6.0.1\n  Grid2, vr844\n  Grid2LDB, vr844\n  Grid2RaidDebuffs, vr844\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811160600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSAOptions, v\n  RSAShaman, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.9.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  WoWPro, v8.0.1M\n  WoWProAchievements, v8.0.1M\n  WoWProDailies, v8.0.1M\n  WoWProLeveling, v8.0.1M\n  WowProProfession, v8.0.1M\n  WoWProWorldEvents, v8.0.1M\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=890)\n",
+			["timestamp"] = "2018-11-16 23:51:16",
+			["context"] = "AddOn: Prat-3.0",
+			["stack"] = "[C]: in function `SetNote'\nInterface\\FrameXML\\StaticPopup.lua:2719: in function `EditBoxOnEnterPressed'\nInterface\\FrameXML\\StaticPopup.lua:4840: in function `StaticPopup_EditBoxOnEnterPressed'\n[string \"*:OnEnterPressed\"]:1: in function <[string \"*:OnEnterPressed\"]:1>\n",
+		}, -- [98]
+		{
+			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
+			["count"] = 1000,
+			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.2\n  AngryKeystones, v\n  AtlasLoot, vv8.08.02\n  AtlasLootBattleforAzeroth, vv8.08.02\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.20\n  DBMCore, v8.0.15\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Gladius, v6.0.1\n  Grid2, vr844\n  Grid2LDB, vr844\n  Grid2RaidDebuffs, vr844\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.43\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811160600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSARogue, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.9.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=7fa)\n",
+			["timestamp"] = "2018-11-17 00:16:36",
+			["context"] = "Global",
+			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:546: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1064: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062>\n",
+		}, -- [99]
+		{
+			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
+			["count"] = 1000,
+			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.3\n  AngryKeystones, v\n  AtlasLoot, vv8.08.02\n  AtlasLootBattleforAzeroth, vv8.08.02\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.20\n  DBMCore, v8.0.15\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Grid2, vr844\n  Grid2LDB, vr844\n  Grid2RaidDebuffs, vr844\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.45\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811170600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSAWarrior, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.9.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  WoWPro, v8.0.1M\n  WoWProAchievements, v8.0.1M\n  WoWProDailies, v8.0.1M\n  WoWProLeveling, v8.0.1M\n  WowProProfession, v8.0.1M\n  WoWProWorldEvents, v8.0.1M\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=886)\n",
+			["timestamp"] = "2018-11-18 06:51:09",
+			["context"] = "Global",
+			["stack"] = "[C]: in function `UnitDebuff'\n[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:546: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1064: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062>\n",
 		}, -- [100]
+		{
+			["message"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: Usage: UnitDebuff(\"unit\", [index][, \"filter\"])",
+			["count"] = 1000,
+			["addons"] = "  Swatter, v8.0.6162 (SwimmingSeadragon)\n  AdvancedInterfaceOptions, v1.2.8\n  AngryAssignments, vv1.11.3\n  AngryKeystones, v\n  AtlasLoot, vv8.08.02\n  AtlasLootBattleforAzeroth, vv8.08.02\n  AucAdvanced, v8.0.6122 (SwimmingSeadragon)\n  AucFilterBasic, v8.0.6149 (SwimmingSeadragon)\n  AucScanData, v8.0.6150 (SwimmingSeadragon)\n  AucStatHistogram, v8.0.6151 (SwimmingSeadragon)\n  AucStatiLevel, v8.0.6155 (SwimmingSeadragon)\n  AucStatPurchased, v8.0.6152 (SwimmingSeadragon)\n  AucStatSimple, v8.0.6153 (SwimmingSeadragon)\n  AucStatStdDev, v8.0.6154 (SwimmingSeadragon)\n  AucUtilFixAH, v8.0.6156 (SwimmingSeadragon)\n  AzeriteTooltip, v1.82\n  BagBrother, v\n  Bagnon, v8.0.7\n  BeanCounter, v8.0.6157 (SwimmingSeadragon)\n  Capping, vv8.0.20\n  ChampionCommander, v1.1.1 80000\n  DBMCore, v8.0.15\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  DoomCooldownPulse, v\n  ElitismHelper, v0.10.0\n  Enchantrix, v8.0.6158 (SwimmingSeadragon)\n  ExRT, v3990\n  GatherMate2, v1.43.4\n  GladiatorlosSA2, vB2\n  Gladius, v6.0.1\n  Grid2, vr844\n  Grid2LDB, vr844\n  Grid2RaidDebuffs, vr844\n  HandyNotes, vv1.5.3\n  HandyNotesBattleForAzerothTreasures, v1\n  Informant, v8.0.6159 (SwimmingSeadragon)\n  MethodDungeonTools, v2.2.45\n  MonkeySpeed, vv3.3.13\n  Omen, v3.2.0\n  OmniCC, v8.0.9\n  PakuTotems, v1.60\n  Pawn, v2.2.31\n  PetTracker, v8.0.6\n  PetTrackerBreeds, v8.0.6\n  PetTrackerJournal, v8.0.6\n  PetTrackerSwitcher, v8.0.6\n  PetTrackerUpgrades, v8.0.6\n  Prat30, vr1193      \n  Prat30Libraries, v\n  Quartz, v3.4.0\n  RaiderIO, v8.0.1 (v201811170600)\n  RaiderIODBUSA, v\n  RaiderIODBUSAR, v\n  RaiderIODBUSH, v\n  RaiderIODBUSHR, v\n  Rematch, v4.8.10\n  RSA, vr510-Release\n  RSARogue, v\n  SavedInstances, v8.0.6\n  SellJunk, v3.0.16\n  Simulationcraft, v1.10.7\n  Skada, v1.7.5\n  SlideBar, v8.0.6160 (SwimmingSeadragon)\n  Stubby, v8.0.6161 (SwimmingSeadragon)\n  TidyPlates, v6.18.11\n  TidyPlatesGraphite, v\n  TidyPlatesGrey, v\n  TidyPlatesNeon, v\n  TidyPlatesQuatre, v\n  TidyPlatesHub, v\n  TidyPlatesWidgets, v\n  TomTom, vv80001-1.0.2\n  WeakAuras, v2.9.1\n  WorldQuestsList, v81\n  WorldQuestTracker, v\n  BlizRuntimeLib_enUS v8.0.1.80000 <none>\n  (ck=838)\n",
+			["timestamp"] = "2018-11-18 07:39:18",
+			["context"] = "Global",
+			["stack"] = "[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:2: in function <[string \"--[[ Error in 'Quaking v4' ]] return functi...\"]:1>\n[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:546: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:511>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:637: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:624: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:1064: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:1062>\n",
+		}, -- [101]
 	},
 	["autoshow"] = true,
 }
